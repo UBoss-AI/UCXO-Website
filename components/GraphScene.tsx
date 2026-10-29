@@ -1,79 +1,215 @@
 'use client';
+
 import { useEffect, useRef, useState } from 'react';
 import * as THREE from 'three';
+import { workflowScenes } from './scene-data';
+import { attachment, colors, createStudioEnvironment, softShadowTexture } from './scene-geometry';
+import { createHolographicNode } from './holographic-node';
+import { energyMaterial, glowTexture, ribbonCurve } from './energy-flow';
+import './graph-scene.css';
 
-type NodeSpec = {name:string; sub:string; pos:[number,number,number]; icon:string; detail:string; core?:boolean; amber?:boolean};
-const scenes: NodeSpec[][] = [
- [{name:'Objective',sub:'THE STARTING POINT',pos:[-1.3,.5,1],icon:'◎',core:true,detail:'A business objective becomes an illustrative draft workflow for review.'},{name:'Human Task',sub:'OWNER ASSIGNED',pos:[1.2,2.1,-.4],icon:'♙',detail:'Define accountable owners and the evidence each task needs.'},{name:'Engine Agent',sub:'AI EXECUTION',pos:[1.7,-.2,1.6],icon:'✧',detail:'Assign an approved, reusable AI worker to a step.'},{name:'Approval',sub:'HUMAN REVIEW',pos:[4,1.2,-.4],icon:'✓',detail:'A required human approval remains a human decision.'},{name:'Dependency',sub:'CONNECTED WORK',pos:[-1.8,-1.7,1.5],icon:'⌘',detail:'Make prerequisites and the order of work explicit.'},{name:'Outcome',sub:'READY FOR REVIEW',pos:[4,-1.7,.6],icon:'↗',detail:'Review the outcome against your original objective.'}],
- [{name:'Engine Agent',sub:'REUSABLE AI WORKER',pos:[.6,.3,1.2],icon:'✧',core:true,detail:'One reusable Engine Agent can execute many separate Runs.'},{name:'Inputs',sub:'CONTEXT & INSTRUCTIONS',pos:[-2.3,1.5,0],icon:'≡',detail:'Inputs provide the context for this execution.'},{name:'Approved Skills',sub:'GOVERNED CAPABILITIES',pos:[.8,2.5,-1],icon:'◇',detail:'Approved, reusable capabilities guide the agent’s work.'},{name:'Tools',sub:'ILLUSTRATIVE',pos:[-1.9,-1.5,-.2],icon:'⌘',detail:'Generic tools illustrate the capabilities used during execution.'},{name:'Results',sub:'EXECUTION OUTPUT',pos:[3.7,1.2,.5],icon:'↗',detail:'Review the output and evidence from each execution.'},{name:'Run 01',sub:'EXECUTION HISTORY',pos:[1,-2.2,1.5],icon:'≋',detail:'The first execution creates Run 01; the original Engine Agent remains in place.'},{name:'Run 02',sub:'A NEW EXECUTION',pos:[3.4,-1.5,1],icon:'≋',detail:'The next execution creates a separate Run 02.'},{name:'Run 03',sub:'A SEPARATE RUN',pos:[5.3,-.6,.3],icon:'≋',detail:'Every execution creates its own Run in the execution history.'}],
- [{name:'Human Task',sub:'PREREQUISITE COMPLETE',pos:[-1.8,1.3,.8],icon:'♙',core:true,detail:'A completed human prerequisite makes the next eligible step ready.'},{name:'Engine Agent',sub:'WAITING → READY',pos:[1,.4,1.3],icon:'✧',detail:'The AI step becomes ready after its prerequisite completes.'},{name:'Review task',sub:'HUMAN · WAITING',pos:[3.9,1.6,-.3],icon:'♙',detail:'This review waits for the agent output and required evidence.'},{name:'Dependency',sub:'PREREQUISITE',pos:[-.7,-1.7,-.5],icon:'⌘',detail:'Dependencies govern when work can begin.'},{name:'Engine Agent',sub:'AI · WAITING',pos:[3.5,-1.6,.6],icon:'✧',detail:'Downstream work remains waiting until its requirements are met.'}],
- [{name:'Human Approval',sub:'AWAITING HUMAN APPROVAL',pos:[1,.4,1.2],icon:'✓',core:true,detail:'Signals hold at this gate. Only the required human approver grants approval.'},{name:'Evidence',sub:'READY FOR REVIEW',pos:[-1.8,1.5,.3],icon:'≡',detail:'Evidence gives the human reviewer context for a decision.'},{name:'Executor Agent',sub:'MONITORING LAYER',pos:[1.2,2.5,-1],icon:'◎',detail:'Monitors execution and escalates problems while preserving human approvals.'},{name:'Exception',sub:'ESCALATED FOR REVIEW',pos:[-1.9,-1.6,.6],icon:'!',amber:true,detail:'An exception branches to a human review; it does not bypass the approval gate.'},{name:'Review',sub:'HUMAN DECISION',pos:[1,-2.7,1],icon:'♙',amber:true,detail:'A human reviews the escalated exception and decides the next action.'},{name:'Outcome',sub:'WAITING FOR APPROVAL',pos:[5,.6,-.2],icon:'↗',detail:'Execution beyond this gate waits for required human approval.'},{name:'Run History',sub:'EXECUTION RECORD',pos:[4.7,-2.1,-.5],icon:'≋',detail:'Run history preserves visibility into individual executions.'}]
-];
-const connections = [[[0,1],[0,2],[0,4],[1,3],[2,3],[2,5],[4,2],[3,5]],[[1,0],[2,0],[3,0],[0,4],[0,5],[5,6],[6,7]],[[0,1],[3,1],[1,2],[1,4]],[[1,0],[2,0],[2,1],[3,4],[4,0],[0,5],[2,6]]];
+type Props = { index:number; active:boolean; reduced:boolean; paused?:boolean };
 
-export default function GraphScene({index,active,reduced}:{index:number;active:boolean;reduced:boolean}) {
- const host=useRef<HTMLDivElement>(null); const labels=useRef<(HTMLButtonElement|null)[]>([]); const state=useRef({active,reduced}); state.current={active,reduced};
- const [selected,setSelected]=useState<number|null>(null); const selection=useRef<number|null>(null); selection.current=selected;
- const [failed,setFailed]=useState(false);
- useEffect(()=>{
-  const el=host.current; if(!el)return;
-  let renderer:THREE.WebGLRenderer;
-  try {renderer=new THREE.WebGLRenderer({antialias:true,alpha:true,powerPreference:'low-power'});} catch {setFailed(true);return;}
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio,1.7)); renderer.setClearColor(0x000000,0); el.prepend(renderer.domElement);
-  const scene=new THREE.Scene(); const camera=new THREE.PerspectiveCamera(37,1,.1,100); camera.position.set(9,7,17); camera.lookAt(1,0,0);
-  const world=new THREE.Group(); scene.add(world);
-  scene.add(new THREE.AmbientLight(0x9274c9,2.2)); const key=new THREE.DirectionalLight(0xd9c7ff,5);key.position.set(3,8,5);scene.add(key);
-  const purple=new THREE.PointLight(0x8b3dff,55,20);purple.position.set(1,2,3);scene.add(purple); const rim=new THREE.PointLight(0xb35cff,55,20);rim.position.set(-3,-2,0);scene.add(rim);
-  const disposable:THREE.Texture[]=[];
-  function glow(){const c=document.createElement('canvas');c.width=c.height=128;const x=c.getContext('2d')!;const g=x.createRadialGradient(64,64,0,64,64,64);g.addColorStop(0,'rgba(172,92,255,.75)');g.addColorStop(.25,'rgba(139,61,255,.2)');g.addColorStop(1,'rgba(139,61,255,0)');x.fillStyle=g;x.fillRect(0,0,128,128);const t=new THREE.CanvasTexture(c);disposable.push(t);return t;}
-  const glowTexture=glow();
-  const nodeMeshes=scenes[index].map((n)=>{
-   const group=new THREE.Group();const size=n.core?1.55:1.05;
-   const shape=new THREE.Shape();const r=.15,w=size/2; if(n.icon==='♙'){shape.absarc(0,0,w,0,Math.PI*2,false);}else{shape.moveTo(-w+r,-w);shape.lineTo(w-r,-w);shape.quadraticCurveTo(w,-w,w,-w+r);shape.lineTo(w,w-r);shape.quadraticCurveTo(w,w,w-r,w);shape.lineTo(-w+r,w);shape.quadraticCurveTo(-w,w,-w,w-r);shape.lineTo(-w,-w+r);shape.quadraticCurveTo(-w,-w,-w+r,-w);}
-   const geometry=new THREE.ExtrudeGeometry(shape,{depth:.38,bevelEnabled:true,bevelSegments:3,steps:1,bevelSize:.06,bevelThickness:.05});
-   const material=new THREE.MeshStandardMaterial({color:n.core?0x351451:0x140c24,metalness:.7,roughness:.26,emissive:n.amber?0x6f3504:0x49217b,emissiveIntensity:n.core?.6:.23});
-   const mesh=new THREE.Mesh(geometry,material); group.add(mesh);
-   const outline=new THREE.LineSegments(new THREE.EdgesGeometry(geometry,35),new THREE.LineBasicMaterial({color:n.amber?0xecac5b:0xa25bff,transparent:true,opacity:n.core?.85:.5}));group.add(outline);
-   const c=document.createElement('canvas');c.width=c.height=256;const ctx=c.getContext('2d')!;ctx.font='100px Arial';ctx.textAlign='center';ctx.textBaseline='middle';ctx.shadowColor=n.amber?'#ffc169':'#b575ff';ctx.shadowBlur=22;ctx.fillStyle=n.amber?'#ffc169':'#e2c9ff';ctx.fillText(n.icon,128,132);const texture=new THREE.CanvasTexture(c);disposable.push(texture);
-   const face=new THREE.Mesh(new THREE.PlaneGeometry(size*.8,size*.8),new THREE.MeshBasicMaterial({map:texture,transparent:true,depthWrite:false}));face.position.z=.445;group.add(face);
-   const light=new THREE.Sprite(new THREE.SpriteMaterial({map:glowTexture,transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,opacity:n.core?.6:.3}));light.scale.setScalar(n.core?5:3);light.position.z=-.2;group.add(light);
-   group.position.set(...n.pos);world.add(group);return {group,material,base:n.pos};
-  });
-  const edges=connections[index].map(([a,b])=>{
-   const p=new THREE.Vector3(...scenes[index][a].pos),q=new THREE.Vector3(...scenes[index][b].pos);const middle=p.clone().lerp(q,.5);middle.z+=.45;
-   const curve=new THREE.QuadraticBezierCurve3(p,middle,q);const amber=scenes[index][a].amber;
-   const material=new THREE.MeshBasicMaterial({color:amber?0xc99a58:0x9546ff,transparent:true,opacity:.75});
-   const tube=new THREE.Mesh(new THREE.TubeGeometry(curve,40,.018,6,false),material);world.add(tube);
-   const halo=new THREE.Mesh(new THREE.TubeGeometry(curve,40,.055,6,false),new THREE.MeshBasicMaterial({color:amber?0xe3a14f:0x8b3dff,transparent:true,opacity:.08,blending:THREE.AdditiveBlending,depthWrite:false}));world.add(halo);
-   const pulse=new THREE.Mesh(new THREE.SphereGeometry(.055,8,8),new THREE.MeshBasicMaterial({color:amber?0xffc77d:0xe2bcff}));world.add(pulse);
-   const cone=new THREE.Mesh(new THREE.ConeGeometry(.07,.2,5),new THREE.MeshBasicMaterial({color:amber?0xe3a14f:0x9857ed}));cone.position.copy(curve.getPoint(.72));cone.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0),curve.getTangent(.72).normalize());world.add(cone);
-   return {a,b,curve,material,pulse,tube,halo};
-  });
-  const grid=new THREE.GridHelper(32,40,0x43225d,0x20152e);grid.position.y=-3;const gridMat=grid.material as THREE.Material;gridMat.transparent=true;gridMat.opacity=.22;world.add(grid);
-  [2.3,3.3,4.3].forEach((radius,i)=>{const ring=new THREE.Mesh(new THREE.TorusGeometry(radius,.008,5,100),new THREE.MeshBasicMaterial({color:0x8841d8,transparent:true,opacity:.15-i*.03}));ring.rotation.x=-Math.PI/2;ring.position.set(1,-2.95,0);world.add(ring);});
-  const dots=new Float32Array(170*3);for(let i=0;i<dots.length;i++)dots[i]=(Math.random()-.5)*24;
-  const dust=new THREE.BufferGeometry();dust.setAttribute('position',new THREE.BufferAttribute(dots,3));world.add(new THREE.Points(dust,new THREE.PointsMaterial({color:0x9461ce,size:.022,transparent:true,opacity:.5})));
-  let targetX=0,targetY=0,raf=0,time=0,last=performance.now();
-  const pointer=(e:PointerEvent)=>{if(state.current.reduced)return;const rect=el.getBoundingClientRect();targetX=((e.clientX-rect.left)/rect.width-.5)*.12;targetY=((e.clientY-rect.top)/rect.height-.5)*.08;};el.addEventListener('pointermove',pointer);
-  const leave=()=>{targetX=0;targetY=0;};el.addEventListener('pointerleave',leave);
-  const resize=()=>{const w=el.clientWidth,h=el.clientHeight;renderer.setSize(w,h);camera.aspect=w/h;camera.position.set(w<600?3:7,w<600?3:5,w<600?13:13);camera.lookAt(1,0,0);camera.updateProjectionMatrix();};const observer=new ResizeObserver(resize);observer.observe(el);resize();
-  const tick=(now:number)=>{raf=requestAnimationFrame(tick);const delta=Math.min((now-last)/1000,.05);last=now;if(!state.current.active||document.hidden)return;if(!state.current.reduced)time+=delta;
-   world.rotation.y+=(targetX-world.rotation.y)*.035;world.rotation.x+=(targetY-world.rotation.x)*.035;
-   nodeMeshes.forEach(({group,material,base},i)=>{const reveal=state.current.reduced?1:THREE.MathUtils.smoothstep(time-i*.2,0,.8);group.scale.setScalar(Math.max(.001,reveal));group.position.y=base[1]+Math.sin(time*.7+i)*.065;const sel=selection.current;material.emissiveIntensity=sel===i?1.2:(scenes[index][i].core?.6:.23);const button=labels.current[i];if(button){const p=group.getWorldPosition(new THREE.Vector3());p.y-=scenes[index][i].core?1.08:.85;p.project(camera);button.style.opacity=String(reveal);button.style.left=`${(p.x*.5+.5)*el.clientWidth}px`;button.style.top=`${(-p.y*.5+.5)*el.clientHeight}px`;const status=button.querySelector('span');if(index===2&&i===1&&status)status.textContent=time%7>2?'AI · READY':'AI · WAITING';}});
-   edges.forEach((edge,i)=>{let phase=(time*.19+i*.23)%1;if(index===3&&edge.b===0)phase=Math.min(phase,.72);edge.pulse.position.copy(edge.curve.getPoint(phase));edge.pulse.visible=!(index===3&&edge.a===0);const draw=state.current.reduced?1:THREE.MathUtils.clamp((time-.3-i*.1)/1.2,0,1);edge.tube.geometry.setDrawRange(0,Math.floor(edge.tube.geometry.index!.count*draw/3)*3);edge.halo.geometry.setDrawRange(0,Math.floor(edge.halo.geometry.index!.count*draw/3)*3);const sel=selection.current;edge.material.opacity=sel===null?.65:edge.a===sel||edge.b===sel?1:.12;});renderer.render(scene,camera);
-  };raf=requestAnimationFrame(tick);
-  const lost=(e:Event)=>{e.preventDefault();setFailed(true)};renderer.domElement.addEventListener('webglcontextlost',lost);
-  return ()=>{cancelAnimationFrame(raf);observer.disconnect();el.removeEventListener('pointermove',pointer);el.removeEventListener('pointerleave',leave);renderer.domElement.removeEventListener('webglcontextlost',lost);scene.traverse(o=>{const mesh=o as THREE.Mesh;if(mesh.geometry)mesh.geometry.dispose();if(mesh.material){(Array.isArray(mesh.material)?mesh.material:[mesh.material]).forEach(m=>m.dispose());}});disposable.forEach(t=>t.dispose());renderer.dispose();renderer.domElement.remove();};
- },[index]);
- return <div className={'graph-scene'+(failed?' graph-fallback':'')} ref={host} aria-label={`Interactive illustrative ${['draft workflow','agent execution network','human and AI handoff','oversight graph'][index]}`}>
-  {failed&&<svg viewBox="0 0 700 430" className="fallback-wires" aria-hidden="true"><path d="M100 130 Q300 50 350 220 T600 150 M100 130 Q150 350 350 220 T600 350" fill="none" stroke="#8b3dff" strokeWidth="2"/></svg>}
-  {scenes[index].map((node,i)=><button key={i} ref={e=>{labels.current[i]=e}} className={'graph-label '+(node.core?'core ':'')+(node.amber?'amber ':'')+(selected===i?'selected':'')} style={failed?{left:`${18+(i%3)*30}%`,top:`${26+Math.floor(i/3)*39}%`}:undefined} onPointerEnter={()=>setSelected(i)} onPointerLeave={()=>setSelected(null)} onFocus={()=>setSelected(i)} onBlur={()=>setSelected(null)} onClick={()=>setSelected(i)} aria-label={`${node.name}. ${node.detail}`} tabIndex={active?0:-1}>
-   {failed&&<span className="fallback-icon">{node.icon}</span>}<strong>{node.name}</strong><span>{node.sub}</span>
-  </button>)}
-  <div className={'node-inspector '+(selected!==null?'visible':'')} aria-live="polite">{selected!==null&&<><span className="mini-dot"/>{scenes[index][selected].detail}</>}</div>
- </div>
+export default function GraphScene({index,active,reduced,paused=false}:Props){
+  const host=useRef<HTMLDivElement>(null),labels=useRef<(HTMLButtonElement|null)[]>([]);
+  const runtime=useRef({active,reduced,paused});runtime.current={active,reduced,paused};
+  const invalidate=useRef<()=>void>(()=>{});
+  const [selected,setSelected]=useState<number|null>(null),[fallback,setFallback]=useState(false);
+  const [compact,setCompact]=useState<boolean|null>(null);
+  const selectedRef=useRef<number|null>(null);selectedRef.current=selected;
+  const definition=workflowScenes[index];
+
+  useEffect(()=>{
+    const element=host.current;if(!element)return;
+    const measure=()=>setCompact(element.clientWidth<610);
+    const observer=new ResizeObserver(measure);observer.observe(element);measure();
+    return()=>observer.disconnect();
+  },[]);
+
+  useEffect(()=>{
+    const element=host.current;if(!element||compact===null)return;
+    const mobile=compact;
+    let renderer:THREE.WebGLRenderer;
+    try{renderer=new THREE.WebGLRenderer({alpha:true,antialias:true,powerPreference:mobile?'low-power':'high-performance'});}catch{setFallback(true);return;}
+    renderer.setPixelRatio(Math.min(devicePixelRatio,mobile?1.35:1.65));renderer.setClearColor(0x07050d,0);
+    renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.05;
+    renderer.shadowMap.enabled=true;renderer.shadowMap.type=THREE.PCFSoftShadowMap;
+    renderer.domElement.setAttribute('aria-hidden','true');element.prepend(renderer.domElement);
+    const scene=new THREE.Scene(),environment=createStudioEnvironment(renderer);
+    scene.environment=environment.texture;scene.environmentIntensity=.55;
+    const camera=new THREE.PerspectiveCamera(34,1,.1,60),world=new THREE.Group();scene.add(world);
+    scene.add(new THREE.HemisphereLight(0xc7b8e8,0x08050d,.65));
+    const key=new THREE.DirectionalLight(0xf0e6ff,2.3);key.position.set(-4,7,8);key.castShadow=true;
+    key.shadow.mapSize.setScalar(mobile?512:1024);key.shadow.camera.left=-7;key.shadow.camera.right=7;key.shadow.camera.top=7;key.shadow.camera.bottom=-7;
+    key.shadow.normalBias=.025;key.shadow.bias=-.0002;key.shadow.radius=5;scene.add(key);
+    const rim=new THREE.DirectionalLight(0xb35cff,2.2);rim.position.set(6,3,-4);scene.add(rim);
+    const fill=new THREE.DirectionalLight(0xd6c2ff,.8);fill.position.set(-6,-1,2);scene.add(fill);
+    const sideFill=new THREE.DirectionalLight(0xd2b1f5,.9);sideFill.position.set(6,1,5);scene.add(sideFill);
+    const purple=new THREE.PointLight(colors.purple,22,14,2);purple.position.set(0,3,2);world.add(purple);
+    const cyan=new THREE.PointLight(0x71e7ed,12,14,2);cyan.position.set(-3,3,-3);world.add(cyan);
+    const floor=new THREE.Mesh(new THREE.PlaneGeometry(40,40),new THREE.MeshStandardMaterial({color:0x100b19,roughness:.32,metalness:.65,envMapIntensity:.3,transparent:true,opacity:.18}));
+    floor.rotation.x=-Math.PI/2;floor.position.y=-.30;floor.receiveShadow=true;world.add(floor);
+    const shadowTexture=softShadowTexture(),glow=glowTexture();
+    const grid=new THREE.GridHelper(24,32,0x254755,0x152636);grid.position.y=-.285;
+    (grid.material as THREE.Material).transparent=true;(grid.material as THREE.Material).opacity=.2;world.add(grid);
+    const nodes=definition.nodes.map(node=>{
+      const source=mobile?node.mobile:node.position;
+      const object=createHolographicNode(node,mobile,glow),position=new THREE.Vector3(source[0],.24+source[2]*.28,-source[1]*(mobile?1.15:1.35));
+      if(source[1]>1.5)object.labelAnchor.set(0,2.05,0);
+      if(index===1&&node.core)object.labelAnchor.x=-object.dimensions.x*.60;
+      object.group.position.copy(position);world.add(object.group);
+      const shadow=new THREE.Mesh(new THREE.PlaneGeometry(2.8,2.5),new THREE.MeshBasicMaterial({map:shadowTexture,transparent:true,opacity:.55,depthWrite:false}));shadow.rotation.x=-Math.PI/2;shadow.position.set(position.x,-.28,position.z);world.add(shadow);
+      return {...object,position};
+    });
+    const conduitGlass=new THREE.MeshPhysicalMaterial({color:0x67517e,metalness:.35,roughness:.2,transmission:mobile?0:.15,thickness:.1,clearcoat:1,envMapIntensity:1.2,transparent:true,opacity:.20});
+    const portMetal=new THREE.MeshStandardMaterial({color:0x84778f,metalness:.95,roughness:.25});
+    const edges=definition.edges.map((spec,i)=>{
+      const from=nodes[spec.from],to=nodes[spec.to];
+      const fromPort=from.position.clone().add(from.portOffset),toPort=to.position.clone().add(to.portOffset);
+      const start=attachment(fromPort,from.portDimensions,toPort),end=attachment(toPort,to.portDimensions,fromPort);
+      const middle=start.clone().lerp(end,.5);middle.y+=spec.kind==='monitor'?.65:.30;
+      const curve=new THREE.QuadraticBezierCurve3(start,middle,end),color=spec.kind==='exception'?colors.amber:colors.purple;
+      const group=new THREE.Group();world.add(group);
+      const material=new THREE.MeshStandardMaterial({color,emissive:color,emissiveIntensity:spec.kind==='blocked'?.05:.8,roughness:.3,metalness:.35,transparent:true,opacity:spec.kind==='monitor'?.4:.85});
+      const outer=new THREE.Mesh(new THREE.TubeGeometry(curve,40,.026,8,false),conduitGlass);group.add(outer);
+      const inner=new THREE.Mesh(new THREE.TubeGeometry(curve,40,.008,5,false),material);group.add(inner);
+      const strands=[0,1,2].map(strand=>{
+        const path=ribbonCurve(curve,strand,.16),light=energyMaterial(spec.kind==='exception'?colors.amber:strand===1?0xffbe64:0x77e9f1,.92,.65);
+        const haloLight=energyMaterial(spec.kind==='exception'?colors.amber:0x60d9ee,.16,.65);
+        const mesh=new THREE.Mesh(new THREE.TubeGeometry(path,48,.022,6,false),light),halo=new THREE.Mesh(new THREE.TubeGeometry(path,48,.065,6,false),haloLight);group.add(mesh,halo);return {mesh,light,path,halo,haloLight};
+      });
+      const ports=[start,end].flatMap((point,j)=>{
+        const port=new THREE.Mesh(new THREE.CylinderGeometry(.09,.09,.16,12),portMetal);port.position.copy(point);port.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0),curve.getTangent(j));group.add(port);
+        const collar=new THREE.Mesh(new THREE.TorusGeometry(.073,.012,6,18),material);collar.position.copy(point);collar.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1),curve.getTangent(j));group.add(collar);return [port,collar];
+      });
+      const pulse=new THREE.Mesh(new THREE.SphereGeometry(.045,12,8),new THREE.MeshBasicMaterial({color:spec.kind==='exception'?0xffd29a:0xefd9ff}));group.add(pulse);
+      const tip=new THREE.Mesh(new THREE.ConeGeometry(.045,.12,6),material);tip.position.copy(curve.getPoint(.72));tip.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0),curve.getTangent(.72));group.add(tip);
+      const count=mobile?10:18,positions=new Float32Array(count*3);
+      const traffic=new THREE.Points(new THREE.BufferGeometry(),new THREE.PointsMaterial({map:glow,color:spec.kind==='exception'?0xffd19a:0xb8fbff,size:mobile?.09:.11,transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,opacity:.85}));
+      traffic.geometry.setAttribute('position',new THREE.BufferAttribute(positions,3));group.add(traffic);
+      return {spec,curve,outer,inner,material,pulse,ports,group,tip,strands,traffic,order:i};
+    });
+    const dustPositions=new Float32Array((mobile?160:320)*3),dustColors=new Float32Array(dustPositions.length);
+    for(let i=0;i<dustPositions.length/3;i++){
+      const seed=Math.sin(i*137.43+index*23.7)*43758.5453,x=(seed-Math.floor(seed))*14-7;
+      dustPositions[i*3]=x;dustPositions[i*3+1]=i%3===0?2.5+Math.sin(x*.6+i*.2)*.7:-.15+Math.sin(i*3.2)*.15;dustPositions[i*3+2]=i%3===0?-5-Math.abs(Math.sin(i*71.9))*3:Math.sin(i*71.9)*7;
+      const color=new THREE.Color(i%5===0?0xe5ad64:i%2===0?0x6594df:0x68b5c8);dustColors[i*3]=color.r;dustColors[i*3+1]=color.g;dustColors[i*3+2]=color.b;
+    }
+    const dustGeometry=new THREE.BufferGeometry();dustGeometry.setAttribute('position',new THREE.BufferAttribute(dustPositions,3));dustGeometry.setAttribute('color',new THREE.BufferAttribute(dustColors,3));
+    const dust=new THREE.Points(dustGeometry,new THREE.PointsMaterial({map:glow,vertexColors:true,size:.075,transparent:true,opacity:.42,blending:THREE.AdditiveBlending,depthWrite:false}));world.add(dust);
+
+    let raf=0,last=0,time=0,wasActive=false,targetX=0,targetY=0,disposed=false;
+    const projected=new THREE.Vector3();
+    const requestRender=()=>{if(!disposed&&!raf)raf=requestAnimationFrame(render);};invalidate.current=requestRender;
+    function render(now:number){
+      raf=0;if(disposed)return;
+      const state=runtime.current;if(!state.active||document.hidden){wasActive=false;last=now;return;}
+      if(!wasActive){time=state.paused||state.reduced?6:0;last=now;wasActive=true;}
+      const delta=Math.min((now-last)/1000,.15);last=now;if(!state.reduced&&!state.paused)time+=delta;
+      const stage=state.reduced?6:time;
+      const drift=state.reduced?0:Math.sin(stage*.19)*.045;
+      world.rotation.y+=(targetX+drift-world.rotation.y)*.06;world.rotation.x+=(targetY+(state.reduced?0:Math.sin(stage*.14)*.015)-world.rotation.x)*.06;
+      dust.rotation.y=state.reduced?0:stage*.012;
+      nodes.forEach((node,i)=>{
+        const spec=definition.nodes[i];let delay=i*.15;if(index===1&&i>=5)delay=2.05+(i-5)*1.4;
+        const reveal=state.reduced?1:THREE.MathUtils.smoothstep(stage-delay,0,.65);
+        node.group.visible=reveal>.005;node.group.scale.setScalar(.75+reveal*.25);node.group.position.y=node.position.y-(1-reveal)*.35;
+        const related=selectedRef.current===null||selectedRef.current===i||definition.edges.some(e=>(e.from===i&&e.to===selectedRef.current)||(e.to===i&&e.from===selectedRef.current));
+        const waiting=(index===2&&(i===2||i===4||(i===1&&stage<2.4)))||(index===3&&i===5);
+        const visualTime=waiting?0:stage;
+        let intensity=spec.core?1.1:.45;if(index===1&&(i===2||i===3)&&stage>.65&&stage<4.85&&(stage-.65)%1.4<.8)intensity=1.5;if(index===2&&((i===0&&stage>.8)||(i===1&&stage>=2.4)))intensity=1.1;
+        node.accent.emissiveIntensity=selectedRef.current===i?2.2:related?intensity:.12;
+        node.hologram.position.y=state.reduced||waiting?0:Math.sin(stage*.85+i*.6)*.045;
+        node.rotors.forEach(rotor=>{rotor.object.rotation[rotor.axis]=visualTime*rotor.speed;});
+        node.energy.forEach(light=>{light.uniforms.uTime.value=visualTime;light.uniforms.uOpacity.value=light.userData.baseOpacity*(related?1:.22)*(selectedRef.current===i?1.4:1)*(waiting?.35:1);light.uniforms.uFlow.value=state.reduced||waiting?0:1;});
+        const orbitPositions=node.particles.geometry.attributes.position as THREE.BufferAttribute;
+        for(let p=0;p<orbitPositions.count;p++){
+          const angle=visualTime*.52+p/orbitPositions.count*Math.PI*2;
+          orbitPositions.setXYZ(p,Math.cos(angle)*node.orbitRadius,.08+Math.sin(angle*2+i)*.045,Math.sin(angle)*node.orbitRadius);
+        }
+        orbitPositions.needsUpdate=true;(node.particles.material as THREE.PointsMaterial).opacity=related?(waiting?.18:.85):.12;
+        const label=labels.current[i];if(label){
+          projected.copy(node.labelAnchor);
+          if(index===3&&i===4)projected.set(node.dimensions.x*.75,.50,0);
+          node.group.localToWorld(projected);projected.project(camera);
+          label.style.left=`${(projected.x*.5+.5)*element!.clientWidth}px`;label.style.top=`${(-projected.y*.5+.5)*element!.clientHeight}px`;label.style.opacity=String(reveal);label.style.pointerEvents=reveal>.9?'auto':'none';
+          const status=label.querySelector<HTMLElement>('.scene-node-status');if(status&&index===2){if(i===0)status.textContent=stage>.8?'PREREQUISITE COMPLETE':'IN PROGRESS';if(i===1){status.textContent=stage>=2.4?'READY':'WAITING';status.dataset.ready=String(stage>=2.4);}}
+        }
+      });
+      edges.forEach(edge=>{
+        const {spec}=edge,selected=selectedRef.current,related=selected===null||spec.from===selected||spec.to===selected;
+        edge.material.opacity=related?(spec.kind==='monitor'?.48:.95):.10;
+        let reveal=THREE.MathUtils.clamp((stage-.45-edge.order*.12)/.9,0,1);
+        if(index===1&&spec.kind==='history')reveal=THREE.MathUtils.clamp((stage-(1.8+Math.max(spec.to-5,0)*1.4))/.7,0,1);
+        if(state.reduced)reveal=1;[edge.outer,edge.inner,...edge.strands.flatMap(s=>[s.mesh,s.halo])].forEach(mesh=>mesh.geometry.setDrawRange(0,Math.floor(mesh.geometry.index!.count*reveal/3)*3));edge.ports.forEach(port=>port.visible=reveal>.1);edge.tip.visible=reveal>.8&&spec.kind!=='blocked';
+        let phase=(stage*.23+edge.order*.22)%1,visible=spec.kind!=='blocked'&&stage>1&&reveal>.95&&!state.reduced;
+        if(index===0){phase=((stage-1.4-edge.order*.16)*.24)%1;visible=stage>1.4+edge.order*.16;}
+        if(index===1){
+          const execution=(stage-.65)%1.4;phase=THREE.MathUtils.clamp(execution/.65,0,1);
+          if(spec.to===4){phase=THREE.MathUtils.clamp((execution-.65)/.4,0,1);visible=stage>1.3&&stage<4.85&&execution>.65&&execution<1.05;}
+          else if(spec.kind==='history'){const arrival=2.05+Math.max(spec.to-5,0)*1.4;phase=THREE.MathUtils.clamp((stage-arrival+.4)/.4,0,1);visible=stage>=arrival-.4&&stage<=arrival;}
+          else visible=stage>.65&&stage<4.85&&execution<.65;
+        }
+        if(index===2){phase=THREE.MathUtils.clamp((stage-(spec.start??1))/((spec.end??2.4)-(spec.start??1)),0,1);visible=spec.kind!=='blocked'&&stage>=(spec.start??1)&&stage<(spec.end??2.4);}
+        if(index===3&&spec.kind!=='monitor'){
+          phase=THREE.MathUtils.clamp((stage-(spec.start??1))/((spec.end??2.1)-(spec.start??1)),0,1);visible=spec.kind!=='blocked'&&stage>=(spec.start??1);if(spec.to===0)phase=Math.min(phase,.97);if(spec.kind==='exception'&&stage>4.4)phase=1;
+        }
+        edge.pulse.visible=visible&&related&&reveal>.7&&!state.reduced;edge.pulse.position.copy(edge.curve.getPoint(THREE.MathUtils.clamp(phase,0,1)));
+        const heldAtGate=index===3&&spec.to===0&&stage>=(spec.end??2.1);
+        edge.strands.forEach(strand=>{
+          [strand.light,strand.haloLight].forEach(light=>{
+            light.uniforms.uTime.value=stage+edge.order*.25;
+            light.uniforms.uOpacity.value=spec.kind==='blocked'?.025:light.userData.baseOpacity*(related?1:.12);
+            light.uniforms.uFlow.value=visible&&!heldAtGate&&!state.reduced?1:0;
+            light.uniforms.uStop.value=index===3&&spec.to===0?.97:1;
+          });
+        });
+        edge.traffic.visible=visible&&related&&reveal>.9&&!state.reduced;
+        const trafficPositions=edge.traffic.geometry.attributes.position as THREE.BufferAttribute;
+        for(let p=0;p<trafficPositions.count;p++){
+          let t=(phase+p/trafficPositions.count)%1;
+          if(index===3&&spec.kind!=='monitor')t=THREE.MathUtils.clamp(phase-p/trafficPositions.count*.42,0,.97);
+          const point=edge.strands[p%3].path.getPoint(THREE.MathUtils.clamp(t,0,1));trafficPositions.setXYZ(p,point.x,point.y,point.z);
+        }
+        trafficPositions.needsUpdate=true;
+      });
+      renderer.render(scene,camera);if(state.active&&!state.paused&&!state.reduced)requestRender();
+    }
+    const resize=()=>{const w=element.clientWidth,h=element.clientHeight;renderer.setSize(w,h);camera.aspect=w/h;camera.position.set(mobile?1.8:3.3,mobile?8.5:8.5,mobile?11.8:11.3);camera.lookAt(.25,.6,0);camera.updateProjectionMatrix();requestRender();};
+    const observer=new ResizeObserver(resize);observer.observe(element);resize();
+    const raycaster=new THREE.Raycaster(),pointerPosition=new THREE.Vector2();
+    const pick=(event:PointerEvent)=>{
+      const rect=element.getBoundingClientRect();pointerPosition.set((event.clientX-rect.left)/rect.width*2-1,-(event.clientY-rect.top)/rect.height*2+1);
+      raycaster.setFromCamera(pointerPosition,camera);const hits=raycaster.intersectObjects(nodes.map(n=>n.group),true);
+      if(!hits.length)return null;let object:THREE.Object3D|null=hits[0].object;
+      while(object&&object.parent!==world)object=object.parent;
+      const found=nodes.findIndex(n=>n.group===object);return found<0?null:found;
+    };
+    const pointer=(event:PointerEvent)=>{
+      if(!(event.target as HTMLElement).closest('button,.scene-inspector')&&event.pointerType!=='touch'){
+        const node=pick(event);if(node!==selectedRef.current)setSelected(node);element.style.cursor=node===null?'default':'pointer';
+      }
+      if(runtime.current.reduced||runtime.current.paused)return;const rect=element.getBoundingClientRect();targetX=((event.clientX-rect.left)/rect.width-.5)*.09;targetY=((event.clientY-rect.top)/rect.height-.5)*.055;requestRender();
+    };
+    let downX=0,downY=0;
+    const pointerDown=(event:PointerEvent)=>{downX=event.clientX;downY=event.clientY;};
+    const pointerUp=(event:PointerEvent)=>{if(Math.hypot(event.clientX-downX,event.clientY-downY)<12&&!(event.target as HTMLElement).closest('button,.scene-inspector')){const node=pick(event);if(node!==null)setSelected(node);}};
+    const leave=()=>{targetX=0;targetY=0;if(!element.contains(document.activeElement))setSelected(null);requestRender();},lost=(event:Event)=>{event.preventDefault();setFallback(true);cancelAnimationFrame(raf);raf=0;disposed=true;};
+    element.addEventListener('pointermove',pointer,{passive:true});element.addEventListener('pointerleave',leave);element.addEventListener('pointerdown',pointerDown,{passive:true});element.addEventListener('pointerup',pointerUp,{passive:true});renderer.domElement.addEventListener('webglcontextlost',lost);
+    return()=>{disposed=true;cancelAnimationFrame(raf);observer.disconnect();invalidate.current=()=>{};element.removeEventListener('pointermove',pointer);element.removeEventListener('pointerleave',leave);element.removeEventListener('pointerdown',pointerDown);element.removeEventListener('pointerup',pointerUp);renderer.domElement.removeEventListener('webglcontextlost',lost);scene.traverse(object=>{const mesh=object as THREE.Mesh;mesh.geometry?.dispose();if(mesh.material)(Array.isArray(mesh.material)?mesh.material:[mesh.material]).forEach(m=>m.dispose());});nodes.forEach(node=>node.textures.forEach(texture=>texture.dispose()));glow.dispose();shadowTexture.dispose();environment.dispose();renderer.dispose();renderer.domElement.remove();};
+  },[index,definition,compact]);
+  useEffect(()=>{invalidate.current();},[active,paused,reduced,selected]);
+  const explanation=selected===null?null:definition.nodes[selected];
+  const connected=selected===null?[]:definition.edges.filter(e=>e.from===selected||e.to===selected).map(e=>definition.nodes[e.from===selected?e.to:e.from].name);
+  return <div className={`graph-scene cinematic-scene ${fallback?'static-workflow':''}`} ref={host} aria-label={`Interactive ${definition.title.toLowerCase()}`}>
+    {index===2&&<div className="scene-lane-key"><span><i/>HUMAN OWNERS</span><span><i/>ENGINE AGENTS</span></div>}
+    {index===1&&<div className="scene-history-key">ONE REUSABLE AGENT <span>·</span> SEPARATE EXECUTION HISTORY</div>}
+    {fallback&&<svg className="static-connections" viewBox="0 0 700 480" aria-hidden="true">{definition.edges.map((edge,i)=>{const point=(n:number)=>[90+(n%3)*250,85+Math.floor(n/3)*155];const[x1,y1]=point(edge.from),[x2,y2]=point(edge.to);return <path key={i} d={`M${x1} ${y1} C${x1} ${y2},${x2} ${y1},${x2} ${y2}`} fill="none" stroke={edge.kind==='exception'?'#e4ad63':'#8b3dff'} strokeWidth="2" opacity={edge.kind==='blocked'?.25:.65}/>;})}</svg>}
+    {definition.nodes.map((node,i)=><button key={`${index}-${i}`} ref={element=>{labels.current[i]=element;}} className={`scene-node-label ${node.core?'scene-core':''} ${node.amber?'scene-amber':''} ${selected===i?'scene-selected':''} ${node.symbol==='run'?'scene-run':''}`} style={fallback?{left:`${13+(i%3)*36}%`,top:`${18+Math.floor(i/3)*32}%`,opacity:1,pointerEvents:'auto'}:undefined} aria-label={`${node.name}. ${node.explanation}`} tabIndex={active?0:-1} onPointerEnter={event=>{if(event.pointerType!=='touch')setSelected(i);}} onPointerLeave={event=>{if(event.pointerType!=='touch'&&document.activeElement!==event.currentTarget)setSelected(null);}} onFocus={()=>setSelected(i)} onBlur={()=>setSelected(null)} onClick={()=>setSelected(i)}>
+      {fallback&&<span className="static-node-block" aria-hidden="true"><span/></span>}<strong>{node.name}</strong><span className="scene-node-status">{node.status}</span>
+    </button>)}
+    <div className={`scene-inspector ${explanation?'is-visible':''}`} aria-live="polite">{explanation&&<><div><span className="mini-dot"/><strong>{explanation.name}</strong><button onClick={()=>setSelected(null)} aria-label="Close node explanation">×</button></div><p>{explanation.explanation}</p><span className="scene-connected">CONNECTED TO · {connected.join(' / ')}</span></>}</div>
+  </div>;
 }
-
-
 
 
