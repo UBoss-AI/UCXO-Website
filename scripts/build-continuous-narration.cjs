@@ -14,7 +14,7 @@ for(let i=0;i<4;i++){
  const speech=data.subarray(0,Math.round(spokenEnd*bytesPerSecond/block)*block);
  const gap=Buffer.alloc(Math.round(.3*bytesPerSecond/block)*block);
  const duration=(speech.length+gap.length)/bytesPerSecond;
- timeline.push({start:cursor,duration});parts.push(speech,gap);cursor+=duration;
+ timeline.push({start:cursor,duration});parts.push(speech,gap);cursor=Math.round((cursor+duration)*1000)/1000;
 }
 const pcm=Buffer.concat(parts),header=Buffer.alloc(44);header.write('RIFF');header.writeUInt32LE(36+pcm.length,4);header.write('WAVEfmt ',8);header.writeUInt32LE(16,16);format.copy(header,20,0,16);header.write('data',36);header.writeUInt32LE(pcm.length,40);
 fs.writeFileSync(path.join(root,'public/narration/chief-engine-explainer.wav'),Buffer.concat([header,pcm]));

@@ -52,3 +52,7 @@ Both sound controls now use the same narration controller. Enabling sound restar
 The player uses public/narration/chief-engine-explainer.wav throughout. Run node scripts/build-continuous-narration.cjs to rebuild it and components/narration-timeline.ts from the Heart recordings. The builder trims padded tails and inserts 0.3-second sentence breaks. Chapter changes never pause or reload audio. Animation and captions follow the global audio clock. Replay and chapter selection seek within the master track.
 
 Validation: node --test scripts/continuous-narration.test.cjs checks speech at the old 18-second failure point and every chapter, duration integrity, and chapter boundaries. Browser playback crossed every boundary and looped while playing. Pause/resume, chapter selection, and replay were checked.
+
+## Wider workflow framing
+
+Desktop scene area now starts at 30% of the hero and uses 70% width and 66% height. Chapter camera targets move the workflow toward the copy, with closer framing and larger responsive labels. Approval callouts sit in the lower middle gap instead of covering the outcome node. Camera zoom scales down for narrower landscape/tablet regions; the scene uses the same 600px mobile breakpoint as CSS. Desktop, tablet, and phone previews were checked. Chapter-four start is rounded to 46.15 seconds so browser-rounded seeking selects the correct slide.

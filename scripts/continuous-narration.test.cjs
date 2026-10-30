@@ -14,4 +14,5 @@ test('the complete narration contains audible speech at 18 seconds and in every 
 test('one global audio timeline selects the next slide at each chapter boundary',()=>{
  for(let i=1;i<4;i++){const boundary=narrationTimeline[i].start;assert.equal(narrationPosition(boundary-.01).chapter,i-1);assert.equal(narrationPosition(boundary+.01).chapter,i);}
  assert.equal(narrationPosition(18).chapter,1);
+ assert.equal(narrationPosition(46.15).chapter,3,'browser-rounded seeks must select chapter four');
 });
