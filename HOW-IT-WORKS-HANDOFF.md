@@ -41,3 +41,8 @@ TypeScript and production build passed. All four WAV files have exact chapter du
 The reflective floor and grid are hidden. WebGL remains transparent and the scene/gradient backgrounds are transparent over the same #07050D hero surface, removing the separate rectangular backdrop.
 
 
+
+## Narration control regression fix
+
+Both sound controls now use the same narration controller. Enabling sound restarts the chapter at the spoken beginning and calls media.play() synchronously in the click event. Unmuting paused playback resumes it. The audio element persists across chapters; old playback requests cannot overwrite a newer action. Speaker icons reflect the same enabled state, and the playback label follows actual media events. Browser rejection or media-load failure exposes a retry action instead of silently changing the mute setting. Local browser regressions verified Listen after seeking to the silent tail, unmute while paused, pause/resume from the large button, and sound retention across chapter changes; the console was clean.
+
