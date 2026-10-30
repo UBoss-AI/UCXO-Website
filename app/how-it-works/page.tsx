@@ -1,0 +1,9 @@
+import type {Metadata} from 'next';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import StoryPlayer from '@/components/StoryPlayer';
+import {chapters} from '@/components/story-data';
+import {ArrowUpRight} from 'lucide-react';
+export const metadata:Metadata={title:'How it works — Chief Engine',description:'Follow one business objective from a proposed workflow to human approval and a reviewed outcome.'};
+export default function HowItWorks(){return <><Header/><main><StoryPlayer/><section className="story-explanation section-wrap" id="transcript"><div className="section-top"><span className="eyebrow">FROM DIRECTION TO DELIVERY</span><span className="section-index">THE COMPLETE STORY · 75 SECONDS</span></div><div className="section-heading"><h2>One objective.<br/><span>Every step connected.</span></h2><p>Follow an illustrative monthly business review.<br/>People retain the decisions that need human judgment.</p></div><div className="story-transcript">{chapters.map((c,i)=><article key={c.label}><span className="eyebrow">0{i+1} / {c.label}</span><h3>{c.heading}</h3><p>{c.captions.map(cue=>cue.text).join(' ')}</p></article>)}</div><p className="story-media-note">Original animated 3D explanation with synchronized English narration and captions. The example workflow is illustrative.</p></section><section className="closing section-wrap"><span className="eyebrow">CHIEF ENGINE</span><h2>Business execution,<br/>coordinated.</h2><p>Bring your objectives, people, and AI workforce into one shared workflow.</p><a className="button primary" href="/#platform">Explore the platform<ArrowUpRight size={17}/></a><a className="closing-secondary" href="https://app.ubossai.com/login">Sign in to Chief Engine<ArrowUpRight size={14}/></a></section></main><Footer/></>}
+

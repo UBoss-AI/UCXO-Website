@@ -1,0 +1,15 @@
+CHAPTER 1 - Define the objective (18 seconds)
+
+Start with the result your business needs. Add the team, owner, and desired outcome. A proposed workflow connects tasks and review stages. Draft — ready for review. Work has not started.
+
+CHAPTER 2 - Review and assign (18 seconds)
+
+Review the steps, dependencies, and owners. Refine the plan: add an evidence check before review. Assign people and reusable Engine Agents with Governed Skills. A human selects Approve & Assign. The plan can now proceed.
+
+CHAPTER 3 - Execute together (18 seconds)
+
+People complete their assignments; agents perform approved work. This Engine Agent creates a distinct Run 01. The human prerequisite completes and sends a signal. The dependent task now changes from Waiting to Ready. Output and evidence move toward human review.
+
+CHAPTER 4 - Review evidence and outcomes (21 seconds)
+
+The Executor Agent monitors; an exception goes to a human reviewer. Evidence reaches the gate. Awaiting human approval. The responsible person reviews the evidence and approves. The approved path continues to the outcome and original objective. Chief Engine — Business execution, coordinated.

@@ -6,3 +6,7 @@ out/
 .sites/
 
 .vercel/
+
+.media-tools/
+.media-models/
+
