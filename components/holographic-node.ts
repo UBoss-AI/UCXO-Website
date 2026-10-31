@@ -15,7 +15,7 @@ function createInterface(node:WorkflowNode){
   const ctx=canvas.getContext('2d')!;
   ctx.fillStyle='rgba(5,15,28,.88)';ctx.fillRect(0,0,640,300);
   ctx.strokeStyle='#64ddeb';ctx.lineWidth=2;ctx.strokeRect(2,2,636,296);
-  ctx.fillStyle='#b4a6ed';ctx.font='18px Arial';ctx.fillText('CHIEF ENGINE / ILLUSTRATIVE',26,36);
+  ctx.fillStyle='#b4a6ed';ctx.font='18px Arial';ctx.fillText('UCXO / ILLUSTRATIVE',26,36);
   ctx.fillStyle='#d4fbff';ctx.font='bold 30px Arial';ctx.fillText(node.name.toUpperCase(),26,87);
   ctx.fillStyle='#84cdda';ctx.font='18px Arial';ctx.fillText(node.status,26,122);
   const rows=[['WORKFLOW','CONNECTED STAGES'],['OWNERSHIP','PEOPLE + ENGINE AGENTS'],['HUMAN REVIEW',node.symbol==='approval'?'REQUIRED / AWAITING':'PRESERVED WHERE REQUIRED']];

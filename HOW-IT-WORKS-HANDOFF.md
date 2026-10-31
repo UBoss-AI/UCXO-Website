@@ -56,3 +56,7 @@ Validation: node --test scripts/continuous-narration.test.cjs checks speech at t
 ## Wider workflow framing
 
 Desktop scene area now starts at 30% of the hero and uses 70% width and 66% height. Chapter camera targets move the workflow toward the copy, with closer framing and larger responsive labels. Approval callouts sit in the lower middle gap instead of covering the outcome node. Camera zoom scales down for narrower landscape/tablet regions; the scene uses the same 600px mobile breakpoint as CSS. Desktop, tablet, and phone previews were checked. Chapter-four start is rounded to 46.15 seconds so browser-rounded seeking selects the correct slide.
+
+## UCXO rebrand
+
+Public brand, logo wordmark, titles, navigation accessibility labels, copy, FAQ, transcript, 3D texture labels, and closing narration now use UCXO. Existing GitHub repository and Vercel project/domain remain the deployment destinations. The active master audio is public/narration/ucxo-explainer.wav (67.061 seconds). Its last line was regenerated locally with Kokoro Heart from the official compact ONNX model, spelling U C X O. Reproduce with scripts/rebrand-narration.py, then scripts/build-continuous-narration.cjs. The first three recordings and the first 17.07 seconds of chapter four are retained.

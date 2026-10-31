@@ -14,8 +14,8 @@ export const narrationTimeline=[
   },
   {
     "start": 46.15,
-    "duration": 20.275
+    "duration": 20.911
   }
 ] as const;
-export const narrationDuration=66.425;
+export const narrationDuration=67.061;
 export function narrationPosition(globalTime:number){const time=Math.max(0,Math.min(globalTime,narrationDuration));let chapter=0;for(let i=1;i<narrationTimeline.length;i++){if(time>=narrationTimeline[i].start)chapter=i;}return{chapter,time:time-narrationTimeline[chapter].start,duration:narrationTimeline[chapter].duration};}

@@ -1,4 +1,4 @@
-// Kokoro Heart, official hexgrad demo, speed 1.0. Original Chief Engine script.
+// Kokoro Heart, official hexgrad demo, speed 1.0. Original UCXO script.
 export const narrationTiming=[
   {
     "duration": 18,
@@ -80,7 +80,7 @@ export const narrationTiming=[
     ]
   },
   {
-    "duration": 21,
+    "duration": 20.961,
     "points": [
       {
         "at": 0,
@@ -103,7 +103,7 @@ export const narrationTiming=[
         "storyAt": 17
       },
       {
-        "at": 19.975,
+        "at": 20.611,
         "storyAt": 21
       }
     ]
