@@ -1,5 +1,6 @@
 import * as THREE from 'three';
-import { roundedBox, colors } from './scene-geometry';
+import { roundedBox } from './scene-geometry';
+import {nodeColor,nodeColorHex} from './node-palette';
 import { energyMaterial } from './energy-flow';
 import type { WorkflowNode } from './scene-data';
 
@@ -7,19 +8,19 @@ export type HolographicNode={
   group:THREE.Group;accent:THREE.MeshStandardMaterial;dimensions:THREE.Vector3;
   portDimensions:THREE.Vector3;portOffset:THREE.Vector3;labelAnchor:THREE.Vector3;
   hologram:THREE.Group;rotors:{object:THREE.Object3D;axis:'x'|'y'|'z';speed:number}[];
-  energy:THREE.ShaderMaterial[];particles:THREE.Points;orbitRadius:number;textures:THREE.Texture[];
+  energy:THREE.ShaderMaterial[];particles:THREE.Points;orbitRadius:number;textures:THREE.Texture[];setColor:(color:number)=>void;
 };
 
 function createInterface(node:WorkflowNode){
   const canvas=document.createElement('canvas');canvas.width=640;canvas.height=300;
   const ctx=canvas.getContext('2d')!;
   ctx.fillStyle='rgba(5,15,28,.88)';ctx.fillRect(0,0,640,300);
-  ctx.strokeStyle='#64ddeb';ctx.lineWidth=2;ctx.strokeRect(2,2,636,296);
+  ctx.strokeStyle=nodeColorHex(node);ctx.lineWidth=2;ctx.strokeRect(2,2,636,296);
   ctx.fillStyle='#b4a6ed';ctx.font='18px Arial';ctx.fillText('UCXO / ILLUSTRATIVE',26,36);
   ctx.fillStyle='#d4fbff';ctx.font='bold 30px Arial';ctx.fillText(node.name.toUpperCase(),26,87);
   ctx.fillStyle='#84cdda';ctx.font='18px Arial';ctx.fillText(node.status,26,122);
   const rows=[['WORKFLOW','CONNECTED STAGES'],['OWNERSHIP','PEOPLE + ENGINE AGENTS'],['HUMAN REVIEW',node.symbol==='approval'?'REQUIRED / AWAITING':'PRESERVED WHERE REQUIRED']];
-  rows.forEach(([label,value],i)=>{const y=168+i*44;ctx.fillStyle='#a1c2cf';ctx.font='16px Arial';ctx.fillText(label,26,y);ctx.strokeStyle='#274553';ctx.beginPath();ctx.moveTo(220,y+12);ctx.lineTo(612,y+12);ctx.stroke();ctx.fillStyle=i===2?'#ac75ff':'#63e5eb';ctx.font='15px Arial';ctx.fillText(value,225,y);});
+  rows.forEach(([label,value],i)=>{const y=168+i*44;ctx.fillStyle='#a1c2cf';ctx.font='16px Arial';ctx.fillText(label,26,y);ctx.strokeStyle='#274553';ctx.beginPath();ctx.moveTo(220,y+12);ctx.lineTo(612,y+12);ctx.stroke();ctx.fillStyle=nodeColorHex(node);ctx.font='15px Arial';ctx.fillText(value,225,y);});
   const texture=new THREE.CanvasTexture(canvas);texture.colorSpace=THREE.SRGBColorSpace;return texture;
 }
 
@@ -35,11 +36,11 @@ function gearGeometry(radius:number){
 
 export function createHolographicNode(node:WorkflowNode,mobile:boolean,glow:THREE.Texture):HolographicNode{
   const group=new THREE.Group(),hologram=new THREE.Group();group.add(hologram);
-  const size=(node.size??(node.core?1.65:1.12))*(mobile?.88:1),amber=!!node.amber;
-  const color=amber?colors.amber:colors.purple,cool=amber?0xffc778:0x75e9f3;
+  const size=(node.size??(node.core?1.65:1.12))*(mobile?.88:1);
+  const color=nodeColor(node),cool=color;
   const metal=new THREE.MeshPhysicalMaterial({color:0x151a2b,metalness:.85,roughness:.25,clearcoat:1,envMapIntensity:.9});
-  const glass=new THREE.MeshPhysicalMaterial({color:0x6b78a2,metalness:.12,roughness:.12,transmission:mobile?.15:.4,thickness:.2,ior:1.3,transparent:true,opacity:.55,depthWrite:false,clearcoat:1});
-  const accent=new THREE.MeshStandardMaterial({color:amber?0xc48f47:0x248fac,emissive:cool,emissiveIntensity:.55,metalness:.4,roughness:.25,transparent:true,opacity:.82});
+  const glass=new THREE.MeshPhysicalMaterial({color,emissive:color,emissiveIntensity:.12,metalness:.08,roughness:.18,transmission:mobile?.1:.22,thickness:.2,ior:1.3,transparent:true,opacity:.55,depthWrite:false,clearcoat:1});
+  const accent=new THREE.MeshStandardMaterial({color,emissive:cool,emissiveIntensity:.55,metalness:.25,roughness:.3,transparent:true,opacity:.9});
   const violet=new THREE.MeshStandardMaterial({color,emissive:color,emissiveIntensity:.8,metalness:.3,roughness:.2});
   const thin=new THREE.LineBasicMaterial({color:cool,transparent:true,opacity:.52});
   const rotors:HolographicNode['rotors']=[],energy:THREE.ShaderMaterial[]=[],textures:THREE.Texture[]=[];
@@ -85,7 +86,7 @@ export function createHolographicNode(node:WorkflowNode,mobile:boolean,glow:THRE
     case 'agent':
     case 'tools':{
       const gears=[{r:.23,x:-.19,y:.58,z:.12,s:1},{r:.19,x:.20,y:.88,z:-.02,s:-1.2},{r:.12,x:-.17,y:1.05,z:-.06,s:1.5}];
-      const holographicGlass=new THREE.MeshBasicMaterial({color:cool,transparent:true,opacity:.38,depthWrite:false,side:THREE.DoubleSide});
+      const holographicGlass=new THREE.MeshBasicMaterial({color:cool,transparent:true,opacity:.62,depthWrite:false,side:THREE.DoubleSide});
       gears.forEach(g=>{const mesh=add(model,gearGeometry(g.r),holographicGlass,g.x,g.y,g.z);mesh.add(new THREE.LineSegments(new THREE.EdgesGeometry(mesh.geometry,20),thin));rotors.push({object:mesh,axis:'z',speed:g.s*.28});});
       add(model,roundedBox(.62,.08,.42,.02),glass,0,.21,0);
       for(let i=0;i<3;i++)add(model,roundedBox(.43,.035,.31,.012),i%2?accent:violet,0,.28+i*.065,0);
@@ -139,7 +140,11 @@ export function createHolographicNode(node:WorkflowNode,mobile:boolean,glow:THRE
   if(node.core){
     const texture=createInterface(node);textures.push(texture);
     const hud=add(group,new THREE.PlaneGeometry(size*.84,size*.40),new THREE.MeshBasicMaterial({map:texture,transparent:true,opacity:.82,side:THREE.DoubleSide,depthWrite:false}),-.65,1.68,-size*.48);
-    hud.rotation.y=-.18;hud.rotation.x=-.10;
+    hud.material.userData.preserveColor=true;hud.rotation.y=-.18;hud.rotation.x=-.10;
   }
-  return {group,accent,dimensions:new THREE.Vector3(size,1.9,size),portDimensions:new THREE.Vector3(size,.17,size*.87),portOffset:new THREE.Vector3(0,.12,0),labelAnchor:new THREE.Vector3(0,-.06,size*.67),hologram,rotors,energy,particles,orbitRadius:radius,textures};
+  const tinted=new Set<THREE.Material>();
+  group.traverse(object=>{const material=(object as THREE.Mesh).material;if(material)(Array.isArray(material)?material:[material]).forEach(m=>{if(m!==metal&&!m.userData.preserveColor)tinted.add(m);});});
+  let currentColor=color;
+  const setColor=(value:number)=>{if(value===currentColor)return;currentColor=value;for(const material of tinted){if(material instanceof THREE.ShaderMaterial){material.uniforms.uColor?.value.setHex(value);}else{const colored=material as THREE.Material&{color?:THREE.Color;emissive?:THREE.Color};colored.color?.setHex(value);colored.emissive?.setHex(value);}}};
+  return {group,accent,dimensions:new THREE.Vector3(size,1.9,size),portDimensions:new THREE.Vector3(size,.17,size*.87),portOffset:new THREE.Vector3(0,.12,0),labelAnchor:new THREE.Vector3(0,-.06,size*.67),hologram,rotors,energy,particles,orbitRadius:radius,textures,setColor};
 }

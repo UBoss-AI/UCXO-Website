@@ -20,6 +20,10 @@ html:has(.story-player){scroll-behavior:auto}.story-player{position:relative;hei
 /* Keep the persistent 3D scene visible while chapter copy transitions above it. */
 .story-stage{background:transparent}
 
+.story-object-labels>span{color:#f7f3fa;border-color:color-mix(in srgb,var(--node-accent) 40%,transparent)}
+.story-object-labels>span[data-active=true]{color:color-mix(in srgb,var(--node-accent) 40%,#fff);border-color:var(--node-accent);box-shadow:0 0 20px color-mix(in srgb,var(--node-accent) 18%,transparent);background:#15121de8}
+.story-object-labels small{color:#c6bdce}
+
 /* Use the middle of the hero for the workflow, while keeping copy unobstructed. */
 @media(min-width:801px){
  .story-scene{left:30%;top:13%;width:70%;height:66%}

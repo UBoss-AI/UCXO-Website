@@ -60,3 +60,7 @@ Desktop scene area now starts at 30% of the hero and uses 70% width and 66% heig
 ## UCXO rebrand
 
 Public brand, logo wordmark, titles, navigation accessibility labels, copy, FAQ, transcript, 3D texture labels, and closing narration now use UCXO. Existing GitHub repository and Vercel project/domain remain the deployment destinations. The active master audio is public/narration/ucxo-explainer.wav (67.061 seconds). Its last line was regenerated locally with Kokoro Heart from the official compact ONNX model, spelling U C X O. Reproduce with scripts/rebrand-narration.py, then scripts/build-continuous-narration.cjs. The first three recordings and the first 17.07 seconds of chapter four are retained.
+
+## Approved node palette
+
+The proposed role palette is centralized in components/node-palette.ts and shared by homepage cards and StoryScene. Symbols, base rings, particles, projection volumes, and label accents use the same colors. Review/approval is gold, exception coral, evidence orange, executor lime, outcomes green, and runs ice cyan. Story evidence/check nodes switch from the Run palette to Evidence orange in the applicable chapters. Purple scene lighting was reduced so role colors remain distinct. Flow timing and approval gates are retained. User approved the local preview for production release. Build, typecheck, browser color checks, and narration transition regression passed.

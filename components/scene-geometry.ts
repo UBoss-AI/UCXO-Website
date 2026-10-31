@@ -13,7 +13,7 @@ export function createStudioEnvironment(renderer:THREE.WebGLRenderer){
     const mesh=new THREE.Mesh(new THREE.PlaneGeometry(w,h),new THREE.MeshBasicMaterial({color:new THREE.Color(color).multiplyScalar(intensity),side:THREE.DoubleSide}));
     mesh.position.set(x,y,z);mesh.lookAt(0,0,0);studio.add(mesh);panels.push(mesh);
   };
-  panel(0xfff5ff,5,9,3,-4,6,5);panel(0xb35cff,3,3,10,6,2,-2);panel(0xded6ff,2,2,7,-6,0,0);panel(0x8b3dff,2,8,2,0,-4,3);
+  panel(0xfff5ff,5,9,3,-4,6,5);panel(0xdce8f2,1.5,3,10,6,2,-2);panel(0xded6ff,2,2,7,-6,0,0);panel(0xfff4d6,.7,8,2,0,-4,3);
   const generator=new THREE.PMREMGenerator(renderer);const target=generator.fromScene(studio,.04);
   panels.forEach(mesh=>{mesh.geometry.dispose();(mesh.material as THREE.Material).dispose();});generator.dispose();return target;
 }

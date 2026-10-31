@@ -24,3 +24,11 @@
 @media(max-width:600px){.scene-node-label strong,.scene-node-label.scene-core strong{font-size:11px}.scene-node-label .scene-node-status,.scene-node-label.scene-core .scene-node-status{font-size:7px;letter-spacing:0}.scene-node-label.scene-run strong{font-size:10px}}
 
 @media(max-width:600px){.scene-history-key{display:none}}
+
+/* The object carries the role color; labels keep a light, readable tint. */
+.scene-node-label strong,.scene-node-label.scene-core strong,.scene-amber strong{color:color-mix(in srgb,var(--node-accent) 25%,#fff)}
+.scene-node-label .scene-node-status,.scene-amber .scene-node-status{color:#c6bdce}
+.scene-node-label.scene-selected,.scene-node-label:hover,.scene-node-label:focus-visible{border-color:var(--node-accent);background:#100d19ed}
+.scene-node-label.scene-selected strong{color:var(--node-accent)}
+.static-node-block{border-color:var(--node-accent);background:linear-gradient(135deg,color-mix(in srgb,var(--node-accent) 25%,#101019),#101019);box-shadow:8px 6px #100d19,9px 7px var(--node-accent)}
+.static-node-block>span{border-color:var(--node-accent);background:var(--node-accent)}

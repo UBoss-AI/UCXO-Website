@@ -1,6 +1,7 @@
 'use client';
 
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, type CSSProperties } from 'react';
+import {nodeColor,nodeColorHex,nodePalette} from './node-palette';
 import * as THREE from 'three';
 import { workflowScenes } from './scene-data';
 import { attachment, colors, createStudioEnvironment, softShadowTexture } from './scene-geometry';
@@ -42,11 +43,11 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
     const key=new THREE.DirectionalLight(0xf0e6ff,2.3);key.position.set(-4,7,8);key.castShadow=true;
     key.shadow.mapSize.setScalar(mobile?512:1024);key.shadow.camera.left=-7;key.shadow.camera.right=7;key.shadow.camera.top=7;key.shadow.camera.bottom=-7;
     key.shadow.normalBias=.025;key.shadow.bias=-.0002;key.shadow.radius=5;scene.add(key);
-    const rim=new THREE.DirectionalLight(0xb35cff,2.2);rim.position.set(6,3,-4);scene.add(rim);
+    const rim=new THREE.DirectionalLight(0xdce8f2,1.2);rim.position.set(6,3,-4);scene.add(rim);
     const fill=new THREE.DirectionalLight(0xd6c2ff,.8);fill.position.set(-6,-1,2);scene.add(fill);
     const sideFill=new THREE.DirectionalLight(0xd2b1f5,.9);sideFill.position.set(6,1,5);scene.add(sideFill);
-    const purple=new THREE.PointLight(colors.purple,22,14,2);purple.position.set(0,3,2);world.add(purple);
-    const cyan=new THREE.PointLight(0x71e7ed,12,14,2);cyan.position.set(-3,3,-3);world.add(cyan);
+    const purple=new THREE.PointLight(colors.purple,4,14,2);purple.position.set(0,3,2);world.add(purple);
+    const cyan=new THREE.PointLight(0xf4f6ff,6,14,2);cyan.position.set(-3,3,-3);world.add(cyan);
     const floor=new THREE.Mesh(new THREE.PlaneGeometry(40,40),new THREE.MeshStandardMaterial({color:0x100b19,roughness:.32,metalness:.65,envMapIntensity:.3,transparent:true,opacity:.18}));
     floor.rotation.x=-Math.PI/2;floor.position.y=-.30;floor.receiveShadow=true;world.add(floor);
     const shadowTexture=softShadowTexture(),glow=glowTexture();
@@ -68,24 +69,24 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
       const fromPort=from.position.clone().add(from.portOffset),toPort=to.position.clone().add(to.portOffset);
       const start=attachment(fromPort,from.portDimensions,toPort),end=attachment(toPort,to.portDimensions,fromPort);
       const middle=start.clone().lerp(end,.5);middle.y+=spec.kind==='monitor'?.65:.30;
-      const curve=new THREE.QuadraticBezierCurve3(start,middle,end),color=spec.kind==='exception'?colors.amber:colors.purple;
+      const curve=new THREE.QuadraticBezierCurve3(start,middle,end),color=spec.kind==='exception'?nodePalette.exception:nodeColor(definition.nodes[spec.to]);
       const group=new THREE.Group();world.add(group);
       const material=new THREE.MeshStandardMaterial({color,emissive:color,emissiveIntensity:spec.kind==='blocked'?.05:.8,roughness:.3,metalness:.35,transparent:true,opacity:spec.kind==='monitor'?.4:.85});
       const outer=new THREE.Mesh(new THREE.TubeGeometry(curve,40,.026,8,false),conduitGlass);group.add(outer);
       const inner=new THREE.Mesh(new THREE.TubeGeometry(curve,40,.008,5,false),material);group.add(inner);
       const strands=[0,1,2].map(strand=>{
-        const path=ribbonCurve(curve,strand,.16),light=energyMaterial(spec.kind==='exception'?colors.amber:strand===1?0xffbe64:0x77e9f1,.92,.65);
-        const haloLight=energyMaterial(spec.kind==='exception'?colors.amber:0x60d9ee,.16,.65);
+        const path=ribbonCurve(curve,strand,.16),light=energyMaterial(spec.kind==='exception'?nodePalette.exception:nodeColor(definition.nodes[strand===0?spec.from:spec.to]),.72,.65);
+        const haloLight=energyMaterial(color,.1,.65);
         const mesh=new THREE.Mesh(new THREE.TubeGeometry(path,48,.022,6,false),light),halo=new THREE.Mesh(new THREE.TubeGeometry(path,48,.065,6,false),haloLight);group.add(mesh,halo);return {mesh,light,path,halo,haloLight};
       });
       const ports=[start,end].flatMap((point,j)=>{
         const port=new THREE.Mesh(new THREE.CylinderGeometry(.09,.09,.16,12),portMetal);port.position.copy(point);port.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0),curve.getTangent(j));group.add(port);
         const collar=new THREE.Mesh(new THREE.TorusGeometry(.073,.012,6,18),material);collar.position.copy(point);collar.quaternion.setFromUnitVectors(new THREE.Vector3(0,0,1),curve.getTangent(j));group.add(collar);return [port,collar];
       });
-      const pulse=new THREE.Mesh(new THREE.SphereGeometry(.045,12,8),new THREE.MeshBasicMaterial({color:spec.kind==='exception'?0xffd29a:0xefd9ff}));group.add(pulse);
+      const pulse=new THREE.Mesh(new THREE.SphereGeometry(.045,12,8),new THREE.MeshBasicMaterial({color}));group.add(pulse);
       const tip=new THREE.Mesh(new THREE.ConeGeometry(.045,.12,6),material);tip.position.copy(curve.getPoint(.72));tip.quaternion.setFromUnitVectors(new THREE.Vector3(0,1,0),curve.getTangent(.72));group.add(tip);
       const count=mobile?10:18,positions=new Float32Array(count*3);
-      const traffic=new THREE.Points(new THREE.BufferGeometry(),new THREE.PointsMaterial({map:glow,color:spec.kind==='exception'?0xffd19a:0xb8fbff,size:mobile?.09:.11,transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,opacity:.85}));
+      const traffic=new THREE.Points(new THREE.BufferGeometry(),new THREE.PointsMaterial({map:glow,color,size:mobile?.09:.11,transparent:true,blending:THREE.AdditiveBlending,depthWrite:false,opacity:.85}));
       traffic.geometry.setAttribute('position',new THREE.BufferAttribute(positions,3));group.add(traffic);
       return {spec,curve,outer,inner,material,pulse,ports,group,tip,strands,traffic,order:i};
     });
@@ -118,7 +119,7 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
         const waiting=(index===2&&(i===2||i===4||(i===1&&stage<2.4)))||(index===3&&i===5);
         const visualTime=waiting?0:stage;
         let intensity=spec.core?1.1:.45;if(index===1&&(i===2||i===3)&&stage>.65&&stage<4.85&&(stage-.65)%1.4<.8)intensity=1.5;if(index===2&&((i===0&&stage>.8)||(i===1&&stage>=2.4)))intensity=1.1;
-        node.accent.emissiveIntensity=selectedRef.current===i?2.2:related?intensity:.12;
+        node.accent.emissiveIntensity=selectedRef.current===i?1.25:related?Math.min(intensity,.85):.12;
         node.hologram.position.y=state.reduced||waiting?0:Math.sin(stage*.85+i*.6)*.045;
         node.rotors.forEach(rotor=>{rotor.object.rotation[rotor.axis]=visualTime*rotor.speed;});
         node.energy.forEach(light=>{light.uniforms.uTime.value=visualTime;light.uniforms.uOpacity.value=light.userData.baseOpacity*(related?1:.22)*(selectedRef.current===i?1.4:1)*(waiting?.35:1);light.uniforms.uFlow.value=state.reduced||waiting?0:1;});
@@ -204,8 +205,8 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
   return <div className={`graph-scene cinematic-scene ${fallback?'static-workflow':''}`} ref={host} aria-label={`Interactive ${definition.title.toLowerCase()}`}>
     {index===2&&<div className="scene-lane-key"><span><i/>HUMAN OWNERS</span><span><i/>ENGINE AGENTS</span></div>}
     {index===1&&<div className="scene-history-key">ONE REUSABLE AGENT <span>·</span> SEPARATE EXECUTION HISTORY</div>}
-    {fallback&&<svg className="static-connections" viewBox="0 0 700 480" aria-hidden="true">{definition.edges.map((edge,i)=>{const point=(n:number)=>[90+(n%3)*250,85+Math.floor(n/3)*155];const[x1,y1]=point(edge.from),[x2,y2]=point(edge.to);return <path key={i} d={`M${x1} ${y1} C${x1} ${y2},${x2} ${y1},${x2} ${y2}`} fill="none" stroke={edge.kind==='exception'?'#e4ad63':'#8b3dff'} strokeWidth="2" opacity={edge.kind==='blocked'?.25:.65}/>;})}</svg>}
-    {definition.nodes.map((node,i)=><button key={`${index}-${i}`} ref={element=>{labels.current[i]=element;}} className={`scene-node-label ${node.core?'scene-core':''} ${node.amber?'scene-amber':''} ${selected===i?'scene-selected':''} ${node.symbol==='run'?'scene-run':''}`} style={fallback?{left:`${13+(i%3)*36}%`,top:`${18+Math.floor(i/3)*32}%`,opacity:1,pointerEvents:'auto'}:undefined} aria-label={`${node.name}. ${node.explanation}`} tabIndex={active?0:-1} onPointerEnter={event=>{if(event.pointerType!=='touch')setSelected(i);}} onPointerLeave={event=>{if(event.pointerType!=='touch'&&document.activeElement!==event.currentTarget)setSelected(null);}} onFocus={()=>setSelected(i)} onBlur={()=>setSelected(null)} onClick={()=>setSelected(i)}>
+    {fallback&&<svg className="static-connections" viewBox="0 0 700 480" aria-hidden="true">{definition.edges.map((edge,i)=>{const point=(n:number)=>[90+(n%3)*250,85+Math.floor(n/3)*155];const[x1,y1]=point(edge.from),[x2,y2]=point(edge.to);return <path key={i} d={`M${x1} ${y1} C${x1} ${y2},${x2} ${y1},${x2} ${y2}`} fill="none" stroke={nodeColorHex(definition.nodes[edge.to])} strokeWidth="2" opacity={edge.kind==='blocked'?.25:.65}/>;})}</svg>}
+    {definition.nodes.map((node,i)=><button key={`${index}-${i}`} ref={element=>{labels.current[i]=element;}} className={`scene-node-label ${node.core?'scene-core':''} ${node.amber?'scene-amber':''} ${selected===i?'scene-selected':''} ${node.symbol==='run'?'scene-run':''}`} style={{'--node-accent':nodeColorHex(node),...(fallback?{left:`${13+(i%3)*36}%`,top:`${18+Math.floor(i/3)*32}%`,opacity:1,pointerEvents:'auto'}:{})} as CSSProperties} aria-label={`${node.name}. ${node.explanation}`} tabIndex={active?0:-1} onPointerEnter={event=>{if(event.pointerType!=='touch')setSelected(i);}} onPointerLeave={event=>{if(event.pointerType!=='touch'&&document.activeElement!==event.currentTarget)setSelected(null);}} onFocus={()=>setSelected(i)} onBlur={()=>setSelected(null)} onClick={()=>setSelected(i)}>
       {fallback&&<span className="static-node-block" aria-hidden="true"><span/></span>}<strong>{node.name}</strong><span className="scene-node-status">{node.status}</span>
     </button>)}
     <div className={`scene-inspector ${explanation?'is-visible':''}`} aria-live="polite">{explanation&&<><div><span className="mini-dot"/><strong>{explanation.name}</strong><button onClick={()=>setSelected(null)} aria-label="Close node explanation">×</button></div><p>{explanation.explanation}</p><span className="scene-connected">CONNECTED TO · {connected.join(' / ')}</span></>}</div>
