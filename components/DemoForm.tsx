@@ -15,8 +15,8 @@ export default function DemoForm(){
    const payload=Object.fromEntries(data.entries());
    const response=await fetch('https://formsubmit.co/ajax/info@ubossai.com',{method:'POST',headers:{'Content-Type':'application/json',Accept:'application/json'},body:JSON.stringify({...payload,_subject:'New UCXO demo request',_template:'table',_replyto:payload.email,source:window.location.origin+'/book-a-demo/'}),signal:controller.signal});
    const result=await response.json();
-   if(!response.ok||!(result.success===true||result.success==='true'))throw new Error('submission');
    if(/activat|confirm.*email/i.test(String(result.message??'')))throw new Error('activation');
+   if(!response.ok||!(result.success===true||result.success==='true'))throw new Error('submission');
    setState('success');requestAnimationFrame(()=>success.current?.focus());
   }catch(error){setState('error');setMessage(error instanceof Error&&error.message==='activation'?'Our enquiry form is being connected. Please email info@ubossai.com to arrange your demo.':'Your request could not be sent. Please try again, or email info@ubossai.com. Your details are still here.');}
   finally{clearTimeout(timeout);}

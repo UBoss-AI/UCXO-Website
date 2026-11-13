@@ -9,3 +9,5 @@ Delivery uses FormSubmit AJAX at https://formsubmit.co/ajax/info@ubossai.com. Fo
 Fields: first name, last name, work email, company, job title, company size, country, optional goals. Native required/email validation runs before submission. Honeypot, duplicate-submit guard, 20-second timeout, provider response checking, retained inputs on errors, email fallback, and success state are implemented. Reply-To is the visitor's email. Automatic visitor emails and calendar booking are not configured; the UCXO team follows up manually. Never describe the enquiry as a confirmed scheduled meeting.
 
 References: https://hone.com/contact-sales/ ; https://21st.dev/@kevingirelli/components/contact-form ; https://ui.aceternity.com/components/signup-form ; https://formsubmit.co/documentation ; https://formsubmit.co/ajax-documentation
+
+Deployment setup test: FormSubmit returned success=false with an activation-required message and reported sending an Activate Form email to info@ubossai.com. Inbox-owner activation and a subsequent delivery check remain outstanding.
