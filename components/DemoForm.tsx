@@ -1,19 +1,16 @@
 'use client';
-import {useState,type FormEvent} from 'react';
-import {ArrowRight,ArrowUpRight} from 'lucide-react';
+import type {FormEvent} from 'react';
+import {ArrowRight} from 'lucide-react';
 import {buildDemoEmail} from './demo-email';
 
 export default function DemoForm(){
- const [draft,setDraft]=useState<ReturnType<typeof buildDemoEmail>|null>(null);
- const [copied,setCopied]=useState(false);
  function submit(event:FormEvent<HTMLFormElement>){
   event.preventDefault();
   const data=new FormData(event.currentTarget);if(data.get('_honey'))return;
   const details=Object.fromEntries(Array.from(data.entries()).map(([key,value])=>[key,String(value).trim()]));
-  const email=buildDemoEmail(details);setDraft(email);setCopied(false);
+  const email=buildDemoEmail(details);
   window.location.href=email.href;
  }
- async function copyDetails(){if(!draft)return;try{await navigator.clipboard.writeText('To: info@ubossai.com\n\n'+draft.body);setCopied(true);}catch{setCopied(false);}}
  return <form onSubmit={submit} className="demo-form" aria-label="Request a UCXO demo">
   <p className="demo-required">Fields marked <span>*</span> are required.</p>
   <fieldset><legend className="sr-only">Your contact and company details</legend>
@@ -24,7 +21,6 @@ export default function DemoForm(){
    <label>What would you like to achieve? <small>Optional</small><textarea name="goals" rows={3} maxLength={3000} placeholder="A workflow to improve, a goal to reach, or a challenge to solve…"/></label>
    <label className="demo-honey" aria-hidden="true">Leave this empty<input name="_honey" tabIndex={-1} autoComplete="off"/></label>
    <p className="demo-data-note">We’ll use your details to respond to your demo request. Please avoid including confidential information.</p>
-   {draft&&<div className="demo-draft" role="status"><strong>Your email draft is ready.</strong><p>Review the details and press Send in your email app to request your demo.</p><a href={draft.href}>Open email draft again <ArrowUpRight size={13}/></a><button type="button" onClick={copyDetails}>{copied?'Details copied':'Copy details instead'}</button></div>}
    <button type="submit" className="demo-submit">Request my demo<ArrowRight size={18}/></button>   <p className="demo-form-footnote">Opens your email app with your details prefilled.</p>
   </fieldset>
  </form>;
