@@ -1,13 +1,5 @@
-# UCXO demo request form
+# UCXO demo email handoff
 
-User approved the local review and authorized production deployment and GitHub push.
+Request my demo validates required fields and opens a mailto draft addressed to info@ubossai.com. The subject identifies UCXO and the company. The body includes name, work email, company, job title, size, country, and optional goals. All URI query values are encoded. The visitor reviews and sends the message in their chosen email app; opening a draft never means the request was received or sent. Form values remain available, with a reopen link and a copy-details fallback.
 
-Header button links to /book-a-demo/ on every page. The page uses Hone's contact-flow pattern and original UCXO styling informed by 21st.dev Contact Form and Aceternity input treatments. No additional component dependencies are installed.
-
-Delivery uses FormSubmit AJAX at https://formsubmit.co/ajax/info@ubossai.com. FormSubmit must send a one-time activation email to info@ubossai.com, and the inbox owner must follow its activation link before relying on delivery. The confirmation email may appear in spam. A successful API acceptance does not itself prove inbox delivery. Before relying on customer delivery, submit a clearly marked test through the deployed domain, activate the recipient, and confirm a second test arrives. Do not use actual customer enquiries for setup. No delivery test or activation was performed during the local design review.
-
-Fields: first name, last name, work email, company, job title, company size, country, optional goals. Native required/email validation runs before submission. Honeypot, duplicate-submit guard, 20-second timeout, provider response checking, retained inputs on errors, email fallback, and success state are implemented. Reply-To is the visitor's email. Automatic visitor emails and calendar booking are not configured; the UCXO team follows up manually. Never describe the enquiry as a confirmed scheduled meeting.
-
-References: https://hone.com/contact-sales/ ; https://21st.dev/@kevingirelli/components/contact-form ; https://ui.aceternity.com/components/signup-form ; https://formsubmit.co/documentation ; https://formsubmit.co/ajax-documentation
-
-Deployment setup test: FormSubmit returned success=false with an activation-required message and reported sending an Activate Form email to info@ubossai.com. Inbox-owner activation and a subsequent delivery check remain outstanding.
+FormSubmit and recipient activation are no longer used. Native email app selection depends on the visitor's device/browser configuration. A mail handler must be configured for automatic opening. The website cannot force Outlook or detect whether a message was sent.
