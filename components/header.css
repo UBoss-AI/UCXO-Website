@@ -4,3 +4,6 @@
 @media(max-width:1100px){.header{gap:18px}.nav{gap:19px}.header-actions{gap:10px}.header-actions .nav-cta{display:none}}
 @media(max-width:600px){.header-actions{gap:15px}.sign-in-button{padding:10px 12px;font-size:10px;gap:8px}.sign-in-button svg{width:12px}.header{gap:12px}.header .brand{font-size:22px}}
 @media(max-width:360px){.header .brand{font-size:20px}.header-actions{gap:10px}.sign-in-button{padding:9px 10px}.header{padding-left:5%;padding-right:5%}}
+.book-demo-button{display:inline-flex;align-items:center;gap:15px;white-space:nowrap;border:1px solid #b283df80;border-radius:5px;padding:13px 17px;background:#1d102e;color:#eee1ff;font-size:11px;transition:background .2s,border-color .2s}.book-demo-button:hover{background:#32174b;border-color:#c597ff}.book-demo-button:focus-visible{outline:2px solid #d8bbff;outline-offset:4px}
+@media(max-width:600px){.header-actions{gap:9px}.book-demo-button{padding:10px 11px;font-size:10px;gap:6px}.book-demo-button svg{display:none}.header .brand{font-size:21px}.header-actions .sign-in-button{padding:10px 11px;gap:6px}.header-actions .sign-in-button svg{display:none}}
+@media(max-width:360px){.header-actions{gap:7px}.header .brand{font-size:18px}.header .brand-mark{transform:scale(.8) skewY(-18deg);margin-right:-3px}.book-demo-button{padding:9px;font-size:9px}}
