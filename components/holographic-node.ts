@@ -83,6 +83,13 @@ export function createHolographicNode(node:WorkflowNode,mobile:boolean,glow:THRE
   const model=new THREE.Group();model.position.y=.34;model.scale.setScalar(symbolScale);hologram.add(model);
 
   switch(node.symbol){
+    case 'chat':{
+      add(model,roundedBox(.68,.46,.13,.07),glass,0,.68,0);
+      const outline=new THREE.LineSegments(new THREE.EdgesGeometry(roundedBox(.68,.46,.13,.07)),thin);outline.position.set(0,.68,0);model.add(outline);
+      [-.18,0,.18].forEach(x=>add(model,new THREE.SphereGeometry(.035,10,8),accent,x,.68,.09));
+      const tail=add(model,new THREE.ConeGeometry(.09,.17,3),accent,-.17,.39,0);tail.rotation.z=Math.PI;
+      break;
+    }
     case 'agent':
     case 'tools':{
       const gears=[{r:.23,x:-.19,y:.58,z:.12,s:1},{r:.19,x:.20,y:.88,z:-.02,s:-1.2},{r:.12,x:-.17,y:1.05,z:-.06,s:1.5}];

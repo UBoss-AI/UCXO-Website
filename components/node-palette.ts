@@ -15,6 +15,7 @@ export const nodePalette:Record<SymbolKind,number>={
  monitor:0xc7f464,
  result:0x58e58a,
  run:0xa5f3fc,
+ chat:0xff79b0,
 };
 
 export function nodeColor(node:{name:string;symbol:SymbolKind}):number{

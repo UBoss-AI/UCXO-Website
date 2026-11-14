@@ -64,3 +64,9 @@ Public brand, logo wordmark, titles, navigation accessibility labels, copy, FAQ,
 ## Approved node palette
 
 The proposed role palette is centralized in components/node-palette.ts and shared by homepage cards and StoryScene. Symbols, base rings, particles, projection volumes, and label accents use the same colors. Review/approval is gold, exception coral, evidence orange, executor lime, outcomes green, and runs ice cyan. Story evidence/check nodes switch from the Run palette to Evidence orange in the applicable chapters. Purple scene lighting was reduced so role colors remain distinct. Flow timing and approval gates are retained. User approved the local preview for production release. Build, typecheck, browser color checks, and narration transition regression passed.
+
+## Confirmed UCXO module terminology
+
+Homepage cards and narrated story now explain UMaster context, UForms inputs, UDo human assignments, UEngine coordination, UApprove decisions, UPingMe conversations/reminders/escalations, and URecords evidence/history. UDo and UPingMe meanings were explicitly confirmed by the user. UPingMe has a chat hologram; it does not approve work. Reusable agents and separate Runs remain distinct. The existing role palette is retained, with pink for UPingMe chat.
+
+Regenerate the synchronized Heart narration with scripts/render-module-narration.py (existing local Kokoro int8 model and voices), then node scripts/build-continuous-narration.cjs. Sentences use explicit spoken module names such as You Forms and You Ping Me. Caption-to-story cues are measured from generated audio, keeping the shared continuous master clock. New master duration: 59.799 seconds, displayed as 60 seconds. Previous timing examples above describe older revisions.
