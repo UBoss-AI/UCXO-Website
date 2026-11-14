@@ -8,7 +8,7 @@ from kokoro_onnx import Kokoro
 chapters=json.loads(subprocess.check_output(['node','-e',"process.stdout.write(JSON.stringify(require('./components/story-data.ts').chapters))"],cwd=root))
 voice=Kokoro(str(root/'.media-models/kokoro-v1.0.int8.onnx'),str(root/'.media-models/voices-v1.0.bin'))
 metadata=[]
-pronunciations={'UPingMe':'You Ping Me','UApprove':'You Approve','UMaster':'You Master','UForms':'You Forms','UEngine':'You Engine','URecords':'You Records','UDo':'You Do','UCXO':'U C X O'}
+pronunciations={'U-Engine':'You Engine','UDO':'You Do','UPingme':'You Ping Me','UPingMe':'You Ping Me','UApprove':'You Approve','UMaster':'You Master','UForms':'You Forms','UEngine':'You Engine','URecords':'You Records','UDo':'You Do','UCXO':'U C X O'}
 for i,chapter in enumerate(chapters):
     parts=[];points=[];cursor=0
     for cue in chapter['captions']:

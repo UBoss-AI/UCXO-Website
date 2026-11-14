@@ -112,11 +112,11 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
       world.rotation.y+=(targetX+drift-world.rotation.y)*.06;world.rotation.x+=(targetY+(state.reduced?0:Math.sin(stage*.14)*.015)-world.rotation.x)*.06;
       dust.rotation.y=state.reduced?0:stage*.012;
       nodes.forEach((node,i)=>{
-        const spec=definition.nodes[i];let delay=i*.15;if(index===1&&i>=5)delay=2.05+(i-5)*1.4;
+        const spec=definition.nodes[i];let delay=i*.15;
         const reveal=state.reduced?1:THREE.MathUtils.smoothstep(stage-delay,0,.65);
         node.group.visible=reveal>.005;node.group.scale.setScalar(.75+reveal*.25);node.group.position.y=node.position.y-(1-reveal)*.35;
         const related=selectedRef.current===null||selectedRef.current===i||definition.edges.some(e=>(e.from===i&&e.to===selectedRef.current)||(e.to===i&&e.from===selectedRef.current));
-        const waiting=(index===2&&(i===2||i===4||(i===1&&stage<2.4)))||(index===3&&i===5);
+        const waiting=definition.edges.some(e=>e.to===i&&e.kind==='blocked');
         const visualTime=waiting?0:stage;
         let intensity=spec.core?1.1:.45;if(index===1&&(i===2||i===3)&&stage>.65&&stage<4.85&&(stage-.65)%1.4<.8)intensity=1.5;if(index===2&&((i===0&&stage>.8)||(i===1&&stage>=2.4)))intensity=1.1;
         node.accent.emissiveIntensity=selectedRef.current===i?1.25:related?Math.min(intensity,.85):.12;
@@ -134,7 +134,6 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
           if(index===3&&i===4)projected.set(node.dimensions.x*.75,.50,0);
           node.group.localToWorld(projected);projected.project(camera);
           label.style.left=`${(projected.x*.5+.5)*element!.clientWidth}px`;label.style.top=`${(-projected.y*.5+.5)*element!.clientHeight}px`;label.style.opacity=String(reveal);label.style.pointerEvents=reveal>.9?'auto':'none';
-          const status=label.querySelector<HTMLElement>('.scene-node-status');if(status&&index===2){if(i===0)status.textContent=stage>.8?'PREREQUISITE COMPLETE':'IN PROGRESS';if(i===1){status.textContent=stage>=2.4?'READY':'WAITING';status.dataset.ready=String(stage>=2.4);}}
         }
       });
       edges.forEach(edge=>{
@@ -144,17 +143,6 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
         if(index===1&&spec.kind==='history')reveal=THREE.MathUtils.clamp((stage-(1.8+Math.max(spec.to-5,0)*1.4))/.7,0,1);
         if(state.reduced)reveal=1;[edge.outer,edge.inner,...edge.strands.flatMap(s=>[s.mesh,s.halo])].forEach(mesh=>mesh.geometry.setDrawRange(0,Math.floor(mesh.geometry.index!.count*reveal/3)*3));edge.ports.forEach(port=>port.visible=reveal>.1);edge.tip.visible=reveal>.8&&spec.kind!=='blocked';
         let phase=(stage*.23+edge.order*.22)%1,visible=spec.kind!=='blocked'&&stage>1&&reveal>.95&&!state.reduced;
-        if(index===0){phase=((stage-1.4-edge.order*.16)*.24)%1;visible=stage>1.4+edge.order*.16;}
-        if(index===1){
-          const execution=(stage-.65)%1.4;phase=THREE.MathUtils.clamp(execution/.65,0,1);
-          if(spec.to===4){phase=THREE.MathUtils.clamp((execution-.65)/.4,0,1);visible=stage>1.3&&stage<4.85&&execution>.65&&execution<1.05;}
-          else if(spec.kind==='history'){const arrival=2.05+Math.max(spec.to-5,0)*1.4;phase=THREE.MathUtils.clamp((stage-arrival+.4)/.4,0,1);visible=stage>=arrival-.4&&stage<=arrival;}
-          else visible=stage>.65&&stage<4.85&&execution<.65;
-        }
-        if(index===2){phase=THREE.MathUtils.clamp((stage-(spec.start??1))/((spec.end??2.4)-(spec.start??1)),0,1);visible=spec.kind!=='blocked'&&stage>=(spec.start??1)&&stage<(spec.end??2.4);}
-        if(index===3&&spec.kind!=='monitor'){
-          phase=THREE.MathUtils.clamp((stage-(spec.start??1))/((spec.end??2.1)-(spec.start??1)),0,1);visible=spec.kind!=='blocked'&&stage>=(spec.start??1);if(spec.to===0)phase=Math.min(phase,.97);if(spec.kind==='exception'&&stage>4.4)phase=1;
-        }
         edge.pulse.visible=visible&&related&&reveal>.7&&!state.reduced;edge.pulse.position.copy(edge.curve.getPoint(THREE.MathUtils.clamp(phase,0,1)));
         const heldAtGate=index===3&&spec.to===0&&stage>=(spec.end??2.1);
         edge.strands.forEach(strand=>{
@@ -203,8 +191,8 @@ export default function GraphScene({index,active,reduced,paused=false}:Props){
   const explanation=selected===null?null:definition.nodes[selected];
   const connected=selected===null?[]:definition.edges.filter(e=>e.from===selected||e.to===selected).map(e=>definition.nodes[e.from===selected?e.to:e.from].name);
   return <div className={`graph-scene cinematic-scene ${fallback?'static-workflow':''}`} ref={host} aria-label={`Interactive ${definition.title.toLowerCase()}`}>
-    {index===2&&<div className="scene-lane-key"><span><i/>UDO · HUMAN WORK</span><span><i/>UENGINE · AGENT WORK</span></div>}
-    {index===1&&<div className="scene-history-key">ONE REUSABLE AGENT <span>·</span> SEPARATE EXECUTION HISTORY</div>}
+    {index===2&&<div className="scene-lane-key"><span><i/>UDO · HUMAN WORK</span><span><i/>U-ENGINE · COORDINATION</span></div>}
+    {index===1&&<div className="scene-history-key">HUMAN <span>·</span> AI AGENT <span>·</span> SYSTEM <span>·</span> CONTROL</div>}
     {fallback&&<svg className="static-connections" viewBox="0 0 700 480" aria-hidden="true">{definition.edges.map((edge,i)=>{const point=(n:number)=>[90+(n%3)*250,85+Math.floor(n/3)*155];const[x1,y1]=point(edge.from),[x2,y2]=point(edge.to);return <path key={i} d={`M${x1} ${y1} C${x1} ${y2},${x2} ${y1},${x2} ${y2}`} fill="none" stroke={nodeColorHex(definition.nodes[edge.to])} strokeWidth="2" opacity={edge.kind==='blocked'?.25:.65}/>;})}</svg>}
     {definition.nodes.map((node,i)=><button key={`${index}-${i}`} ref={element=>{labels.current[i]=element;}} className={`scene-node-label ${node.core?'scene-core':''} ${node.amber?'scene-amber':''} ${selected===i?'scene-selected':''} ${node.symbol==='run'?'scene-run':''}`} style={{'--node-accent':nodeColorHex(node),...(fallback?{left:`${13+(i%3)*36}%`,top:`${18+Math.floor(i/3)*32}%`,opacity:1,pointerEvents:'auto'}:{})} as CSSProperties} aria-label={`${node.name}. ${node.explanation}`} tabIndex={active?0:-1} onPointerEnter={event=>{if(event.pointerType!=='touch')setSelected(i);}} onPointerLeave={event=>{if(event.pointerType!=='touch'&&document.activeElement!==event.currentTarget)setSelected(null);}} onFocus={()=>setSelected(i)} onBlur={()=>setSelected(null)} onClick={()=>setSelected(i)}>
       {fallback&&<span className="static-node-block" aria-hidden="true"><span/></span>}<strong>{node.name}</strong><span className="scene-node-status">{node.status}</span>

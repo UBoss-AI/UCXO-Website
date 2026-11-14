@@ -2,20 +2,20 @@
 export const narrationTimeline=[
   {
     "start": 0,
-    "duration": 12.945
+    "duration": 15.078666666666667
   },
   {
-    "start": 12.945,
-    "duration": 13.329
+    "start": 15.079,
+    "duration": 20.177
   },
   {
-    "start": 26.274,
-    "duration": 14.661
+    "start": 35.256,
+    "duration": 19.205
   },
   {
-    "start": 40.935,
-    "duration": 18.864
+    "start": 54.461,
+    "duration": 21.573
   }
 ] as const;
-export const narrationDuration=59.799;
+export const narrationDuration=76.034;
 export function narrationPosition(globalTime:number){const time=Math.max(0,Math.min(globalTime,narrationDuration));let chapter=0;for(let i=1;i<narrationTimeline.length;i++){if(time>=narrationTimeline[i].start)chapter=i;}return{chapter,time:time-narrationTimeline[chapter].start,duration:narrationTimeline[chapter].duration};}

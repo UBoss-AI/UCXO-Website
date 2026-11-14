@@ -14,582 +14,569 @@ export type WorkflowNode = {
 export type WorkflowEdge = { from: number; to: number; kind?: 'monitor' | 'blocked' | 'history' | 'exception'; start?: number; end?: number };
 export type WorkflowScene = { title: string; nodes: WorkflowNode[]; edges: WorkflowEdge[] };
 
+// Workflow labels and routes verified against the UCXO Engine Planner reference.
 export const workflowScenes:WorkflowScene[] = [
   {
-    "title": "Objective, UMaster context and UForms inputs",
+    "title": "Mission & Objectives, Work Planner and Engine Planner",
     "nodes": [
       {
-        "name": "Objective",
-        "status": "PROPOSED PLAN",
-        "position": [
-          -3.1,
-          0.5,
-          0.5
-        ],
-        "mobile": [
-          -2.8,
-          0.5,
-          0.3
-        ],
+        "name": "Mission & Objectives",
+        "status": "PRODUCTION READINESS",
         "symbol": "objective",
+        "position": [
+          -3,
+          1.5,
+          0
+        ],
+        "mobile": [
+          -2.55,
+          1.5,
+          0
+        ],
+        "explanation": "Start with an accepted objective: prepare next week’s production plan.",
         "core": true,
-        "explanation": "The business objective is the starting point for this illustrative draft. The proposed plan still needs human review."
+        "size": 1.45
       },
       {
-        "name": "UMaster",
-        "status": "PEOPLE AND RESOURCES",
+        "name": "HR Master",
+        "status": "PEOPLE AND OWNERSHIP",
+        "symbol": "human",
         "position": [
-          -0.2,
-          2.2,
-          -0.5
+          0,
+          2.5,
+          0
         ],
         "mobile": [
           0,
-          2.2,
-          -0.3
+          2.5,
+          0
         ],
-        "symbol": "tools",
-        "explanation": "UMaster provides company people, skills, availability and resource context for the proposed plan."
+        "explanation": "People and ownership provide context for committed work."
       },
       {
-        "name": "Engine Agent",
-        "status": "PROPOSED AI STEP",
-        "position": [
-          0.1,
-          -0.8,
-          0.8
-        ],
-        "mobile": [
-          0,
-          -0.7,
-          0.5
-        ],
+        "name": "Engine Planner",
+        "status": "DRAFT WORKFLOW",
         "symbol": "agent",
-        "explanation": "A reusable Engine Agent is proposed for work whose prerequisite is defined by the dependency."
+        "position": [
+          0,
+          -0.4,
+          0
+        ],
+        "mobile": [
+          0,
+          -0.4,
+          0
+        ],
+        "explanation": "Bind the objective, committed work and resources to a versioned workflow.",
+        "core": true,
+        "size": 1.45
       },
       {
         "name": "UForms",
-        "status": "VALIDATED BUSINESS INPUT",
+        "status": "READINESS CHECKLIST",
+        "symbol": "inputs",
         "position": [
           -3,
-          -1.9,
-          0.3
+          -1.6,
+          0
         ],
         "mobile": [
-          -2.8,
-          -1.8,
-          0.1
+          -2.55,
+          -1.6,
+          0
         ],
-        "symbol": "inputs",
-        "size": 1,
-        "explanation": "UForms captures a validated business submission. Required inputs must be available before dependent work can proceed."
+        "explanation": "Capture the readiness checklist using the form / input step."
       },
       {
         "name": "UApprove",
-        "status": "HUMAN DECISION",
+        "status": "NAMED HUMAN REVIEW",
+        "symbol": "approval",
         "position": [
           3,
-          1.9,
-          -0.1
+          1.7,
+          0
         ],
         "mobile": [
-          2.8,
-          2,
-          -0.1
+          2.55,
+          1.7,
+          0
         ],
-        "symbol": "approval",
-        "explanation": "UApprove holds the required human approval gate. The proposed workflow cannot bypass the named decision."
+        "explanation": "A named person must approve the revision before it can be activated."
       },
       {
-        "name": "Outcome",
-        "status": "PLANNED OUTCOME",
+        "name": "Work Planner",
+        "status": "COMMITTED WORK",
+        "symbol": "tools",
         "position": [
-          3.4,
-          -1.1,
-          0.2
+          3,
+          -1.6,
+          0
         ],
         "mobile": [
-          2.8,
+          2.55,
           -1.6,
-          0.1
+          0
         ],
-        "symbol": "result",
-        "explanation": "The intended outcome is connected to the approval gate. This is a plan, not completed execution."
+        "explanation": "Commit the work and resources that the plan will coordinate."
       }
     ],
     "edges": [
       {
         "from": 0,
-        "to": 1
+        "to": 2
       },
       {
-        "from": 0,
-        "to": 3
+        "from": 1,
+        "to": 2
       },
       {
         "from": 3,
         "to": 2
       },
       {
-        "from": 1,
-        "to": 4
+        "from": 5,
+        "to": 2
       },
       {
         "from": 2,
+        "to": 4,
+        "kind": "blocked"
+      }
+    ]
+  },
+  {
+    "title": "Engine Planner typed workflow",
+    "nodes": [
+      {
+        "name": "Agent action",
+        "status": "AI AGENT · CAPACITY SUMMARY",
+        "symbol": "agent",
+        "position": [
+          0,
+          0.1,
+          0
+        ],
+        "mobile": [
+          0,
+          0.1,
+          0
+        ],
+        "explanation": "The capacity summary runs after the line-clearance condition passes.",
+        "core": true,
+        "size": 1.45
+      },
+      {
+        "name": "Form / input",
+        "status": "HUMAN · READINESS CHECKLIST",
+        "symbol": "inputs",
+        "position": [
+          -3,
+          1.7,
+          0
+        ],
+        "mobile": [
+          -2.55,
+          1.7,
+          0
+        ],
+        "explanation": "A person completes the readiness checklist in UForms."
+      },
+      {
+        "name": "Condition",
+        "status": "CONTROL · LINE CLEARANCE?",
+        "symbol": "dependency",
+        "position": [
+          0,
+          2.8,
+          0
+        ],
+        "mobile": [
+          0,
+          2.8,
+          0
+        ],
+        "explanation": "Yes continues to the AI action. No routes to a human task for resolution."
+      },
+      {
+        "name": "Human task",
+        "status": "HUMAN · RESOLVE DEVIATION",
+        "symbol": "human",
+        "position": [
+          -3,
+          -1.4,
+          0
+        ],
+        "mobile": [
+          -2.55,
+          -1.4,
+          0
+        ],
+        "explanation": "Resolve the clearance deviation in UDO, then re-check the form, up to three times."
+      },
+      {
+        "name": "Integration",
+        "status": "SYSTEM · ERP SCHEDULE",
+        "symbol": "tools",
+        "position": [
+          3,
+          1.8,
+          0
+        ],
+        "mobile": [
+          2.55,
+          1.8,
+          0
+        ],
+        "explanation": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path."
+      },
+      {
+        "name": "Approval",
+        "status": "HUMAN · RELEASE REVIEW",
+        "symbol": "approval",
+        "position": [
+          1,
+          -2,
+          0
+        ],
+        "mobile": [
+          0.85,
+          -2,
+          0
+        ],
+        "explanation": "A named operations lead approves the release in UApprove."
+      },
+      {
+        "name": "Record output",
+        "status": "SYSTEM · APPROVED PLAN",
+        "symbol": "evidence",
+        "position": [
+          3,
+          -1.6,
+          0
+        ],
+        "mobile": [
+          2.55,
+          -1.6,
+          0
+        ],
+        "explanation": "The approved production plan is retained through URecords."
+      },
+      {
+        "name": "End",
+        "status": "CONTROL",
+        "symbol": "result",
+        "position": [
+          4.5,
+          0.1,
+          0
+        ],
+        "mobile": [
+          3.8249999999999997,
+          0.1,
+          0
+        ],
+        "explanation": "Complete the configured workflow path."
+      }
+    ],
+    "edges": [
+      {
+        "from": 1,
+        "to": 2
+      },
+      {
+        "from": 2,
+        "to": 0
+      },
+      {
+        "from": 2,
+        "to": 3,
+        "kind": "exception"
+      },
+      {
+        "from": 3,
+        "to": 1,
+        "kind": "exception"
+      },
+      {
+        "from": 0,
         "to": 4
       },
       {
         "from": 4,
         "to": 5
-      }
-    ]
-  },
-  {
-    "title": "Reusable agents and separate execution Runs",
-    "nodes": [
-      {
-        "name": "Engine Agent",
-        "status": "REUSABLE AI WORKER",
-        "position": [
-          0,
-          0.2,
-          0.5
-        ],
-        "mobile": [
-          0,
-          0.1,
-          0.4
-        ],
-        "symbol": "agent",
-        "core": true,
-        "size": 1.9,
-        "explanation": "One reusable Engine Agent stays in place. Each execution creates a separate Run in the history branch."
-      },
-      {
-        "name": "UForms",
-        "status": "STRUCTURED INPUTS",
-        "position": [
-          -3.2,
-          1.8,
-          0.1
-        ],
-        "mobile": [
-          -2.8,
-          1.8,
-          0
-        ],
-        "symbol": "inputs",
-        "explanation": "A UForms response supplies structured context to the reusable agent for this illustrative execution."
-      },
-      {
-        "name": "Approved Skills",
-        "status": "GOVERNED CAPABILITIES",
-        "position": [
-          0.2,
-          2.8,
-          -0.8
-        ],
-        "mobile": [
-          0,
-          2.6,
-          -0.5
-        ],
-        "symbol": "skills",
-        "size": 1.1,
-        "explanation": "The Engine Agent uses approved, reusable capabilities during execution."
-      },
-      {
-        "name": "Tools",
-        "status": "ILLUSTRATIVE MODULE",
-        "position": [
-          -3.1,
-          -1.4,
-          0.6
-        ],
-        "mobile": [
-          -2.8,
-          -0.8,
-          0.1
-        ],
-        "symbol": "tools",
-        "explanation": "A generic tool module illuminates when the illustrative execution uses it."
-      },
-      {
-        "name": "Results",
-        "status": "EXECUTION OUTPUT",
-        "position": [
-          3.2,
-          1.8,
-          -0.1
-        ],
-        "mobile": [
-          2.8,
-          1.8,
-          0
-        ],
-        "symbol": "result",
-        "explanation": "A result signal leaves the Engine Agent once the illustrative execution produces its output."
-      },
-      {
-        "name": "Run 01",
-        "status": "EXECUTION 01",
-        "position": [
-          1,
-          -1.9,
-          1.1
-        ],
-        "mobile": [
-          -1.3,
-          -2.5,
-          0.6
-        ],
-        "symbol": "run",
-        "size": 0.72,
-        "explanation": "First in the illustrative execution history. Run 01 has its own identity; it is not a replacement for the Engine Agent."
-      },
-      {
-        "name": "Run 02",
-        "status": "EXECUTION 02",
-        "position": [
-          2.6,
-          -1.7,
-          0.2
-        ],
-        "mobile": [
-          0.8,
-          -2.5,
-          0.3
-        ],
-        "symbol": "run",
-        "size": 0.72,
-        "explanation": "Second in the illustrative execution history. A subsequent execution creates Run 02."
-      },
-      {
-        "name": "Run 03",
-        "status": "EXECUTION 03",
-        "position": [
-          4.2,
-          -1.3,
-          -0.7
-        ],
-        "mobile": [
-          2.9,
-          -2.5,
-          0
-        ],
-        "symbol": "run",
-        "size": 0.72,
-        "explanation": "Third in the illustrative execution history. The same reusable Engine Agent creates another distinct Run."
-      }
-    ],
-    "edges": [
-      {
-        "from": 1,
-        "to": 0
-      },
-      {
-        "from": 2,
-        "to": 0
-      },
-      {
-        "from": 3,
-        "to": 0
-      },
-      {
-        "from": 0,
-        "to": 4
-      },
-      {
-        "from": 0,
-        "to": 5,
-        "kind": "history"
       },
       {
         "from": 5,
         "to": 6,
-        "kind": "history"
+        "kind": "blocked"
       },
       {
         "from": 6,
         "to": 7,
-        "kind": "history"
+        "kind": "blocked"
       }
     ]
   },
   {
-    "title": "UEngine coordinates UDo assignments and agent work",
+    "title": "U-Engine execution and human recovery in UDO",
     "nodes": [
       {
-        "name": "UDo",
-        "status": "ASSIGNED HUMAN WORK",
+        "name": "UDO",
+        "status": "HUMAN · RESOLVE DEVIATION",
+        "symbol": "human",
         "position": [
           -3,
           1.7,
-          0.3
+          0
         ],
         "mobile": [
-          -2.6,
-          1.6,
-          0.2
+          -2.55,
+          1.7,
+          0
         ],
-        "symbol": "human",
-        "explanation": "People receive and complete assigned tasks in UDo. Completion evidence unlocks the next eligible step."
+        "explanation": "The responsible person receives and completes the assigned recovery task in UDO."
       },
       {
-        "name": "Engine Agent",
-        "status": "WAITING",
+        "name": "Agent action",
+        "status": "AI AGENT · CAPACITY SUMMARY",
+        "symbol": "agent",
         "position": [
           0,
           -0.7,
-          0.6
+          0
         ],
         "mobile": [
           0,
-          -0.5,
-          0.4
+          -0.7,
+          0
         ],
-        "symbol": "agent",
+        "explanation": "The capacity summary can run only when the line-clearance condition passes.",
         "core": true,
-        "size": 1.55,
-        "explanation": "This Engine Agent changes from Waiting to Ready only after the human task and shared dependency are complete."
+        "size": 1.45
       },
       {
         "name": "UApprove",
-        "status": "WAITING FOR EVIDENCE",
+        "status": "HUMAN · RELEASE REVIEW",
+        "symbol": "approval",
         "position": [
           3.2,
           1.7,
-          -0.4
+          0
         ],
         "mobile": [
-          2.6,
-          1.6,
-          -0.2
+          2.72,
+          1.7,
+          0
         ],
-        "symbol": "approval",
-        "explanation": "The human decision in UApprove waits for the required output and evidence. UEngine cannot decide on behalf of the approver."
+        "explanation": "Release waits for the named approver; U-Engine cannot make this decision."
       },
       {
-        "name": "Dependency",
-        "status": "SHARED PREREQUISITE",
+        "name": "Condition",
+        "status": "CONTROL · LINE CLEARANCE?",
+        "symbol": "dependency",
         "position": [
           -3,
           -1.1,
-          -0.3
+          0
         ],
         "mobile": [
-          -2.6,
-          -1.3,
-          -0.2
+          -2.55,
+          -1.1,
+          0
         ],
-        "symbol": "dependency",
-        "size": 1,
-        "explanation": "This shared prerequisite must be complete before the AI task is ready."
+        "explanation": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action."
       },
       {
-        "name": "Next Agent",
-        "status": "WAITING FOR OUTPUT",
+        "name": "Integration",
+        "status": "SYSTEM · ERP SCHEDULE",
+        "symbol": "tools",
         "position": [
           3.2,
           -1,
-          0.1
+          0
         ],
         "mobile": [
-          2.6,
-          -1.3,
-          0.1
+          2.72,
+          -1,
+          0
         ],
-        "symbol": "agent",
-        "explanation": "Downstream agent work remains waiting until the preceding task supplies its required output."
+        "explanation": "The integration updates the ERP schedule before release approval."
       }
     ],
     "edges": [
       {
+        "from": 3,
+        "to": 0,
+        "kind": "exception"
+      },
+      {
         "from": 0,
-        "to": 1,
-        "start": 1,
-        "end": 2.4
+        "to": 3,
+        "kind": "exception"
       },
       {
         "from": 3,
-        "to": 1,
-        "start": 1.3,
-        "end": 2.4
+        "to": 1
       },
       {
         "from": 1,
+        "to": 4
+      },
+      {
+        "from": 4,
         "to": 2,
-        "kind": "blocked"
-      },
-      {
-        "from": 1,
-        "to": 4,
         "kind": "blocked"
       }
     ]
   },
   {
-    "title": "UApprove decisions, UPingMe conversations and URecords evidence",
+    "title": "UApprove, URecords and notification recovery",
     "nodes": [
       {
         "name": "UApprove",
-        "status": "AWAITING HUMAN APPROVAL",
+        "status": "HUMAN · RELEASE REVIEW",
+        "symbol": "approval",
         "position": [
           0,
           0.1,
-          0.7
+          0
         ],
         "mobile": [
           0,
           0.1,
-          0.5
+          0
         ],
-        "symbol": "approval",
+        "explanation": "The named operations lead reviews the evidence and decides whether to approve release.",
         "core": true,
-        "size": 1.7,
-        "explanation": "The named approver reviews exact evidence in UApprove. Only their explicit decision can open the configured path."
+        "size": 1.45
       },
       {
         "name": "URecords",
-        "status": "SUPPORTING EVIDENCE",
+        "status": "SYSTEM · RECORD OUTPUT",
+        "symbol": "evidence",
         "position": [
           -3.2,
           1,
-          0.2
+          0
         ],
         "mobile": [
-          -2.7,
-          1.1,
-          0.1
+          -2.72,
+          1,
+          0
         ],
-        "symbol": "evidence",
-        "explanation": "URecords / RIS retains supporting evidence and links it to the objective, workflow and execution history."
+        "explanation": "Retain the approved production plan and its supporting record."
       },
       {
-        "name": "Executor Agent",
-        "status": "MONITORING ONLY",
+        "name": "U-Engine",
+        "status": "APPROVED ACTIVE REVISION",
+        "symbol": "monitor",
         "position": [
           0.1,
           2.8,
-          -0.7
+          0
         ],
         "mobile": [
-          0,
-          2.6,
-          -0.5
+          0.085,
+          2.8,
+          0
         ],
-        "symbol": "monitor",
-        "size": 1.05,
-        "explanation": "The Executor Agent monitors the connected workflow and escalates exceptions. Mandatory human approval remains pending."
+        "explanation": "Only a tested, reviewed, approved and activated revision can start a run."
       },
       {
-        "name": "Exception",
-        "status": "ESCALATED",
+        "name": "Integration",
+        "status": "SYSTEM · SYNC FAILED",
+        "symbol": "exception",
         "position": [
           -3.1,
           -1.8,
-          0.4
+          0
         ],
         "mobile": [
-          -2.7,
-          -1.7,
-          0.2
+          -2.635,
+          -1.8,
+          0
         ],
-        "symbol": "exception",
-        "amber": true,
-        "size": 0.95,
-        "explanation": "An exception is escalated through UPingMe to the responsible person. Escalation does not approve the work."
+        "explanation": "A failed ERP sync follows the configured notification route."
       },
       {
-        "name": "UPingMe",
-        "status": "CHAT · REMIND · ESCALATE",
+        "name": "Notification",
+        "status": "SYSTEM · NOTIFY PLANNER",
+        "symbol": "chat",
         "position": [
           0,
           -2.5,
-          0.6
+          0
         ],
         "mobile": [
           0,
-          -2.4,
-          0.4
+          -2.5,
+          0
         ],
-        "symbol": "chat",
-        "amber": false,
-        "size": 1,
-        "explanation": "UPingMe is the conversation area for chat, notifications, reminders and escalations. People discuss the issue here; the approval decision remains in UApprove."
+        "explanation": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation."
       },
       {
-        "name": "Outcome",
-        "status": "WAITING FOR APPROVAL",
+        "name": "End",
+        "status": "CONTROL",
+        "symbol": "result",
         "position": [
           3.2,
           0.5,
-          -0.3
+          0
         ],
         "mobile": [
-          2.7,
-          0.9,
-          -0.1
+          2.72,
+          0.5,
+          0
         ],
-        "symbol": "result",
-        "explanation": "The outcome remains waiting. No execution signal is allowed to pass the closed approval gate."
+        "explanation": "The approved record path and notification recovery path each reach End."
       },
       {
-        "name": "Run History",
-        "status": "EXECUTION RECORD",
+        "name": "UPingme",
+        "status": "CHAT · REMIND · ESCALATE",
+        "symbol": "chat",
         "position": [
           3.3,
           -1.9,
-          -0.5
+          0
         ],
         "mobile": [
-          2.7,
-          -1.7,
-          -0.3
+          2.8049999999999997,
+          -1.9,
+          0
         ],
-        "symbol": "run",
-        "size": 0.95,
-        "explanation": "Execution history remains available to the monitoring layer while approval is pending."
+        "explanation": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove."
       }
     ],
     "edges": [
       {
-        "from": 1,
+        "from": 2,
         "to": 0,
-        "start": 0.9,
-        "end": 2.1
+        "kind": "monitor"
       },
       {
         "from": 0,
+        "to": 1,
+        "kind": "blocked"
+      },
+      {
+        "from": 1,
         "to": 5,
         "kind": "blocked"
       },
       {
-        "from": 5,
-        "to": 6,
-        "kind": "blocked"
-      },
-      {
-        "from": 2,
-        "to": 1,
-        "kind": "monitor"
-      },
-      {
-        "from": 2,
-        "to": 0,
-        "kind": "monitor"
-      },
-      {
-        "from": 2,
-        "to": 6,
-        "kind": "monitor"
-      },
-      {
         "from": 3,
         "to": 4,
-        "kind": "exception",
-        "start": 2.2,
-        "end": 4.4
+        "kind": "exception"
+      },
+      {
+        "from": 4,
+        "to": 5,
+        "kind": "exception"
+      },
+      {
+        "from": 4,
+        "to": 6,
+        "kind": "monitor"
       }
     ]
   }

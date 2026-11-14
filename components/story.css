@@ -38,3 +38,8 @@ html:has(.story-player){scroll-behavior:auto}.story-player{position:relative;hei
  .story-action{left:38%;right:4%;max-width:none;font-size:10px}
 }
 
+
+.story-flow-legend{position:absolute;bottom:0;left:12%;right:4%;display:flex;align-items:center;justify-content:center;gap:12px;font-size:8px;color:#baa8ca}.story-flow-legend span{padding:4px 7px;border:1px solid #bca5da44;border-radius:4px}.story-flow-legend i{width:22px;border-top:1px dashed #ff9b45}.story-flow-legend span:first-child{border-color:#69c8ff77}.story-flow-legend span:nth-child(2){border-color:#00e5c477}.story-flow-legend span:nth-child(3){border-color:#58e58a77}.story-object-labels small{max-width:170px;white-space:normal}@media(max-width:600px){.story-flow-legend{left:7%;right:7%;bottom:-2%;gap:5px;font-size:6px}.story-flow-legend span{padding:3px}.story-object-labels small{max-width:85px}}
+
+
+.story-flow-legend{bottom:7%}@media(max-width:600px){.story-flow-legend{bottom:1%}}
