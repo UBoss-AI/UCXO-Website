@@ -7,3 +7,5 @@
 
 
 .reference-home-canvas{z-index:3;top:21%;bottom:25%}.reference-home-canvas .ucxo-workflow{transform:none}.reference-home-canvas .workflow-scroll{height:clamp(200px,17vw,280px)}.reference-home-canvas .workflow-graph{min-height:100%}.hero-panel:has(.reference-home-canvas) .hero-copy{width:34%;z-index:4}.hero-panel:has(.reference-home-canvas) .hero-copy h1{font-size:clamp(36px,4vw,62px)}.hero-panel:has(.reference-home-canvas) .visual-caption{bottom:17%;left:44%}@media(max-width:600px){.reference-home-canvas{left:5%;right:5%;top:46%;bottom:16%}.reference-home-canvas .workflow-scroll{height:150px}.hero-panel:has(.reference-home-canvas) .hero-copy{width:88%}.hero-panel:has(.reference-home-canvas) .hero-copy h1{font-size:34px}.hero-panel:has(.reference-home-canvas) .visual-caption{display:none}}
+
+@media(max-width:600px){.story-player .story-state{display:none}}
