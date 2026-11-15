@@ -1,0 +1,8 @@
+.media-tools/
+.media-models/
+node_modules/
+.next/
+out/
+.git/
+.env*
+PRODUCT-TOUR-REVIEW.md

@@ -1,0 +1,282 @@
+{
+  "source": "UCXO-1_merged (2).pdf",
+  "screens": [
+    {
+      "screen": "udashview",
+      "pdfPage": 1,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "upingme-dashboard",
+      "pdfPage": 2,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "udo",
+      "pdfPage": 3,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "uapprove",
+      "pdfPage": 4,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "uforms",
+      "pdfPage": 5,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "urecords",
+      "pdfPage": 6,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "uengine",
+      "pdfPage": 7,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "utraining",
+      "pdfPage": 8,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "mission-objectives",
+      "pdfPage": 9,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "work-planner",
+      "pdfPage": 10,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "engine-planner",
+      "pdfPage": 11,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "hr-master",
+      "pdfPage": 12,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "machine-master",
+      "pdfPage": 13,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "forms-master",
+      "pdfPage": 14,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "delegation-master",
+      "pdfPage": 15,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "uusers",
+      "pdfPage": 16,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "inbox",
+      "pdfPage": 17,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "team-channels",
+      "pdfPage": 19,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "work-conversations",
+      "pdfPage": 20,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "upingme-udo",
+      "pdfPage": 18,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "calls",
+      "pdfPage": 21,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "people-directory",
+      "pdfPage": 22,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    },
+    {
+      "screen": "workspace-settings",
+      "pdfPage": 23,
+      "crop": [
+        94,
+        94,
+        2706,
+        1888
+      ],
+      "width": 2612,
+      "height": 1794
+    }
+  ],
+  "renderLongEdge": 2800
+}
