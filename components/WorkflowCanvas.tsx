@@ -40,7 +40,8 @@ export default function WorkflowCanvas({chapter=0,time=0,active=true,paused=fals
  const beats=chapter===0?[0,9,14]:chapter===1?[0,4,8,13]:chapter===2?[0,4,8,12,15]:[0,4,9,13,17];
  let beat=0;beats.forEach((at,i)=>{if(time>=at)beat=i;});const focus=selected??chapterFocus[chapter][narrated?beat:Math.min(chapterFocus[chapter].length-1,chapter===0?1:chapter===1?2:chapter===2?3:1)];
  const list=useRef<HTMLOListElement>(null);
- useEffect(()=>{const el=list.current,row=el?.children[focus] as HTMLElement|undefined;if(ordered&&el&&row)el.scrollTo({top:row.offsetTop-el.offsetTop-10,behavior:reduced?'instant':'smooth'});},[focus,ordered,reduced]);
+ useEffect(()=>{const media=window.matchMedia('(max-width:600px)');const update=()=>setOrdered(media.matches);media.addEventListener('change',update);return()=>media.removeEventListener('change',update);},[]);
+ useEffect(()=>{const el=list.current,row=el?.children[focus] as HTMLElement|undefined;if(ordered&&el&&row)el.scrollTo({top:row.getBoundingClientRect().top-el.getBoundingClientRect().top+el.scrollTop-10,behavior:reduced?'instant':'smooth'});},[focus,ordered,reduced]);
  const released=narrated&&chapter===3&&time>=9;
  return <section className={`ucxo-workflow ${narrated?'is-narrated':''} ${!active||paused||reduced?'is-still':''}`} aria-label="UCXO Engine Planner workflow canvas">
   <div className="workflow-title"><span><Workflow size={14}/> Workflow canvas</span><span>WF-008 <b>draft v1</b><i>Illustrative</i></span></div>

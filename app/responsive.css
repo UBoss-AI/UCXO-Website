@@ -1,0 +1,160 @@
+/* Layout must grow with its content, including short landscape screens. */
+html { -webkit-text-size-adjust: 100%; }
+body { min-width: 0; }
+main, section, article, form, fieldset { min-width: 0; }
+input, select, textarea { max-width: 100%; }
+.header .header-actions { flex-shrink: 0; }
+.ucxo-workflow .workflow-title,
+.ucxo-workflow .workflow-toolbar,
+.ucxo-workflow .workflow-footer { flex-wrap: wrap; }
+.ucxo-workflow .workflow-title > span,
+.ucxo-workflow .workflow-toolbar > div { min-width: 0; }
+.ucxo-workflow .workflow-title > span:last-child { flex-wrap: wrap; }
+.ucxo-workflow .workflow-ordered { position: relative; }
+.ucxo-workflow .workflow-ordered li > div { min-width: 0; }
+.ucxo-workflow .workflow-ordered strong { overflow-wrap: anywhere; }
+.ucxo-workflow .workflow-toolbar button { width: 44px; height: 44px; }
+.ucxo-workflow .workflow-view-tabs button { min-height: 40px; }
+.ucxo-workflow .workflow-footer { line-height: 1.5; }
+.hero:has(.reference-home-canvas) { min-height: 800px; }
+.story-player:has(.reference-story-canvas) { min-height: 800px; }
+.story-player .story-stage { animation: responsive-story-enter .3s ease both; }
+@keyframes responsive-story-enter { from { opacity: 0; } to { opacity: 1; } }
+@media (prefers-reduced-motion: reduce) {
+  .story-player .story-stage { animation: none; }
+}
+@media (min-width: 1101px) {
+  .hero .hero-panel:has(.reference-home-canvas) .hero-copy {
+    left: 6%; width: 32%; max-width: 620px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .hero:has(.reference-home-canvas) { height: auto; min-height: 0; }
+  .hero:has(.reference-home-canvas) .hero-panels { position: relative; display: grid; }
+  .hero:has(.reference-home-canvas) .hero-panel {
+    position: relative; inset: auto; grid-area: 1 / 1;
+    display: flex; flex-direction: column; gap: 30px;
+    padding: 135px 6% 155px; min-width: 0; overflow: hidden;
+  }
+  .hero .hero-panel:has(.reference-home-canvas) .hero-copy {
+    position: relative; inset: auto; transform: none; order: 1;
+    width: 100%; max-width: 760px;
+  }
+  .hero .hero-panel:has(.reference-home-canvas) .hero-copy h1 {
+    font-size: clamp(34px, 5.5vw, 58px); letter-spacing: -.045em;
+  }
+  .hero .hero-copy > p { max-width: 590px; font-size: 15px; }
+  .hero .reference-home-canvas {
+    position: relative; inset: auto; order: 2; width: 100%; min-width: 0;
+  }
+  .hero .hero-shade, .hero .visual-caption { display: none; }
+  .hero .reference-home-canvas .workflow-scroll { height: clamp(200px, 29vw, 310px); }
+  .hero .hero-bottom { bottom: 45px; gap: 16px; }
+  .hero .scroll-cue { bottom: 13px; }
+  .hero .slide-tabs { min-width: 0; flex: 1; }
+  .hero .slide-tabs button { min-height: 48px; }
+  .hero .tab-caption { white-space: normal; line-height: 1.5; }
+  .hero .slide-controls { flex-shrink: 0; }
+
+  .story-player:has(.reference-story-canvas) {
+    display: flex; flex-direction: column; gap: 26px;
+    height: auto; min-height: 0; padding: 130px 6% 32px;
+  }
+  .story-player .story-stage { position: relative; inset: auto; order: 1; }
+  .story-player .story-copy { position: relative; inset: auto; width: 100%; max-width: 760px; }
+  .story-player .story-copy h1 { font-size: clamp(32px, 4.8vw, 52px); max-width: 700px; }
+  .story-player .story-copy > p { max-width: 620px; font-size: 14px; }
+  .story-player .story-chapter-number { position: static; margin: 18px 0; }
+  .story-player .story-example { margin-top: 18px; }
+  .story-player .story-example strong { font-size: 18px; }
+  .story-player .story-listen { margin-top: 18px; min-height: 44px; }
+  .story-player .reference-story-canvas { position: relative; inset: auto; order: 2; width: 100%; }
+  .story-player .reference-story-canvas .workflow-scroll { height: clamp(200px, 29vw, 310px); }
+  .story-player .story-gradient, .story-player .story-state { display: none; }
+  .story-player .story-caption {
+    position: relative; inset: auto; order: 3; width: 100%; min-height: 0;
+    font-size: 14px; overflow-wrap: anywhere;
+  }
+  .story-player .story-bottom { position: relative; inset: auto; order: 4; width: 100%; }
+  .story-player .story-playback { flex-wrap: wrap; gap: 9px; }
+  .story-player .story-playback button { width: 40px; height: 40px; }
+  .story-player .story-playback input { flex: 1 1 120px; min-width: 60px; }
+  .story-player .story-time { font-size: 11px; }
+  .story-player .story-preview-label { display: none; }
+  .story-player .story-tabs { gap: 18px; margin-top: 24px; }
+  .story-player .story-tabs button { min-height: 48px; font-size: 12px; }
+  .story-player .story-start { position: relative; inset: auto; order: 5; align-self: flex-start; }
+
+  .header .nav { display: none; }
+  .header .mobile-menu { display: grid; place-items: center; min-width: 40px; min-height: 44px; }
+  .header .nav.open {
+    display: flex; position: absolute; top: 100%; left: 0; right: 0;
+    flex-direction: column; align-items: stretch; gap: 0; padding: 12px 6%;
+    background: #110b1c; border-bottom: 1px solid #57416e; z-index: 30;
+  }
+  .header .nav.open a { padding: 14px 0; font-size: 15px; }
+  .demo-page .demo-layout { grid-template-columns: 1fr; gap: 36px; max-width: 760px; }
+  .demo-page .demo-intro { padding-top: 0; }
+}
+
+@media (max-width: 600px) {
+  .header { padding: 0 4%; gap: 8px; }
+  .header .header-actions { gap: 6px; }
+  .header .book-demo-button, .header .sign-in-button { min-height: 44px; padding: 10px; }
+  .header .brand { font-size: 20px; gap: 6px; }
+  .header .brand-mark { width: 25px; }
+  .hero:has(.reference-home-canvas) .hero-panel { padding: 115px 5% 185px; gap: 28px; }
+  .hero .hero-copy > p { font-size: 14px; line-height: 1.8; }
+  .hero .hero-actions { flex-wrap: wrap; }
+  .hero .hero-bottom { left: 5%; right: 5%; bottom: 34px; flex-wrap: wrap; gap: 14px; }
+  .hero .slide-tabs { flex-basis: 100%; width: 100%; gap: 10px; }
+  .hero .tab-caption { font-size: 10px; }
+  .hero .slide-controls { margin-left: auto; }
+  .hero .slide-controls button { width: 40px; height: 40px; }
+  .hero .reference-home-canvas .workflow-scroll,
+  .story-player .reference-story-canvas .workflow-scroll { height: 200px; }
+  .ucxo-workflow .workflow-ordered { max-height: 280px; padding: 10px; }
+  .ucxo-workflow .workflow-ordered li { padding: 12px 6px; }
+  .ucxo-workflow .workflow-ordered strong { font-size: 13px; line-height: 1.5; }
+  .ucxo-workflow .workflow-ordered small { font-size: 10px; line-height: 1.5; }
+  .ucxo-workflow .workflow-ordered p { font-size: 11px; }
+  .ucxo-workflow .workflow-title { gap: 6px; font-size: 12px; }
+  .ucxo-workflow .workflow-title > span:last-child { font-size: 9px; }
+  .ucxo-workflow .workflow-view-tabs { flex-wrap: wrap; }
+  .ucxo-workflow .workflow-view-tabs button { font-size: 11px; }
+  .ucxo-workflow .workflow-view-tabs > span { font-size: 9px; }
+  .ucxo-workflow .workflow-role-key { gap: 7px; }
+  .ucxo-workflow .workflow-role-key > span { font-size: 9px; }
+  .ucxo-workflow .workflow-footer, .ucxo-workflow .workflow-footer > span:last-child { font-size: 9px; }
+  .story-player:has(.reference-story-canvas) { padding: 115px 5% 28px; }
+  .story-player .story-copy h1 { margin-top: 0; letter-spacing: -.035em; }
+  .story-player .story-copy > p { margin-top: 15px; font-size: 14px; }
+  .story-player .story-example small { font-size: 9px; }
+  .story-player .story-example > span { font-size: 10px; }
+  .story-player .story-tabs { grid-template-columns: repeat(2,minmax(0,1fr)); }
+  .demo-page { padding-left: 5%; padding-right: 5%; }
+  .demo-page .demo-fields { grid-template-columns: 1fr; gap: 0; }
+  .demo-page .demo-form-panel { padding: 24px 18px; }
+  .demo-page .demo-form input, .demo-page .demo-form select, .demo-page .demo-form textarea { font-size: 16px; }
+  .demo-page .demo-journey { flex-wrap: wrap; gap: 6px; }
+  .demo-page .demo-journey > span { font-size: 8px; padding: 10px 7px; }
+  .section-heading p, .feature p, .use-card p, .journey-content p,
+  .oversight-copy > p, .oversight-points span, .faq-list details p,
+  .closing p, .story-transcript p { font-size: 14px; }
+  .feature h3, .use-card h3 { font-size: 20px; min-height: 0; }
+  .feature p { min-height: 0; }
+  .feature-tag { font-size: 11px; min-height: 0; }
+  .footer-links, .footer-main p, .back-top { font-size: 12px; }
+  .footer-bottom, .illustrative-note, .story-media-note { font-size: 11px; }
+}
+
+@media (max-width: 480px) {
+  .feature-section .feature-grid { grid-template-columns: 1fr; }
+}
+
+@media (min-width: 1800px) {
+  .hero .hero-copy { max-width: 620px; }
+  .hero .reference-home-canvas { right: max(4%,calc((100vw - 2000px)/2)); }
+  .story-player .reference-story-canvas { right: max(4%,calc((100vw - 2000px)/2)); }
+}
