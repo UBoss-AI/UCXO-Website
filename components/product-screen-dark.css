@@ -1,0 +1,6 @@
+.product-screen-filters{position:absolute;pointer-events:none;overflow:hidden}
+.product-screen-dark-image{display:block;width:100%;height:auto;pointer-events:none;user-select:none}
+.product-screen-dark-navigation{position:absolute;inset:0;pointer-events:none;clip-path:polygon(0 0,100% 0,100% 9.45%,31.33% 9.45%,31.33% 100%,0 100%)}
+.product-screen-dark-navigation>img{display:block;width:100%;height:auto;user-select:none}
+
+.product-screen-dark-feature{position:absolute;inset:0;display:block;width:100%;height:auto;pointer-events:none;clip-path:inset(35.7% 5.5% 20.1% 34.85% round 1.45cqw)}

@@ -1,15 +1,15 @@
 'use client';
 import {useRef,useState} from 'react';
 import {ArrowUpRight,Check,Expand,Maximize2,Minus,X} from 'lucide-react';
-import ProductScreenLabels from './ProductScreenLabels';
-import type {ProductPreview} from './product-preview-data';
+import ProductScreenImage from './ProductScreenImage';
+import {productPreviews,type ProductPreview} from './product-preview-data';
 
 export default function ProductPreviewCard({preview,index}:{preview:ProductPreview;index:number}){
   const [selected,setSelected]=useState(0),[actualSize,setActualSize]=useState(false);
   const dialog=useRef<HTMLDialogElement>(null),screen=preview.screens[selected];
   function expand(){setActualSize(false);dialog.current?.showModal();}
   return <article className="product-preview-card" id={preview.id} aria-labelledby={`${preview.id}-heading`}>
-    <div className="product-preview-card-top"><span><b>0{index+1}</b> / 05</span><span>{preview.label}</span><span className="product-preview-proof"><Check size={12}/>Original software screen</span></div>
+    <div className="product-preview-card-top"><span><b>0{index+1}</b> / {String(productPreviews.length).padStart(2,'0')}</span><span>{preview.label}</span><span className="product-preview-proof"><Check size={12}/>Original software screen</span></div>
     <div className="product-preview-layout">
       <div className="product-preview-copy">
         <div className="product-preview-kicker"><i/>{preview.kicker}</div>
@@ -21,7 +21,7 @@ export default function ProductPreviewCard({preview,index}:{preview:ProductPrevi
       <div className="product-preview-visual">
         <div className="product-preview-image-top"><span><i/>{preview.label} <small>/ {screen.label}</small></span><button type="button" onClick={expand} aria-label={`Expand ${preview.label} screen`}><Expand size={14}/>View full screen</button></div>
         <button type="button" className="product-preview-image" onClick={expand} aria-label={`Inspect original ${screen.label} screen`}>
-          <img src={`/product-previews/${screen.id}.webp`} width="1306" height="897" alt={screen.description} loading={index===0?'eager':'lazy'}/><ProductScreenLabels screen={screen.id}/>
+          <ProductScreenImage screen={screen.id} alt={screen.description} active={index===0} theme={index%2===0?'dark':'light'}/>
           <span className="product-preview-image-hint"><Expand size={14}/>Inspect original screen</span>
         </button>
         <p className="product-preview-touch-hint"><Expand size={12}/>Tap the screen to inspect it at full size.</p>
@@ -32,7 +32,7 @@ export default function ProductPreviewCard({preview,index}:{preview:ProductPrevi
     {preview.note&&<p className="product-preview-source-note">Reference note: {preview.note}</p>}
     <dialog ref={dialog} className="product-preview-dialog" aria-label={`${screen.label} original software screen`} onClick={event=>{if(event.target===event.currentTarget)dialog.current?.close();}}>
       <div className="product-preview-dialog-bar"><div><strong>{screen.label}</strong><span>Original UCXO software · PDF page {screen.page}</span></div><div><button type="button" onClick={()=>setActualSize(x=>!x)}>{actualSize?<Minus size={16}/>:<Maximize2 size={16}/>} {actualSize?'Fit to window':'Actual size'}</button><button type="button" aria-label="Close screen preview" onClick={()=>dialog.current?.close()} autoFocus><X size={20}/></button></div></div>
-      <div className={`product-preview-dialog-image ${actualSize?'is-actual-size':''}`}><img src={`/product-previews/${screen.id}.webp`} width="1306" height="897" alt={screen.description}/><ProductScreenLabels screen={screen.id}/></div>
+      <div className={`product-preview-dialog-image ${actualSize?'is-actual-size':''}`}><ProductScreenImage screen={screen.id} alt={screen.description} active theme={index%2===0?'dark':'light'}/></div>
     </dialog>
   </article>;
 }

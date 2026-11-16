@@ -43,3 +43,5 @@ html:has(.story-player){scroll-behavior:auto}.story-player{position:relative;hei
 
 
 .story-flow-legend{bottom:7%}@media(max-width:600px){.story-flow-legend{bottom:1%}}
+
+.story-transcript-toggle{border-top:1px solid #50336566;padding:18px 0}.story-transcript-toggle>summary{color:#cab0de;font-size:14px;cursor:pointer;min-height:32px}.story-transcript-toggle>summary:focus-visible{outline:2px solid #c394ed;outline-offset:5px}

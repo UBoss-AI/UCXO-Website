@@ -1,4 +1,4 @@
-"""Generate one continuous, locally rendered narration track for the five-card tour."""
+"""Render the UCXO introduction, tab announcements, and concise walkthrough as one track."""
 import sys,json,subprocess,wave
 from pathlib import Path
 root=Path(__file__).resolve().parents[1]
@@ -6,25 +6,70 @@ sys.stdout.reconfigure(encoding='utf-8')
 sys.path.insert(0,str(root/'.media-tools'))
 import numpy as np
 from kokoro_onnx import Kokoro
-chapters=json.loads(subprocess.check_output(['node','-e',"process.stdout.write(JSON.stringify(require('./components/product-tour-data.ts').tourChapters))"],cwd=root))
+source=json.loads(subprocess.check_output(['node','-e',"const d=require('./components/product-tour-data.ts');process.stdout.write(JSON.stringify({intro:d.productTourIntro,chapters:d.tourChapters}))"],cwd=root))
 voice=Kokoro(str(root/'.media-models/kokoro-v1.0.int8.onnx'),str(root/'.media-models/voices-v1.0.bin'))
-pronunciations={'UDashview':'You Dash View','U&Me':'You and Me','USpace':'You Space','UMaster':'You Master','UPingme':'You Ping Me','U-Engine':'You Engine','UApprove':'You Approve','UForms':'You Forms','URecords':'You Records','UTraining':'You Training','UUsers':'You Users','UDO':'You Do','UCXO':'U C X O','SOP':'S O P','HR Master':'H R Master'}
-parts=[];timing=[];cursor=0;rate=24000
-for ci,chapter in enumerate(chapters):
-    start=cursor;steps=[]
-    for si,step in enumerate(chapter['steps']):
-        spoken=step['text']
-        for name,value in pronunciations.items():spoken=spoken.replace(name,value)
-        samples,rate=voice.create(spoken,voice='af_heart',speed=1.0,lang='en-us')
-        duration=len(samples)/rate
-        padding=max(.4,5.0-duration)
-        steps.append({'start':round(cursor,3),'duration':round(duration+padding,3),'speechDuration':round(duration,3)})
-        parts.append((np.clip(samples,-1,1)*32767).astype('<i2').tobytes());parts.append(bytes(round(padding*rate)*2))
-        cursor+=(len(samples)+round(padding*rate))/rate
-        print(f'{chapter["label"]} / {step["title"]}: {duration:.2f}s',flush=True)
-    timing.append({'start':round(start,3),'duration':round(cursor-start,3),'steps':steps})
+pronunciations={'UCXO.AI':'you see ex oh dot ay eye','UDashview':'You Dash View','U&Me':'You and Me','USpace':'You Space','UMaster':'You Master','UPingme':'You Ping Me','U-Engine':'You Engine','UApprove':'You Approve','UForms':'You Forms','URecords':'You Records','UTraining':'You Training','UUsers':'You Users','UDO':'You Do','UCXO':'U C X O','SOPs':'S O Ps','HR Master':'H R Master'}
+parts=[];cursor=0;rate=24000
+
+def render(text,minimum=0,gap=.35):
+ global cursor,rate
+ spoken=text
+ for name,value in pronunciations.items():spoken=spoken.replace(name,value)
+ if text.startswith('UCXO.AI'):
+  rest=text[len('UCXO.AI'):].lstrip('. ')
+  for name,value in pronunciations.items():rest=rest.replace(name,value)
+  # Explicit letter sounds: U C X O, dot A I. Avoid abbreviation guessing.
+  phonemes='jˈu sˈi ˈɛks ˈoʊ dˈɑt ˈeɪ ˈaɪ '+voice.tokenizer.phonemize(rest,lang='en-us')
+  samples,rate=voice.create(phonemes,voice='af_heart',speed=1.0,lang='en-us',is_phonemes=True)
+ else:
+  samples,rate=voice.create(spoken,voice='af_heart',speed=1.0,lang='en-us')
+ duration=len(samples)/rate;padding=max(gap,minimum-duration)
+ at={'start':round(cursor,3),'duration':round(duration+padding,3),'speechDuration':round(duration,3)}
+ parts.append((np.clip(samples,-1,1)*32767).astype('<i2').tobytes());parts.append(bytes(round(padding*rate)*2))
+ cursor+=(len(samples)+round(padding*rate))/rate
+ return at
+
+if '--intro-only' in sys.argv:
+ import hashlib
+ existing=json.loads(subprocess.check_output(['node','-e',"process.stdout.write(JSON.stringify(require('./components/product-tour-timing.ts')))"],cwd=root))
+ out=root/'public/narration/product-tour.wav'
+ with wave.open(str(out),'rb') as old:
+  params=old.getparams();old_rate=old.getframerate();old_frames=old.readframes(old.getnframes())
+ cut=round(existing['productTourIntroTiming']['duration']*old_rate)
+ tail=old_frames[cut*2:]
+ intro=render(source['intro']['narration'],gap=.6)
+ assert rate==old_rate
+ new_intro=b''.join(parts);delta=len(new_intro)/2/rate-cut/rate
+ timing=existing['productTourTiming'];announcements=existing['productTourAnnouncements']
+ for chapter in timing:
+  chapter['start']=round(chapter['start']+delta,3)
+  for step in chapter['steps']:step['start']=round(step['start']+delta,3)
+ for item in announcements:item['start']=round(item['start']+delta,3)
+ frames=new_intro+tail
+ with wave.open(str(out),'wb') as audio:audio.setparams(params);audio.writeframes(frames)
+ duration=round(len(frames)/2/rate,3)
+ (root/'components/product-tour-timing.ts').write_text('// Continuous narration; explicit UCXO.AI intro pronunciation.\nexport const productTourIntroTiming='+json.dumps(intro)+' as const;\nexport const productTourAnnouncements='+json.dumps(announcements,indent=2)+' as const;\nexport const productTourTiming='+json.dumps(timing,indent=2)+' as const;\nexport const productTourDuration='+str(duration)+';\n',encoding='utf-8')
+ with wave.open(str(out),'rb') as check:result=check.readframes(check.getnframes())
+ assert hashlib.sha256(result[len(new_intro):]).digest()==hashlib.sha256(tail).digest()
+ print(f'Intro pronunciation updated. Intro: {intro["duration"]:.3f}s. Remaining narration byte-identical. Total: {duration:.3f}s.',flush=True)
+ sys.exit(0)
+
+intro=render(source['intro']['narration'],gap=.6)
+print(f'Introduction: {intro["duration"]:.2f}s',flush=True)
+timing=[];announcements=[]
+for chapter in source['chapters']:
+ announcement=render(chapter['label']+'.',gap=.25)
+ announcements.append(dict(announcement,label=chapter['label']))
+ start=cursor;steps=[]
+ for i,step in enumerate(chapter['steps']):
+  text=step['text']
+  if i==0 and text.startswith(chapter['label']+'. '):text=text[len(chapter['label'])+2:]
+  at=render(text,minimum=5.0)
+  steps.append(at)
+  print(f'{chapter["label"]} / {step["title"]}: {at["duration"]:.2f}s',flush=True)
+ timing.append({'start':round(start,3),'duration':round(cursor-start,3),'steps':steps})
 out=root/'public/narration/product-tour.wav'
 with wave.open(str(out),'wb') as audio:
-    audio.setnchannels(1);audio.setsampwidth(2);audio.setframerate(rate);audio.writeframes(b''.join(parts))
-(root/'components/product-tour-timing.ts').write_text('// Generated by scripts/render-product-tour.py. One continuous Kokoro Heart narration.\nexport const productTourTiming='+json.dumps(timing,indent=2)+' as const;\nexport const productTourDuration='+str(round(cursor,3))+';\n',encoding='utf-8')
+ audio.setnchannels(1);audio.setsampwidth(2);audio.setframerate(rate);audio.writeframes(b''.join(parts))
+(root/'components/product-tour-timing.ts').write_text('// Generated by scripts/render-product-tour.py. Continuous narration with introduction and spoken tab announcements.\nexport const productTourIntroTiming='+json.dumps(intro)+' as const;\nexport const productTourAnnouncements='+json.dumps(announcements,indent=2)+' as const;\nexport const productTourTiming='+json.dumps(timing,indent=2)+' as const;\nexport const productTourDuration='+str(round(cursor,3))+';\n',encoding='utf-8')
 print(f'Total: {cursor:.3f}s; {out.stat().st_size} bytes',flush=True)
