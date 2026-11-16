@@ -55,6 +55,6 @@ export default function WorkflowCanvas({chapter=0,time=0,active=true,paused=fals
     <text className="workflow-node-name" y="53">{n.name}</text><text className="workflow-node-name" y="70">{n.detail}</text><text className="workflow-node-type" y="91">{n.type} · {n.role}</text>
    </g>)}
   </svg></div>}
-  <div className="workflow-footer"><span>{selected===null?'Next week’s production readiness plan':`${nodes[selected].type} · ${nodes[selected].name} ${nodes[selected].detail}`}</span><span>{released?'Illustrative approval recorded':'Illustrative workflow · Human approval required'}</span></div>
+  <div className="workflow-footer"><span>{selected===null?'Next week’s production readiness plan':`${nodes[selected].type} · ${nodes[selected].name} ${nodes[selected].detail}`}</span><span>{released?'Illustrative approval recorded':'Human approval required'}</span></div>
  </section>;
 }
