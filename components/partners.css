@@ -1,0 +1,16 @@
+.partner-strip{position:relative;border-top:1px solid #ccaeff16;border-bottom:1px solid #ccaeff16;padding:22px 5%;background:radial-gradient(ellipse at 25% 50%,#7621b70a,transparent 65%),#09060f;overflow:hidden}
+.partner-inner{display:grid;grid-template-columns:180px minmax(0,1fr);gap:36px;align-items:center;max-width:1760px;margin:0 auto;position:relative}
+.partner-label{display:flex;align-items:center;gap:17px}
+.partner-label h2{font-size:17px;line-height:1.5;font-weight:450;letter-spacing:-.35px;color:#d6c5e2;margin:0;white-space:nowrap}
+.partner-label button{display:grid;place-items:center;flex-shrink:0;width:32px;height:32px;padding:0;border:1px solid #68458266;border-radius:50%;background:#1b1024;color:#c5a7dc;transition:border-color .2s,color .2s}
+.partner-label button:hover{border-color:#b77ce7;color:#f1defe}
+.partner-label button:focus-visible{outline:2px solid #cf9df2;outline-offset:4px}
+.partner-window{width:100%;min-width:0;height:108px;container-type:inline-size;mask-image:linear-gradient(to right,transparent,#000 8%,#000 92%,transparent)}
+.partner-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));align-items:center;width:100cqw;height:108px}
+.partner-logo{height:100%;display:flex;align-items:center;justify-content:center;padding:10px 32px;min-width:0}
+.partner-logo img{display:block;width:auto;height:82px;max-width:100%;object-fit:contain;pointer-events:none;user-select:none;opacity:.9}
+.partner-filter-defs{position:absolute;pointer-events:none;overflow:hidden}
+.partners-accessible-list{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap;border:0}
+.partner-window[data-static=true]{mask-image:none}
+@media(max-width:700px){.partner-strip{padding:20px 5% 14px}.partner-inner{grid-template-columns:minmax(0,1fr);gap:7px}.partner-label{justify-content:space-between}.partner-label h2{font-size:15px}.partner-label button{width:30px;height:30px}.partner-window,.partner-pair{height:102px}.partner-logo{padding:8px 24px}.partner-logo img{height:76px}}
+@media(prefers-reduced-motion:reduce){.partner-label button{transition:none}}

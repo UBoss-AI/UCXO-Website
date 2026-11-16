@@ -27,3 +27,8 @@ Verified: four vertical tabs and zero horizontal tabs, all 17 step selectors, re
 
 ## Release authorization
 The user approved the current vertical-tab version and explicitly requested a Vercel production deployment and a push of all changes to GitHub main. Earlier local-only notes describe the review stages before this approval.
+
+## Partner banner - approved for release
+Added a minimal Our partners strip below the homepage tour using react-fast-marquee 1.6.5. Two supplied original JPEG assets: SPM and Tianum Lifecare. The original files are preserved; runtime display filters blend their backgrounds with the dark site. One pair spans the track, with only the seamless-loop copy offscreen. An accessible list names each partner once. Includes leftward scrolling at 24 pixels/second, edge fades, hover pause, pause/resume control, offscreen pause and a static pair for reduced-motion users.
+
+Passed: build, package installation with zero audit vulnerabilities, motion, hover pause, manual pause/resume, two accessible partner names, track sizing, reduced-motion static view, 390/768/1920-pixel layouts and no browser JavaScript errors. The user approved the partner banner on 16 November 2026 and explicitly requested Vercel deployment and a GitHub main push.
