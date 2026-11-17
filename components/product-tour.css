@@ -98,3 +98,45 @@
 .tour-guide-progress>i{display:block;width:100%;background:#b56af8;box-shadow:0 0 10px #b56af855;transition:height .12s linear}
 @media(max-width:1100px){.tour-workspace-guide{display:block}.tour-workspace-guide .tour-guide-item{padding:12px 10px 12px 15px}}
 @media(prefers-reduced-motion:reduce){.tour-guide-progress>i{transition:none}}
+
+/* Keep the entire guided screen first on phones; desktop composition is unchanged. */
+@media (max-width:700px), (max-width:1100px) and (pointer:coarse){
+ .guided-product-tour{padding:84px 12px 24px;min-height:0}
+ .tour-topline{margin-bottom:10px;font-size:7px;letter-spacing:.8px;gap:8px;line-height:1.6}
+ .tour-slide{display:flex;flex-direction:column;gap:14px;align-items:stretch;padding:0}
+ .tour-demo{order:-1;width:100%;min-width:0;border-radius:10px}
+ .tour-demo-bar{min-height:44px;padding:5px 8px}
+ .tour-demo-bar button{min-height:34px;min-width:34px}
+ .tour-software-stage:not(.is-focused-view){aspect-ratio:1306/897}
+ .tour-step-caption{flex-direction:row;align-items:baseline;gap:8px;padding:8px 10px}
+ .tour-step-caption>span{font-size:7px;letter-spacing:.7px}
+ .tour-step-caption strong{font-size:11px;line-height:1.4}
+ .tour-module-buttons{padding:0 8px 8px;gap:5px}
+ .tour-module-buttons button{font-size:9px;min-height:34px;padding:6px 8px}
+ .tour-copy{padding:0 4px}
+ .tour-kicker{font-size:7px;letter-spacing:1px}
+ .tour-copy h1{font-size:27px;line-height:1.15;letter-spacing:-.9px;margin:8px 0}
+ .tour-copy>p{font-size:12px;line-height:1.6;margin:0;max-width:none}
+ .tour-copy-actions{margin-top:10px}
+ .tour-copy-actions .button{min-height:40px;padding:10px 13px}
+ .tour-workspace-guide{margin-top:14px;padding-top:10px;max-width:none}
+ .tour-workspace-guide>p{font-size:7px;margin-bottom:6px}
+ .tour-vertical-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 10px}
+ .tour-workspace-guide .tour-guide-item{padding:8px 5px 8px 11px;min-height:52px;gap:6px}
+ .tour-workspace-guide strong{font-size:11px;margin-bottom:2px}
+ .tour-workspace-guide .tour-guide-item>span>span{font-size:10px;line-height:1.4}
+ .tour-guide-number{font-size:8px}
+ .tour-narration{min-height:0;margin:10px auto 4px}
+ .tour-narration>span{font-size:12px;line-height:1.6;padding:6px 3px}
+ .tour-playback{gap:8px;margin-top:8px}
+}
+.tour-demo-bar>.tour-mobile-narration{display:none}
+@media (max-width:700px), (max-width:1100px) and (pointer:coarse){
+ .tour-copy-actions{display:none}
+ .tour-demo-bar{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:7px 8px;padding:9px}
+ .tour-demo-bar>span{grid-column:1/-1;font-size:10px;color:#dac9e9}
+ .tour-demo-bar>.tour-mobile-narration{display:flex;grid-column:1;grid-row:2;justify-self:start;align-self:center;width:auto;justify-content:center;gap:5px;min-height:34px;padding:7px 10px;border:1px solid #c38bff80;border-radius:8px;background:linear-gradient(125deg,#9a45f2,#6e28cb);box-shadow:inset 0 1px 0 #ffffff24,0 3px 14px #8d36de25;color:#fff;font-size:10px;font-weight:500;white-space:nowrap}
+ .tour-demo-bar>.tour-mobile-narration:hover{background:linear-gradient(125deg,#a659f6,#7a35d8)}
+ .tour-demo-bar>div{grid-column:2;grid-row:2}
+ .tour-demo-bar>div button{min-height:44px;border-radius:8px}
+}
