@@ -36,7 +36,8 @@ export default function StoryPlayer(){const localize=useLocalize();
   if(audioError){element.load();setAudioError(false);}
   const at=hasVideo?start:narrationTimeline[chapter].start+start;
   syncTime(at);element.currentTime=at;element.muted=false;element.volume=1;
-  setMuted(false);setPaused(false);setBlocked(false);setAudioMessage('');playMedia(element);
+  setMuted(false);setPaused(false);setBlocked(false);setAudioMessage('');
+  if(visible&&!hidden)playMedia(element);
  }
  function muteNarration(){playRequest.current++;setMuted(true);setBlocked(false);setAudioMessage('');const element=hasVideo?video.current:audio.current;if(element){element.muted=true;if(!hasVideo){syncTime(element.currentTime);element.pause();setAudioPlaying(false);}}}
  function toggleSound(){if(muted)enableNarration(true);else muteNarration();}
