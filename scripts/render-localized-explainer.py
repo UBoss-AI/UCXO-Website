@@ -121,6 +121,7 @@ def render_tour(locale, messages):
 manifest_path = pathlib.Path('components/localized-tour-timing.json' if TOUR else 'components/localized-explainer-timing.json')
 manifest = json.loads(manifest_path.read_text('utf-8')) if manifest_path.exists() else {}
 specified = [arg for arg in sys.argv[1:] if arg != '--tour']
+failed_locales = []
 with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
     futures = {executor.submit(render_locale, code): code for code in (specified or LOCALES)}
     for future in concurrent.futures.as_completed(futures):
@@ -128,7 +129,9 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
         try:
             manifest[code] = future.result()
         except Exception as error:
+            failed_locales.append(code)
             print(code, repr(error), file=sys.stderr, flush=True)
+            continue
         manifest_path.write_text(json.dumps(manifest, indent=2, sort_keys=True) + '\n', encoding='utf-8', newline='\n')
-if any(code not in manifest for code in (specified or LOCALES)):
+if failed_locales:
     sys.exit(1)

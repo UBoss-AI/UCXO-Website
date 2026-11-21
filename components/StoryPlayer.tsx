@@ -49,7 +49,15 @@ export default function StoryPlayer(){const localize=useLocalize();
  useEffect(()=>{const v=video.current;if(!v)return;v.muted=muted;if(running){if(v.paused)playMedia(v);}else{playRequest.current++;v.pause();}},[running,muted,chapter,hasVideo]);
  useEffect(()=>()=>{playRequest.current++;audio.current?.pause();video.current?.pause();},[]);
  function seek(t:number){const local=Math.min(t,narrationTimeline[chapter].duration-.001);const at=narrationTimeline[chapter].start+local;syncTime(at);if(video.current)video.current.currentTime=local;if(audio.current)audio.current.currentTime=at;}
- function replay(){seek(0);setBlocked(false);if(!muted&&running&&audio.current?.paused)playMedia(audio.current);}
+ function replay(){
+  if(!muted){
+   enableNarration(true);
+   return;
+  }
+  seek(0);
+  setPaused(false);
+  setBlocked(false);
+ }
  const storyTime=narrationStoryTime(chapter,time,narrationTiming);const displayTime=storyTime; const caption=[...data.captions].reverse().find(c=>displayTime>=c.at)?.text??data.captions[0].text;
  return localize(<section className="story-player" id="top" ref={host} aria-label="How UCXO works" aria-roledescription="carousel" onKeyDown={e=>{if((e.target as HTMLElement).tagName==='INPUT')return;if(e.key==='ArrowRight'){e.preventDefault();navigate(chapter+1);}if(e.key==='ArrowLeft'){e.preventDefault();navigate(chapter-1);}if(e.key===' '&&(e.target as HTMLElement).tagName!=='BUTTON'){e.preventDefault();togglePlayback();}}} onTouchStart={e=>{touch.current={x:e.touches[0].clientX,y:e.touches[0].clientY};}} onTouchEnd={e=>{const dx=e.changedTouches[0].clientX-touch.current.x,dy=e.changedTouches[0].clientY-touch.current.y;if(Math.abs(dx)>65&&Math.abs(dx)>Math.abs(dy)*1.5)navigate(chapter+(dx<0?1:-1));}}>
   {!hasVideo&&<audio lang={locale} ref={audio} muted={muted} src={src} preload="auto" onTimeUpdate={e=>syncTime(e.currentTarget.currentTime)} onEnded={e=>{syncTime(0);e.currentTarget.currentTime=0;if(running&&!muted)playMedia(e.currentTarget);}} onPlaying={()=>{setAudioPlaying(true);setBlocked(false);setAudioMessage('');}} onPause={()=>setAudioPlaying(false)} onError={()=>{setAudioPlaying(false);setAudioError(true);setBlocked(true);setPaused(true);setAudioMessage('Narration could not load. Select Play narration to retry.');}}/>}

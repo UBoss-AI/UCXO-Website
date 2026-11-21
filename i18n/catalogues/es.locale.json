@@ -963,7 +963,7 @@
     },
     "m_878553b131aff5f5": {
       "source": "Mute narration",
-      "text": "Narración muda"
+      "text": "Silenciar la narración"
     },
     "m_febe9198715e372f": {
       "source": "Play with narration",
@@ -1023,7 +1023,7 @@
     },
     "m_f9c19ec5d20302a6": {
       "source": "Mute demo narration",
-      "text": "Narración de demostración silenciada"
+      "text": "Silenciar la narración de la demostración"
     },
     "m_26da92c9e8beb3af": {
       "source": "Enable demo narration",
@@ -1571,7 +1571,7 @@
     },
     "m_d82d8dd28a5fb2ba": {
       "source": "Sound on · Mute",
-      "text": "Sonido activado · Silencio"
+      "text": "Sonido activado · Silenciar"
     },
     "m_4f3d9a274f8af8c1": {
       "source": "Starting narration…",
@@ -1595,7 +1595,7 @@
     },
     "m_44f2a0524e275238": {
       "source": "Mute sound",
-      "text": "Sonido silenciado"
+      "text": "Silenciar el sonido"
     },
     "m_24d47712e23f679d": {
       "source": "Chapter progress",
