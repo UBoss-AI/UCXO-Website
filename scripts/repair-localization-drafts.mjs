@@ -67,4 +67,3 @@ const workers=Array.from({length:2},async()=>{
 });
 const results=await Promise.allSettled(workers);
 if(failure){console.error(failure.message);process.exitCode=1;}
-
