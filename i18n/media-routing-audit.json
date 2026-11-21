@@ -1,6 +1,20 @@
 {
   "media": [
     {
+      "locale": "es",
+      "device": "mobile Chrome",
+      "nativeAudioStarted": true,
+      "pause": true,
+      "chapterSeekAndReplay": true,
+      "localizedCaptions": true,
+      "audioLanguage": "es"
+    },
+    {
+      "locale": "es",
+      "homepageNarrationStarted": true,
+      "localizedIntroduction": true
+    },
+    {
       "locale": "fr",
       "device": "mobile Chrome",
       "nativeAudioStarted": true,

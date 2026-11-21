@@ -28,3 +28,31 @@ test('each locale has a complete explainer recording and contiguous caption timi
     }
   }
 });
+
+test('all localized homepage tours include the intro, announcements and all guided steps', () => {
+  const {tourChapters}=require('../components/product-tour-data.ts');
+  const tracks=require('../components/localized-tour-timing.json');
+  assert.deepEqual(Object.keys(tracks).sort(),locales.map(l=>l.code).filter(code=>code!=='en').sort());
+
+  for (const [locale,track] of Object.entries(tracks)) {
+    assert.ok(fs.statSync(path.join('public','narration','localized','tour',locale+'.mp3')).size>10000,locale);
+    assert.equal(track.intro.start,0,locale);
+    assert.ok(track.intro.duration>0,locale);
+    assert.deepEqual(track.announcements.map(cue=>cue.label),tourChapters.map(chapter=>chapter.label),locale);
+    assert.equal(track.timeline.length,tourChapters.length,locale);
+    let time=track.intro.duration;
+    for (const [index,chapter] of track.timeline.entries()) {
+      const announcement=track.announcements[index];
+      assert.ok(Math.abs(announcement.start-time)<.001 && announcement.duration>0,locale);
+      time+=announcement.duration;
+      assert.ok(Math.abs(chapter.start-time)<.001,locale);
+      assert.equal(chapter.steps.length,tourChapters[index].steps.length,locale);
+      for (const step of chapter.steps) {
+        assert.ok(Math.abs(step.start-time)<.001 && step.duration>0,locale);
+        time+=step.duration;
+      }
+      assert.ok(Math.abs(chapter.start+chapter.duration-time)<.001,locale);
+    }
+    assert.ok(Math.abs(track.duration-time)<.001,locale);
+  }
+});
