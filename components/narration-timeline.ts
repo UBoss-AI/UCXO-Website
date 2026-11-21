@@ -18,4 +18,4 @@ export const narrationTimeline=[
   }
 ] as const;
 export const narrationDuration=76.034;
-export function narrationPosition(globalTime:number){const time=Math.max(0,Math.min(globalTime,narrationDuration));let chapter=0;for(let i=1;i<narrationTimeline.length;i++){if(time>=narrationTimeline[i].start)chapter=i;}return{chapter,time:time-narrationTimeline[chapter].start,duration:narrationTimeline[chapter].duration};}
+export function narrationPosition(globalTime:number,timeline:readonly {start:number;duration:number}[]=narrationTimeline){const last=timeline[timeline.length-1];const time=Math.max(0,Math.min(globalTime,last.start+last.duration));let chapter=0;for(let i=1;i<timeline.length;i++){if(time>=timeline[i].start)chapter=i;}return{chapter,time:time-timeline[chapter].start,duration:timeline[chapter].duration};}

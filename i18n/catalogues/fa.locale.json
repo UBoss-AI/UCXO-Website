@@ -3649,10 +3649,6 @@
       "source": "Completed",
       "text": "تکمیل شد"
     },
-    "m_e7c511395cb2ee43": {
-      "source": "AlIlo",
-      "text": "علیلو"
-    },
     "m_baaddf70fb5d432b": {
       "source": "Type",
       "text": "تایپ کنید"
@@ -4660,6 +4656,10 @@
     "m_2a999a817a97dfad": {
       "source": "accountsaremanagedseparatelyinUusers.",
       "text": "حساب ها به طور جداگانه درUUsers مدیریت می شوند."
+    },
+    "m_a52ace420f2175d0": {
+      "source": "All",
+      "text": "همه"
     }
   }
 }

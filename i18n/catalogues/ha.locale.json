@@ -4425,10 +4425,6 @@
       "source": "Overdue",
       "text": "Wanda ya wuce"
     },
-    "m_e7c511395cb2ee43": {
-      "source": "AlIlo",
-      "text": "AlIlo"
-    },
     "m_271170120155b7ad": {
       "source": "UCXO/UEngine/Runs",
       "text": "UCXO/UEngine/Gudun"
@@ -4660,6 +4656,10 @@
     "m_2a999a817a97dfad": {
       "source": "accountsaremanagedseparatelyinUusers.",
       "text": "ana sarrafa asusun ajiya na wajeUUsers."
+    },
+    "m_a52ace420f2175d0": {
+      "source": "All",
+      "text": "Duka"
     }
   }
 }

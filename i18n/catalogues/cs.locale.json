@@ -3661,10 +3661,6 @@
       "source": "Completed",
       "text": "Dokončeno"
     },
-    "m_e7c511395cb2ee43": {
-      "source": "AlIlo",
-      "text": "AlIlo"
-    },
     "m_baaddf70fb5d432b": {
       "source": "Type",
       "text": "Typ"
@@ -4660,6 +4656,10 @@
     "m_60d797ccdf617593": {
       "source": "UCXO / UUsers",
       "text": "UCXO / UUsers"
+    },
+    "m_a52ace420f2175d0": {
+      "source": "All",
+      "text": "Vše"
     }
   }
 }

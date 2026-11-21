@@ -7,3 +7,24 @@ test('equivalent routes preserve queries and anchors and never duplicate locale 
 test('complete messages interpolate localized chapter names without changing numbers',()=>{const messages={'Chapter {0}: {1}':'Chapitre {0} : {1}','Define and plan':'Définir et planifier'};assert.equal(translateMessage(messages,'Chapter 2: Define and plan'),'Chapitre 2 : Définir et planifier');});
 test('localized email payloads retain the exact user input and fixed recipient',()=>{const c=JSON.parse(fs.readFileSync('i18n/catalogues/fr.locale.json')),messages=Object.fromEntries(Object.values(c.entries).map(e=>[e.source,e.text])),details={first_name:'Zoë',last_name:'User',email:'zoe@example.test',company:'ACME & Co',job_title:'Founder',company_size:'1–50',country:'India',goals:'Keep my exact words.'};const mail=buildDemoEmail(details,s=>translateMessage(messages,s)),url=new URL(mail.href);assert.equal(url.pathname,'info@ubossai.com');assert.ok(url.searchParams.get('subject').includes(details.company));for(const value of Object.values(details))assert.ok(mail.body.includes(value));assert.ok(!/\{value\}|\{company\}/.test(mail.body));assert.ok(mail.body.startsWith('Bonjour'));});test('translated pages reject unknown English copy while preserving branded identifiers',()=>{assert.throws(()=>translateMessage({Hello:'Bonjour'},'Missing phrase',true),/Uncatalogued/);assert.equal(translateMessage({},'01 UDashview',true),'01 UDashview');});
 test('localized templates may reorder arguments without changing their values',()=>{assert.equal(translateMessage({'Chapter {0}: {1}':'{1} — chapitre {0}','Define and plan':'Définir et planifier'},'Chapter 2: Define and plan',true),'Définir et planifier — chapitre 2');});
+
+test('each locale has a complete explainer recording and contiguous caption timings', () => {
+  const {chapters}=require('../components/story-data.ts');
+  const localizedTiming=require('../components/localized-explainer-timing.json');
+  assert.deepEqual(Object.keys(localizedTiming).sort(),locales.map(l=>l.code).filter(code=>code!=='en').sort());
+
+  for (const [locale,timeline] of Object.entries(localizedTiming)) {
+    const asset=path.join('public','narration','localized',locale+'.mp3');
+    assert.ok(fs.statSync(asset).size>10000,locale);
+    assert.equal(timeline.length,chapters.length,locale);
+    let start=0;
+    for (const [index,segment] of timeline.entries()) {
+      const chapter=chapters[index];
+      assert.ok(Math.abs(segment.start-start)<.001,locale);
+      assert.deepEqual(segment.points.map(point=>point.storyAt),[...chapter.captions.map(cue=>cue.at),chapter.duration],locale);
+      assert.ok(segment.points.every((point,i)=>i===0?point.at===0:point.at>segment.points[i-1].at),locale);
+      assert.equal(segment.points.at(-1).at,segment.duration,locale);
+      start+=segment.duration;
+    }
+  }
+});

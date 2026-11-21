@@ -135,7 +135,7 @@
  .tour-copy-actions{display:none}
  .tour-demo-bar{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:7px 8px;padding:9px}
  .tour-demo-bar>span{grid-column:1/-1;font-size:10px;color:#dac9e9}
- .tour-demo-bar>.tour-mobile-narration{display:flex;grid-column:1;grid-row:2;justify-self:start;align-self:center;width:auto;justify-content:center;gap:5px;min-height:34px;padding:7px 10px;border:1px solid #c38bff80;border-radius:8px;background:linear-gradient(125deg,#9a45f2,#6e28cb);box-shadow:inset 0 1px 0 #ffffff24,0 3px 14px #8d36de25;color:#fff;font-size:10px;font-weight:500;white-space:nowrap}
+ .tour-demo-bar>.tour-mobile-narration{display:flex;grid-column:1;grid-row:2;justify-self:start;align-self:center;width:auto;justify-content:center;gap:5px;min-height:34px;padding:7px 10px;border:1px solid #c38bff80;border-radius:8px;background:linear-gradient(125deg,#9a45f2,#6e28cb);box-shadow:inset 0 1px 0 #ffffff24,0 3px 14px #8d36de25;color:#fff;font-size:10px;font-weight:500;white-space:normal}
  .tour-demo-bar>.tour-mobile-narration:hover{background:linear-gradient(125deg,#a659f6,#7a35d8)}
  .tour-demo-bar>div{grid-column:2;grid-row:2}
  .tour-demo-bar>div button{min-height:44px;border-radius:8px}

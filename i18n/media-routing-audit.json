@@ -7,7 +7,7 @@
       "pause": true,
       "chapterSeekAndReplay": true,
       "localizedCaptions": true,
-      "audioLanguage": "en"
+      "audioLanguage": "fr"
     },
     {
       "locale": "fr",
@@ -21,7 +21,7 @@
       "pause": true,
       "chapterSeekAndReplay": true,
       "localizedCaptions": true,
-      "audioLanguage": "en"
+      "audioLanguage": "ar"
     },
     {
       "locale": "ar",

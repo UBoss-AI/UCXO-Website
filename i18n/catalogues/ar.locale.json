@@ -1643,7 +1643,7 @@
     },
     "m_92c7d7f84c3ecbd9": {
       "source": "AI agent",
-      "text": "وكيل منظمة العفو الدولية"
+      "text": "وكيل ذكاء اصطناعي"
     },
     "m_6725e7bbcd28f3a8": {
       "source": "System",
@@ -1739,11 +1739,11 @@
     },
     "m_d0c48cf58d5a16f1": {
       "source": "UCXO Engine Planner workflow canvas",
-      "text": "UCXO Engine Planner قماش سير العمل"
+      "text": "مخطط سير العمل في UCXO Engine Planner"
     },
     "m_75b08a9f83878e6d": {
       "source": "Workflow canvas",
-      "text": "قماش سير العمل"
+      "text": "مخطط سير العمل"
     },
     "m_eb836ffb508d346d": {
       "source": "WF-008",
@@ -1759,7 +1759,7 @@
     },
     "m_3824a9f4dafe92c6": {
       "source": "Canvas",
-      "text": "قماش"
+      "text": "المخطط"
     },
     "m_74501c674de996eb": {
       "source": "Ordered steps",
@@ -3661,10 +3661,6 @@
       "source": "Completed",
       "text": "مكتمل"
     },
-    "m_e7c511395cb2ee43": {
-      "source": "AlIlo",
-      "text": "عليلو"
-    },
     "m_baaddf70fb5d432b": {
       "source": "Type",
       "text": "اكتب"
@@ -4660,6 +4656,10 @@
     "m_60d797ccdf617593": {
       "source": "UCXO / UUsers",
       "text": "UCXO / UUsers"
+    },
+    "m_a52ace420f2175d0": {
+      "source": "All",
+      "text": "الكل"
     }
   }
 }

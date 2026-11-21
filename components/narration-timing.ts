@@ -109,4 +109,4 @@ export const narrationTiming=[
     ]
   }
 ] as const;
-export function narrationStoryTime(chapter:number,time:number){const points=narrationTiming[chapter].points;for(let i=1;i<points.length;i++){if(time<points[i].at){const a=points[i-1],b=points[i];return a.storyAt+(b.storyAt-a.storyAt)*Math.max(0,(time-a.at)/(b.at-a.at));}}return points[points.length-1].storyAt;}
+export function narrationStoryTime(chapter:number,time:number,timing:readonly {points:readonly {at:number;storyAt:number}[]}[]=narrationTiming){const points=timing[chapter].points;for(let i=1;i<points.length;i++){if(time<points[i].at){const a=points[i-1],b=points[i];return a.storyAt+(b.storyAt-a.storyAt)*Math.max(0,(time-a.at)/(b.at-a.at));}}return points[points.length-1].storyAt;}

@@ -1221,7 +1221,7 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 50,
+        "line": 54,
         "kind": "literal"
       }
     ],
@@ -1243,7 +1243,7 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 50,
+        "line": 54,
         "kind": "literal"
       }
     ],
@@ -5411,7 +5411,7 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 23,
+        "line": 27,
         "kind": "literal"
       }
     ],
@@ -5437,7 +5437,7 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 50,
+        "line": 54,
         "kind": "literal"
       }
     ],
@@ -5489,7 +5489,7 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 53,
+        "line": 57,
         "kind": "literal"
       }
     ],
@@ -5518,7 +5518,7 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       }
     ],
@@ -5530,7 +5530,7 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       }
     ],
@@ -5733,8 +5733,8 @@
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 61,
-        "kind": "jsx"
+        "line": 65,
+        "kind": "literal"
       }
     ],
     "m_721164f0dc7096a8": [
@@ -7330,239 +7330,239 @@
     "m_ad7431b3ae7ba753": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 11,
+        "line": 13,
         "kind": "jsx"
       }
     ],
     "m_d9f05fb162a0c239": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 25,
+        "line": 29,
         "kind": "literal"
       }
     ],
     "m_9257f72a46e550c4": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 25,
+        "line": 29,
         "kind": "literal"
       }
     ],
     "m_f2a0d34e4b84c3f4": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 25,
+        "line": 29,
         "kind": "literal"
       }
     ],
     "m_a91bcd0c9d00127f": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 50,
+        "line": 54,
         "kind": "literal"
       }
     ],
     "m_f4262548cb993257": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 50,
+        "line": 54,
         "kind": "literal"
       }
     ],
     "m_9e9f23ca031cab55": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 50,
+        "line": 54,
         "kind": "literal"
       }
     ],
     "m_bdf8b09faddd943b": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 51,
+        "line": 55,
         "kind": "literal"
       }
     ],
     "m_d6ab07eb21a6afcd": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 53,
+        "line": 57,
         "kind": "interpolated"
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "interpolated"
       }
     ],
     "m_fb581de1e4c84d53": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "jsx"
       }
     ],
     "m_e0191e680c6e66ea": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "jsx"
       }
     ],
     "m_f148ca6e74f8b907": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       }
     ],
     "m_f6a5228afacbbb29": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       }
     ],
     "m_6b97dac9cafeb150": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       }
     ],
     "m_a76fd6899331217c": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       },
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 62,
+        "line": 66,
         "kind": "literal"
       }
     ],
     "m_d82d8dd28a5fb2ba": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       }
     ],
     "m_4f3d9a274f8af8c1": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 56,
+        "line": 60,
         "kind": "literal"
       }
     ],
     "m_b2b2c9a4802d880c": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_ee41da5f7a20e3b5": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_3b83f63761b486da": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_b47fa176bc080ea6": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_44f2a0524e275238": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_24d47712e23f679d": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_8e769630ee8fcc12": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_ffb1a32bdfa0bd36": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_a6c0640aaf97e81a": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_62eba689e54bd77a": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_4cd392119488432d": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_050be48420f1a4e4": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_713e8799d97eaf00": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_d1813638fb4dbfa8": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 60,
+        "line": 64,
         "kind": "literal"
       }
     ],
     "m_76bced7d616aad89": [
       {
         "file": "components/StoryPlayer.tsx",
-        "line": 62,
+        "line": 66,
         "kind": "literal"
       }
     ],
@@ -17269,9 +17269,9 @@
         "scene": "udo",
         "kind": "screenshot-text",
         "box": {
-          "x": 35.75,
+          "x": 35.758039816232774,
           "y": 51.59235668789809,
-          "w": 3.5624999999999996,
+          "w": 3.330781010719755,
           "h": 2.2747952684258417
         }
       },
@@ -17293,9 +17293,9 @@
         "scene": "udo",
         "kind": "screenshot-text",
         "box": {
-          "x": 44.1875,
+          "x": 44.218989280245026,
           "y": 51.50136487716106,
-          "w": 7.000000000000001,
+          "w": 6.699846860643185,
           "h": 2.3657870791628755
         }
       },
@@ -17317,9 +17317,9 @@
         "scene": "udo",
         "kind": "screenshot-text",
         "box": {
-          "x": 56.125,
+          "x": 56.01071975497703,
           "y": 51.50136487716106,
-          "w": 5.5625,
+          "w": 5.66615620214395,
           "h": 2.1838034576888083
         }
       },
@@ -17341,9 +17341,9 @@
         "scene": "udo",
         "kind": "screenshot-text",
         "box": {
-          "x": 66.6875,
+          "x": 66.7687595712098,
           "y": 51.41037306642402,
-          "w": 6.625,
+          "w": 5.245022970903522,
           "h": 2.3657870791628755
         }
       },
@@ -17365,9 +17365,9 @@
         "scene": "udo",
         "kind": "screenshot-text",
         "box": {
-          "x": 77.0625,
+          "x": 77.06738131699848,
           "y": 51.41037306642402,
-          "w": 7.5,
+          "w": 6.240428790199081,
           "h": 2.4567788898999092
         }
       }
@@ -17378,9 +17378,9 @@
         "scene": "udo",
         "kind": "screenshot-text",
         "box": {
-          "x": 35.625,
+          "x": 35.68147013782542,
           "y": 56.68789808917197,
-          "w": 8,
+          "w": 6.584992343032159,
           "h": 3.002729754322111
         }
       },
@@ -17429,15 +17429,15 @@
         }
       }
     ],
-    "m_e7c511395cb2ee43": [
+    "m_a52ace420f2175d0": [
       {
         "file": "i18n/artwork-text.json",
         "scene": "udo",
         "kind": "screenshot-text",
         "box": {
-          "x": 47.25,
+          "x": 47.32006125574272,
           "y": 56.86988171064604,
-          "w": 4.125,
+          "w": 2.0290964777947935,
           "h": 2.6387625113739763
         }
       }

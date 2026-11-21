@@ -3661,10 +3661,6 @@
       "source": "Completed",
       "text": "Ολοκληρώθηκε"
     },
-    "m_e7c511395cb2ee43": {
-      "source": "AlIlo",
-      "text": "Αλήλο"
-    },
     "m_baaddf70fb5d432b": {
       "source": "Type",
       "text": "Τύπος"
@@ -4660,6 +4656,10 @@
     "m_2a999a817a97dfad": {
       "source": "accountsaremanagedseparatelyinUusers.",
       "text": "οι λογαριασμοί διαχειρίζονται χωριστά σεUUsers."
+    },
+    "m_a52ace420f2175d0": {
+      "source": "All",
+      "text": "Όλα"
     }
   }
 }
