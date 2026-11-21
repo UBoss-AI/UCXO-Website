@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Kedves UCXO csapat!"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Szeretném megszervezni a UCXO bemutatóját."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Amit szeretnék elérni:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Ezt szeretném megvitatni a bemutató során."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "köszönöm,"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Kérjen UCXO bemutatót"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Mezők megjelölve"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "szükségesek."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "Elérhetősége és cégadatai"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "Keresztnév"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "Vezetéknév"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "Munkahelyi e-mail"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Társaság"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Cégnév"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Munkakör"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "A te szereped"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "A cég mérete"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Válassza ki a csapat méretét"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "Ország"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "A te országod"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Mit szeretnél elérni?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "Választható"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "Javítandó munkafolyamat, elérendő cél vagy megoldandó kihívás…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "Ezt hagyd üresen"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "Adatait felhasználjuk demókérésének megválaszolásához. Kérjük, kerülje a bizalmas információk feltüntetését."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Kérje a demómat"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Megnyitja az e-mail alkalmazást előre kitöltött adataival."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Üzleti lebonyolítás, koordinált."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Platform"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Hogyan működik"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Használati esetek"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Felügyelet"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Vissza az elejére"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. Minden jog fenntartva."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "Ember által vezetett. AI-hajtású. Tervezés szerint elszámoltatható."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO otthon"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "Nav nyitva"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Fő navigáció"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Foglaljon bemutatót"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Jelentkezzen be"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Menü bezárása"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "Menü megnyitása"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / ILLUSTRATIVE"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "félkövér, 30 képpontos Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "MUNKAFOLYAMAT"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "CSATLAKOZTATOTT FOKOZATOK"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "TULAJDONJOG"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "EMBEREK + MOTORÜGYNÖK"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "EMBERI SZEMLE"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "KÖTELEZŐ / VÁR"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "SZÜKSÉGES TARTÓSÍTVA"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Határozza meg a célt"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Kezdje az eredménnyel."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Mondja el az eredményt és azt, hogy kié."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Koordinálja a gyártási készenléti tervet"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "Célkitűzés és üzleti környezet"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Szervezeti tulajdon"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Kívánt eredmény"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Tekintse át a munkafolyamatot"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Tegye egyértelművé a tervet."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Ellenőrizze a lépéseket, a függőségeket és a szükséges jóváhagyásokat."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Tekintse át a javasolt végrehajtási tervet"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Emberi feladatok és mesterséges intelligencia ügynökök"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "Függőségek és átadások"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Szükséges jóváhagyási kapuk"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Jóváhagyás és hozzárendelés"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Helyezze a tulajdonjogot."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Hagyja jóvá a tervet, és rendeljen hozzá minden feladatot a tulajdonosához."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Hagyja jóvá a tervet és jelölje ki a tulajdonosokat"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "Elszámoltatható feladattulajdonosok"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Jóváhagyott ügynöki képességek"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "Emberi felülvizsgálati felelősség"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "Végrehajtás"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Tartsa kapcsolatban a munkát."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "A U-Engine követi a tervet, és megjelöli a problémákat felülvizsgálatra."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "Feladatok, futtatások és átadások figyelése"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "Függőség-tudatos végrehajtás"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Felügyelt ügynök fut"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Kivétel eszkaláció"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Tekintse át az eredményeket"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Zárja be a hurkot."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "Hasonlítsa össze az eredményt és annak bizonyítékait az eredeti céllal."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Tekintse át az eredményt a bizonyítékokkal együtt"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Feladat bizonyítékok és jóváhagyások"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Ügynök végrehajtási előzmények"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "Eredmény áttekintése"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "A UCXO utazás"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "ArrowRight"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "Balra nyíl"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "Otthon"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "Vége"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Kezdje újra az utazást"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Következő lépés"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "ILLUSZTRATÍV MUNKAFOLYAMAT"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "Kapcsolódik üzleti céljához"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "Partnereink"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "Partnerlogók újraírása"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "A partnerlogók szüneteltetése"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO partnerek"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "A kiindulópontod."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "Lásd a nagy képet."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Vállalati kontextus, osztály hatóköre és munkaterület nézetei."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Munkaterület áttekintése"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "Osztályi kontextus"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Csatlakoztatott modulok"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview vállalati és részlegkörnyezet, Áttekintés és Tevékenység lapok, valamint a látható munkaterület-térkép."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "Az irányítópult-térkép a PDF-rögzítés alatt folytatódik. Ez az előnézet megőrzi a pontosan látható képernyőt; nem találja ki a hiányzó részt."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "A te feladataid."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "A te döntéseidet."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Használja a UDO kódot a hozzárendelésekhez és a UApprove kódot jóváhagyási kérésekhez."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · Saját feladatok"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "Hozzám rendelve / általam"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · Emberi döntések"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO Saját feladatok hozzárendelési lapokkal, feladatállapot-szűrőkkel, kereséssel és az eredeti üres állapottal."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove a Waiting on me, az általam kért, az Exceptions és a Decided szűrőkkel, valamint az eredeti üres állapottal."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Mindennapi munka."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "Egy helyen."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "Űrlapok, rekordok, munkafolyamatok futtatása és képzés."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Űrlapok és nyilvántartások"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · A munkafolyamat fut"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "Hozzárendelt tanulás"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms, amely a közzétett gyártási készenléti ellenőrzőlistát, annak verzióját, a mezőket és a kapcsolódó munkafolyamatot mutatja."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords, amely bemutatja a kiadott Csomagolósor-váltás vezérelt SOP-t és annak revízióját."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "Az eredeti UEngine Futtatás képernyő, megőrizve a pontos felhasználói felület címkéjét és a Még nem futott állapotot."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining, amely a hozzárendelt Csomagolási vonal biztonsági leckét, az előrehaladást és az értékelési követelményt mutatja."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Állítsa be az üzletet."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Tervezze meg a munkát."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Célok, erőforrások, munkafolyamat-tervezés és hozzáférés."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Célok és tervezés"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Emberek és felszerelések"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Sablonok és hozzáférés"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner a gyártási készenléti terv tervezetével, 4/8-as készültséggel, nevesített tulajdonos és jóváhagyó, valamint Nem aktív állapot."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "Küldetés és célkitűzések"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Küldetés és célkitűzések, amelyek bemutatják a Megbízható, bizonyított műveleti küldetést és az objektív szűrőket."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "Munkatervező"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Munkatervező ütemezési számlálással, a termelési készenléti munkatétellel és a heti idővonallal."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "HR Mester"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "HR Master emberekkel, szerepekkel, készségekkel, munkanaptárral és kötelezettségvállalásokkal."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "Gépmester"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Gépmester felszerelés elérhetőséggel, kapacitással, munkaidővel és előjegyzéssel."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "Űrlapmester"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Forms Master a gyártási készenléti ellenőrzőlista közzétett, megváltoztathatatlan verziójával."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Delegációs mester"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "Delegációs mester az eredeti határozathoz szükséges értesítéssel és az ütemezett jóváhagyási helyettesítéssel."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "BESZÉLGETÉSEK A MUNKÁVAL KONTEXTUSBAN"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Folytasd a beszélgetéseket"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "közel a munkához."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Keresse meg beszélgetéseit, koordinálja a csapatcsatornákat, és tartsa a megbeszéléseket összekapcsolva az őket érintő munkával. Az áttekintett és beküldött feladatjavaslatok visszakapcsolódnak a UDO címre."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Beérkezett üzenetek és említések"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Csapatcsatornák"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Munkahelyi beszélgetések"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Beérkezett üzenetek"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Beérkező levelek párbeszédszűrőkkel és az eredeti művelettervezési olvasatlan beszélgetéssel."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Csapatcsatornák, amelyek a műveleti tervezést és a vállalati szintű üzem bejelentési csatornát mutatják."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Munkahelyi beszélgetések"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme Munkabeszélgetések eredeti üres állapotával és a munkaobjektum-hivatkozások magyarázatával."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "Beszélgetés áttekintése"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview olvasatlan beszélgetésekkel, megemlítésekkel, feladatokkal és be nem küldött javaslatokkal."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "AI-alapú üzleti végrehajtás"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "A SOP-okat munkafolyamatokká alakítsa. Felelősség kijelölése. A pálya befejezése."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "A vállalkozásod működik. Marad az irányítás."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "A munkaterület áttekintése"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. A kiindulópontod. Tekintse meg cégét, válasszon egy osztályt, és nyissa meg a szükséges modult."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "Nézetek és a részleg hatóköre"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "A gyors áttekintéshez használja az Áttekintést, a frissítések követéséhez pedig a Tevékenységet. A nézetvezérlők térképet, kártyákat, táblát és listát kínálnak."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. Az Ön feladatai és jóváhagyásai. A UDO az Önhöz rendelt munkákat mutatja."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "Hozzárendelések, állapot és keresés"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "Szűrjön állapot szerint, keressen rá egy feladatra, vagy ellenőrizze a másnak rendelt munkát."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · Az Ön döntési sora"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Nyissa meg a UApprove oldalt a döntésére váró kérések áttekintéséhez. A munka jóváhagyása, visszaküldése vagy elutasítása."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Megjelent űrlapok"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Hol végzi a munkát. Töltse ki a közzétett űrlapokat a UForms címen, és kövesse nyomon beküldéseit."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · Bizonyítékok és dokumentumok"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "A URecords dokumentumokat és bizonyítékokat tárol, azok felülvizsgálati és jóváhagyási adataival együtt."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "A U-Engine megjeleníti a munkafolyamat-futtatásokat, az előrehaladást és a kivételeket. Ez a minta még nem futott."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Hozzárendelt tanulás"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "A UTraining összegyűjti a hozzárendelt leckéket, határidőket és értékeléseket."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Állítsa be vállalkozása működését. Kezdje a küldetéssel és a célkitűzésekkel, hogy meghatározza a célt és annak tulajdonosát."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "A Work Planner ütemezi a munkákat a szükséges emberekkel és felszereléssel."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner határozza meg a munkafolyamatot. Tesztelje, kérjen jóváhagyást, és aktiválja a végrehajtás előtt."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "A HR Master kezeli a szerepeket, készségeket és a személyzet rendelkezésre állását."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "A Machine Master kezeli a berendezések kapacitását, rendelkezésre állását és karbantartását."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "A Forms Master létrehozza és közzéteszi azokat a sablonokat, amelyeket a csapata kitölt a UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "A Delegation Master meghatározza, hogy ki és mennyi ideig vehet át egy feladatot vagy jóváhagyást."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "Az UUsers kezeli a felhasználói fiókokat, szerepköröket és hozzáférési engedélyeket."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Fedezze fel a beszélgetés áttekintését, a beérkező leveleket, a megosztott feladatokat, a csatornákat, a személyeket és a munkaterület beállításait."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "A beszélgetés áttekintése"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "A UPingme saját beszélgetési áttekintéssel rendelkezik. Összegyűjti az olvasatlan említéseket, az olvasatlan beszélgetéseket, a beszélgetésekből származó nyitott feladatokat és a be nem küldött javaslatokat, a vonatkozó munkára mutató hivatkozásokkal."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Válassza a Beérkezett üzenetek mappát az Önhöz tartozó beszélgetések kereséséhez. A szűrők elkülönítik az olvasatlan beszélgetéseket, a közvetlen üzeneteket, az említéseket és a tevékenységeket. A minta a művelettervezési csapat csatornáját és annak olvasatlan beszélgetését mutatja."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · Megosztott feladatok"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "Válassza a UDO lehetőséget, hogy megtekinthesse a UCXO által használt feladattárolót. A beszélgetési feladatok a forrásukra hivatkoznak. Az üzenetjavaslat csak az áttekintés és elküldés után válik feladattá."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Válassza a Csapatcsatornák lehetőséget, hogy megtekinthesse csatornáit, megnyitható csatornáit, amelyekhez csatlakozhat, és archivált csatornáit. A privát csatornákat csak a tagok láthatják. A minta elválasztja a művelettervezést a vállalati szintű üzemi bejelentésektől."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Válassza a Munkabeszélgetések lehetőséget, ha a beszélgetést célhoz, tervhez, feladathoz, űrlaphoz, rekordhoz vagy munkaelemhez szeretné kötni. Az állapota és a verziója továbbra is az objektum saját moduljából származik."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Hívások és értekezletek · Aktuális állapot"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "A hívások és értekezletek láthatók a navigációban, de a mellékelt buildnek nincs hívószolgáltatója. Ez a képernyő elmagyarázza, hogy a hívások, az ütemezés, a rögzítés és az átiratok jelenleg nem érhetők el."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "Emberek címtár"
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Munkaterület beállításai"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Válassza ki a Workspace beállításait a csatorna témáihoz, a tagsághoz, az olvasási és közzétételi engedélyekhez, valamint az irányelvek előzményeihez. A minta felhasználó csak olvasási hozzáféréssel rendelkezik. Az üzenetek koordinálják a munkát; nem hagyják jóvá és nem egészítik ki."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Eredeti szoftver képernyő"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Teljes képernyő megtekintése"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Vizsgálja meg az eredeti képernyőt"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "Érintse meg a képernyőt, hogy teljes méretben ellenőrizze."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "PDF oldal"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Eredeti elrendezés, címkék, adatok és állapotok"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Referencia megjegyzés:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Eredeti UCXO szoftver · PDF oldal"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Illessze az ablakhoz"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Valós méret"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "Zárja be a képernyő előnézetét"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Áttekintés és navigáció."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "Feladatok és jóváhagyások."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "Napi eszközök."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Vállalkozás beállítása."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "AbortError"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "A narráció folytatásához válassza a Lejátszás lehetőséget."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO négyrészes irányított termékbemutató"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "A narráció betöltése nem sikerült. Az újrapróbálkozáshoz válassza a Lejátszás narrációval lehetőséget."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "A UCXO TERMÉKTÚR"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "BEVEZETÉS"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Újrajátszás narrációval"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "A narráció folytatása"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "Elnémítás"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Lejátszás narrációval"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "AZ ÖN MUNKATERÜLETE, CSATLAKOZTATVA"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "Négy termékbemutató rész"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "ArrowDown"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "ArrowUp"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· Vezetett bemutató"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "A narráció szüneteltetése"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "Fit képernyő"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Fókusz nézet"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Az irányított bemutató kibontása"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Turné újrajátszása"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Játssz irányított demót"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Irányított bemutató szüneteltetése"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "Játssza le újra ezt a részt"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "A demo narráció némítása"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "Bemutató narráció engedélyezése"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "A bemutató rész előrehaladása"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "A TÚRA TELJES"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "NARRÁCIÓ JÁTSZÁSA"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "A NARRÁCIÓ SZÜNETELT"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "NARRÁCIÓ KI"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Kibővített UCXO irányított bemutató"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Előnézet bezárása"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Demó lejátszása"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "A bemutató szüneteltetése"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Áttekintés"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "Tevékenység"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Munkaterület térkép"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Kártyák"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ tábla"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Lista"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "osztály"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Minden az én hatókörömben⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ A kísérleti társaság (minta)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ Műveletek"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "Örülök, hogy látlak, Arjun (kezelő). Minden megnyitható modul a UCXO körül helyezkedik el egy figurával; minden kártya pontosan azt nyitja meg, ami számít."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ Frissítve 09:29"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Frissítés"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "A kísérleti társaság (minta)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "Az Ön osztályai: Műveletek."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Ahol a munkát felállítják és elvégzik"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "Küldetés és célkitűzések"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "Küldetés és célkitűzések, munkatervező és Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "GYÁRTÁSI KÉSZSÉG"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "Kezdje egy elfogadott céllal: készítse el a jövő heti termelési tervet."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "EMBER ÉS TULAJDONJOG"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "Az emberek és a tulajdonviszonyok adják a kontextust az elkötelezett munkához."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "MUNKAFOLYAMAT TERVEZET"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Kösd össze a célt, az elkötelezett munkát és az erőforrásokat egy verziózott munkafolyamattal."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "ELŐKÉSZÜLTSÉG ELLENŐRZŐ LISTA"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Rögzítse a készenléti ellenőrzőlistát az űrlap / beviteli lépéssel."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "EMBERI SZEMLE NEVE"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "A megnevezett személynek jóvá kell hagynia a revíziót, mielőtt aktiválni lehetne."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "ELKÖTELEZETT MUNKA"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Kötelesd le a munkát és az erőforrásokat, amelyeket a terv koordinál."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner gépelt munkafolyamat"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Ügynöki akció"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AI AGENT · KAPACITÁS ÖSSZEFOGLALÓ"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "A kapacitás-összegzés a vonal-felszabadulási feltétel elmúltával fut."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "Űrlap / bevitel"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "EMBER · KÉSZÜLTSÉG ELLENŐRZŐ LISTA"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "Egy személy kitölti a UForms készenléti ellenőrzőlistáját."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "Állapot"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "VEZÉRLÉS · VONALHÁZ?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "Igen folytatódik az AI-akció. Nincsenek utak emberi feladathoz a megoldáshoz."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Emberi feladat"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "EMBER · AZ ELTÉRÉS MEGOLDÁSA"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Oldja meg az eltérést a UDO-ben, majd ellenőrizze újra az űrlapot, legfeljebb háromszor."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "Integráció"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "RENDSZER · ERP ÜTEM"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Frissítse az ERP ütemezést a kapacitás összegzése után. Szinkronizálási hiba követi az értesítési útvonalat."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "Jóváhagyás"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "HUMAN · KIADÁS ÁTTEKINTÉSE"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "Egy megnevezett műveleti vezető jóváhagyja a kiadást a UApprove-ben."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Kimenet rögzítése"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "RENDSZER · JÓVÁHAGYOTT TERV"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "A jóváhagyott gyártási tervet a URecords szám őrzi meg."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "VEZÉRLÉS"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Végezze el a konfigurált munkafolyamat útvonalat."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine kivégzés és emberi gyógyulás a UDO-ben"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "A felelős személy megkapja és elvégzi a hozzárendelt helyreállítási feladatot a UDO-ben."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "A kapacitás-összegzés csak akkor futhat, ha a vonaltisztítási feltétel teljesül."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "A kiadás a megnevezett jóváhagyóra vár; U-Engine nem tudja meghozni ezt a döntést."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Nincsenek útvonalak ide: UDO és vissza a készenléti ellenőrzőlistához. Igen folytatódik az AI-akció."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "Az integráció frissíti az ERP ütemezést a kiadás jóváhagyása előtt."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords és értesítés helyreállítása"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "A megnevezett műveleti vezető áttekinti a bizonyítékokat, és eldönti, hogy jóváhagyják-e a szabadulást."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "RENDSZER · KIMENET RÖGZÍTÉSE"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Őrizze meg a jóváhagyott gyártási tervet és az azt alátámasztó nyilvántartást."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "JÓVÁHAGYOTT AKTÍV FELÜLVIZSGÁLAT"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Csak egy tesztelt, felülvizsgált, jóváhagyott és aktivált változat indíthatja el a futtatást."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "RENDSZER · SYNC FILED"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "A sikertelen ERP-szinkronizálás a konfigurált értesítési útvonalat követi."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Értesítés"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "RENDSZER · ÉRTESÍTÉS TERVEZŐ"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "Értesítse a felelős tervezőt az ERP szinkronizálási hibáról. UPingme összeköti a beszélgetést."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "A jóváhagyott rekordútvonal és az értesítés-helyreállítási útvonal eléri a végét."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "CHAT · EMLÉKEZTETŐ · ESZKÁLÁS"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "A beszélgetések, emlékeztetők és eszkalációk itt jutnak el a felelős személyhez; a jóváhagyás a UApprove-ben marad."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "Határozza meg és tervezze meg"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Egy cél. Verziós terv."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "A Mission & Objectives összekapcsolja az elkötelezett munkát és az erőforrásokat a Work Planner és a Engine Planner segítségével."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Kezdje a céllal: készítse el a jövő heti gyártási tervet."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "Kapcsolja össze az embereket és az elkötelezett munkát a HR Master és Work Planner segítségével."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms rögzíti a készenléti ellenőrzőlistát."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "A Engine Planner a célt és az erőforrásokat egy verziózott munkafolyamathoz köti."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Tesztelés, áttekintés, aktiválás"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Beírt lépések. Ellenőrzött kibocsátás."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Tekintse át a munkafolyamat-vásznat, tesztelje, és végezzen készenléti ellenőrzéseket az emberi jóváhagyás és aktiválás előtt."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "A munkafolyamat egy űrlappal és egy sortiszta feltétellel kezdődik."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Ha a törlés sikertelen, egy emberi feladat megoldja az eltérést, és újra ellenőrzi az űrlapot."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Ha sikeres, az AI-művelet kapacitás-összefoglalót készít, majd az integráció frissíti az ütemezést."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "Tesztelje, tekintse át, hagyja jóvá és aktiválja a változatot, mielőtt a U-Engine futni kezd."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "Végrehajtás és helyreállítás"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine fut. Az emberek továbbra is érintettek maradnak."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "A jóváhagyott munkafolyamat követi a konfigurált útvonalakat. A UDO a helyreállítási munkát a felelős személlyel folytatja."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "A U-Engine követi az aktív revíziót és annak állapotútvonalait."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "A kapacitás-összesítés csak a vonalmentesség áthaladása után fut."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Az emberek megkapják és végrehajtják a hozzárendelt helyreállítási feladatokat a UDO-ben."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "Az integráció frissíti az ütemezést, vagy követi a hibaútvonalat."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "A kiadás a UApprove nevű emberi jóváhagyóra vár."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "Jóváhagyás és rögzítés"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "Emberi jóváhagyás. Egy csatlakoztatott rekord."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove a döntést egy személynél tartja. URecords megtartja a tervet. UPingme összeköti a beszélgetést."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "A sikertelen integráció értesíti a felelős tervezőt. UPingme összeköti a beszélgetést."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "A kiadás jóváhagyása a UApprove-ben megnevezett személynél marad."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "A jóváhagyó áttekinti a bizonyítékokat és dönt."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "A jóváhagyást követően a URecords megtartja a gyártási tervet, és a munkafolyamat eléri a végét."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Üzleti lebonyolítás, koordinált."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "KÜLDETÉS ÉS CÉLKITŰZÉSEK"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR MESTER · MUNKATERVEZŐ"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · EMBER HELYREÁLLÍTÁS"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "INTEGRÁCIÓ · ERP ÜTEMEZÉS"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "ÉRTESÍTÉS · FELELŐS TERVEZŐ"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "EMBERI DÖNTÉS RÖGZÍVETT"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "A CÉLHOZ KAPCSOLÓDÓ EREDMÉNY"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "A munkafolyamat előkészítése…"
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "NotAllowedError"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "A böngésző szünetelteti a narrációt. Az indításhoz válassza a Narráció lejátszása lehetőséget."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "A narráció nem indulhatott el. Az újrapróbálkozáshoz válassza a Narráció lejátszása lehetőséget."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "Hogyan működik a UCXO"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "BEMENET"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "GOMB"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "A narráció betöltése nem sikerült. Az újrapróbálkozáshoz válassza a Narráció lejátszása lehetőséget."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "HOGYAN MŰKÖDIK A UCXO"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "EGY CÉL. EGY KAPCSOLATOS TÖRTÉNET."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "Készülj fel a jövő hétre"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "Hallgassa meg a magyarázatot"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Játssz elbeszélést"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Hang bekapcsolva · Némítás"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Narráció indítása…"
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Játssz magyarázatot"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Szüntesse meg a magyarázatot"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Fejezet újrajátszása"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Hang engedélyezése"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Hang némítása"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "Fejezet haladás"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "FEJEZET FILM"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "NARRÁCIÓ · HANG KI"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "NARRÁCIÓ · JÁTSZÁS"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "NARRÁCIÓ · NEM ELÉRHETŐ"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "NARRÁCIÓ · TAP PLAY"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "NARRÁCIÓ · SZÜNETELTETT"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "NARRÁCIÓ · BETÖLTÉS"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Válasszon egy fejezetet"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "Animáció lejátszása"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "Ember"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "AI ügynök"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "Rendszer"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "Irányítás"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "A tervező elindul"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "készenléti futás"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "Kioldó"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "Készenléti ellenőrző lista"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "Vonaltávolság"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Kapacitás összefoglaló"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Frissítse a sandbox ERP-t"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Műveletek vezet"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "jóváhagyja a kiadást"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Jóváhagyott gyártás"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "terv rekord"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Oldja meg az engedélyt"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Értesítse az ERP tervezőjét"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "szinkronizálási hiba"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "Igen"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "Nem"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Ismételt ellenőrzés (max. 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "Érvénytelen kimenet"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "A szinkronizálás nem sikerült"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "Jóváhagyva"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "Elutasítva / visszaküldve"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner munkafolyamat vászon"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Munkafolyamat vászon"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "tervezet v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "Szemléltető"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "Vászon"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "Rendezett lépések"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Beírt munkafolyamat"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "A munkafolyamat nagyítása"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "Munkafolyamat kicsinyítése"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "A teljes munkafolyamat megjelenítéséhez illeszkedjen"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "végrehajtását"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "döntés · helyreállítás"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Igen → Kapacitás összefoglalása · Nem → A hézageltérés feloldása"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Felkészültségi ellenőrző lista (max. 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "A szinkronizálás nem sikerült → Értesítés a tervezőről"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Gyártási készenléti munkafolyamat jóváhagyási és helyreállítási ágakkal"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Enter"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "Jövő heti gyártási készenléti terv"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "Szemléltető jóváhagyás rögzítve"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "Emberi jóváhagyás szükséges"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Foglaljon bemutatót — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Tekintse meg, hogy a UCXO hogyan köti össze céljait, az embereket és a mesterséges intelligencia munkatársait. Meséljen nekünk vállalkozásáról, és kérjen személyes bemutatót."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "Foglaljon bemutatót."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "A csapatodért."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Tekintse meg a UCXO számot a vállalkozásától származó munkafolyamattal."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "AZ ÖN CÉLJA"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "PEOPLE + AI"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "EREDMÉNY"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "Mire számíthatunk"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "Kezdje a céljaival"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Mondja el, hol akad el a munka."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "Fedezze fel a lehetőségeket"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "Nézze meg a csapata számára releváns eszközöket."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Keresse meg a következő lépést"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "Döntse el, hogy a UCXO megfelel-e az Ön igényeinek."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "Inkább e-mailt szeretne?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "SZEMÉLYES DEMO"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "Az Ön adatai"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Mesélj egy kicsit a csapatodról."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Négy kezdőlap előnézet – UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Vissza a weboldalra"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "KEZDŐOLDAL KARUSELL · HELYI TERVEZÉS ÁTTEKINTÉS"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Egy munkaterület."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "Négy út az előrelépéshez."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Négy javasolt kezdőlap kártya. Valódi szoftverképernyők, világos magyarázatok és a UCXO egyes részeinek alaposabb áttekintése."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Eredeti képernyők a tervezési PDF-ből"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Statikus előnézetek áttekintéshez"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Fedezze fel a négy előnézetet"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "Négy kezdőlap előnézet"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "NÉGY STATIKUS ELŐNÉZET · KÉSZEN AZ ÖN ÁTTEKINTÉSÉRE"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "A szoftver vezet."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "A történet világossá teszi."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Válasszon ki egy képernyőválasztót a kapcsolódó modul ellenőrzéséhez. Nyissa meg a képernyőt teljes méretben, hogy összehasonlítsa a PDF-el. Ezek az előnézetek megtartják az eredeti mintaadatokat és üres vagy piszkozat állapotokat."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Vissza a négyes előnézeti áttekintéshez"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Hogyan működik – UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "Kövessen egy üzleti célt a javasolt munkafolyamattól az emberi jóváhagyásig és a felülvizsgált eredményig."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "IRÁNYTÓL A SZÁLLÍTÁSIG"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Egy cél."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "Minden lépés összefügg."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "Kövesse a szemléltető gyártási készenléti tervet."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "Az emberek megtartják azokat a döntéseket, amelyek emberi megítélést igényelnek."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "Üzleti lebonyolítás,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Egy közös munkafolyamatba vonja be céljait, embereit és a mesterséges intelligencia munkatársait."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Fedezze fel a platformot"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "Jelentkezzen be a UCXO számra"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — Üzleti végrehajtás, koordinált."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Változtassa az üzleti célokat összehangolt cselekvéssé. Tervezze meg a munkafolyamatokat, kapcsolja össze az embereket és az AI-ügynököket, és tartsa számonkérhetővé a végrehajtást."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Célok a munkafolyamatokba"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "Bontsa fel az üzleti célt lépésekre, függőségekre és tulajdonosokra."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Tervezze meg a munkát"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Határozzon meg feladatokat, feltételeket, integrációkat és jóváhagyási útvonalakat egy verziószámú munkafolyamatban."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Tervezze meg a munkafolyamatot"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO feladatok"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "Adjon minden feladatnak egy felelős személyt és egy világos státuszt."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Felelősség kijelölése"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "Munkafolyamat készenlét"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Teszteljen egy változatot, és végezze el az ellenőrzéseket a jóváhagyás és aktiválás előtt."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Készüljön fel a végrehajtásra"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "MI AZ ÖN SZERVEZETÉBEN"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 – A PLATFORM"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Kevesebb kézi munka."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "Több idő a csapatra."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "Hozd el az AI-ügynököket"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "Hozzon létre és koordináljon mesterséges intelligencia-ügynököket a mindennapi feladatok automatizálásához az egyes részlegek között."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "Tekintse meg a munkafolyamat példáját"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "Kevesebb kézi átadás"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Az emberek és a mesterséges intelligencia együtt dolgoznak"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Tiszta tulajdonjog"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "TISZTA ÚT A CÉLTÓL AZ EREDMÉNYIG"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — HOGYAN MŰKÖDIK"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "A gólból"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "az elkészült munkához."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Kövesse a munkafolyamat öt szakaszát."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "EGYÜTTMŰKÖDÉSRE ÉPÍTETT"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 – ALAPVETŐ KÉPESSÉGEK"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Eszközök mögött"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "a munkafolyamat."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Tervezz, rendelj hozzá, tesztelj és futtass."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "AUTOMATIZÁLÁS ELÉRHETŐSÉGVEL"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "Emberi döntések."
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "A megfelelő pillanatokban."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove a döntéseket a felelős személyhez irányítja."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Bizonyíték a jóváhagyás előtt"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Vizsgálja meg az alátámasztó feljegyzéseket."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Láthatóság a végrehajtás során"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "Tekintse meg a futási előzményeket és a kivételeket."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Világos szerepek és engedélyek"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "Állítsa be a szerepköröket és az osztályok hatókörét."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "VÉGREHAJTÁSI FELÜGYELET"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "ILLUSTRATIV"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "Munkafolyamat végrehajtásának figyelése"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "EMBERI JÓVÁHAGYÁSI KAPU"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "A döntés veled marad."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Tekintse át a bizonyítékokat és döntsön."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "Emberi jóváhagyásra vár"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Támogató bizonyíték csatolva"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "Kivétel észlelve"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Továbbítottuk a felelős felülvizsgálóhoz"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "A megfigyelési munka nem ad emberi jóváhagyást."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "A VÁLLALKOZÁSOK MŰKÖDÉSÉHEZ KÉSZÜLT"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — HASZNÁLATI ESETEK"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Valódi munka."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "Végétől a végéig csatlakoztatva."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Megosztott végrehajtási réteg a cégtulajdonosok számára,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "műveleti vezetők és az általuk vezetett csapatok."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "MŰVELETEK"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "Működési koordináció"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Igazítsa a többfunkciós feladatokat, a tulajdonosokat és a függőségeket egy közös üzleti cél köré."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Határozza meg a tervet"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Koordinálja az átadásokat"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "ISMÉTELHETŐ MUNKA"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Ismétlődő riportok"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "Használja újra az AI-ügynököket a munka előkészítéséhez, majd irányítsa a kimeneteket és a bizonyítékokat az őket áttekintő személyekhez."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Gyűjtsön bemeneteket"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "Fuss egy ügynököt"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "Emberi áttekintés"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "IRÁNYÍTOTT VÉGREHAJTÁS"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "Jóváhagyás-vezérelt munka"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "Csatlakoztassa a feladatok bizonyítékait, az emberi jóváhagyási kapukat és a kivételkezelést egyetlen látható munkafolyamatban."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "Gyűjts bizonyítékokat"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Kérjen jóváhagyást"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "Kivételek megoldása"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Reprezentatív felhasználási esetek. A munkafolyamat-példák szemléltető jellegűek."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "NÉHÁNY DOLOG, TISZTÁZVA"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Az áttekinthetőség érdekében készült."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "Mi az a UCXO?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "A UCXO segít a csapatoknak, hogy az eljárásokat hozzárendelt, nyomon követhető munkává alakítsák AI-ügynökökkel és emberi jóváhagyással."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Hogyan működik együtt a Engine Planner és a U-Engine?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner megtervezi a munkafolyamatot. U-Engine futtatja a tesztelt, jóváhagyott és aktivált változatot."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Ki hagyja jóvá a munkát?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "A megnevezett emberi jóváhagyó dönt. Az AI-ügynök nem adhatja meg ezt a jóváhagyást."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Mikor futhat egy munkafolyamat?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "Készenléti ellenőrzések, emberi jóváhagyás és aktiválás után."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "HAGYJON ELŐRE A CÉLKITŰZÉSEKET"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Lásd: UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Foglaljon bemutatót csapatának, vagy nézze meg a munkafolyamat példáját."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Figyelje a munkafolyamatot"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Kérjük, töltse ki ezt a mezőt."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Kérjük, adjon meg egy érvényes e-mail címet."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Kérjük, ellenőrizze ezt az értéket."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Hang: angol"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "Átirat"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Az oldal nem található"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "A keresett oldal nem található."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "Térj haza"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Válasszon nyelvet"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "Nyelvek keresése"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "Menekülés"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "Nyelvek"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO bemutatókérés – {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Név: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "Munkahelyi e-mail: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Cég: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Beosztás: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Vállalat mérete: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Ország: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "{0}. fejezet: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "LÉPÉS: {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0}/{1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "A TELJES TÖRTÉNET · {0} MÁSODPERC"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "A(z) {0} képernyő kibontása"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "Vizsgálja meg az eredeti {0} képernyőt"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} szoftverképernyő"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} eredeti szoftver képernyő"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "KÖVETKEZŐ · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} bemutató fejezet"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. Eredeti UCXO szoftver képernyő irányított kurzor bemutatóval."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Hívások és értekezletek"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Keresési azonosítók, címek..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "A kísérleti vállalat (minta) · Műveletek"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "OTTHON"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Hívások és találkozók"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "A hang- és videohívások, az értekezletek ütemezése, a felvételek és az átiratok nem részei ennek a buildnek."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "CALLINGPROVIDER·NONECONFIGURED"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Nem indítható hívás vagy találkozó"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "itt"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Döntés szükséges·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Nincs csatlakozás, rögzítés vagy átírás vezérlő"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "mert valójában semmi sem történne.Találkozások"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "nem ütemezhető vagy tárolható – egyik sem létezik."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Tobe a hívásszexizmus előtt döntött"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "Közben"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Hívások és értekezletek"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "Hívásszolgáltató és a hívási adatok helye"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "Munkahelyi beszélgetések"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "feldolgozni"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O aktív, mindegyik az objektum lényéhez kötött"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Döntés szükséges ·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "megbeszélték."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "A résztvevők beleegyezése minden előtt"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Üzenetet küldeni egy személynek"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "felvétel vagy átirat"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "A közvetlen üzenetek az elsővel jönnek létre"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "üzenetet."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "A felvételek megőrzése és hozzáférése"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "Egyezzen meg egy akcióban"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "Javasoljon feladatot az üzenetből; eléri"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "és átiratok (URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO csak miután átnézte és elküldte."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Beállítások elemre"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Üzemeltető"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "Céleszközök, kijelzők és helyiség"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ Delegációs mester"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "PilotCompany A(minta)·Műveletek"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "Ki, kinek, mit és mennyi ideig járhat el. Feladatátadás és jóváhagyás-jogosultság"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "a helyettesítés külön, időhöz kötött tekintélyek."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Döntés szükséges · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "A delegálás üzleti jelentése és a láncok megengedettsége nem dől el.Konzervatív"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "alapértelmezések érvényesek: a delegáció soha nem ad többet, mint amennyit a felhatalmazó birtokol (minden alkalommal újra ellenőrizve"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "használata), a láncok le vannak tiltva, és a jóváhagyás helyettesítéséhez független rendszergazda szükséges."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "AIl"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "Jóváhagyásra vár"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "Ütemezett"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Aktív"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "Lejárt"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "Visszavonva"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "Elutasítva"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Mindkét fajta 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Jóváhagyás helyettesítése 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Feladatátadás 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Csak a velem részt vevő delegációk"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Emberek, azonosítók, okok keresése"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "november 6-december 3"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "Korábban"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "Ma"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "Később"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "KI KINEK CSAKOL"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "RohanDas"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "fellép VikramShah számára"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Műveletek"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "PilotCompanyA(minta)·Műveletek"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "A terv egy elfogadott célt, elkötelezett munkát és erőforrásokat egy verziózott munkafolyamathoz köti. El kell múlnia"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "készenlétet, egy megnevezett személy hagyja jóvá, és aktiválja, mielőtt bármilyen futás megkezdődne."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "Piszkozat"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Felülvizsgálatra kész"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "In Review"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "K"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "Felfüggesztve"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "Keresés azonosítója, címe vagy tárgya"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 terv"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "A jövő heti gyártási készenléti terv"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "CélkitűzésOBJ-026·Készítse elő a következő heti gyártási tervet"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "Készültség 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "ÉLŐ VERZIÓ"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·draftv1·10nodes"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "Nem aktív"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "JÓVÁHAGYÓ"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "TULAJDONOS"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "VikramShah"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Készenlét feloldása"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Forms Master"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Keresési azonosítók, címek..."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Forms Master"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Osztályi igényre létrehozott űrlapdefiníciók. A közzétett változatok megváltoztathatatlanok; minden változás"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "új vázlatos változat lesz, amelyet egy független lektor tesz közzé."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "AII"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Megjelent"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "Nyugdíjas"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Minden osztály"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Keresés ID, név vagy rekord"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "Gyártási készenléti ellenőrző lista"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Üzemeltetői ellenőrzőlista a csomagolás futtatása előtt."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Megtekintés"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "& OperationsOwner Kabir Sen Készültségi ellenőrzőlistát készít"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "PLAN-021-hez kötve"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Élő v1 8fields · megváltoztathatatlan"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "FormsMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / HR Mester"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "Az emberek, mint erőforrások tervezése: szerep, készségek, munkanaptár és elkötelezettségük. Bejelentkezés"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Emberek és készségek"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "Hierarchia és személyzet"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "Elérhetőségi tábla"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "Importálás (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Emberek"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Képességmátrix"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "Ügyesség"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Állapot"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Minden osztályom"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Bármilyen készség"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Aktív és inaktív"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Név, szerep vagy készség"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Sunil Varma"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Karbantartó technikus"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Csomagoló üzemeltető"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "Karbantartás"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "Elektromos"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Csomagolás"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "Minőség"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "M"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "T"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "W"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗Semmi elkötelezett"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Nincs bejelentkezési fiók"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "Bejelentkezés: Arjun Mehta"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "Maya Rao"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "MR"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / Beérkezett üzenetek"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "Minden beszélgetés, amelynek tagja vagy, úgy van rendezve, hogy az legyen az első, amire szüksége van."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markallread"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Üzenet valakinek"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "AlI 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Olvasatlan"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Közvetlen üzenetek"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "Említések"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Keressen nevek, témák és üzenetszövegek között"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "OLVASATLAN"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#ops-tervezés"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Csapat csatorna"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "2026. november 12., 7:05"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha, kérjük, oldja meg a WORK-021 konfliktust 2026-11-13 előtt..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / Machine Master"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "Ütemezhető a működő berendezés: hol van, mit tud, mennyit tud óránként, mikor"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "nyitva, és ami már le van foglalva. Csak ütemezés – nincs gépi vezérlés."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIl3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "Elérhető"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "Kiszolgált"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q Név, hely vagy képesség"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "Címkenyomtató 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "03-as csomagolósor"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "PlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "PlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 címke/óra"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "egység/óra"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "Címkézés"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "Tömítés"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O fenntartvaNincs tervezett állásidő"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 fenntartva Le 2026. november 19"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "02-es csomagolósor"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "A kísérleti vállalat (minta) · Műveletek"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Minden cél kimondja az eredményt, a siker bizonyításának módját, és azt, hogy ki a tulajdonosa – majd átutazik"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "tervezés, jóváhagyás, kivitelezés és nyilvántartás."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Célok"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "Küldetés"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "MISSION·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Küldetés &célok"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Megbízható, igazolt működés"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Minden gyártási kötelezettséget időben teljesíteni az emberekkel,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "tervezett, jóváhagyott és bizonyított berendezések és döntések."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "Tulajdonos AshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "Az emberek jóváhagyják a kiadásokat"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Minden kimenet nyomon követhető"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "A tervek a valós kapacitást tükrözik"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "Nyitott küldetés"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Mind 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "Felülvizsgálatra vár"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "Elfogadva"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "Átdolgozva"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Keresés azonosítója, címe vagy tulajdonosa"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "Készülj fel"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "következő"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "hetes"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Emberek könyvtára"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "és a hozzáférési adatok itt nem jelennek meg."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Név, beosztás vagy osztály"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIl10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Mérnöki"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Műveletek 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "Tervezés"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "fiók"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "Bármelyik (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①A jelenlét nem jelenik meg: A UPingme nem rendelkezik valós idejű jelenlét szolgáltatással. Az állapot az UUsers fiók állapota."
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Arjun Mehta (te)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Asha Kulkarni"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1 Üzenet"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "Céges ügyintéző"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Aktív fiók"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "rendszergazda"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "Aktív fiók"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Vikram Shah"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "Üzenet"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(jóváhagyó)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Csapatcsatornák"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Csatornák, amelyekhez tartozik, megnyitott csatornák, amelyekhez csatlakozhat, és archivált csatornák."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Új csatorna"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "A privát csatornákat csak a tagjaik láthatják."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Csatorna neve, téma vagy üzenetszöveg"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "Vállalati szinten"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "AZ ÖN CSATORNÁI"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Az A üzem heti termelési tervezése"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5tag"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Utolsó üzenet: 2026. november 12., 7:05"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "CSATLAKOZÁS MEGNYITÁSA"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## üzem-bejelentések"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "Az egész vállalatra vonatkozó közlemények az A. üzemhez. Csak a tulajdonos"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "hozzászólások."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "A vállalat egészére kiterjedő, 2 tagú tulajdonos Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "tulajdonosi posztok"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Előnézet"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Csatlakozz"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "A megnevezett személyek pontos, fagyasztott revízió mellett döntenek. A jóváhagyás, a visszaküldés és az elutasítás különálló döntések; an"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "a tanúsítás külön jóváhagyás után történik."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Vár rám"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "D"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "általam kért"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "Kivételek"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "Eldöntött"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Minden a hatókörben"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "Keresésazonosító, cím, kérelmező"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Semmi sem vár rád"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "A kérések akkor jelennek meg itt, ha Ön a nyitott színpad megnevezett jóváhagyója vagy aktív helyettesítője."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "minden kártya pontosan azt nyitja meg, ami számít."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Munkaterület térkép"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品 Kártyák"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "tábla"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 Lista"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Mind az én hatáskörömben"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "Frissítve 09:29"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C Frissítés"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Ahol a munka beállítása és végrehajtása történik"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Küldetés és célkitűzések"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / Saját feladatok"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "Feladatok"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "Minden, ami Önre vár – a munkafolyamat lépéseitől, űrlapkérésektől, jóváhagyásoktól, nyomon követésektől és UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "javaslatokat – hol kell eljárni, és milyen kiegészítéssel változtat."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "A Saját feladatok a UDO felhasználó által irányított része. UDO"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·MyTasks"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "teljes név, tulajdonos, felhasználók és egyéb képernyők nem"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "Döntés szükséges ·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "definiálva, így semmi más nem jelenik meg."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "Hozzám rendelve"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "általam kiosztott"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "Nyissa meg"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "Folyamatban"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "Visszatért"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "Lejárt"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Ma esedékes"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "Befejezve"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "AlIlo"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Írja be"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Keresés azonosítója, címe, forrása vagy megbízottja"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Minden típus"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Még nincs hozzád rendelve semmi"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "A feladatok munkafolyamat-futtatásokból (űrlap és emberi lépések), jóváhagyásból érkeznek ide"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "kérések, nyomon követések, amelyeket valaki kijelöl, és a megerősített javaslatok"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Értesítést is kapsz."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Fut"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Fut"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Egy jóváhagyott, közzétett munkafolyamat-verzió minden egyes végrehajtása – kire vár, mi nem sikerült és mi"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "egyeztetést igényel. A futtatások a terv változása után is megtartják a pontos verziót."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Futásidejű definíciók"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "AIl0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "Vár rám"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "Várakozás"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "Futás"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "Törölve"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "Keresési futtatás vagy tervazonosító"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Még nincs futam"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Indítsa el az indítást egy aktív tervből az EnginePlanner alkalmazásban."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Nyissa meg az EnginePlanner programot"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Töltse ki a közzétett Forms Master sablonokat. Minden benyújtott űrlap pontosan azt a verziót tartalmazza, amelyen készült,"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "és átvizsgálják a javítást, vagy a visszaküldést."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Elérhető űrlapok"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "Az én beadványaim"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Megjelent nyomtatványok"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "Csak az aktuálisan közzétett verzió indítható el; a régebbi verziók olvashatóak maradnak a beküldött anyagokon."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "Keresési űrlapok"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Gyártási készenléti ellenőrzőlista"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8 mező"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6 szükséges"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 asztal"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1 fájl"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1 feltételes"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "OSZTÁLY"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "ŰRLAPTULAJDONOS"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "Kabir Sen"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "PRODUCESRECORD"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "Készenléti ellenőrzőlista"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "TERV-021A jövő heti gyártáskész"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "tervet"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026Készítse elő a jövő heti produkciót"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Mire van szüksége a beszélgetéseiben, és arra a munkára, amelyről szólnak."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Nyissa meg a beérkező leveleket"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "A beszélgetésekben semmi sem vár rád."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "Az üzenetek koordinálják a munkát; soha nem hagyják jóvá, írják alá vagy egészítik ki. Egy feladat csak azután létezik, hogy a"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "a javaslatot megvizsgálják és benyújtják."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1 Hívások és értekezletek"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Olvasatlanságok"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Feladatok megnyitása innen"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "Beküldés visszavonva"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "Nyissa meg pontosan"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "beszélgetések"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "javaslatokat"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "üzenetet"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "Üzenetekkel neked"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "Önhöz rendelve"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "Piszkozatokat csak te tudsz"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "nem olvastam"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "lásd"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "szüksége van rád"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "Allmentations"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "Legutóbbi beszélgetések"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#opsz-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "2026. november 12., 7:05"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Nounreadmentionandnoopentask from"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "tervezés"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "beszélgetést."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / Saját feladatok"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Ugyanazok a feladatok, azonosítók, bizonyítékok és jogosultságok, mint"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscome"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "UPingme-ben"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Csak a beszélgetésekből származó feladatok"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "a beszélgetéseidből; mindegyik a sajátjára hivatkozik"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "forrásbeszélgetés."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "Késedelmes0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "Ma esedékes"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "Keresésazonosító, cím, forrás vagy jogosult"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Minden típus"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "A kísérleti társaság (minta) · Műveletek"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Futások rekordjai, elfogadott űrlapok és kézi bevitel, valamint ellenőrzött dokumentumok kiadási szabályokkal-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "egy boltban a forrásvonallal. A keresés és az exportálás kövesse a hozzáférési hatókört."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品Minden rekord"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Működési nyilvántartások"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "Ellenőrzött dokumentumok"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "B"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Törvényes tartás"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "Keresés azonosítója, címe vagy típusa"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "Bármilyen állapot"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Ellenőrzött dokumentumok"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "A kiadott tartalom le van fagyasztva. A változás egy új verzió, saját jóváhagyással; a dokumentumkezelő kiadja."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 Csomagolósor"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "átállás"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Megjelent dokumentum"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "Megjelent az 1. rev"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "ControlledSopOperations"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 revízió"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Leela Menon tulajdonos"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "1 rekord látható · az Ön hozzáférésén kívül eső rekordok nem számítanak bele"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "Ismerje meg az Önnek rendelt pontos verziót. Egy szakasz olvasása rögzíti a haladást; csak a verzióé"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "az elismerés vagy az elmulasztott értékelés teszi teljessé."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "Az én tanulásom"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "Az én feladataim"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "op"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "Zárva"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "AlI"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "A csomagolósor biztonsága"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① Hozzárendelve"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "2 nap · 2026. november 15"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · az Ön verziója"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "Kezdje a leckét"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "Bemutatás · Biztonság · Csomagolási vonalak"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "Leela Menon rendelte"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0/2 szakasz elolvasva"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Értékelés·megfelel 100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Tartalomtár"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "Téma"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "Termék"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Keresés cím, téma, termék"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Minden téma"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Minden termék"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "Az állapotom"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "Bármelyik"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Platform identitások és hozzáférésük: szerepkörök, osztályok hatóköre, munkamenetek, delegációk és hozzáférés felülvizsgálata."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "A személyzet és a rendelkezésre állás a HR Masterben él."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "Emberek"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Szolgáltatási azonosítók"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "Láthatja a vállalati címtárat. A szerepkörök, a részlegek hatóköre és a munkamenetek láthatók a vállalat számára"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "rendszergazdák."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Mind10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Aktív 10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "Inaktív"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QKeresés név, e-mail, azonosító"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Csomagoló üzemeltető Műveletek"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "Az adminisztrátorok számára látható szerepek"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "2026. november 13., 9:28"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "Céges adminisztrátorMűveletek"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "A rendszergazdák számára beosztható"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Munkahelyi beszélgetések"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Egy célhoz, tervhez, feladathoz, űrlaphoz, feljegyzéshez vagy munkához kötött beszélgetések"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+Újmunkás beszélgetés"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "tételt. Az objektum állapota és verziója mindig a saját moduljából származik."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "AIlO"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Név, téma vagy üzenet szövege"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Archivált"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Még nincsenek munkahelyi beszélgetések"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "Egy munkahelyi beszélgetés egy megnyitható objektumhoz kötődik – egy tervhez,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "cél, feladat, űrlap, rekord vagy munkaelem – így a vita a következő marad"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "a munkához."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Kezdj egyet"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Pilot CompanyA (minta) · Műveletek"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "Időben elhelyezett munkák a HR Master munkatársainál és a Machine Master felszerelései."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Az előnézetek ütemezése soha nem foglal helyet; csak egy commit csinál."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "Ütemezést igényel"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "Folyamatban"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "Jóváhagyásra vár"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "Konfliktusok"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "Heti idővonal"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "Keresésazonosító, cím, hely"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Gyártási készenlét – 2026-11-16 hete"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "Ütemezés"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021 · esedékesség: 2026. november 18. · Csomagolás/Lezárás"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "2026. november 9-i hét"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "Ezen a héten"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 állás ezen a héten"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "ÁLLÁS"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "MON"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "TUE"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "SZED"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "2026. november 9"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "2026. november 10"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "2026. november 11"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Munkaterület beállításai"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Workspacesettings/Channelsettings"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Csatornabeállítások"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Téma, tagok, kik olvashatnak és kik posztolhatnak – csatornákhoz és munkahelyi beszélgetésekhez. Minden"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "a változtatás verziószáma és auditálása megtörténik."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "Csatornák"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Értesítések"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "Hozzáférés"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "Megtartás"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Tag – csak olvasható"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# művelettervezés"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##ops-tervezés"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Csak olvasható"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Csak a tulajdonos (VikramShah) ora munkaterület"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "a rendszergazda módosíthatja ezeket a beállításokat."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Aki tud olvasni"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Nyitott – emberek köre"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "megtalálhatja és csatlakozhat hozzá;"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "üzenetek jelennek meg"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "csak tagok"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Ki postázhat"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Minden tag"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Heti termelés"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "az A üzem tervezése"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "tagok"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "Asha Kulkarni, Vikram"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Shah, Neha Lyer, Maya"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Rao, Arjun Mehta"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "Politikatörténet"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Nyissa meg a vállalati vagy az UPingme hatókörébe tartozó részlegek csatornáit. A privát csatornák is megjelennek."
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / ÜZLETI CÉL"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / Draft WORKFLOW"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / TULAJDONJOG"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / KOORDINÁLT VÉGREHAJTÁS"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / EREDMÉNY ÁTTEKINTÉS"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "FORMA / BEMENET → ÁLLAPOT"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "EMBERI FELADAT → ÚJRA ELLENŐRZÉS"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "AGENT ACTION → INTEGRÁCIÓ"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "TESZT → ÁTTEKINTÉS → AKTIVÁLÁS"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "teljes?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "ütemterv"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "eltérés"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · KÉSZÜLTSÉG ELLENŐRZŐ LISTA"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · VERZIONÁLT MUNKAFOLYAMAT"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · AKTÍV FELÜLVIZSGÁLAT"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · NEVEZETT JÓVÁHAGYÓ"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · DÖNTÉSRE VÁR"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Küldetés és célkitűzések"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → VÉGE"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "körhinta"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "dia"
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "A UCXO.AI mesterséges intelligencia által vezérelt üzleti végrehajtás. A SOP-okat munkafolyamatokká alakítsa. Felelősség kijelölése. A pálya befejezése. A vállalkozásod működik. Marad az irányítás."
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Hozz AI-ügynököket szervezeted minden részébe."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Lásd: UCXO működés közben."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Készítse el a jövő heti gyártási tervet."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers platformazonosítókkal, fiókállapotokkal és rendszergazdai hozzáférési kontextussal."
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Válassza az Emberek címtárat, hogy megtalálja azokat a kollégákat, akiknek üzenetet küldhet a UUsers csapataival és szerepköreivel. Megjelenik az aktív fiók állapota; a hivatkozás nem biztosít valós idejű jelenlétet."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "a fiókokat külön kezelik aUUsers-ben."
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "A cég minden tagja számára üzenetet küldhet csapatával és szerepeivel a UUsers-től. HR elérhetőség"
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    }
+  }
+}

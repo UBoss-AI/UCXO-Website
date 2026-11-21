@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Xin chào nhóm UCXO,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Tôi muốn sắp xếp một bản demo của UCXO."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Những gì tôi muốn đạt được:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Tôi muốn thảo luận về điều này trong bản demo."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "Cảm ơn bạn,"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Yêu cầu bản demo UCXO"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Các trường được đánh dấu"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "được yêu cầu."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "Chi tiết liên hệ và công ty của bạn"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "Tên"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "Họ"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "Email công việc"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Công ty"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Tên công ty"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Chức danh"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "Vai trò của bạn"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "Quy mô công ty"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Chọn quy mô đội"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "Quốc gia"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "Đất nước của bạn"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Bạn muốn đạt được điều gì?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "Tùy chọn"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "Một quy trình làm việc cần cải thiện, một mục tiêu cần đạt được hoặc một thách thức cần giải quyết…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "Để trống cái này"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "Chúng tôi sẽ sử dụng thông tin chi tiết của bạn để đáp ứng yêu cầu demo của bạn. Vui lòng tránh bao gồm thông tin bí mật."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Yêu cầu bản demo của tôi"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Mở ứng dụng email của bạn với thông tin chi tiết được điền sẵn."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Thực hiện kinh doanh, phối hợp."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Nền tảng"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Nó hoạt động như thế nào"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Trường hợp sử dụng"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Giám sát"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Quay lại đầu trang"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. Mọi quyền được bảo lưu."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "Do con người lãnh đạo. Được hỗ trợ bởi AI. Chịu trách nhiệm theo thiết kế."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO nhà"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "điều hướng mở"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Điều hướng chính"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Đặt bản demo"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Đăng nhập"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Đóng trình đơn"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "Mở trình đơn"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / MINH HỌA"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "in đậm 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "QUY TRÌNH LÀM VIỆC"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "GIAI ĐOẠN KẾT NỐI"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "SỞ HỮU"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "NGƯỜI + ĐẠI LÝ ĐỘNG CƠ"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "ĐÁNH GIÁ CON NGƯỜI"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "BẮT BUỘC/ĐANG CHỜ"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "ĐƯỢC BẢO QUẢN Ở NƠI YÊU CẦU"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Xác định mục tiêu"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Bắt đầu với kết quả."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Nêu rõ kết quả và ai sở hữu nó."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Phối hợp lập kế hoạch sẵn sàng sản xuất"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "Mục tiêu và bối cảnh kinh doanh"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Quyền sở hữu tổ chức"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Kết quả mong muốn"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Xem lại quy trình làm việc"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Làm cho kế hoạch trở nên rõ ràng."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Kiểm tra các bước, sự phụ thuộc và phê duyệt cần thiết."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Xem xét kế hoạch thực hiện được đề xuất"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Nhiệm vụ của con người và tác nhân AI"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "Sự phụ thuộc và chuyển giao"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Cổng phê duyệt bắt buộc"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Phê duyệt và phân công"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Đặt quyền sở hữu tại chỗ."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Phê duyệt kế hoạch và giao từng nhiệm vụ cho chủ sở hữu của nó."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Phê duyệt kế hoạch và phân công chủ sở hữu"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "Chủ sở hữu nhiệm vụ có trách nhiệm"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Khả năng của đại lý được phê duyệt"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "Trách nhiệm đánh giá con người"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "Thực hiện"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Giữ công việc được kết nối."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine tuân theo kế hoạch và đánh dấu các vấn đề để xem xét."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "Giám sát các nhiệm vụ, hoạt động và chuyển giao"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "Thực thi nhận thức phụ thuộc"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Đại lý được giám sát đang chạy"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Báo cáo ngoại lệ"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Đánh giá kết quả"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Đóng vòng lặp."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "So sánh kết quả và bằng chứng của nó với mục tiêu ban đầu."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Xem xét kết quả với bằng chứng của nó"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Bằng chứng và phê duyệt nhiệm vụ"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Lịch sử thực hiện đại lý"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "Đánh giá kết quả"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "Hành trình UCXO"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "Mũi tênPhải"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "Mũi TênTrái"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "Trang chủ"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "Kết thúc"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Bắt đầu lại cuộc hành trình"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Bước tiếp theo"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "QUY TRÌNH MINH HỌA"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "Kết nối với mục tiêu kinh doanh của bạn"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "đối tác của chúng tôi"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "Tiếp tục logo đối tác"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "Tạm dừng logo đối tác"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO đối tác"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "Điểm khởi đầu của bạn."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "Xem bức tranh lớn."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Bối cảnh công ty, phạm vi phòng ban và chế độ xem không gian làm việc."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Tổng quan về không gian làm việc"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "bối cảnh bộ phận"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Các mô-đun được kết nối"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview với bối cảnh công ty và bộ phận, các tab Tổng quan và Hoạt động cũng như bản đồ không gian làm việc hiển thị."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "Bản đồ bảng điều khiển tiếp tục bên dưới bản chụp PDF. Bản xem trước này bảo toàn màn hình hiển thị chính xác; nó không phát minh ra phần còn thiếu."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "Nhiệm vụ của bạn."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "Quyết định của bạn."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Sử dụng UDO cho nhiệm vụ và UApprove cho yêu cầu phê duyệt."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · Nhiệm vụ của tôi"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "Được giao cho tôi/bởi tôi"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · Quyết định của con người"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO Nhiệm vụ của tôi với các tab bài tập, bộ lọc trạng thái nhiệm vụ, tìm kiếm và trạng thái trống ban đầu."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove với các bộ lọc Đang chờ tôi, Được tôi yêu cầu, Ngoại lệ và Đã quyết định cũng như trạng thái trống ban đầu."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Công việc hàng ngày."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "Ở một nơi."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "Biểu mẫu, hồ sơ, quy trình làm việc và đào tạo."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Biểu mẫu & hồ sơ"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · Chạy quy trình công việc"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "Học tập được giao"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms hiển thị danh sách kiểm tra mức độ sẵn sàng sản xuất đã xuất bản, phiên bản, trường và quy trình làm việc được liên kết của nó."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords hiển thị SOP kiểm soát việc chuyển đổi dây chuyền đóng gói đã được phát hành và bản sửa đổi của nó."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "Màn hình UEngine Chạy ban đầu, giữ nguyên nhãn UI chính xác và trạng thái Chưa chạy."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining hiển thị bài học, tiến độ và yêu cầu đánh giá về an toàn trong dây chuyền đóng gói được giao."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Thành lập doanh nghiệp."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Lập kế hoạch công việc."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Mục tiêu, nguồn lực, thiết kế quy trình làm việc và quyền truy cập."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Mục tiêu & kế hoạch"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Con người và thiết bị"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Mẫu và quyền truy cập"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner với dự thảo kế hoạch sẵn sàng sản xuất, sẵn sàng 4/8, chủ sở hữu và người phê duyệt được nêu tên, và trạng thái Không hoạt động."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "Sứ mệnh & Mục tiêu"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Sứ mệnh và Mục tiêu thể hiện sứ mệnh hoạt động đáng tin cậy, được chứng minh và các bộ lọc mục tiêu."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "Người lập kế hoạch công việc"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Công cụ lập kế hoạch công việc với số lượng lịch trình, mục công việc sẵn sàng sản xuất và dòng thời gian trong tuần."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "Thạc sĩ Nhân sự"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "HR Master với con người, vai trò, kỹ năng, lịch làm việc và các cam kết."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "Bậc thầy máy móc"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Machine Master với tình trạng sẵn có của thiết bị, công suất, giờ làm việc và đặt chỗ."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "Biểu mẫu chính"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Forms Master với phiên bản bất biến, đã xuất bản của danh sách kiểm tra mức độ sẵn sàng sản xuất."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Trưởng đoàn"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "Ủy quyền chính với thông báo cần quyết định ban đầu và sự thay thế phê duyệt theo lịch trình."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "ĐỐI THOẠI VỚI CÔNG VIỆC TRONG BỐI CẢNH"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Giữ cuộc trò chuyện"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "gần nơi làm việc."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Tìm các cuộc trò chuyện của bạn, điều phối trong các kênh nhóm và duy trì các cuộc thảo luận liên quan đến công việc họ quan tâm. Các đề xuất nhiệm vụ được xem xét và gửi sẽ kết nối trở lại UDO."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Hộp thư đến & đề cập"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Kênh nhóm"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Cuộc trò chuyện liên kết công việc"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Hộp thư đến"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Hộp thư đến với các bộ lọc cuộc trò chuyện và cuộc trò chuyện chưa đọc trong kế hoạch hoạt động ban đầu."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Các kênh nhóm hiển thị kế hoạch hoạt động và kênh thông báo về nhà máy trên toàn công ty."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Cuộc trò chuyện công việc"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme Hội thoại công việc với trạng thái trống ban đầu và giải thích về liên kết công việc-đối tượng."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "Tổng quan về cuộc trò chuyện"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview với cuộc trò chuyện chưa đọc, lượt đề cập, nhiệm vụ và số lượng đề xuất chưa được gửi."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "Thực thi kinh doanh được hỗ trợ bởi AI"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "Biến SOP thành quy trình công việc. Giao trách nhiệm. Theo dõi hoàn thành."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "Doanh nghiệp của bạn hoạt động. Bạn luôn kiểm soát."
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI là hoạt động kinh doanh được hỗ trợ bởi AI. Biến SOP thành quy trình công việc. Giao trách nhiệm. Theo dõi hoàn thành. Doanh nghiệp của bạn hoạt động. Bạn luôn kiểm soát."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "Tổng quan về không gian làm việc của bạn"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. Điểm khởi đầu của bạn. Xem công ty của bạn, chọn một bộ phận và mở mô-đun bạn cần."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "Quan điểm và phạm vi bộ phận"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "Sử dụng Tổng quan để xem nhanh hoặc Hoạt động để theo dõi cập nhật. Các điều khiển chế độ xem cung cấp bản đồ, thẻ, bảng và danh sách."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. Nhiệm vụ và phê duyệt của bạn. UDO hiển thị công việc được giao cho bạn."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "Bài tập, trạng thái và tìm kiếm"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "Lọc theo trạng thái, tìm kiếm nhiệm vụ hoặc kiểm tra công việc bạn đã giao cho người khác."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · Hàng đợi quyết định của bạn"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Mở UApprove để xem xét các yêu cầu đang chờ quyết định của bạn. Phê duyệt, trả lại hoặc từ chối công việc."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Các biểu mẫu đã xuất bản"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Nơi bạn làm việc. Điền vào các biểu mẫu đã xuất bản trong UForms và theo dõi nội dung gửi của bạn."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · Bằng chứng và tài liệu"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords lưu trữ các tài liệu và bằng chứng cùng với các chi tiết sửa đổi và phê duyệt của chúng."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine hiển thị các lần chạy, tiến trình và ngoại lệ của quy trình làm việc. Mẫu này chưa có lần chạy nào."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Phân công học tập"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining tập hợp các bài học được giao, ngày đến hạn và bài đánh giá."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Thiết lập cách hoạt động kinh doanh của bạn. Bắt đầu với Sứ mệnh và Mục tiêu để xác định mục tiêu và chủ nhân của nó."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner lên lịch công việc với những người và thiết bị họ cần."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner xác định quy trình làm việc. Kiểm tra nó, nhận được sự chấp thuận và kích hoạt nó trước khi thực hiện."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master quản lý vai trò, kỹ năng và sự sẵn có của nhân viên."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master quản lý công suất, tính khả dụng và bảo trì của thiết bị."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master tạo và xuất bản các mẫu mà nhóm của bạn điền vào UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Người ủy quyền xác định ai có thể đảm nhận một nhiệm vụ hoặc phê duyệt và trong bao lâu."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers quản lý tài khoản người dùng, vai trò và quyền truy cập."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Khám phá tổng quan về cuộc trò chuyện, hộp thư đến, nhiệm vụ được chia sẻ, kênh, mọi người và cài đặt không gian làm việc."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "Tổng quan về cuộc trò chuyện của bạn"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme có tổng quan về cuộc trò chuyện riêng. Nó tập hợp các đề cập chưa đọc, các cuộc hội thoại chưa đọc, các nhiệm vụ đang mở từ các cuộc hội thoại và các đề xuất chưa được gửi, cùng với các liên kết quay lại công việc có liên quan."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Chọn Hộp thư đến để tìm các cuộc hội thoại mà bạn tham gia. Lọc riêng biệt các cuộc trò chuyện chưa đọc, tin nhắn trực tiếp, đề cập và hoạt động. Mẫu này hiển thị kênh của nhóm lập kế hoạch hoạt động và cuộc hội thoại chưa đọc của kênh đó."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · Nhiệm vụ được chia sẻ"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "Chọn UDO để xem kho tác vụ tương tự được UCXO sử dụng. Nhiệm vụ hội thoại liên kết trở lại nguồn của họ. Đề xuất tin nhắn chỉ trở thành nhiệm vụ sau khi được xem xét và gửi."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Chọn Kênh nhóm để xem các kênh của bạn, mở các kênh bạn có thể tham gia và các kênh đã lưu trữ. Các kênh riêng tư chỉ được hiển thị cho các thành viên. Mẫu này tách biệt việc lập kế hoạch hoạt động với các thông báo của nhà máy trên toàn công ty."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Chọn Cuộc hội thoại công việc để giữ cuộc thảo luận gắn kết với mục tiêu, kế hoạch, nhiệm vụ, biểu mẫu, bản ghi hoặc mục công việc. Trạng thái và phiên bản của nó vẫn đến từ mô-đun riêng của đối tượng."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Cuộc gọi và cuộc họp · Trạng thái hiện tại"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "Cuộc gọi và cuộc họp hiển thị trong điều hướng nhưng bản dựng được cung cấp không có nhà cung cấp dịch vụ gọi điện. Màn hình này giải thích rằng hiện không có sẵn các cuộc gọi, lên lịch, ghi âm và ghi âm."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "thư mục người"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Chọn thư mục Mọi người để tìm những đồng nghiệp mà bạn có thể nhắn tin, với các nhóm và vai trò từ UUsers. Trạng thái tài khoản đang hoạt động được hiển thị; tài liệu tham khảo không cung cấp sự hiện diện theo thời gian thực."
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Cài đặt không gian làm việc"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Chọn cài đặt Không gian làm việc cho chủ đề kênh, tư cách thành viên, quyền đọc và đăng cũng như lịch sử chính sách. Người dùng mẫu có quyền truy cập chỉ đọc. Tin nhắn phối hợp công việc; họ không phê duyệt hoặc hoàn thành nó."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Màn hình phần mềm gốc"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Xem toàn màn hình"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Kiểm tra màn hình gốc"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "Chạm vào màn hình để kiểm tra nó ở kích thước đầy đủ."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "trang PDF"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Bố cục, nhãn, dữ liệu và trạng thái ban đầu"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Ghi chú tham khảo:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Phần mềm UCXO gốc · Trang PDF"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Phù hợp với cửa sổ"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Kích thước thực tế"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "Đóng xem trước màn hình"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Tổng quan và điều hướng."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "Nhiệm vụ và phê duyệt."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "Công cụ hàng ngày."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Thiết lập kinh doanh."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "Hủy bỏLỗi"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "Chọn Phát để tiếp tục tường thuật."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO bản demo sản phẩm có hướng dẫn gồm bốn phần"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "Không thể tải tường thuật. Chọn Phát với tường thuật để thử lại."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "DU LỊCH SẢN PHẨM UCXO"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "GIỚI THIỆU"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Phát lại với tường thuật"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "Tiếp tục tường thuật"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "Tắt tiếng tường thuật"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Phát kèm thuyết minh"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "KHÔNG GIAN LÀM VIỆC CỦA BẠN, ĐƯỢC KẾT NỐI"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "Bốn phần demo sản phẩm"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "Mũi tên xuống"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "Mũi Tên Lên"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· Hướng dẫn demo"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "Tạm dừng tường thuật"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "Vừa vặn với màn hình"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Chế độ xem tiêu điểm"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Mở rộng bản demo có hướng dẫn"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Xem lại chuyến tham quan"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Chơi bản demo có hướng dẫn"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Tạm dừng bản demo có hướng dẫn"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "Phát lại phần này"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "Tắt tiếng tường thuật demo"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "Bật tường thuật demo"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "Tiến trình phần demo"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "DU LỊCH HOÀN THÀNH"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "Đang phát tường thuật"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "TƯỜNG THUẬT ĐÃ TẠM DỪNG"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "TẮT TƯỜNG THUẬT"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Bản demo có hướng dẫn UCXO đã mở rộng"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Đóng bản xem trước"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Chơi thử"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "Tạm dừng bản trình diễn"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Tổng quan"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "Hoạt động"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Bản đồ không gian làm việc"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Thẻ"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ Bảng"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Danh sách"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "Sở"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Tất cả đều nằm trong phạm vi của tôi⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ Công ty thí điểm A (mẫu)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ Hoạt động"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "Rất vui được gặp bạn, Arjun (Người điều hành). Mỗi mô-đun bạn có thể mở nằm trong khoảng UCXO với một hình; mỗi thẻ sẽ mở ra chính xác những gì nó đếm."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ Được làm mới lúc 09:29 sáng"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Làm mới"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "Công ty thí điểm A (mẫu)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "Phòng ban của bạn: Hoạt động."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Nơi công việc được thiết lập và thực hiện"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "Sứ mệnh & Mục tiêu"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "Sứ mệnh & Mục tiêu, Công cụ lập kế hoạch làm việc và Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "SẴN SÀNG SẢN XUẤT"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "Bắt đầu với mục tiêu đã được chấp nhận: chuẩn bị kế hoạch sản xuất cho tuần tới."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "CON NGƯỜI VÀ SỞ HỮU"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "Con người và quyền sở hữu cung cấp bối cảnh cho công việc được cam kết."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "QUY TRÌNH DỰ THẢO"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Liên kết mục tiêu, công việc đã cam kết và nguồn lực với quy trình làm việc được phiên bản."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "DANH SÁCH KIỂM TRA SẴN SÀNG"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Nắm bắt danh sách kiểm tra mức độ sẵn sàng bằng cách sử dụng biểu mẫu/bước nhập liệu."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "ĐÁNH GIÁ CON NGƯỜI ĐƯỢC TÊN"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "Một người được nêu tên phải phê duyệt bản sửa đổi trước khi nó có thể được kích hoạt."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "CÔNG VIỆC CAM KẾT"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Cam kết công việc và nguồn lực mà kế hoạch sẽ điều phối."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner quy trình làm việc đã nhập"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Hành động của đại lý"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "ĐẠI LÝ AI · TÓM TẮT NĂNG LỰC"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "Bản tóm tắt công suất sẽ chạy sau khi điều kiện giải phóng mặt bằng đã qua."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "Biểu mẫu/đầu vào"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "CON NGƯỜI · DANH SÁCH KIỂM TRA SẴN SÀNG"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "Một người hoàn thành danh sách kiểm tra mức độ sẵn sàng trong UForms."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "tình trạng"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "KIỂM SOÁT · XÓA ĐƯỜNG DÂY?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "Có tiếp tục hành động AI. Không có đường dẫn đến nhiệm vụ của con người để giải quyết."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Nhiệm vụ của con người"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "CON NGƯỜI · GIẢI QUYẾT SỰ ĐỔI"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Giải quyết sai lệch thanh toán trong UDO, sau đó kiểm tra lại biểu mẫu, tối đa ba lần."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "Tích hợp"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "HỆ THỐNG · LỊCH ERP"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Cập nhật lịch trình ERP sau khi tổng hợp năng lực. Lỗi đồng bộ hóa theo đường dẫn thông báo."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "Phê duyệt"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "CON NGƯỜI · ĐÁNH GIÁ PHÁT HÀNH"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "Trưởng nhóm hoạt động được nêu tên sẽ phê duyệt việc phát hành vào UApprove."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Ghi lại đầu ra"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "HỆ THỐNG · KẾ HOẠCH ĐƯỢC PHÊ DUYỆT"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "Kế hoạch sản xuất đã được phê duyệt được lưu giữ đến hết URecords."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "KIỂM SOÁT"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Hoàn thành đường dẫn quy trình công việc đã định cấu hình."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine hành quyết và phục hồi con người trong UDO"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "Người chịu trách nhiệm nhận và hoàn thành nhiệm vụ khôi phục được giao trong UDO."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "Bản tóm tắt dung lượng chỉ có thể chạy khi điều kiện giải phóng mặt bằng đã qua."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "Phát hành chờ người phê duyệt có tên; U-Engine không thể đưa ra quyết định này."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Không có đường đến UDO và quay lại danh sách kiểm tra sẵn sàng. Có tiếp tục hành động AI."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "Việc tích hợp cập nhật lịch trình ERP trước khi phê duyệt phát hành."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords và khôi phục thông báo"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "Người đứng đầu hoạt động được nêu tên sẽ xem xét bằng chứng và quyết định có phê duyệt việc phát hành hay không."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "HỆ THỐNG · ĐẦU RA GHI"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Lưu giữ kế hoạch sản xuất đã được phê duyệt và hồ sơ hỗ trợ."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "BẢN SỬA ĐỔI HOẠT ĐỘNG ĐƯỢC PHÊ DUYỆT"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Chỉ bản sửa đổi đã được kiểm tra, xem xét, phê duyệt và kích hoạt mới có thể bắt đầu chạy."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "HỆ THỐNG · ĐỒNG BỘ LỖI"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "Đồng bộ hóa ERP không thành công theo lộ trình thông báo đã định cấu hình."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Thông báo"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "HỆ THỐNG · THÔNG BÁO LẬP KẾ HOẠCH"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "Thông báo cho người lập kế hoạch chịu trách nhiệm về lỗi đồng bộ hóa ERP. UPingme kết nối cuộc trò chuyện."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "Đường dẫn bản ghi đã được phê duyệt và đường dẫn khôi phục thông báo đều đạt đến Kết thúc."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "TRÒ CHUYỆN · NHẮC NHỞ · TRUY CẬP"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "Các cuộc trò chuyện, lời nhắc và sự leo thang sẽ đến tay người chịu trách nhiệm ở đây; phê duyệt vẫn còn ở UApprove."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "Xác định và lập kế hoạch"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Một mục tiêu. Một kế hoạch phiên bản."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Sứ mệnh & Mục tiêu kết nối công việc và nguồn lực đã cam kết thông qua Công cụ lập kế hoạch công việc và Engine Planner."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Bắt đầu với mục tiêu: chuẩn bị kế hoạch sản xuất cho tuần tới."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "Kết nối mọi người và cam kết thực hiện công việc thông qua HR Master và Work Planner."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms nắm bắt danh sách kiểm tra mức độ sẵn sàng."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner liên kết mục tiêu và tài nguyên với quy trình làm việc được phiên bản."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Kiểm tra, đánh giá, kích hoạt"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Các bước gõ. Một bản phát hành có kiểm soát."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Xem lại sơ đồ quy trình công việc, kiểm tra nó và hoàn tất quá trình kiểm tra mức độ sẵn sàng trước khi con người phê duyệt và kích hoạt."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "Quy trình làm việc bắt đầu bằng một biểu mẫu và điều kiện giải phóng mặt bằng."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Nếu giải phóng mặt bằng không thành công, nhiệm vụ của con người sẽ giải quyết sai lệch và kiểm tra lại biểu mẫu."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Nếu vượt qua, hành động AI sẽ chuẩn bị bản tóm tắt năng lực, sau đó tích hợp sẽ cập nhật lịch trình."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "Kiểm tra, đánh giá, phê duyệt và kích hoạt bản sửa đổi trước khi U-Engine bắt đầu chạy."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "Thực hiện và phục hồi"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine chạy. Mọi người vẫn tham gia."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "Quy trình công việc được phê duyệt tuân theo các lộ trình được cấu hình của nó. UDO tiếp tục thực hiện công việc khắc phục với người chịu trách nhiệm."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine tuân theo bản sửa đổi đang hoạt động và lộ trình tình trạng của nó."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "Bản tóm tắt công suất chỉ chạy sau khi vượt qua giải phóng mặt bằng."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Mọi người nhận và hoàn thành nhiệm vụ khôi phục được giao trong UDO."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "Việc tích hợp cập nhật lịch trình hoặc đi theo lộ trình thất bại của nó."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "Việc phát hành đang chờ người phê duyệt có tên trong UApprove."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "Phê duyệt và ghi lại"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "Sự chấp thuận của con người. Một bản ghi được kết nối."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove giữ quyết định với một người. URecords giữ nguyên kế hoạch. UPingme kết nối cuộc trò chuyện."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "Việc tích hợp không thành công sẽ thông báo cho người lập kế hoạch chịu trách nhiệm. UPingme kết nối cuộc trò chuyện."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "Việc phê duyệt phát hành vẫn thuộc về người có tên trong UApprove."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "Người phê duyệt xem xét bằng chứng và quyết định."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "Sau khi được phê duyệt, URecords giữ lại kế hoạch sản xuất và quy trình làm việc đạt đến Kết thúc."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Thực hiện kinh doanh, phối hợp."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "SỨ MỆNH & MỤC TIÊU"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR MASTER · NGƯỜI KẾ HOẠCH CÔNG VIỆC"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · PHỤC HỒI CON NGƯỜI"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "TÍCH HỢP · LỊCH ERP"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "THÔNG BÁO · NGƯỜI LẬP KẾ HOẠCH CÓ TRÁCH NHIỆM"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "QUYẾT ĐỊNH CỦA CON NGƯỜI ĐƯỢC GHI LẠI"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "KẾT QUẢ LIÊN KẾT VỚI MỤC TIÊU"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "Đang chuẩn bị quy trình làm việc…"
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "Không được phépLỗi"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "Trình duyệt của bạn đã tạm dừng tường thuật. Chọn Phát tường thuật để bắt đầu."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "Tường thuật không thể bắt đầu. Chọn Phát tường thuật để thử lại."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "UCXO hoạt động như thế nào"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "ĐẦU VÀO"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "NÚT"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "Không thể tải tường thuật. Chọn Phát tường thuật để thử lại."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "CÁCH UCXO HOẠT ĐỘNG"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "MỘT MỤC TIÊU. MỘT CÂU CHUYỆN KẾT NỐI."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "Chuẩn bị cho tuần tới"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "Nghe giải thích"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Phát tường thuật"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Bật âm thanh · Tắt tiếng"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Đang bắt đầu tường thuật…"
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Chơi giải thích"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Tạm dừng giải thích"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Phát lại chương"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Bật âm thanh"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Tắt âm thanh"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "Tiến trình chương"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "CHƯƠNG PHIM"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "TƯỜNG THUẬT · TẮT ÂM THANH"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "TƯỜNG THUẬT · ĐANG CHƠI"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "TƯỜNG THUẬT · KHÔNG CÓ"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "TƯỜNG THUẬT · NHẤN CHƠI"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "TƯỜNG THUẬT · TẠM DỪNG"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "TƯỜNG THUẬT · Đang tải"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Chọn một chương"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "Chơi hoạt hình"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "con người"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "đặc vụ AI"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "Hệ thống"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "Kiểm soát"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "Công cụ lập kế hoạch bắt đầu"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "sẵn sàng chạy"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "Trình kích hoạt"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "Danh sách kiểm tra sẵn sàng"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "Giải phóng mặt bằng đường dây"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Tóm tắt công suất"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Cập nhật sandbox ERP"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Trưởng nhóm vận hành"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "phê duyệt phát hành"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Sản xuất được phê duyệt"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "hồ sơ kế hoạch"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Giải quyết giải phóng mặt bằng"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Thông báo kế hoạch ERP"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "lỗi đồng bộ hóa"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "Có"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "Không"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Kiểm tra lại (tối đa 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "Đầu ra không hợp lệ"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "Đồng bộ hóa không thành công"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "Đã được phê duyệt"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "Bị từ chối/trả lại"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner canvas quy trình làm việc"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Canvas quy trình làm việc"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "dự thảo v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "Minh họa"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "Vải bạt"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "Các bước đặt hàng"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Quy trình làm việc đã nhập"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "Phóng to quy trình làm việc"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "Thu nhỏ quy trình làm việc"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "Điều chỉnh toàn bộ quy trình làm việc để xem"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "thi hành án"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "quyết định · phục hồi"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Có → Tóm tắt công suất · Không → Giải quyết sai lệch thông quan"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Kiểm tra lại danh sách kiểm tra sẵn sàng (tối đa 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "Đồng bộ hóa không thành công → Thông báo cho người lập kế hoạch"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Quy trình làm việc sẵn sàng sản xuất với các nhánh phê duyệt và phục hồi"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Nhập"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "Kế hoạch sẵn sàng sản xuất tuần tới"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "Phê duyệt minh họa được ghi lại"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "Cần có sự chấp thuận của con người"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Đặt bản demo — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Xem cách UCXO kết nối mục tiêu, con người và lực lượng lao động AI của bạn. Hãy cho chúng tôi biết về doanh nghiệp của bạn và yêu cầu bản demo cá nhân."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "Đặt một bản demo."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "Đối với nhóm của bạn."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Xem UCXO với quy trình làm việc từ doanh nghiệp của bạn."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "MỤC TIÊU CỦA BẠN"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "CON NGƯỜI + AI"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "KẾT QUẢ"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "Những gì mong đợi"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "Bắt đầu với mục tiêu của bạn"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Hãy cho chúng tôi biết công việc bị mắc kẹt ở đâu."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "Khám phá những khả năng"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "Xem qua các công cụ có liên quan đến nhóm của bạn."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Tìm bước tiếp theo của bạn"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "Quyết định xem UCXO có phù hợp với nhu cầu của bạn hay không."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "Thích email hơn?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "DEMO CÁ NHÂN"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "Thông tin chi tiết của bạn"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Hãy cho chúng tôi biết một chút về đội của bạn."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Bốn bản xem trước trang chủ — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Quay lại trang web"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "TRANG CHỦ · ĐÁNH GIÁ THIẾT KẾ ĐỊA PHƯƠNG"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Một không gian làm việc."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "Bốn cách để tiến về phía trước."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Bốn thẻ trang chủ được đề xuất. Màn hình phần mềm thực tế, giải thích rõ ràng và xem xét kỹ hơn từng phần của UCXO."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Màn hình gốc từ bản PDF thiết kế của bạn"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Xem trước tĩnh để xem xét"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Khám phá bốn bản xem trước"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "Bốn bản xem trước trang chủ"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "BỐN XEM TRƯỚC TĨNH · SẴN SÀNG CHO BẠN ĐÁNH GIÁ"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "Phần mềm dẫn đầu."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "Câu chuyện làm cho nó rõ ràng."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Chọn bất kỳ bộ chọn màn hình nào để kiểm tra mô-đun liên quan. Mở màn hình ở kích thước đầy đủ để so sánh nó với PDF. Các bản xem trước này giữ lại dữ liệu mẫu ban đầu và trạng thái trống hoặc bản nháp."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Quay lại tổng quan về bốn bản xem trước"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Cách thức hoạt động — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "Thực hiện theo một mục tiêu kinh doanh từ quy trình làm việc được đề xuất đến sự phê duyệt của con người và kết quả được xem xét."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "TỪ HƯỚNG ĐẾN GIAO HÀNG"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Một mục tiêu."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "Mỗi bước được kết nối."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "Thực hiện theo một kế hoạch sẵn sàng sản xuất minh họa."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "Mọi người giữ lại những quyết định cần đến sự phán xét của con người."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "Thực hiện kinh doanh,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Đưa mục tiêu, con người và lực lượng lao động AI của bạn vào một quy trình làm việc chung."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Khám phá nền tảng"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "Đăng nhập vào UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — Thực hiện kinh doanh, phối hợp."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Biến mục tiêu kinh doanh thành hành động phối hợp. Lập kế hoạch cho quy trình làm việc, kết nối mọi người và tác nhân AI, đồng thời đảm bảo việc thực thi có trách nhiệm."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Mục tiêu trong quy trình làm việc"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "Chia mục tiêu kinh doanh thành các bước, phần phụ thuộc và chủ sở hữu."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Lập kế hoạch công việc"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Xác định nhiệm vụ, điều kiện, tích hợp và đường dẫn phê duyệt trong quy trình làm việc được phiên bản."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Thiết kế quy trình làm việc"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO bài tập"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "Giao cho mỗi nhiệm vụ một người chịu trách nhiệm và có địa vị rõ ràng."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Phân công trách nhiệm"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "Sự sẵn sàng của quy trình làm việc"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Kiểm tra bản sửa đổi và hoàn thành việc kiểm tra trước khi phê duyệt và kích hoạt."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Chuẩn bị thực hiện"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "AI TRÊN TỔ CHỨC CỦA BẠN"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 - NỀN TẢNG"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Ít công việc thủ công hơn."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "Thêm thời gian cho nhóm của bạn."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "Đưa các đặc vụ AI đến"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "Tạo và điều phối các tác nhân AI để tự động hóa các công việc hàng ngày giữa các phòng ban."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "Xem ví dụ về quy trình làm việc"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "Ít chuyển giao thủ công hơn"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Con người và AI làm việc cùng nhau"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Xóa quyền sở hữu"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "CON ĐƯỜNG RÕ RÀNG TỪ MỤC TIÊU ĐẾN KẾT QUẢ"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 - CÁCH HOẠT ĐỘNG"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "Từ mục tiêu"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "để hoàn thành công việc."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Thực hiện theo năm giai đoạn của quy trình làm việc."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "ĐƯỢC XÂY DỰNG ĐỂ LÀM VIỆC CÙNG NHAU"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 - NĂNG LỰC CỐT LÕI"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Công cụ đằng sau"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "quy trình làm việc."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Lập kế hoạch, phân công, kiểm tra và chạy."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "TỰ ĐỘNG VỚI TRÁCH NHIỆM"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "Những quyết định của con người"
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "Vào đúng thời điểm."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove chuyển các quyết định đến người chịu trách nhiệm."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Bằng chứng trước khi phê duyệt"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Kiểm tra các hồ sơ hỗ trợ."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Khả năng hiển thị trong quá trình thực thi"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "Xem lịch sử chạy và các trường hợp ngoại lệ."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Xóa vai trò và quyền"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "Đặt vai trò và phạm vi bộ phận."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "GIÁM SÁT THỰC HIỆN"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "MINH HỌA"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "Giám sát việc thực hiện quy trình công việc"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "CỔNG PHÊ DUYỆT CON NGƯỜI"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "Một quyết định vẫn ở lại với bạn."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Xem xét các bằng chứng và quyết định."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "Đang chờ sự chấp thuận của con người"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Bằng chứng hỗ trợ đính kèm"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "Đã phát hiện ngoại lệ"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Đã chuyển đến người đánh giá có trách nhiệm"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "Công việc giám sát không mang lại sự chấp thuận của con người."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "ĐƯỢC LÀM CHO CÁCH DOANH NGHIỆP HOẠT ĐỘNG"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — CÁC TRƯỜNG HỢP SỬ DỤNG"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Công việc thực sự."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "Kết nối từ đầu đến cuối."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Lớp thực thi được chia sẻ dành cho chủ doanh nghiệp,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "các nhà lãnh đạo hoạt động và các nhóm mà họ lãnh đạo."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "HOẠT ĐỘNG"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "Phối hợp vận hành"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Căn chỉnh các nhiệm vụ, chủ sở hữu và người phụ thuộc đa chức năng xung quanh mục tiêu kinh doanh chung."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Xác định kế hoạch"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Phối hợp bàn giao"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "CÔNG VIỆC LẶP LẠI"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Báo cáo định kỳ"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "Tái sử dụng các tác nhân AI để chuẩn bị công việc, sau đó gửi kết quả đầu ra và bằng chứng cho những người xem xét chúng."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Thu thập đầu vào"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "Điều hành một đại lý"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "Đánh giá của con người"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "ĐIỀU CHỈNH THI HÀNH"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "Công việc theo hướng phê duyệt"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "Kết nối bằng chứng nhiệm vụ, cổng phê duyệt của con người và xử lý ngoại lệ trong một quy trình công việc rõ ràng."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "Thu thập bằng chứng"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Yêu cầu phê duyệt"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "Giải quyết ngoại lệ"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Các trường hợp sử dụng đại diện Ví dụ về quy trình làm việc mang tính minh họa."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "MỘT SỐ ĐIỀU, ĐƯỢC LÀM RÕ RÀNG"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Được xây dựng cho sự rõ ràng."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "UCXO là gì?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO giúp các nhóm biến các thủ tục thành công việc được giao, có thể theo dõi được nhờ các tác nhân AI và sự phê duyệt của con người."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Engine Planner và U-Engine phối hợp với nhau như thế nào?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner thiết kế quy trình làm việc. U-Engine chạy bản sửa đổi đã được thử nghiệm, phê duyệt và kích hoạt."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Ai phê duyệt công việc?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "Người phê duyệt có tên là con người quyết định. Một tác nhân AI không thể cấp sự chấp thuận đó."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Khi nào một quy trình công việc có thể chạy?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "Sau khi kiểm tra mức độ sẵn sàng, phê duyệt của con người và kích hoạt."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "ĐẶT MỤC TIÊU CỦA BẠN MỘT CON ĐƯỜNG PHÍA TRƯỚC"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Xem UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Đặt bản demo cho nhóm của bạn hoặc xem ví dụ về quy trình làm việc."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Xem quy trình làm việc"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Vui lòng hoàn thành trường này."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Vui lòng nhập địa chỉ email hợp lệ."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Vui lòng kiểm tra giá trị này."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Âm thanh: tiếng Anh"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "bảng điểm"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Không tìm thấy trang"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "Không thể tìm thấy trang bạn yêu cầu."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "Trở về nhà"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Chọn ngôn ngữ"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "Tìm kiếm ngôn ngữ"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "Thoát hiểm"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "Ngôn ngữ"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO yêu cầu demo — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Tên: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "Email công việc: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Công ty: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Chức danh: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Quy mô công ty: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Quốc gia: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "Chương {0}: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "BƯỚC {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} trên {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "CÂU CHUYỆN HOÀN THÀNH · {0} GIÂY"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "Mở rộng màn hình {0}"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "Kiểm tra màn hình {0} gốc"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} màn hình phần mềm"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} màn hình phần mềm gốc"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "TIẾP THEO · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} chương trình diễn"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. Màn hình phần mềm UCXO gốc có phần trình diễn con trỏ được hướng dẫn."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Cuộc gọi và cuộc họp"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Tìm kiếm ID, tiêu đề..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "Công ty thí điểm A (mẫu) · Hoạt động"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "TRANG CHỦ"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Cuộc gọi và cuộc họp"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "Cuộc gọi thoại và video, lên lịch cuộc họp, ghi âm và ghi âm không nằm trong bản dựng này."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "NHÀ CUNG CẤP GỌI·CHƯA ĐƯỢC CẤU HÌNH"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Không thể bắt đầu cuộc gọi hoặc cuộc họp"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "ở đây"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Cần có quyết định·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Không có kiểm soát Tham gia, Ghi hoặc Phiên âm"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "bởi vì sẽ không có gì thực sự xảy ra.Các cuộc họp"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "không thể lên lịch hoặc lưu trữ—không tồn tại."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Tobe quyết định trước khi gọi tồn tại"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "Trong khi đó"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Cuộc gọi và cuộc họp"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "Nhà cung cấp cuộc gọi và nơi chứa dữ liệu cuộc gọi"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "Cuộc trò chuyện công việc"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "đã xử lý"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "Hỡi chủ động, mỗi cái gắn liền với đối tượng đang tồn tại"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Cần có quyết định·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "được thảo luận."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "Sự đồng ý của người tham gia trước bất kỳ"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Nhắn tin cho một người"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "ghi âm hoặc phiên âm"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "Tin nhắn trực tiếp được tạo bằng tin nhắn đầu tiên"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "tin nhắn."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "Lưu giữ và truy cập để ghi âm"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "Đồng ý một hành động"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "Đề xuất nhiệm vụ từ tin nhắn; nó đạt tới"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "và bảng điểm(URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO chỉ sau khi bạn xem xét và gửi nó."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Cài đặt"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Toán tử"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "Thiết bị mục tiêu, màn hình và phòng"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ Trưởng đoàn"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "Công ty thí điểm A(mẫu)·Hoạt động"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "Ai có thể hành động vì ai, làm gì và trong bao lâu. Thẩm quyền bàn giao và phê duyệt nhiệm vụ"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "thay thế là các cơ quan có thẩm quyền riêng biệt, có thời hạn."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Cần có quyết định · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "Ý nghĩa kinh doanh của việc ủy quyền và liệu các chuỗi có được phép hay không vẫn chưa được quyết định. Bảo thủ"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "áp dụng mặc định: ủy quyền không bao giờ cấp nhiều hơn số tiền mà người ủy quyền nắm giữ (được kiểm tra lại mỗi lần"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "use), chuỗi bị chặn và việc thay thế phê duyệt cần có quản trị viên độc lập."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "ai đó"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "Đang chờ phê duyệt"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "Đã lên lịch"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Đang hoạt động"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "Đã hết hạn"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "Đã thu hồi"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "Bị từ chối"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Cả hai loại 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Phê duyệt thay thế 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Bàn giao nhiệm vụ 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Chỉ có các phái đoàn liên quan đến tôi"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Tìm kiếm người, ID, lý do"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6 tháng 11-3 tháng 12"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "Trước đó"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "hôm nay"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "sau này"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "NGƯỜI HÀNH ĐỘNG"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "RohanDas"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "hành động choVikramShah"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Hoạt động"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "PilotCompanyA(mẫu)·Hoạt động"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "Kế hoạch liên kết mục tiêu được chấp nhận, công việc đã cam kết và nguồn lực với quy trình làm việc được phiên bản. Nó phải vượt qua"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "sẵn sàng, được phê duyệt bởi một người có tên và được kích hoạt trước khi bất kỳ cuộc chạy nào có thể bắt đầu."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "bản nháp"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Sẵn sàng để xem xét"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "Đánh giá"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "Q"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "Bị đình chỉ"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "Tìm kiếm ID, tiêu đề hoặc mục tiêu"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 kế hoạch"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "Kế hoạch sẵn sàng sản xuất của tuần tới"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "Mục tiêuOBJ-026·Chuẩn bị kế hoạch sản xuất tuần tới"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "Sẵn sàng 8/4"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "PHIÊN BẢN TRỰC TIẾP"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·dự thảov1·10 nút"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "Không hoạt động"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "NGƯỜI PHÊ DUYỆT"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "CHỦ SỞ HỮU"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "VikramShah"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Giải quyết sự sẵn sàng"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Bậc thầy về biểu mẫu"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Tìm kiếm ID, tiêu đề.."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Bậc thầy về biểu mẫu"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Định nghĩa biểu mẫu được tạo theo yêu cầu của bộ phận. Các phiên bản đã xuất bản là bất biến; mọi thay đổi"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "trở thành phiên bản dự thảo mới được một nhà phê bình độc lập xuất bản."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "tất cả"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Đã xuất bản"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "Đã nghỉ hưu"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Tất cả các phòng ban"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Tìm kiếm ID, tên hoặc bản ghi"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "Danh sách kiểm tra sẵn sàng sản xuất"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Danh sách kiểm tra của người vận hành trước khi chạy gói đóng gói."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Xem"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "& Chủ sở hữu hoạt động Kabir SenProduces Danh sách kiểm tra mức độ sẵn sàng"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "Liên kết vớiPLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Trực tiếp v1 8fields·không thể thay đổi"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "Biểu mẫuMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / Thạc sĩ nhân sự"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "Con người là nguồn lực lập kế hoạch: vai trò, kỹ năng, lịch làm việc và những gì họ cam kết. Đăng nhập"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Con người & kỹ năng"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "Hệ thống phân cấp và nhân sự"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "Bảng sẵn có"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "Nhập (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Mọi người"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Ma trận kỹ năng"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "kỹ năng"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Trạng thái"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Tất cả các phòng ban của tôi"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Bất kỳ kỹ năng nào"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Hoạt động và không hoạt động"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Tên, vai trò hoặc kỹ năng"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Sunil Varma"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Kỹ thuật viên bảo trì"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Nhà điều hành đóng gói"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "Bảo trì"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "Điện"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Bao bì"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "chất lượng"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "M"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "T"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "W"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "🙂Không có gì cam kết"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Không có tài khoản đăng nhập"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "Đăng nhập: Arjun Mehta"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "Maya Rao"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "MR"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / Hộp thư đến"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "Mọi cuộc trò chuyện mà bạn tham gia đều được sắp xếp sao cho điều bạn cần là ưu tiên hàng đầu."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markallread"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Nhắn tin cho ai đó"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "AlI 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Chưa đọc"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Tin nhắn trực tiếp"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "Đề cập"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Tìm kiếm tên, chủ đề và nội dung tin nhắn"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "CHƯA ĐỌC"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#ops-lập kế hoạch"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Kênh nhóm"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "12Tháng 112026,7:05 sáng"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha vui lòng giải quyết xung độtWORK-021 trước ngày 13-11-2026 a..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / Bậc thầy máy móc"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "Thiết bị có thể hoạt động có thể được lên lịch: nó ở đâu, nó có thể làm gì, bao nhiêu một giờ, khi nào nó hoạt động"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "mở và những gì đã được đặt trước. Chỉ lập kế hoạch - không điều khiển máy."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIl3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "Có sẵn"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "Ngoài dịch vụ"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q Tên, địa điểm hoặc năng lực"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "Máy in nhãn 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "Dây chuyền đóng gói 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "PlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "PlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 nhãn/giờ"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "đơn vị/giờ"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "Ghi nhãn"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "Niêm phong"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O dành riêngKhông có kế hoạch thời gian ngừng hoạt động"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 đặt trước Giảm 19 tháng 11 năm 2026"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "Dây chuyền đóng gói 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "Công ty thí điểm A(mẫu) · Hoạt động"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Mỗi mục tiêu nêu lên một kết quả, mức độ thành công được chứng minh và ai sở hữu nó - sau đó thực hiện"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "lập kế hoạch, phê duyệt, thực hiện và hồ sơ quản lý."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Mục tiêu"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "Sứ mệnh"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "SỨ MỆNH·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Sứ mệnh & Mục tiêu"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Hoạt động đáng tin cậy, được chứng minh"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Thực hiện mọi cam kết sản xuất đúng thời gian với mọi người,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "thiết bị và các quyết định đã được hoạch định, phê duyệt và chứng minh."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "Chủ sở hữuAshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "Con người chấp thuận phát hành"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Mọi đầu ra đều có thể theo dõi được"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "Kế hoạch phản ánh năng lực thực tế"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "Nhiệm vụ mở"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Tất cả 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "Đang chờ xem xét"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "Đã chấp nhận"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "Đã sửa đổi"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Tìm kiếm ID, tiêu đề hoặc chủ sở hữu"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "chuẩn bị"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "tiếp theo"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "tuần"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Danh mục người"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "Bạn có thể nhắn tin cho mọi người trong công ty của bạn, với nhóm của họ và vai trò của UUsers. sự sẵn có của nhân sự"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "và chi tiết truy cập không được hiển thị ở đây."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Tên, chức vụ hoặc bộ phận"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIl10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Kỹ thuật"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Hoạt động 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "quy hoạch"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "Tài khoản"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "Bất kỳ (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①Sự hiện diện không được hiển thị: UPingme không có dịch vụ hiện diện theo thời gian thực. Trạng thái là trạng thái tài khoản UUsers."
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Arjun Mehta (bạn)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Asha Kulkarni"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1tin nhắn"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "Quản trị viên công ty"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Tài khoản đang hoạt động"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "quản trị viên"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "Tài khoản đang hoạt động"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Vikram Shah"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "Tin nhắn"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(người phê duyệt)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Kênh nhóm"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Các kênh bạn thuộc về, mở các kênh bạn có thể tham gia và các kênh đã lưu trữ."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Kênh mới"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "Các kênh riêng chỉ được hiển thị cho các thành viên của họ."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Tên kênh, chủ đềormessagetext"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "Toàn công ty"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "KÊNH CỦA BẠN"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Lập kế hoạch sản xuất hàng tuần cho Nhà máy A"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5 thành viên"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Tin nhắn cuối cùng ngày 12 tháng 11 năm 2026,7:05 sáng"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "KÊNH MỞSOUCATHAM GIA"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## thông báo của nhà máy"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "Thông báo toàn công ty cho Nhà máy A. Chỉ có chủ sở hữu"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "bài viết."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "Chủ sở hữu toàn công ty2members Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "bài đăng của chủ sở hữu"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Xem trước"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Tham gia"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Nhóm mởcác kênh toàn công ty hoặc thuộc bộ phận trong phạm viUPingmescope.Privatechannelsđược liệt kê của bạn"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "Những người được nêu tên quyết định một bản sửa đổi chính xác, cố định. Phê duyệt, Trả lại và Từ chối là những quyết định riêng biệt; một"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "chứng thực là riêng biệtbước sau khi phê duyệt."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Đang đợi tôi"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "D"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "Được tôi yêu cầu"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "Ngoại lệ"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "quyết định"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Tất cả trong phạm vi"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "ID tìm kiếm, tiêu đề, người yêu cầu"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Không có gì chờ đợi bạn"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "Yêu cầu xuất hiện ở đây khi bạn là người phê duyệt có tên của giai đoạn mở hoặc người thay thế tích cực."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "mỗi thẻ mở chính xác số tiền nó đếm."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Bản đồ không gian làm việc"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品Thẻ"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "bảng"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 Danh sách"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Tất cả trong phạm vi của tôi"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "Đã làm mới 09:29 sáng"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C Làm mới"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Nơi làm việc được thiết lập và thực hiện"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Sứ mệnh & Mục tiêu"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / Nhiệm vụ của tôi"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "Nhiệm vụ của tôi"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "Mọi thứ đang chờ đợi bạn —— từ các bước quy trình làm việc, yêu cầu biểu mẫu, phê duyệt, theo dõi và UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "các đề xuất - về nơi hành động và những gì sẽ thay đổi khi hoàn thành nó."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "Nhiệm vụ của tôi là một phần của UDO người dùng đã hướng dẫn. UDO"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·Nhiệm vụ của tôi"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "tên đầy đủ, chủ sở hữu, người dùng và các màn hình khác không"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "Cần có quyết định·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "được xác định, vì vậy không có gì khác được hiển thị."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "Đã giao cho tôi"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "Do tôi chỉ định"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "Mở"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "Đang tiến hành"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "Đã trả lại"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "Quá hạn"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Hạn chót hôm nay"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "Đã hoàn thành"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "AlIlo"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Loại"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Tìm kiếm ID, tiêu đề, nguồn hoặc người được chuyển nhượng"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Tất cả các loại"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Chưa có gì được giao cho bạn"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "Nhiệm vụ đến đây từ các lần chạy quy trình làm việc (biểu mẫu và các bước của con người), phê duyệt"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "yêu cầu, theo dõi ai đó giao cho bạn và đề xuất được xác nhận trong"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Bạn cũng sẽ nhận được một thông báo."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Chạy"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Chạy"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Mỗi lần thực thi một phiên bản quy trình làm việc đã được phê duyệt, đã xuất bản — nó đang chờ đợi ai, điều gì đã thất bại và điều gì"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "cần đối chiếu. Các phiên bản chạy vẫn giữ nguyên phiên bản chính xác ngay cả sau khi kế hoạch thay đổi."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Định nghĩa thời gian chạy"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "AIl0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "Đang đợi tôi"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "Đang chờ"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "Đang chạy"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "Đã hủy"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "Tìm kiếm ID chạy hoặc kế hoạch"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Chưa có lần chạy nào"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Chạy bắt đầu từ một kế hoạch đang hoạt động trong EnginePlanner."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Công cụ lập kế hoạch mở"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Điền vào các mẫu Forms Master đã xuất bản. Mỗi lần gửi đều giữ phiên bản biểu mẫu chính xác mà nó được thực hiện,"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "và đánh giángười chấp nhậntrả lạiđể sửa lỗi."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Biểu mẫu có sẵn"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "bài nộp của tôi"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Các biểu mẫu đã xuất bản"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "Chỉ phiên bản đã xuất bản hiện tại mới có thể bắt đầu; các phiên bản cũ hơn vẫn có thể đọc được khi họ gửi."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "Tìm kiếm biểu mẫu"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Danh sách kiểm tra mức độ sẵn sàng sản xuất"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8 cánh đồng"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6 yêu cầu"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "1 bàn"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1 tập tin"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1 điều kiện"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "SỞ"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "CHỦ SỞ HỮU MẪU"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "Kabir Sen"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "BẢNG HỒ SƠ SẢN XUẤT"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "Danh sách kiểm tra sẵn sàng"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021Sẵn sàng sản xuất vào tuần tới"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "kế hoạch"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026Chuẩn bịsản xuất tuần tới"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Những gì trong cuộc trò chuyện của bạn cần bạn và công việc họ nói đến."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Mở hộp thư đến"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "Không có gì trong cuộc trò chuyện của bạn đang chờ đợi bạn."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "Tin nhắn phối hợp công việc; họ không bao giờ phê duyệt, ký tên hoặc hoàn thành nó. Một tác vụ chỉ tồn tại sau một"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "đề xuất được xem xét và đệ trình."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1Cuộc gọi và cuộc họp"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Chưa đọc"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Mở nhiệm vụ từ"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "Chưa gửi"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "Mở chính xác"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "cuộc trò chuyện"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "đề xuất"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "tin nhắn"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "Với tin nhắn bạn"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "Đã giao cho bạn trong"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "Bản nháp chỉ có bạn mới có thể"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "chưa đọc"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "xem"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "Cần bạn"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "bổ sung"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "Cuộc trò chuyện gần đây"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ôi-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "12 Tháng 11 2026, 7:05 sáng"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Danh từ không đọc và không có tác vụ mở từ"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "lập kế hoạch"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "một cuộc trò chuyện."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / Nhiệm vụ của tôi"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Các nhiệm vụ, ID, bằng chứng và thẩm quyền giống nhau như"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscam"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "Trong UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Chỉ các nhiệm vụ từ cuộc hội thoại"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "từ cuộc trò chuyện của bạn; mỗi liên kết trở lại của nó"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "sourceconversation."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "Quá hạn0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "Hạn chót hôm nay"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "SearchID, tiêu đề, nguồn hoặc người được chuyển nhượng"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Tất cả các loại"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "Công ty thí điểm A(mẫu)·Hoạt động"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Hồ sơ từ các lần chạy, các biểu mẫu được chấp nhận và nhập thủ công cũng như các tài liệu được kiểm soát với các quy tắc phát hành-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "trong một cửa hàng với dòng nguồn. Tìm kiếm và xuất theo phạm vi truy cập của bạn."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品Tất cả hồ sơ"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Hồ sơ hoạt động"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "Tài liệu được kiểm soát"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "B"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Giữ hợp pháp"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "Tìm kiếm ID, tiêu đề hoặc loại"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "Bất kỳ trạng thái nào"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Tài liệu được kiểm soát"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "Nội dung đã phát hành bị đóng băng. Một thay đổi là một bản sửa đổi mới có sự phê duyệt của chính nó; người kiểm soát tài liệu sẽ phát hành nó."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "Dây chuyền đóng gói SOP-PKG-004"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "sự chuyển đổi"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Tài liệu đã phát hành"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "Đã phát hành phiên bản 1"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "Kiểm soátSopHoạt động"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 bản sửa đổi"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Chủ sở hữu Leela Menon"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "1 bản ghi được hiển thị·các bản ghi bên ngoài quyền truy cập của bạn không được tính"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "Tìm hiểu phiên bản chính xác được giao cho bạn. Đọc một phần ghi lại sự tiến bộ; chỉ có phiên bản"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "sự thừa nhận hoặc đánh giá bỏ qua hoàn thành nó."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "việc học của tôi"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "Bài tập của tôi"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "op"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "Đã đóng"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "AlI"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "An toàn dây chuyền đóng gói"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① Đã được chỉ định"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "Duein2days·15/11/2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · phiên bản của bạn"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "Bắt đầu bài học"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "Trình bày·An toàn·Dây chuyền đóng gói"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "Được giao bởi Leela Menon"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0of2phần đã đọc"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Đánh giá·đạt100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Thư viện nội dung"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "chủ đề"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "sản phẩm"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Tìm kiếm tiêu đề, chủ đề, sản phẩm"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Tất cả chủ đề"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Tất cả sản phẩm"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "trạng thái của tôi"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "bất kỳ"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Nhận dạng nền tảng và quyền truy cập của họ: vai trò, phạm vi bộ phận, phiên, ủy quyền và xem xét quyền truy cập."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "Nhân sự và tình trạng sẵn sàng có sẵn trong HR Master."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "mọi người"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Danh tính dịch vụ"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "Bạn thấy thư mục công ty. Các vai trò, phạm vi phòng ban và các phiên được hiển thị cho công ty"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "quản trị viên."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Tất cả10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Hoạt động10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "Không hoạt động"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QTìm kiếm tên, email, ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Hoạt động của nhà điều hành đóng gói"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "Vai trò hiển thị đối với quản trị viên"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "13 Tháng 11 2026, 9:28 sáng"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "Quản trị viên công tyHoạt động"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "Vai trò hiển thị đối với quản trị viên"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Trò chuyện công việc"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Các cuộc trò chuyện gắn liền với một mục tiêu, kế hoạch, nhiệm vụ, hình thức, hồ sơ hoặc công việc"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+Trò chuyện công việc mới"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "mục. Trạng thái và phiên bản của đối tượng luôn đến từ mô-đun của chính nó."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "ai đó"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Tên, chủ đề hoặc nội dung tin nhắn"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Đã lưu trữ"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Chưa có cuộc trò chuyện nào về công việc"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "Cuộc trò chuyện về công việc được liên kết với một đối tượng mà bạn có thể mở - một kế hoạch,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "mục tiêu, nhiệm vụ, biểu mẫu, bản ghi hoặc mục công việc—vì vậy cuộc thảo luận vẫn tiếp tục"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "đến công việc."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Bắt đầu một"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Công ty thí điểmA (mẫu)·Hoạt động"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "Công việc được sắp xếp kịp thời với những người từ HR Master và thiết bị từ Machine Master."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Lên lịch xem trước không bao giờ đặt trước; chỉ có một cam kết."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "Cần lập kế hoạch"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "Đang tiến hành"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "Đang chờ phê duyệt"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "Xung đột"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "Dòng thời gian trong tuần"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "ID tìm kiếm, tiêu đề, vị trí"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Sẵn sàng sản xuất—weekof2026-11-16"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "lịch trình"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021·hạn chót vào ngày 18 tháng 11 năm 2026·Đóng gói/Niêm phong"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "Tuần 9 tháng 11 năm 2026"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "Tuần này"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 việc làm trong tuần này"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "CÔNG VIỆC"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "Thứ Hai"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "THỨ 3"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "Thứ Tư"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9 tháng 11 năm 2026"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "Ngày 10 tháng 11 năm 2026"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "Ngày 11 tháng 11 năm 2026"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Cài đặt không gian làm việc"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Cài đặt không gian làm việc/Cài đặt kênh"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Cài đặt kênh"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Chủ đề, thành viên, người có thể đọc và người có thể đăng bài — dành cho các kênh và cuộc trò chuyện về công việc. Mỗi"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "thay đổi được phiên bản và kiểm toán."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "Kênh"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Thông báo"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "Truy cập"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "giữ lại"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Thành viên—chỉ đọc"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "#lập kế hoạch hoạt động"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##lập kế hoạch hoạt động"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Chỉ đọc"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Chỉ có chủ sở hữu (VikramShah) hoặc không gian làm việc"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "quản trị viên có thể thay đổi các cài đặt này."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Ai có thể đọc"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Mở—con người trong phạm vi"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "có thể tìm và tham gia nó;"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "tin nhắn được hiển thị"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "chỉ thành viên"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Ai có thể đăng bài"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Tất cả thành viên"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Sản xuất hàng tuần"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "quy hoạch Nhà máy A"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "Thành viên"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "Asha Kulkarni, Vikram"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Shah, Neha lyer, Maya"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Rao, Arjun Mehta"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "Lịch sử chính sách"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01/ MỤC TIÊU KINH DOANH"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02/ QUY TRÌNH DỰ THẢO"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03/ SỞ HỮU"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04/ PHỐI HỢP THỰC HIỆN"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05/ ĐÁNH GIÁ KẾT QUẢ"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "MẪU / ĐẦU VÀO → ĐIỀU KIỆN"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "NHIỆM VỤ CON NGƯỜI → KIỂM TRA LẠI"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "HÀNH ĐỘNG ĐẠI LÝ → TÍCH HỢP"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "KIỂM TRA → ĐÁNH GIÁ → KÍCH HOẠT"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "hoàn thành?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "lịch trình"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "sự lệch lạc"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · DANH SÁCH KIỂM TRA SẴN SÀNG"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · QUY TRÌNH LÀM VIỆC ĐƯỢC PHIÊN BẢN"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · SỬA ĐỔI HOẠT ĐỘNG"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · NGƯỜI PHÊ DUYỆT ĐƯỢC TÊN"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · ĐANG QUYẾT ĐỊNH"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Sứ mệnh & Mục tiêu"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → KẾT THÚC"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "trình chiếu xoay vòng"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "trang trình chiếu"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Mang các tác nhân AI đến mọi bộ phận trong tổ chức của bạn."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Xem UCXO đang hoạt động."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Chuẩn bị kế hoạch sản xuất tuần tới."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers với danh tính nền tảng, trạng thái tài khoản và bối cảnh truy cập của quản trị viên."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "tài khoản được quản lý riêng trongUUsers."
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    }
+  }
+}

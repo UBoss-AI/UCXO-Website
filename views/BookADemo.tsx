@@ -1,0 +1,26 @@
+'use client';
+import {useLocalize} from '@/i18n/LocaleProvider';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import DemoForm from '@/components/DemoForm';
+import {ArrowUpRight,Check,Mail} from 'lucide-react';
+import '@/app/book-a-demo/demo.css';
+
+
+export default function BookADemo(){const localize=useLocalize();return localize(<><Header/><main className="demo-page" id="top">
+ <div className="demo-layout">
+  <section className="demo-intro" aria-labelledby="demo-heading">
+   <h1 id="demo-heading">Book a demo.<br/><span>For your team.</span></h1>
+   <p className="demo-lead">See UCXO with a workflow from your business.</p>
+   <div className="demo-journey" aria-hidden="true"><span>YOUR OBJECTIVE</span><i/><span>PEOPLE + AI</span><i/><span>OUTCOME<Check size={12}/></span></div>
+   <div className="demo-expect"><h2>What to expect</h2>{[
+    ['01','Start with your goals','Tell us where work gets stuck.'],
+    ['02','Explore the possibilities','Walk through the tools relevant to your team.'],
+    ['03','Find your next step','Decide whether UCXO fits your needs.'],
+   ].map(([number,title,copy])=><div className="demo-expect-row" key={number}><span>{number}</span><div><h3>{title}</h3><p>{copy}</p></div></div>)}</div>
+   <a className="demo-email" href="mailto:info@ubossai.com"><Mail size={15}/><span>Prefer email? <strong>info@ubossai.com</strong></span><ArrowUpRight size={14}/></a>
+  </section>
+  <section className="demo-form-panel" aria-labelledby="demo-form-title"><div className="demo-form-top"><span className="demo-tag"><span/>PERSONAL DEMO</span></div><h2 id="demo-form-title">Your details</h2><p>Tell us a little about your team.</p><DemoForm/></section>
+ </div>
+
+ </main><Footer/></>)}

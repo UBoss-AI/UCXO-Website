@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Ahoj tým UCXO,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Chtěl bych zařídit demo UCXO."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Čeho bych chtěl dosáhnout:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Rád bych to probral během dema."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "děkuji,"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Vyžádejte si demo UCXO"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Pole označena"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "jsou vyžadovány."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "Vaše kontaktní a firemní údaje"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "Křestní jméno"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "příjmení"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "Pracovní email"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Společnost"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Název společnosti"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Pracovní název"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "Vaše role"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "Velikost společnosti"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Vyberte velikost týmu"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "země"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "Vaše země"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Čeho bys chtěl dosáhnout?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "Volitelné"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "Pracovní postup ke zlepšení, cíl, kterého je třeba dosáhnout, nebo výzva k řešení…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "Nechte toto prázdné"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "Vaše údaje použijeme k odpovědi na vaši žádost o demo. Vyvarujte se prosím uvádění důvěrných informací."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Vyžádejte si moje demo"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Otevře vaši e-mailovou aplikaci s předvyplněnými údaji."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Obchodní realizace, koordinovaná."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Platforma"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Jak to funguje"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Případy použití"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Nedopatření"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Zpět nahoru"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. Všechna práva vyhrazena."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "Lidsky řízené. Poháněno AI. Odpovědné podle návrhu."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO domů"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "navigace otevřená"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Hlavní navigace"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Zarezervujte si demo"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Přihlaste se"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Zavřít nabídku"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "Otevřít nabídku"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / ILUSTRAČNÍ"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "tučné 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "PRACOVNÍ POSTUP"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "SPOJENÉ ETAPA"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "VLASTNICTVÍ"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "LIDÉ + MOTOŘI"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "LIDSKÉ RECENZE"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "POVINNÝ / ČEKÁNÍ"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "ZACHOVALÉ, KDE JE POŽADOVÁNO"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Definujte cíl"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Začněte s výsledkem."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Uveďte výsledek a kdo jej vlastní."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Koordinujte plán připravenosti výroby"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "Cíl a obchodní kontext"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Organizační vlastnictví"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Požadovaný výsledek"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Zkontrolujte pracovní postup"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Udělejte plán jasný."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Zkontrolujte kroky, závislosti a požadovaná schválení."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Zkontrolujte navrhovaný plán provádění"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Lidské úkoly a agenti AI"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "Závislosti a předávání"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Požadované schvalovací brány"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Schválit a přiřadit"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Zaveďte vlastnictví."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Schválit plán a přidělit každý úkol jeho vlastníkovi."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Schválit plán a přiřadit vlastníky"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "Odpovědní vlastníci úkolů"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Schválené schopnosti agenta"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "Odpovědnost za kontrolu člověka"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "Provést"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Udržujte práci připojenou."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine postupuje podle plánu a označuje problémy ke kontrole."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "Monitorujte úlohy, běhy a předávání"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "Provádění s vědomím závislosti"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Sledovaný agent běží"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Eskalace výjimek"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Zkontrolujte výsledky"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Uzavřete smyčku."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "Porovnejte výsledek a jeho důkazy s původním cílem."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Zkontrolujte výsledek s jeho důkazy"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Evidence úkolů a schválení"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Historie provádění agentů"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "Kontrola výsledku"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "Cesta UCXO"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "ŠipkaVpravo"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "ArrowLeft"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "Domů"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "Konec"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Začněte znovu cestu"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Další krok"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "ILUSTRATIVNÍ PRACOVNÍ POSTUP"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "Souvisí s vaším obchodním cílem"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "Naši partneři"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "Obnovte loga partnerů"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "Pozastavit loga partnerů"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO partnerů"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "Váš výchozí bod."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "Podívejte se na velký obrázek."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Kontext společnosti, rozsah oddělení a zobrazení pracovního prostoru."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Přehled pracovního prostoru"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "Kontext oddělení"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Připojené moduly"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview s kontextem společnosti a oddělení, kartami Přehled a Aktivita a viditelnou mapou pracovního prostoru."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "Mapa řídicího panelu pokračuje pod zachycením PDF. Tento náhled zachovává přesně viditelnou obrazovku; chybějící část si nevymýšlí."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "Vaše úkoly."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "Vaše rozhodnutí."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Použijte UDO pro přiřazení a UApprove pro žádosti o schválení."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · Moje úkoly"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "Přiděleno mně / mnou"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · Lidská rozhodnutí"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO Moje úkoly s kartami přiřazení, filtry stavu úkolů, vyhledávání a původní prázdný stav."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove s filtry Čekání na mě, Vyžadováno mnou, Výjimky a Rozhodnutí a původní prázdný stav."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Každodenní práce."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "Na jednom místě."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "Formuláře, záznamy, běhy pracovních postupů a školení."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Formuláře a záznamy"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · Workflow běží"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "Zadané učení"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms zobrazující zveřejněný kontrolní seznam připravenosti na výrobu, jeho verzi, pole a propojený pracovní postup."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords zobrazující uvolněnou SOP řízenou změnou balicí linky a její revizi."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "Původní obrazovka UEngine Runs, která si zachovává svůj přesný štítek uživatelského rozhraní a stav Žádné běhy."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining zobrazující přiřazenou lekci o bezpečnosti balicí linky, pokrok a požadavek na hodnocení."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Založte firmu."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Naplánujte si práci."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Cíle, zdroje, návrh pracovního postupu a přístup."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Cíle a plánování"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Lidé a vybavení"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Šablony a přístup"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner s návrhem plánu připravenosti výroby, připravenost 4/8, jmenovaný vlastník a schvalovatel a stav Neaktivní."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "Poslání a cíle"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Mise a cíle zobrazující filtry Spolehlivé, ověřené operace a cíle."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "Pracovní plánovač"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Plánovač práce s počítáním plánování, pracovní položkou připravenosti výroby a časovou osou týdne."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "HR mistr"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "HR Master s lidmi, rolemi, dovednostmi, pracovními kalendáři a závazky."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "Mistr stroje"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Stroj Master s dostupností zařízení, kapacitou, pracovní dobou a rezervacemi."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "Mistr formulářů"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Forms Master s publikovanou, neměnnou verzí kontrolního seznamu připravenosti výroby."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Mistr delegace"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "Hlavní delegace s původním oznámením o nutnosti rozhodnutí a plánovaným nahrazením schválení."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "KONVERZACE S PRÁCÍ V KONTEXTU"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Udržujte konverzace"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "blízko k práci."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Najděte své konverzace, koordinujte se v týmových kanálech a udržujte diskuse spojené s prací, které se týkají. Zkontrolované a odeslané návrhy úkolů se připojte zpět k UDO."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Doručená pošta a zmínky"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Týmové kanály"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Konverzace spojené s prací"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Doručená pošta"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Doručená pošta s filtry konverzací a původní nepřečtenou konverzací plánující operace."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Týmové kanály zobrazující plánování operací a celopodnikový kanál oznámení závodu."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Pracovní rozhovory"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme Pracovní konverzace s původním prázdným stavem a vysvětlení vazeb mezi pracovními objekty."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "Přehled konverzace"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview s nepřečtenou konverzací, zmínkami, úkoly a neodeslanými návrhy."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "Obchodní realizace založená na AI"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "Proměňte SOP na pracovní postupy. Přidělte odpovědnost. Dokončení stopy."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "Vaše podnikání běží. Zůstanete pod kontrolou."
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI je obchodní provádění založené na AI. Proměňte SOP na pracovní postupy. Přidělte odpovědnost. Dokončení stopy. Vaše podnikání běží. Zůstanete pod kontrolou."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "Přehled vašeho pracovního prostoru"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. Váš výchozí bod. Podívejte se na svou společnost, vyberte oddělení a otevřete modul, který potřebujete."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "Pohledy a rozsah oddělení"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "Použijte Přehled pro rychlé zobrazení nebo Aktivita pro sledování aktualizací. Ovládací prvky zobrazení nabízejí mapu, karty, nástěnku a seznam."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. Vaše úkoly a schválení. UDO zobrazuje práci, která vám byla přidělena."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "Úkoly, stav a vyhledávání"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "Filtrujte podle stavu, vyhledejte úkol nebo zkontrolujte práci, kterou jste přidělili někomu jinému."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · Fronta na vaše rozhodnutí"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Otevřete UApprove a zkontrolujte žádosti čekající na vaše rozhodnutí. Schválit, vrátit nebo zamítnout práci."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Publikované formuláře"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Kde děláte práci. Vyplňte publikované formuláře v UForms a sledujte své příspěvky."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · Důkazy a dokumenty"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords uchovává dokumenty a důkazy s podrobnostmi o jejich revizi a schválení."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine zobrazuje běhy pracovního postupu, průběh a výjimky. Tato ukázka zatím nemá žádné spuštění."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Přidělené učení"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining sdružuje přidělené lekce, termíny a hodnocení."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Nastavte, jak vaše firma funguje. Začněte s misí a cíli, abyste definovali cíl a jeho vlastníka."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner plánuje úlohy s lidmi a vybavením, které potřebují."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner definuje pracovní postup. Otestujte jej, získejte schválení a aktivujte jej před spuštěním."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master spravuje role, dovednosti a dostupnost zaměstnanců."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master spravuje kapacitu zařízení, dostupnost a údržbu."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master vytváří a publikuje šablony, které váš tým vyplní UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Delegace Master definuje, kdo může převzít úkol nebo schválení a na jak dlouho."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers spravuje uživatelské účty, role a přístupová oprávnění."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Prozkoumejte přehled konverzace, doručenou poštu, sdílené úkoly, kanály, lidi a nastavení pracovního prostoru."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "Přehled konverzace"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme má svůj vlastní přehled konverzací. Sdružuje nepřečtené zmínky, nepřečtené konverzace, otevřené úkoly z konverzací a nepředložené návrhy s odkazy zpět na příslušnou práci."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Vyberte Doručená pošta a vyhledejte konverzace, do kterých patříte. Filtruje oddělené nepřečtené konverzace, přímé zprávy, zmínky a aktivitu. Ukázka ukazuje kanál týmu pro plánování operací a jeho nepřečtenou konverzaci."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · Sdílené úkoly"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "Vyberte UDO pro zobrazení stejného úložiště úloh, které používá UCXO. Úkoly konverzace odkazují zpět na jejich zdroj. Návrh zprávy se stane úkolem až poté, co je zkontrolován a odeslán."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Vyberte Týmové kanály, chcete-li zobrazit své kanály, otevřít kanály, ke kterým se můžete připojit, a archivované kanály. Soukromé kanály jsou viditelné pouze pro členy. Ukázka odděluje plánování operací od celopodnikových oznámení závodu."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Vyberte Pracovní konverzace, chcete-li zachovat diskusi vázanou na cíl, plán, úkol, formulář, záznam nebo pracovní položku. Jeho stav a verze stále pocházejí z vlastního modulu objektu."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Hovory a schůzky · Aktuální stav"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "Hovory a schůzky jsou viditelné v navigaci, ale dodané sestavení nemá poskytovatele volání. Tato obrazovka vysvětluje, že hovory, plánování, nahrávání a přepisy nejsou aktuálně dostupné."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "Adresář lidí"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Vyberte adresář Lidé a najděte kolegy, kterým můžete poslat zprávu, s týmy a rolemi od UUsers. Zobrazí se aktivní stav účtu; reference neposkytuje přítomnost v reálném čase."
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Nastavení pracovního prostoru"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Vyberte Nastavení pracovního prostoru pro témata kanálu, členství, oprávnění ke čtení a zveřejňování a historii zásad. Ukázkový uživatel má přístup pouze pro čtení. Zprávy koordinují práci; neschválí ani nedoplní."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Původní softwarová obrazovka"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Zobrazit celou obrazovku"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Zkontrolujte původní obrazovku"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "Klepnutím na obrazovku ji prohlédnete v plné velikosti."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "stránka PDF"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Původní rozložení, štítky, data a stavy"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Referenční poznámka:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Originální software UCXO · Stránka PDF"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Přizpůsobit oknu"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Skutečná velikost"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "Zavřít náhled obrazovky"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Přehled a navigace."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "Úkoly a schválení."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "Denní nástroje."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Obchodní nastavení."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "AbortError"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "Chcete-li pokračovat ve vyprávění, vyberte Přehrát."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO čtyřdílná řízená ukázka produktu"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "Vyprávění se nepodařilo načíst. Chcete-li to zkusit znovu, vyberte možnost Přehrát s komentářem."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "PROHLÍDKA PRODUKTŮ UCXO"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "ÚVOD"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Přehrajte si s vyprávěním"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "Pokračovat ve vyprávění"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "Němé vyprávění"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Přehrát s komentářem"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "VÁŠ PRACOVNÍ PROSTOR PŘIPOJENÝ"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "Čtyři ukázkové sekce produktu"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "ArrowDown"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "ArrowUp"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· Řízené demo"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "Pozastavit vyprávění"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "Přizpůsobit obrazovku"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Zaměření pohledu"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Rozbalit řízenou ukázku"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Přehrát prohlídku"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Přehrajte si řízené demo"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Pozastavit řízenou ukázku"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "Přehrajte si tuto sekci znovu"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "Ztlumené demo vyprávění"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "Povolit ukázkové vyprávění"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "Průběh demo sekce"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "PROHLÍDKA DOKONČENA"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "PŘEHRÁVÁNÍ VYPRÁVÁNÍ"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "VYPRÁVÁNÍ PŘERUŠENO"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "VYPRÁVÁNÍ VYPNUTO"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Rozšířené UCXO řízené demo"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Zavřít náhled"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Přehrát demo"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "Pozastavit demo"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Přehled"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "Aktivita"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Mapa pracovního prostoru"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Karty"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ Deska"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Seznam"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "oddělení"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Vše v mém rozsahu⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ Pilotní společnost A (ukázka)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ Operace"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "Rád tě vidím, Arjune (operátore). Každý modul, který můžete otevřít, se nachází kolem UCXO s jednou figurkou; každá karta otevře přesně to, co se počítá."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ Aktualizováno 09:29"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Obnovit"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "Pilotní společnost A (ukázka)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "Vaše oddělení: Operace."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Kde se nastavuje a provádí práce"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "Poslání a cíle"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "Poslání a cíle, plánovač práce a Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "PŘIPRAVENOST VÝROBY"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "Začněte s přijatým cílem: připravte plán výroby na příští týden."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "LIDÉ A VLASTNICTVÍ"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "Lidé a vlastnictví poskytují kontext pro angažovanou práci."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "NÁVRH PRACOVNÍHO POSTUPU"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Svažte cíl, angažovanou práci a zdroje s verzovaným pracovním postupem."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "KONTROLNÍ SEZNAM PŘIPRAVENOSTI"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Zachyťte kontrolní seznam připravenosti pomocí formuláře / vstupního kroku."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "JMENOVANÁ LIDSKÁ RECENZE"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "Před aktivací musí revizi schválit jmenovaná osoba."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "ZAVÁZANÁ PRÁCE"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Svěřte práci a zdroje, které bude plán koordinovat."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner zadaný pracovní postup"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Akce agenta"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AI AGENT · SHRNUTÍ KAPACITY"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "Souhrn kapacity se spustí po uplynutí podmínky uvolnění linky."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "Formulář / vstup"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "ČLOVĚK · KONTROLNÍ SEZNAM PŘIPRAVENOSTI"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "Osoba vyplní kontrolní seznam připravenosti v UForms."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "Podmínka"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "OVLÁDÁNÍ · VOLBA LINKY?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "Ano pokračuje v akci AI. Žádné cesty k vyřešení lidského úkolu."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Lidský úkol"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "ČLOVĚK · VYŘEŠIT ODCHYLKU"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Vyřešte odchylku odbavení v UDO a poté znovu zkontrolujte formulář, až třikrát."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "Integrace"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "SYSTÉM · PLÁN ERP"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Aktualizujte plán ERP po shrnutí kapacity. Selhání synchronizace následuje po cestě oznámení."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "Schválení"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "ČLOVĚK · RECENZE VYDÁNÍ"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "Jmenovaný vedoucí provozu schvaluje vydání v UApprove."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Záznam výstupu"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "SYSTÉM · SCHVÁLENÝ PLÁN"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "Schválený plán výroby je uchováván prostřednictvím URecords."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "KONTROLA"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Dokončete nakonfigurovanou cestu pracovního postupu."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine provedení a lidské zotavení v UDO"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "Odpovědná osoba obdrží a dokončí přidělený úkol obnovy v UDO."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "Souhrn kapacity může běžet pouze tehdy, když podmínka uvolnění linky splňuje."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "Vydání čeká na jmenovaného schvalovatele; U-Engine nemůže učinit toto rozhodnutí."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Žádné cesty do UDO a zpět do kontrolního seznamu připravenosti. Ano pokračuje v akci AI."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "Integrace aktualizuje plán ERP před schválením vydání."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords a obnovení oznámení"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "Jmenovaný vedoucí operací přezkoumá důkazy a rozhodne, zda vydání schválí."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "SYSTÉM · VÝSTUP NAHRÁVÁNÍ"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Uschovejte schválený plán výroby a jeho podpůrné záznamy."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "SCHVÁLENÁ AKTIVNÍ REVIZE"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Spustit běh může pouze testovaná, zkontrolovaná, schválená a aktivovaná revize."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "SYSTÉM · SYNCHRONIZACE SELHALA"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "Neúspěšná synchronizace ERP sleduje nakonfigurovanou trasu oznámení."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Oznámení"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "SYSTÉM · OZNÁMENÍ PLÁNOVAČE"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "Informujte odpovědného plánovače o selhání synchronizace ERP. UPingme spojuje konverzaci."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "Schválená cesta záznamu a cesta pro obnovení oznámení dosáhnou konce."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "CHAT · PŘIPOMÍNAT · ESKALOVAT"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "Konverzace, upomínky a eskalace se zde dostávají k odpovědné osobě; schválení zůstává v UApprove."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "Definujte a plánujte"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Cíl. Verzovaný plán."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Mission & Objectives spojuje angažovanou práci a zdroje prostřednictvím Work Planner a Engine Planner."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Začněte s cílem: připravit plán výroby na příští týden."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "Spojte lidi a oddanou práci prostřednictvím HR Master a Work Planner."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms zachycuje kontrolní seznam připravenosti."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner váže cíl a zdroje k verzovanému pracovnímu postupu."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Testujte, kontrolujte, aktivujte"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Zadané kroky. Řízené uvolňování."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Před schválením a aktivací člověkem zkontrolujte pracovní plochu, otestujte ji a proveďte kontroly připravenosti."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "Pracovní postup začíná formulářem a podmínkou uvolnění řádku."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Pokud se schválení nezdaří, lidský úkol vyřeší odchylku a znovu zkontroluje formulář."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Pokud projde, akce AI připraví souhrn kapacity a integrace aktualizuje plán."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "Testujte, kontrolujte, schvalujte a aktivujte revizi předtím, než U-Engine spustí běh."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "Proveďte a obnovte"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine běží. Lidé zůstávají zapojeni."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "Schválený pracovní postup sleduje své nakonfigurované trasy. UDO vede obnovu s odpovědnou osobou."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine sleduje aktivní revizi a cesty jejího stavu."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "Souhrn kapacity se spustí až po průchodu uvolnění linky."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Lidé dostávají a dokončují přidělené úkoly obnovy v UDO."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "Integrace aktualizuje plán nebo sleduje cestu selhání."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "Vydání čeká na jmenovaného lidského schvalovatele v UApprove."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "Schválit a zaznamenat"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "Lidský souhlas. Připojený záznam."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove uchovává rozhodnutí u osoby. URecords zachová plán. UPingme spojuje konverzaci."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "Neúspěšná integrace informuje odpovědného plánovače. UPingme spojuje konverzaci."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "Schválení vydání zůstává na jmenované osobě v UApprove."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "Schvalovatel přezkoumá důkazy a rozhodne."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "Po schválení si URecords ponechá výrobní plán a pracovní postup dosáhne konce."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Obchodní realizace, koordinovaná."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "POSLÁNÍ A CÍLE"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR MASTER · PLÁNOVAČ PRÁCE"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · LIDSKÉ OBNOVENÍ"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "INTEGRACE · PLÁN ERP"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "OZNÁMENÍ · ODPOVĚDNÝ PLÁNOVAČ"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "ZAHRNUTÉ LIDSKÉ ROZHODNUTÍ"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "VÝSLEDEK SPOJENÝ S CÍLEM"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "Příprava pracovního postupu…"
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "NotAllowedError"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "Váš prohlížeč pozastavil vyprávění. Začněte výběrem Přehrát vyprávění."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "Vyprávění nemohlo začít. Vyberte Přehrát mluvený komentář a zkuste to znovu."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "Jak funguje UCXO"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "VSTUP"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "TLAČÍTKO"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "Vyprávění se nepodařilo načíst. Vyberte Přehrát mluvený komentář a zkuste to znovu."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "JAK UCXO FUNGUJE"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "JEDEN CÍL. JEDEN SOUVISEJÍCÍ PŘÍBĚH."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "Připravte si příští týden"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "Poslechněte si vysvětlení"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Přehrajte si vyprávění"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Zvuk zapnut · Ztlumit"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Spouštění vyprávění…"
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Vysvětlení hry"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Pozastavit vysvětlení"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Přehrát kapitolu"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Povolit zvuk"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Ztlumit zvuk"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "Průběh kapitoly"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "KAPITOLA FILM"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "VYHLÁŠENÍ · ZVUK VYPNUTÝ"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "VYPRÁVÁNÍ · HRANÍ"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "VYPRÁVÁNÍ · NEDOSTUPNÉ"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "VYHLÁŠENÍ · KLEPNĚTE NA PŘEHRÁVÁNÍ"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "VYPRAVOVÁNÍ · PAUZA"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "VYPRÁVÁNÍ · NAKLÁDÁNÍ"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Vyberte kapitolu"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "Přehrát animaci"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "Člověk"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "agent AI"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "Systém"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "Ovládání"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "Spustí se plánovač"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "připravenost běhu"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "Spoušť"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "Kontrolní seznam připravenosti"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "Vůle linky"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Shrnutí kapacity"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Aktualizujte sandbox ERP"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Vedení operací"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "schvaluje vydání"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Schválená výroba"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "záznam plánu"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Vyřešit povolení"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Informujte plánovače o ERP"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "selhání synchronizace"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "Ano"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "Ne"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Znovu zkontrolovat (max. 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "Neplatný výstup"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "Synchronizace se nezdařila"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "Schváleno"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "Odmítnuto / vráceno"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner plátno pracovního postupu"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Workflow canvas"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "návrh v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "Ilustrativní"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "Plátno"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "Objednané kroky"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Zadaný pracovní postup"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "Přiblížit pracovní postup"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "Oddálit pracovní postup"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "Přizpůsobit celý pracovní postup zobrazení"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "provedení"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "rozhodnutí · vymáhání"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Ano → Přehled kapacity · Ne → Vyřešit odchylku vůle"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Znovu zkontrolujte kontrolní seznam připravenosti (max 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "Synchronizace se nezdařila → Upozornit plánovač"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Pracovní postup připravenosti k výrobě s větvemi schvalování a obnovy"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Vstupte"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "Plán připravenosti výroby na příští týden"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "Ilustrativní schválení zaznamenáno"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "Vyžaduje se souhlas člověka"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Zarezervujte si demo — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Podívejte se, jak UCXO propojuje vaše cíle, lidi a pracovní sílu AI. Řekněte nám o svém podnikání a požádejte o osobní demo."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "Zarezervujte si demo."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "Pro váš tým."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Podívejte se na UCXO s pracovním postupem z vaší firmy."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "VÁŠ CÍL"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "LIDÉ + AI"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "VÝSLEDEK"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "Co očekávat"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "Začněte se svými cíli"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Řekněte nám, kde se práce zasekává."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "Prozkoumejte možnosti"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "Projděte si nástroje relevantní pro váš tým."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Najděte svůj další krok"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "Rozhodněte se, zda UCXO vyhovuje vašim potřebám."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "Preferujete e-mail?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "OSOBNÍ DEMO"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "Vaše údaje"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Řekněte nám něco o vašem týmu."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Čtyři náhledy domovské stránky — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Zpět na web"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "KOLOTOČ HLAVNÍ STRÁNKY · RECENZE MÍSTNÍHO DESIGNU"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Jeden pracovní prostor."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "Čtyři způsoby, jak se posunout vpřed."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Čtyři navrhované karty domovské stránky. Skutečné obrazovky softwaru, jasná vysvětlení a bližší pohled na každou část UCXO."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Originální obrazovky z vašeho návrhu PDF"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Statické náhledy ke kontrole"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Prozkoumejte čtyři náhledy"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "Čtyři náhledy domovské stránky"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "ČTYŘI STATICKÉ NÁHLEDY · PŘIPRAVENO PRO VAŠI RECENZI"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "Software vede."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "Příběh to objasňuje."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Chcete-li zkontrolovat související modul, vyberte libovolný selektor obrazovky. Otevřete obrazovku v plné velikosti a porovnejte ji s PDF. Tyto náhledy uchovávají původní ukázková data a prázdné nebo konceptuální stavy."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Zpět na přehled čtyř náhledů"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Jak to funguje — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "Postupujte podle jednoho obchodního cíle od navrženého pracovního postupu až po schválení člověkem a zkontrolovaný výsledek."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "OD SMĚRU K DODÁNÍ"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Jeden cíl."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "Každý krok propojený."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "Postupujte podle názorného plánu připravenosti výroby."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "Lidé si ponechávají rozhodnutí, která vyžadují lidský úsudek."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "realizace obchodu,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Spojte své cíle, lidi a pracovní sílu AI do jednoho sdíleného pracovního postupu."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Prozkoumejte platformu"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "Přihlaste se do UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — Obchodní provádění, koordinované."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Proměňte obchodní cíle v koordinovanou akci. Plánujte pracovní postupy, spojujte lidi a agenty AI a udržujte provádění odpovědné."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Cíle do pracovních postupů"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "Rozdělte obchodní cíl na kroky, závislosti a vlastníky."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Naplánujte si práci"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Definujte úkoly, podmínky, integrace a cesty schvalování ve verzovaném pracovním postupu."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Navrhněte pracovní postup"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO úkolů"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "Dejte každému úkolu odpovědnou osobu a jasný status."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Přidělte odpovědnost"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "Připravenost pracovního postupu"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Otestujte revizi a dokončete její kontroly před schválením a aktivací."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Připravte se na provedení"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "AI V VAŠÍ ORGANIZACI"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 — PLATFORMA"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Méně manuální práce."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "Více času pro váš tým."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "Přiveďte agenty AI"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "Vytvářejte a koordinujte agenty AI pro automatizaci každodenních úkolů napříč odděleními."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "Podívejte se na příklad pracovního postupu"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "Méně ručních předávání"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Lidé a umělá inteligence spolupracují"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Jasné vlastnictví"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "JASNÁ CESTA OD CÍLE K VÝSLEDKU"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — JAK TO FUNGUJE"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "Od cíle"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "k dokončené práci."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Postupujte podle pěti fází pracovního postupu."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "POSTAVENO PRO SPOLUPRÁCI"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — ZÁKLADNÍ SCHOPNOSTI"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Nástroje vzadu"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "pracovní postup."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Plánujte, přiřazujte, testujte a spusťte."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "AUTOMATIZACE S ODPOVĚDNOSTÍ"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "Lidská rozhodnutí."
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "Ve správných chvílích."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove předává rozhodnutí odpovědné osobě."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Doklady před schválením"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Zkontrolujte podpůrné záznamy."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Viditelnost napříč provedením"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "Zobrazit historii spuštění a výjimky."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Vymažte role a oprávnění"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "Nastavte role a rozsah oddělení."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "DOHLED NA EXEKUCI"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "ILUSTRAČNÍ"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "Sledování provádění pracovního postupu"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "LIDSKÁ SCHVÁLOVACÍ BRÁNA"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "Rozhodnutí zůstává na vás."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Zkontrolujte důkazy a rozhodněte se."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "Čeká na lidský souhlas"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Přiloženy podpůrné důkazy"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "Zjištěna výjimka"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Eskalováno odpovědnému recenzentovi"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "Monitorovací práce neuděluje souhlas člověka."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "VYROBENO PRO ZPŮSOB FUNGOVÁNÍ PODNIKŮ"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — PŘÍPADY POUŽITÍ"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Skutečná práce."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "Propojeno od konce ke konci."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Sdílená realizační vrstva pro vlastníky firem,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "vedoucí operací a týmy, které vedou."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "OPERACE"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "Operativní koordinace"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Srovnejte mezifunkční úkoly, vlastníky a závislosti kolem sdíleného obchodního cíle."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Definujte plán"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Koordinujte předávání"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "OPAKOVATELNÁ PRÁCE"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Opakované hlášení"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "Znovu použijte agenty AI k přípravě práce a poté směrujte výstupy a důkazy k lidem, kteří je kontrolují."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Shromážděte vstupy"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "Spustit agenta"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "Lidská recenze"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "ŘÍZENÁ POPRAVA"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "Práce řízená schválením"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "Propojte evidenci úkolů, brány lidského schvalování a zpracování výjimek v jednom viditelném pracovním postupu."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "Sbírejte důkazy"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Požádejte o schválení"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "Řešit výjimky"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Reprezentativní případy použití. Příklady pracovních postupů jsou ilustrativní."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "NĚKOLIK VĚCÍ, VYJASNĚNÝCH"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Postaveno pro přehlednost."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "Co je UCXO?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO pomáhá týmům přeměnit postupy na přidělenou, sledovatelnou práci s agenty AI a lidskými souhlasy."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Jak Engine Planner a U-Engine spolupracují?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner navrhuje pracovní postup. U-Engine spustí testovanou, schválenou a aktivovanou revizi."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Kdo schvaluje práci?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "Rozhoduje jmenovaný lidský schvalovatel. Agent AI nemůže udělit tento souhlas."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Kdy může pracovní postup běžet?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "Po kontrolách připravenosti, lidském souhlasu a aktivaci."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "DEJTE SVÝM CÍLŮM CESTU VPŘED"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Viz UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Zarezervujte si demo pro svůj tým nebo se podívejte na příklad pracovního postupu."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Sledujte pracovní postup"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Vyplňte prosím toto pole."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Zadejte prosím platnou e-mailovou adresu."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Zkontrolujte prosím tuto hodnotu."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Zvuk: angličtina"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "Přepis"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Stránka nenalezena"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "Požadovaná stránka nebyla nalezena."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "Vraťte se domů"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Vyberte jazyk"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "Hledat jazyky"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "uniknout"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "Jazyky"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO žádost o demo — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Název: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "Pracovní e-mail: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Společnost: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Pracovní pozice: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Velikost společnosti: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Země: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "Kapitola {0}: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "KROK {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} z {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "KOMPLETNÍ PŘÍBĚH · {0} SEKUND"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "Rozbalit obrazovku {0}"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "Zkontrolujte původní obrazovku {0}"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} obrazovek softwaru"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "Obrazovka původního softwaru: {0}"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "DALŠÍ · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} ukázkových kapitol"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. Původní softwarová obrazovka UCXO s ukázkou řízeného kurzoru."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Hovory a schůzky"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Hledat ID, názvy..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "Pilotní společnost A (ukázka) · Provoz"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "DOMŮ"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Hovory a schůzky"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "Hlasové hovory a videohovory, plánování schůzek, nahrávání a přepisy nejsou součástí tohoto sestavení."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "POSKYTOVATEL VOLÁNÍ · NENÍ NAKONFIGUROVÁNO"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Nelze zahájit žádné hovory ani schůzky"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "tady"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Potřebné rozhodnutí·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Neexistuje žádný ovládací prvek Join, Record nebo Transscribe"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "protože by se vlastně nic nestalo.Schůzky"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "nelze naplánovat ani uložit – žádné neexistují."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Musí být rozhodnuto dříve, než budou hovory existovat"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "Mezitím"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Hovory a schůzky"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "Volající poskytovatel a kde jsou údaje o hovorech"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "Pracovní konverzace"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "zpracováno"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O aktivní, každý vázán na předmětnou bytost"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Nutné rozhodnutí·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "diskutováno."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "Před jakýmkoliv souhlasem účastníka"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Poslat zprávu osobě"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "záznam nebo přepis"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "Přímé zprávy jsou vytvářeny s prvním"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "zprávu."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "Uchovávání a přístup k nahrávkám"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "Dohodněte se na akci"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "Navrhněte úkol ze zprávy; dosáhne"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "a přepisy (URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO až poté, co jej zkontrolujete a odešlete."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Nastavení"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Operátor"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "Cílová zařízení, displeje a místnost"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ Mistr delegace"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "Pilotní společnost A(vzorek)·Operace"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "Kdo může za koho jednat, na co a jak dlouho. Předání úkolu a schvalovací pravomoc"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "substituce jsou samostatné, časově omezené orgány."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Potřebné rozhodnutí · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "O obchodním smyslu delegování a o tom, zda jsou povoleny řetězy, se nerozhoduje. Konzervativní"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "platí výchozí nastavení: delegování nikdy neuděluje více, než má delegát (znovu zaškrtnuto při každém"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "použití), řetězce jsou zablokovány a nahrazení schválení vyžaduje nezávislého správce."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "AIl"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "Čeká na schválení"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "Naplánováno"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Aktivní"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "Platnost vypršela"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "Odvoláno"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "Odmítnuto"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Oba druhy 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Výměna schválení 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Předání úkolu 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Zúčastňují se pouze delegace"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Hledat lidi, ID, důvod"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6. listopadu–3. prosince"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "Dříve"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "dnes"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "Později"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "KDO JE PRO KOHO"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NeV16Ne23Ne30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "RohanDas"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "jedná pro VikramShaha"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Operace"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "Pilotní společnostA(vzorek)·Operace"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "Plán váže přijatý cíl, zavázanou práci a zdroje k verzovanému pracovnímu postupu. Musí to projít"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "připravenost, být schválen jmenovanou osobou a být aktivován před každým spuštěním."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "Koncept"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Připraveno na recenzi"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "Recenze"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "Q"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "Pozastaveno"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "ID vyhledávání, název nebo cíl"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 plán"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "Plán připravenosti výroby na příští týden"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "CílOBJ-026·Příprava plánu výroby příštího týdne"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "Připravenost 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "ŽIVÁ VERZE"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·návrhv1·10uzlů"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "Není aktivní"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "SCHVALOVATEL"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "VLASTNÍK"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "VikramShah"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Vyřešte připravenost"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Hlavní formulář"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Hledat ID, názvy..."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Hlavní formulář"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Definice formulářů vytvořené na žádost oddělení. Publikované verze jsou neměnné; každou změnu"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "se stává novou pracovní verzí, kterou publikuje nezávislý recenzent."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "AII"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Publikováno"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "v důchodu"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Všechna oddělení"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Hledat ID, jméno nebo záznam"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "Kontrolní seznam připravenosti výroby"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Kontrolní seznam operátora před spuštěním balení."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Zobrazit"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "& OperationsOwner Kabir SenProduces Readiness Checklist"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "Vázaný na PLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8polí·neměnný"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "FormsMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / HR Master"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "Lidé jako zdroje plánování: role, dovednosti, pracovní kalendář a to, k čemu se zavázali. Přihlášení"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Lidé a dovednosti"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "Hierarchie a personální obsazení"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "Deska dostupnosti"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "Importovat (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Lidé"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Matice dovedností"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "Dovednost"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Stav"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Všechna moje oddělení"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Jakákoli dovednost"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Aktivní a neaktivní"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Jméno, role nebo dovednost"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Sunil Varma"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Technik údržby"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Operátor balení"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "Údržba"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "Elektrické"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Balení"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "Kvalita"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "M"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "T"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "W"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗Nic se nezavázalo"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Žádný přihlašovací účet"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "Přihlášení: Arjun Mehta"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "Maya Rao"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "MR"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / Doručená pošta"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "Každá konverzace, jíž jste členem, seřazená tak, aby to, co potřebujete, bylo na prvním místě."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markallread"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Pošli někomu zprávu"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "Vše 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Nepřečteno"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Přímé zprávy"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "Zmínky"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Hledejte jména, témata a text zprávy"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "NEPŘEČTENÉ"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#ops-planning"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Týmový kanál"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "12. listopadu 2026, 7:05"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha prosím vyřešte konflikt WORK-021 do 2026-11-13 a..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / Machine Master"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "Zařízení, které pracuje, lze naplánovat: kde se nachází, co umí, kolik za hodinu, kdy je"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "otevřeno a co je již rezervováno. Pouze plánování – žádné ovládání stroje."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIl3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "K dispozici"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "Mimo provoz"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q Jméno, umístění nebo schopnost"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "Tiskárna štítků 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "Balicí linka 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "PlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "PlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 štítků/hod"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "jednotky/hod"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "Označování"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "Těsnění"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O vyhrazenoŽádná odstávka není plánována"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 rezervováno dolů 19. listopadu 2026"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "Balicí linka 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "Pilotní společnost A (vzorek) · Provoz"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Každý cíl uvádí výsledek, jak se dokazuje úspěch a kdo jej vlastní – pak prochází"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "plánování, schvalování, provádění a řízený záznam."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Cíle"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "Poslání"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "MISE·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Poslání a cíle"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Spolehlivé, ověřené operace"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Dodat každý výrobní závazek včas s lidmi,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "zařízení a rozhodnutí, která jsou plánována, schválena a doložena."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "Majitel Asha Kulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "Lidé schvalují vydání"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Každý výstup je sledovatelný"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "Plány odrážejí skutečnou kapacitu"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "Otevřená mise"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Vše 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "Čeká se na recenzi"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "Přijato"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "Revidováno"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Vyhledejte ID, název nebo vlastníka"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "Připravte se"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "další"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "týden"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Adresář lidí"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "Každému ve vaší společnosti můžete poslat zprávu, s jeho týmem a rolemi od UUsers. HR dostupnost"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "a přístupové údaje zde nejsou zobrazeny."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Jméno, titul nebo oddělení"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIl10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Strojírenství"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Operace 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "Plánování"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "účet"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "Jakékoliv (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①Přítomnost není zobrazena: UPingme nemá žádnou službu přítomnosti v reálném čase. Stav je stav účtu UUsers."
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Arjun Mehta (vy)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Asha Kulkarni"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1 Zpráva"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "Správce společnosti"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Aktivní účet"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "správce"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "Aktivní účet"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Vikram Shah"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "Zpráva"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(schvalovatel)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Týmové kanály"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Kanály, ke kterým patříte, otevřené kanály, ke kterým se můžete připojit, a archivované kanály."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Nový kanál"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "Soukromé kanály jsou viditelné pouze pro jejich členy."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Název kanálu, téma nebo text zprávy"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "Celofiremní"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "VAŠE KANÁLY"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Týdenní plánování výroby pro závod A"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5členové"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Poslední zpráva 12. listopadu 2026, 7:05"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "OTEVŘÍT CHANNELSYOUCANJOIN"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## oznámení o závodech"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "Oznámení pro celou společnost pro závod A. Pouze vlastník"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "příspěvky."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "Celopodniková 2členná majitelka Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "příspěvky vlastníků"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Náhled"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Připojte se"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Otevřete týmové kanály, které jsou celofiremní nebo patří do vašeho odděleníUPingme.Soukromé kanály jsou uvedeny"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "Jmenovaní lidé rozhodnou o přesné, zmrazené revizi. Schválení, vrácení a zamítnutí jsou samostatná rozhodnutí; an"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "atestace je po schválení samostatným krokem."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Čekání na mě"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "D"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "Vyžádáno mnou"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "Výjimky"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "Rozhodnuto"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Vše v rozsahu"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "ID vyhledávání, název, žadatel"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Nic na tebe nečeká"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "Požadavky se zde objeví, když jste jmenovaným schvalovatelem otevřené scény nebo aktivním náhradníkem."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "každá karta otevře přesně to, co se počítá."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Mapa pracovního prostoru"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品 Karty"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "deska"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 Seznam"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Vše v mé působnosti"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "Aktualizováno 09:29"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C Obnovit"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Kde se práce nastavuje a provádí"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Poslání a cíle"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / Moje úkoly"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "Moje úkoly"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "Vše, co na vás čeká —— od kroků pracovního postupu, žádostí o formuláře, schválení, následných kroků a UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "návrhy — s tím, kde jednat a co se jeho dokončením mění."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "Moje úkoly jsou součástí UDO, kterou uživatel řídí. UDO"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·Moje úkoly"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "celé jméno, vlastník, uživatelé a další obrazovky nejsou"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "Potřebné rozhodnutí·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "definováno, takže se nezobrazuje nic jiného."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "Přiděleno mně"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "Zadáno mnou"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "Otevřít"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "Neprobíhá"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "Vráceno"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "Po splatnosti"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Splatné dnes"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "Dokončeno"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "AlIlo"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Typ"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Hledat ID, název, zdroj nebo příjemce"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Všechny typy"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Zatím vám není nic přiděleno"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "Úkoly sem přicházejí z běhů workflow (formulář a lidské kroky), schválení"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "požadavky, následná opatření, která vám někdo přidělí, a návrhy potvrzené v"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Obdržíte také upozornění."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Běží"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Běží"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Každé provedení schválené, publikované verze pracovního postupu – na koho se čeká, co selhalo a co"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "potřebuje usmíření. Runy si uchovávají přesnou verzi i po změnách plánu."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Definice běhového prostředí"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "AIl0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "Čeká na mě"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "Čekání"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "Běh"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "Zrušeno"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "Vyhledejte ID běhu nebo plánu"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Zatím žádné běhy"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Spuštění z aktivního plánu v EnginePlanner."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Otevřete EnginePlanner"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Vyplňte publikované šablony vzoru formulářů. Každý příspěvek uchovává přesnou verzi formuláře, ve které byl vytvořen,"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "a prohlédnete si přijetí nebo vrátíte k nápravě."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Dostupné formuláře"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "Moje příspěvky"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Publikované formuláře"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "Lze spustit pouze aktuální publikovanou verzi; starší verze zůstávají k dispozici v jejich podáních."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "Vyhledávání formulářů"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Kontrolní seznam připravenosti výroby"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8 polí"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* Vyžadováno 6"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 stůl"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1 soubor"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1 podmíněný"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "ODDĚLENÍ"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "VLASTNÍK FORMULÁŘE"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "Kabir Sen"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "PRODUCESRECORD"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "Kontrolní seznam připravenosti"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021Příprava na výrobu na příští týden"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "plán"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026Příprava výroby v příštím týdnu"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Co vás ve vašich rozhovorech potřebuje a práce, o které se jedná."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Otevřete doručenou poštu"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "Nic ve vašich rozhovorech na vás nečeká."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "Zprávy koordinují práci; nikdy to neschválí, nepodepíší ani nedoplní. Úloha existuje pouze po a"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "návrh je posouzen a předložen."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1 Hovory a schůzky"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Nepřečtené"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Otevřít úkoly z"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "Neodevzdáno"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "Otevřete přesně"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "rozhovory"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "návrhy"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "zprávu"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "Se zprávami ty"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "Přiděleno vám v"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "Koncepty můžete pouze vy"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "nečetli"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "viz"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "Potřebuji tě"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "Zmínky"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "Nedávné rozhovory"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ops-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "12. listopadu 2026, 7:05"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Podstatné čtení a žádný otevřený úkol od"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "plánování"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "konverzace."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / Moje úkoly"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Stejné úkoly, průkazy totožnosti, důkazy a pravomoci jako"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscame"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "V UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Pouze úkoly z konverzací"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "z vašich rozhovorů; každý odkazuje zpět na svůj"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "zdrojová konverzace."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "Po splatnosti 0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "Splatné dnes"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "ID vyhledávání, název, zdroj nebo příjemce"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Všechny typy"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "Pilotní společnost A(vzorek)·Operace"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Záznamy z běhů, akceptované formuláře a ruční zadávání a kontrolované dokumenty s pravidly uvolnění-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "v jednom obchodě se zdrojovou linií. Vyhledávání a export se řídí vaším rozsahem přístupu."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品 Všechny záznamy"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Provozní záznamy"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "Kontrolované dokumenty"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "B"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Pouze právní blokování"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "Vyhledat ID, název nebo typ"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "Jakýkoli stav"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Řízené dokumenty"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "Uvolněný obsah je zmrazen. Změna je nová revize s vlastním schválením; správce dokumentů ji uvolní."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 Balicí linka"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "přechod"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Vydaný dokument"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "Vydáno rev 1"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "ControlledSopOperations"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 revize"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Majitelka Leela Menon"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "Zobrazen 1 záznam·záznamy mimo váš přístup se nepočítají"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "Zjistěte přesnou verzi, která vám byla přidělena. Čtení oddílu zaznamenává pokrok; pouze verze"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "potvrzení nebo absolvující hodnocení jej dokončí."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "Moje učení"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "Moje úkoly"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "op"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "Zavřeno"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "AlI"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "Bezpečnost balicí linky"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① Přiřazeno"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "Termín za 2 dny · 15. listopadu 2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · vaše verze"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "Zahájit lekci"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "Prezentace · Bezpečnost · Balicí linky"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "Zadala Leela Menon"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0 z 2 přečtených oddílů"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Hodnocení·úspěšné 100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Knihovna obsahu"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "Téma"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "Produkt"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Hledat název, téma, produkt"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Všechna témata"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Všechny produkty"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "Můj stav"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "Jakékoliv"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Identity platformy a jejich přístup: role, rozsah oddělení, relace, delegování a kontrola přístupu."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "Personální obsazení a dostupnost přímo v HR Master."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "Lidé"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Identity služby"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "Zobrazí se adresář společnosti. Role, rozsah oddělení a relace jsou viditelné pro společnost"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "správci."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Vše 10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Aktivní10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "Neaktivní"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QHledat jméno, e-mail, ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Provoz operátora balení"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "Role viditelné pro administrátory"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "13. listopadu 2026, 9:28"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "Správce společnostiOperace"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "Role viditelné pro administrátory"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Pracovní rozhovory"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Rozhovory vázané na jeden cíl, plán, úkol, formu, záznam nebo práci"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+Nová pracovní konverzace"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "položka. Stav a verze objektu vždy pocházejí z jeho vlastního modulu."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "AIlO"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Jméno, téma nebo text zprávy"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Archivováno"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Zatím žádné pracovní rozhovory"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "Pracovní konverzace je vázána na jeden objekt, který můžete otevřít – plán,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "cíl, úkol, formulář, záznam nebo pracovní položka – takže diskuse zůstane na řadě"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "do práce."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Začněte jeden"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Pilotní společnostA (ukázka)·Operace"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "Úkoly umístěné v čase s lidmi z HR Master a vybavení z Machine Master."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Náhledy plánování se nikdy nevyhrazují; dělá pouze commit."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "Potřebuje plánování"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "Probíhá"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "Čeká se na schválení"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "Konflikty"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "Časová osa týdne"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "ID vyhledávání, název, umístění"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Připravenost výroby—týden 2026-11-16"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "Rozvrh"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "PRÁCE-021·splatnost 18. listopadu 2026·Balení/Utěsnění"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "Týden 9. listopadu 2026"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "Tento týden"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 pracovních míst tento týden"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "JOB"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "PO"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "ÚT"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "ST"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9. listopadu 2026"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "10. listopadu 2026"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "11. listopadu 2026"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Nastavení pracovního prostoru"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Nastavení pracovního prostoru/Nastavení kanálů"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Nastavení kanálu"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Téma, členové, kdo může číst a kdo může přispívat – pro kanály a pracovní konverzace. Každý"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "změna je verzována a auditována."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "Kanály"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Oznámení"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "Přístup"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "Udržení"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Člen – pouze pro čtení"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# plánování operací"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##ops-plánování"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Pouze pro čtení"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Pouze vlastník (VikramShah) nebo pracovní prostor"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "správce může tato nastavení změnit."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Kdo umí číst"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Otevřeno – rozsah lidí"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "může ji najít a připojit se;"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "zprávy jsou zobrazeny"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "pouze členové"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Kdo může přispívat"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Všichni členové"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Týdenní produkce"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "plánování závodu A"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "členové"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "Asha Kulkarni, Vikram"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Shah, Neha lyer, Maya"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Rao, Arjun Mehta"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "Historie zásad"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / OBCHODNÍ CÍL"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / NÁVRH PRACOVNÍHO POSTUPU"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / VLASTNICTVÍ"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / KOORDINOVANÉ PROVÁDĚNÍ"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / RECENZE VÝSLEDKŮ"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "FORMA / VSTUP → STAV"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "LIDSKÝ ÚKOL → ZNOVU ZKONTROLUJTE"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "AKCE AGENTU → INTEGRACE"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "TEST → PŘEHLED → AKTIVOVAT"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "kompletní?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "rozvrh"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "odchylka"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · KONTROLNÍ SEZNAM PŘIPRAVENOSTI"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · PRACOVNÍ POSTUP NA VERZI"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · AKTIVNÍ REVIZE"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · JMENOVANÝ SCHVALOVATEL"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · ČEKÁ NA ROZHODNUTÍ"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Mise a cíle"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/Plánovač práce"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → KONEC"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "karusel"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "snímek"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Přiveďte agenty AI do každé části vaší organizace."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Podívejte se na UCXO v akci."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Připravte si plán výroby na příští týden."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers s identitami platformy, stavy účtů a kontextem přístupu správce."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "účty jsou spravovány samostatně v UUsers."
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    }
+  }
+}

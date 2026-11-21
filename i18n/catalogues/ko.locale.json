@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "안녕하세요 UCXO 팀,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "UCXO 데모를 준비하고 싶습니다."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "내가 달성하고 싶은 것:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "데모 중에 이에 대해 논의하고 싶습니다."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "감사합니다."
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "UCXO 데모 요청"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "표시된 필드"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "필수입니다."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "귀하의 연락처 및 회사 세부정보"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "이름"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "성"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "직장 이메일"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "회사"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "회사명"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "직위"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "귀하의 역할"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "회사 규모"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "팀 규모 선택"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "국가"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "귀하의 국가"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "무엇을 달성하고 싶나요?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "선택사항"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "개선해야 할 작업흐름, 도달해야 할 목표, 해결해야 할 과제…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "이것을 비워 두세요"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "귀하의 세부 정보를 사용하여 귀하의 데모 요청에 응답하겠습니다. 기밀 정보는 포함하지 마십시오."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "내 데모 요청"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "세부 정보가 미리 입력된 이메일 앱을 엽니다."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "사업 실행, 조정."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "플랫폼"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "작동 원리"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "사용 사례"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "감독"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "맨 위로 돌아가기"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. 모든 권리 보유."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "인간이 주도합니다. AI 기반. 설계상 책임이 있습니다."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO 집"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "네비게이션 열림"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "메인 네비게이션"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "데모 예약"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "로그인"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "메뉴 닫기"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "메뉴 열기"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / 예시"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "굵은 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "워크플로"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "연결된 단계"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "소유권"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "사람 + 엔진 에이전트"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "인간 검토"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "필수 / 대기 중"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "필요한 곳에 보존됨"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "목표 정의"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "결과부터 시작하세요."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "결과와 그 결과를 누가 소유하는지 명시하십시오."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "생산 준비 계획 조정"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "목표 및 비즈니스 컨텍스트"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "조직 소유권"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "원하는 결과"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "워크플로 검토"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "계획을 명확하게 하세요."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "단계, 종속성, 필요한 승인을 확인하세요."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "제안된 실행 계획 검토"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "휴먼 태스크 및 AI 에이전트"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "종속성 및 핸드오프"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "필수 승인 게이트"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "승인 및 할당"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "소유권을 제자리에 두십시오."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "계획을 승인하고 각 작업을 소유자에게 할당합니다."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "계획 승인 및 소유자 할당"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "책임 있는 작업 소유자"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "승인된 에이전트 기능"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "인적 검토 책임"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "실행"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "작업을 계속 연결하세요."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine은 계획을 따르고 검토를 위해 문제를 표시합니다."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "작업, 실행 및 전달 모니터링"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "종속성 인식 실행"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "모니터링되는 에이전트 실행"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "예외 에스컬레이션"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "결과 검토"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "루프를 닫습니다."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "결과와 그 증거를 원래 목표와 비교하십시오."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "증거를 바탕으로 결과를 검토하세요."
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "작업 증거 및 승인"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "에이전트 실행 내역"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "결과 검토"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "UCXO 여행"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "화살표오른쪽"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "화살표왼쪽"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "홈"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "종료"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "여행을 다시 시작해 보세요"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "다음 단계"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "예시적인 작업 흐름"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "귀하의 비즈니스 목표와 연결됨"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "우리의 파트너"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "파트너 로고 재개"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "파트너 로고 일시중지"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO 파트너"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "당신의 출발점."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "큰 그림을 보세요."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "회사 컨텍스트, 부서 범위 및 작업 공간 보기."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "작업공간 개요"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "부서 상황"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "연결된 모듈"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview 회사 및 부서 상황, 개요 및 활동 탭, 눈에 보이는 작업 공간 맵이 포함되어 있습니다."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "대시보드 맵은 PDF 캡처 아래에 계속됩니다. 이 미리보기는 보이는 화면을 정확하게 유지합니다. 누락된 부분을 만들어내지는 않습니다."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "귀하의 작업."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "당신의 결정."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "과제에는 UDO을, 승인 요청에는 UApprove를 사용하세요."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · 내 작업"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "나에게 할당됨 / 내가 할당함"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · 인간의 결정"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO 할당 탭, 작업 상태 필터, 검색 및 원래 빈 상태가 포함된 내 작업."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove 대기 중, 내가 요청함, 예외 및 결정됨 필터, 원래 비어 있는 상태가 포함됩니다."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "일상적인 일."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "한 곳에서."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "양식, 기록, 워크플로 실행 및 교육."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "양식 및 기록"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · 워크플로 실행"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "할당된 학습"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms 게시된 생산 준비 체크리스트, 해당 버전, 필드 및 연결된 워크플로를 보여줍니다."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords 출시된 포장 라인 전환 제어 SOP 및 개정 내용을 보여줍니다."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "원본 UEngine 실행 화면은 정확한 UI 라벨과 아직 실행되지 않음 상태를 유지합니다."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining 할당된 포장 라인 안전 교육, 진행 상황 및 평가 요구 사항을 보여줍니다."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "사업을 시작하세요."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "작업을 계획하십시오."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "목표, 리소스, 워크플로 설계 및 액세스."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "목표 및 계획"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "인력 및 장비"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "템플릿 및 액세스"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner 초안 생산 준비 계획, 준비 4/8, 명명된 소유자 및 승인자, 활성 상태 아님."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "임무 및 목표"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "신뢰할 수 있고 입증된 운영 임무 및 목표 필터를 보여주는 임무 및 목표입니다."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "작업 계획자"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "일정 수, 생산 준비 작업 항목 및 주 타임라인이 포함된 작업 계획자입니다."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "HR 마스터"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "사람, 역할, 기술, 작업 일정 및 약속을 갖춘 HR 마스터입니다."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "머신 마스터"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "장비 가용성, 용량, 근무 시간 및 예약 기능을 갖춘 머신 마스터입니다."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "양식 마스터"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "생산 준비 체크리스트의 변경 불가능한 게시된 버전이 포함된 Forms Master."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "위임 마스터"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "원래 결정에 필요한 통지 및 예정된 승인 대체가 포함된 위임 마스터."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "상황에 맞는 작업과의 대화"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "대화를 이어가세요"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "직장에 가깝습니다."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "대화를 찾고, 팀 채널에서 조정하고, 관련 작업과 토론을 연결하세요. 검토 및 제출된 작업 제안은 UDO로 다시 연결됩니다."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "받은편지함 및 멘션"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "팀 채널"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "업무 관련 대화"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "받은편지함"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme 대화 필터와 원래의 작전 계획 읽지 않은 대화가 포함된 받은 편지함."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme 운영 계획 및 전사적 공장 공지 채널을 보여주는 팀 채널입니다."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "업무 대화"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme 원래의 빈 상태와 작업 개체 링크에 대한 설명이 포함된 작업 대화입니다."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "대화 개요"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview 읽지 않은 대화, 멘션, 작업 및 제출되지 않은 제안 개수가 포함됩니다."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "AI 기반 비즈니스 실행"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "SOP를 워크플로로 전환하세요. 책임을 할당하십시오. 완료를 추적합니다."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "귀하의 비즈니스가 운영됩니다. 당신은 통제권을 유지합니다."
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI는 AI 기반 비즈니스 실행입니다. SOP를 워크플로로 전환하세요. 책임을 할당하십시오. 완료를 추적합니다. 귀하의 비즈니스가 운영됩니다. 당신은 통제권을 유지합니다."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "작업공간 개요"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. 당신의 출발점. 회사를 확인하고, 부서를 선택하고, 필요한 모듈을 엽니다."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "보기 및 부서 범위"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "빠르게 보려면 개요를 사용하고, 업데이트를 확인하려면 활동을 사용하세요. 보기 컨트롤은 지도, 카드, 보드 및 목록을 제공합니다."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. 귀하의 작업 및 승인. UDO는 귀하에게 할당된 작업을 표시합니다."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "과제, 상태 및 검색"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "상태별로 필터링하고, 작업을 검색하고, 다른 사람에게 할당한 작업을 확인하세요."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · 결정 대기열"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "UApprove을 열어 결정을 기다리는 요청을 검토하세요. 작업을 승인, 반환 또는 거부합니다."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · 게시된 양식"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. 당신이 일을 하는 곳. UForms에 게시된 양식을 작성하고 제출물을 추적하세요."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · 증거 및 문서"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords 문서 및 증거를 수정 및 승인 세부정보와 함께 저장합니다."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine은 워크플로 실행, 진행률 및 예외를 보여줍니다. 이 샘플에는 아직 실행이 없습니다."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · 할당된 학습"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining 할당된 수업, 마감일, 평가를 함께 제공합니다."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. 비즈니스 운영 방식을 설정하세요. 임무와 목표부터 시작하여 목표와 소유자를 정의하세요."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner는 필요한 인력과 장비로 작업 일정을 계획합니다."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner은 작업 흐름을 정의합니다. 실행하기 전에 테스트하고 승인을 받은 후 활성화하세요."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master는 역할, 기술 및 직원 가용성을 관리합니다."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master는 장비 용량, 가용성 및 유지 관리를 관리합니다."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master는 팀이 채우는 템플릿을 생성하고 게시합니다(UForms)."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "위임 마스터는 작업이나 승인을 맡을 수 있는 사람과 그 기간을 정의합니다."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers는 사용자 계정, 역할 및 액세스 권한을 관리합니다."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "대화 개요, 받은 편지함, 공유 작업, 채널, 사용자 및 작업 영역 설정을 살펴보세요."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "대화 개요"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme에는 자체 대화 개요가 있습니다. 읽지 않은 멘션, 읽지 않은 대화, 대화에서 열린 작업, 제출되지 않은 제안을 관련 작업에 대한 링크와 함께 제공합니다."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "자신이 속한 대화를 찾으려면 받은 편지함을 선택하세요. 읽지 않은 대화, 다이렉트 메시지, 멘션, 활동을 필터링합니다. 샘플은 운영 계획 팀 채널과 읽지 않은 대화를 보여줍니다."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · 공유 작업"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "UDO을 선택하면 UCXO에서 사용하는 것과 동일한 작업 저장소를 볼 수 있습니다. 대화 작업은 해당 소스로 다시 연결됩니다. 메시지 제안은 검토 및 제출된 후에만 작업이 됩니다."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "팀 채널을 선택하여 채널, 참여할 수 있는 공개 채널, 보관된 채널을 확인하세요. 비공개 채널은 회원에게만 표시됩니다. 이 샘플은 작전 계획과 전사적 공장 공지를 분리합니다."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "목표, 계획, 작업, 양식, 기록 또는 작업 항목에 대한 토론을 계속 연결하려면 작업 대화를 선택합니다. 상태와 버전은 여전히 ​​객체의 자체 모듈에서 나옵니다."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "통화 및 미팅 · 현황"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "통화 및 회의는 탐색에 표시되지만 제공된 빌드에는 통화 공급자가 없습니다. 이 화면에서는 현재 통화, 예약, 녹음, 스크립트를 사용할 수 없음을 설명합니다."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "사람 디렉토리"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "UUsers의 팀 및 역할과 함께 메시지를 보낼 수 있는 동료를 찾으려면 사용자 디렉터리를 선택하세요. 활성 계정 상태가 표시됩니다. 참조는 실시간 존재를 제공하지 않습니다."
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "작업공간 설정"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "채널 주제, 멤버십, 읽기 및 게시 권한, 정책 기록에 대한 작업 공간 설정을 선택합니다. 샘플 사용자에게는 읽기 전용 액세스 권한이 있습니다. 메시지는 작업을 조정합니다. 그들은 그것을 승인하거나 완료하지 않습니다."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "기존 소프트웨어 화면"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "전체 화면 보기"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "원본 화면 검사"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "화면을 탭하면 전체 크기로 검사할 수 있습니다."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "PDF 페이지"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "원본 레이아웃, 라벨, 데이터 및 상태"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "참고 사항:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "원본 UCXO 소프트웨어 · PDF 페이지"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "창에 맞추기"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "실제 크기"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "화면 미리보기 닫기"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "개요 및 탐색."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "작업 및 승인."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "일일 도구."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "사업 설정."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "중단 오류"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "내레이션을 재개하려면 재생을 선택하세요."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO 4부분으로 구성된 제품 데모 안내"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "내레이션을 로드할 수 없습니다. 다시 시도하려면 내레이션과 함께 재생을 선택하세요."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "UCXO 제품 투어"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "소개"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "내레이션으로 다시 재생"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "내레이션 재개"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "내레이션 음소거"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "해설과 함께 재생"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "연결된 작업 공간"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "4개의 제품 데모 섹션"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "아래쪽 화살표"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "화살표 위로"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· 안내 데모"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "내레이션 일시중지"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "화면 맞춤"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "포커스 뷰"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "안내 데모 펼치기"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "다시보기 투어"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "안내 데모 재생"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "안내 데모 일시중지"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "이 섹션을 다시 재생해 보세요."
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "데모 내레이션 음소거"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "데모 내레이션 활성화"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "데모 섹션 진행"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "투어 완료"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "내레이션 재생"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "내레이션이 일시중지되었습니다."
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "내레이션 꺼짐"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "확장된 UCXO 안내 데모"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "미리보기 닫기"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "데모 플레이"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "데모 일시중지"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "개요"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "활동"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ 작업 공간 맵"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ 카드"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ 보드"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ 목록"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "부서"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "모두 내 범위에⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ 파일럿 회사 A (샘플)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ 운영"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "반갑습니다, 아르준(오퍼레이터)님. 열 수 있는 모든 모듈은 하나의 그림으로 UCXO 정도에 위치합니다. 각 카드는 정확히 중요한 내용을 엽니다."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ 오전 9시 29분 새로고침"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ 새로고침"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "파일럿 회사 A(샘플)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "담당 부서: 운영."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "작업이 설정되고 수행되는 곳"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "임무 및 목표"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "임무 및 목표, 작업 계획자 및 Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "생산 준비"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "받아들인 목표부터 시작하세요. 다음 주의 생산 계획을 준비하세요."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "사람과 소유권"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "사람과 소유권은 헌신적인 작업에 대한 맥락을 제공합니다."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "초안 워크플로"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "목표, 헌신적인 작업 및 리소스를 버전이 지정된 워크플로에 바인딩합니다."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "준비 체크리스트"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "양식/입력 단계를 사용하여 준비 체크리스트를 캡처합니다."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "명명된 인간 검토"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "개정판을 활성화하려면 지명된 사람이 개정판을 승인해야 합니다."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "헌신된 일"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "계획에서 조정할 작업과 자원을 투입합니다."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner 형식화된 작업 흐름"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "상담원의 조치"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AI 에이전트 · 용량 요약"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "용량 요약은 라인 클리어런스 조건이 통과된 후에 실행됩니다."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "양식 / 입력"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "인간 · 준비 체크리스트"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "UForms에서 준비 체크리스트를 완료한 사람."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "상태"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "제어 · 라인 클리어런스?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "예, AI 작업을 계속합니다. 해결을 위해 휴먼 태스크에 대한 경로가 없습니다."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "인간의 임무"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "인간 · 결의 편차"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "UDO에서 틈새 편차를 해결한 후 양식을 최대 3회까지 다시 확인하세요."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "통합"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "시스템 · ERP 일정"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "용량 요약 후 ERP 일정을 업데이트합니다. 동기화 실패는 알림 경로를 따릅니다."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "승인"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "휴먼 · 출시 리뷰"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "지정된 운영 책임자가 UApprove의 출시를 승인합니다."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "레코드 출력"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "시스템 · 승인된 계획"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "승인된 생산계획은 URecords을 통해 유지됩니다."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "제어"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "구성된 워크플로 경로를 완료합니다."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine UDO의 처형 및 인명 복구"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "책임자는 UDO에서 할당된 복구 작업을 받고 완료합니다."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "용량 요약은 라인 정리 조건을 통과한 경우에만 실행할 수 있습니다."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "릴리스는 지정된 승인자를 기다립니다. U-Engine 이 결정을 내릴 수 없습니다."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "UDO으로 갔다가 준비 체크리스트로 돌아가는 경로가 없습니다. 예, AI 작업을 계속합니다."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "통합은 릴리스 승인 전에 ERP 일정을 업데이트합니다."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords 및 알림 복구"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "지명된 운영 책임자는 증거를 검토하고 공개 승인 여부를 결정합니다."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "시스템 · 레코드 출력"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "승인된 생산 계획과 그 지원 기록을 보관하십시오."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "승인된 활성 개정판"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "테스트, 검토, 승인 및 활성화된 개정만 실행을 시작할 수 있습니다."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "시스템 · 동기화 실패"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "실패한 ERP 동기화는 구성된 알림 경로를 따릅니다."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "알림"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "시스템 · 알림 플래너"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "ERP 동기화 실패를 담당 기획자에게 알립니다. UPingme은 대화를 연결합니다."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "승인된 기록 경로와 알림 복구 경로는 각각 End에 도달합니다."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "채팅 · 알림 · 에스컬레이션"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "대화, 알림 및 에스컬레이션은 여기에서 책임자에게 전달됩니다. 승인은 UApprove에 남아 있습니다."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "정의 및 계획"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "목표. 버전이 지정된 계획입니다."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "임무 및 목표는 Work Planner 및 Engine Planner을 통해 헌신적인 작업과 리소스를 연결합니다."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "목표부터 시작하세요. 다음 주의 생산 계획을 준비하세요."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "HR Master 및 Work Planner를 통해 사람과 헌신적인 업무를 연결하세요."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms 준비 체크리스트를 캡처합니다."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner은 목표와 리소스를 버전이 지정된 워크플로에 바인딩합니다."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "테스트, 검토, 활성화"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "입력된 단계. 통제된 방출."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "워크플로 캔버스를 검토하고, 테스트하고, 사람의 승인 및 활성화 전에 준비 상태 확인을 완료하세요."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "작업흐름은 양식과 라인 정리 조건으로 시작됩니다."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "정리가 실패하면 휴먼 태스크가 편차를 해결하고 양식을 다시 확인합니다."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "통과하면 AI 작업이 용량 요약을 준비한 다음 통합이 일정을 업데이트합니다."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "U-Engine 실행을 시작하기 전에 개정판을 테스트, 검토, 승인 및 활성화하십시오."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "실행 및 복구"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine이 실행됩니다. 사람들은 계속해서 참여합니다."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "승인된 워크플로는 구성된 경로를 따릅니다. UDO 책임자와 함께 복구 작업을 계속합니다."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine은 활성 개정판과 해당 조건 경로를 따릅니다."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "생산능력 요약은 라인 정리가 통과된 후에만 실행됩니다."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "사람들은 UDO에서 할당된 복구 작업을 받고 완료합니다."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "통합은 일정을 업데이트하거나 실패 경로를 따릅니다."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "릴리스는 UApprove에서 지정된 인간 승인자를 기다립니다."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "승인 및 기록"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "인간의 승인. 연결된 기록입니다."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove 결정은 사람과 함께 지킵니다. URecords는 계획을 유지합니다. UPingme은 대화를 연결합니다."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "실패한 통합은 담당 계획자에게 알립니다. UPingme은 대화를 연결합니다."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "릴리스 승인은 UApprove에 지정된 사람에게 있습니다."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "승인자는 증거를 검토하고 결정합니다."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "승인 후 URecords는 생산 계획을 유지하고 워크플로는 종료됩니다."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. 사업 실행, 조정."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "임무 및 목표"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR MASTER · 업무 계획자"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · 인간의 회복"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "통합 · ERP 일정"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "알림 · 책임 있는 계획자"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "인간의 결정이 기록됨"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "목표와 연결된 결과"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "워크플로 준비 중…"
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "허용되지 않음오류"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "브라우저가 내레이션을 일시중지했습니다. 시작하려면 내레이션 재생을 선택하세요."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "내레이션을 시작할 수 없습니다. 다시 시도하려면 내레이션 재생을 선택하세요."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "UCXO 작동 방식"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "입력"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "버튼"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "내레이션을 로드할 수 없습니다. 다시 시도하려면 내레이션 재생을 선택하세요."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "UCXO 작동 방식"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "하나의 목표. 하나의 연결된 이야기."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "다음주를 준비하세요"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "설명을 듣고"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "내레이션 재생"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "소리 켜짐 · 음소거"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "내레이션을 시작하는 중…"
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "플레이 설명"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "설명 일시중지"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "챕터 다시보기"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "소리 활성화"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "음소거"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "챕터 진행"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "챕터 필름"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "내레이션 · 소리 꺼짐"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "내레이션 · 재생"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "내레이션 · 사용할 수 없음"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "내레이션 · 탭 플레이"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "내레이션 · 일시중지됨"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "내레이션 · 로딩"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "장을 선택하세요"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "애니메이션 재생"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "인간"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "AI 에이전트"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "시스템"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "제어"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "플래너 시작"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "준비 실행"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "트리거"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "준비 체크리스트"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "라인 클리어런스"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "용량 요약"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "샌드박스 ERP 업데이트"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "운영 책임자"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "릴리스 승인"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "승인된 생산"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "계획 기록"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "클리어런스 해결"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "ERP 기획자에게 통보"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "동기화 실패"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "예"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "아니요"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "재확인(최대 3개)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "잘못된 출력"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "동기화 실패"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "승인됨"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "거부됨 / 반환됨"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner 워크플로 캔버스"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "워크플로 캔버스"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "초안 v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "예시"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "캔버스"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "순서가 지정된 단계"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "형식화된 작업 흐름"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "워크플로 확대"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "워크플로우 축소"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "전체 워크플로를 보기에 맞춤"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "처형"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "결정 · 회복"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Yes → 용량 요약 · No → 클리어런스 편차 해결"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "준비 체크리스트 재확인(최대 3개)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "동기화 실패 → 플래너에게 알림"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "승인 및 복구 분기가 포함된 생산 준비 워크플로"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "입력"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "다음주 생산 준비 계획"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "예시 승인 기록"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "사람의 승인이 필요함"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "데모 예약 — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "UCXO이 목표, 사람, AI 인력을 어떻게 연결하는지 알아보세요. 귀하의 비즈니스에 대해 알려주고 개인 데모를 요청하세요."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "데모를 예약하세요."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "당신의 팀을 위해."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "귀하의 비즈니스 워크플로가 포함된 UCXO을 참조하세요."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "당신의 목표"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "사람 + AI"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "결과"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "무엇을 기대해야 할까요?"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "목표부터 시작하세요"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "작업이 중단되는 부분을 알려주세요."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "가능성을 탐색해보세요"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "팀과 관련된 도구를 살펴보세요."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "다음 단계를 찾아보세요"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "UCXO이 귀하의 필요에 맞는지 결정하십시오."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "이메일을 선호하시나요?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "개인 데모"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "귀하의 세부 정보"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "귀하의 팀에 대해 간략히 알려주십시오."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "4개의 홈페이지 미리보기 — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "웹사이트로 돌아가기"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "홈페이지 캐러셀 · 지역 디자인 검토"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "하나의 작업 공간."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "앞으로 나아가는 네 가지 방법."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "제안된 홈페이지 카드 4개. 실제 소프트웨어 화면, 명확한 설명, UCXO의 각 부분을 자세히 살펴봅니다."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "디자인 PDF의 원본 화면"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "검토용 정적 미리보기"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "4가지 미리보기 살펴보기"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "4개의 홈페이지 미리보기"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "4가지 정적 미리보기 · 검토 준비 완료"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "소프트웨어가 주도합니다."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "이야기가 명확해집니다."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "관련 모듈을 검사하려면 화면 선택기를 선택하세요. 전체 크기로 화면을 열어 PDF와 비교해 보세요. 이러한 미리보기에는 원본 샘플 데이터와 비어 있거나 초안 상태가 유지됩니다."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "4개 미리보기 개요로 돌아가기"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "작동 방식 — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "제안된 워크플로부터 사람의 승인 및 검토된 결과까지 하나의 비즈니스 목표를 따릅니다."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "방향에서 배송까지"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "목표는 하나입니다."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "모든 단계가 연결되었습니다."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "예시적인 생산 준비 계획을 따르십시오."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "사람들은 인간의 판단이 필요한 결정을 유지합니다."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "사업실행,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "목표, 사람, AI 인력을 하나의 공유 워크플로로 통합하세요."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "플랫폼 살펴보기"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "UCXO에 로그인하세요."
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — 사업 실행, 조정."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "비즈니스 목표를 조화로운 행동으로 전환하세요. 워크플로를 계획하고, 사람과 AI 에이전트를 연결하고, 실행 책임을 유지하세요."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "워크플로우에 대한 목표"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "비즈니스 목표를 단계, 종속성, 소유자로 분류하세요."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "작업 계획"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "버전이 지정된 워크플로에서 작업, 조건, 통합 및 승인 경로를 정의합니다."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "워크플로 디자인"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO 과제"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "각 작업에 책임자와 명확한 지위를 부여하십시오."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "책임을 할당하다"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "워크플로 준비"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "승인 및 활성화 전에 개정판을 테스트하고 검사를 완료하세요."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "실행 준비"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "조직 전체의 AI"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 - 플랫폼"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "수작업이 줄어듭니다."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "팀을 위한 더 많은 시간."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "AI 에이전트를"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "AI 에이전트를 생성하고 조정하여 부서 전체의 일상적인 작업을 자동화하세요."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "워크플로 예시 보기"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "수동 핸드오프 감소"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "사람과 AI가 함께 일하는 모습"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "명확한 소유권"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "목표에서 결과까지의 명확한 경로"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — 작동 방식"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "목표에서"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "작업을 완료했습니다."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "워크플로의 5단계를 따르세요."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "함께 작동하도록 설계됨"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — 핵심 기능"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "뒤에 도구"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "작업 흐름."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "계획하고, 할당하고, 테스트하고, 실행하세요."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "책임 있는 자동화"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "인간의 결정."
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "적절한 순간에."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove 결정은 책임자에게 전달됩니다."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "승인 전 증거"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "지원 기록을 검사합니다."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "실행 전반에 대한 가시성"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "실행 기록 및 예외를 확인하세요."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "명확한 역할 및 권한"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "역할과 부서 범위를 설정합니다."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "실행 감독"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "예시"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "워크플로 실행 모니터링"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "인간 승인 게이트"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "결정은 당신에게 달려 있습니다."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "증거를 검토하고 결정하십시오."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "사람의 승인을 기다리는 중"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "첨부된 증거자료"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "예외가 감지되었습니다."
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "담당 검토자에게 에스컬레이션됨"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "모니터링 작업은 인간의 승인을 부여하지 않습니다."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "기업의 업무 방식에 맞게 제작"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — 사용 사례"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "실제 작업."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "끝에서 끝까지 연결됩니다."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "사업주를 위한 공유 실행 레이어,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "운영 리더와 그들이 이끄는 팀."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "운영"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "운영 조정"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "공유된 비즈니스 목표를 중심으로 부서 간 작업, 소유자 및 종속성을 조정합니다."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "계획 정의"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "핸드오프 조정"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "반복 가능한 작업"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "반복 보고"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "AI 에이전트를 재사용하여 작업을 준비한 다음 이를 검토하는 사람들에게 결과와 증거를 전달합니다."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "입력 수집"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "에이전트 실행"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "사람의 검토"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "통제된 실행"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "승인 중심 작업"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "하나의 가시적인 워크플로에서 작업 증거, 인간 승인 게이트 및 예외 처리를 연결합니다."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "증거 수집"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "승인 요청"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "예외 해결"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "대표적인 사용 사례. 워크플로 예가 예시되어 있습니다."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "몇 가지 사항을 명확하게 알려드립니다."
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "명확성을 위해 제작되었습니다."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "UCXO란 무엇인가요?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO은 팀이 AI 에이전트 및 인간 승인을 통해 절차를 할당되고 추적 가능한 작업으로 전환하는 데 도움이 됩니다."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Engine Planner과 U-Engine는 어떻게 함께 작동하나요?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner은 작업흐름을 디자인합니다. U-Engine 테스트, 승인 및 활성화된 개정판을 실행합니다."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "누가 일을 승인하나요?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "지명된 인간 승인자가 결정합니다. AI 에이전트는 해당 승인을 부여할 수 없습니다."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "워크플로는 언제 실행할 수 있나요?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "준비 상태 확인, 사람 승인 및 활성화 후."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "목표를 향해 나아갈 수 있는 방법을 제시하세요"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "UCXO 참조"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "팀을 위한 데모를 예약하거나 워크플로 예시를 시청하세요."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "워크플로 보기"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "이 필드를 작성해 주세요."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "유효한 이메일 주소를 입력하세요."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "이 값을 확인해주세요."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "오디오: 영어"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "성적 증명서"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "페이지를 찾을 수 없습니다"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "요청하신 페이지를 찾을 수 없습니다."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "집으로 돌아가기"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "언어를 선택하세요"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "언어 검색"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "탈출"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "언어"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO 데모 요청 — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "이름: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "직장 이메일: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "회사: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "직위: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "회사 규모: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "국가: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "{0}장: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "단계 {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0}개 중 {1}개: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "전체 스토리 · {0}초"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "{0} 화면 펼치기"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "원본 {0} 화면 검사"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} 소프트웨어 화면"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} 원래 소프트웨어 화면"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "다음 · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} 데모 챕터"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. 안내 커서 데모가 포함된 원본 UCXO 소프트웨어 화면."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / 통화 및 회의"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "ID, 제목 검색..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "파일럿 회사 A(샘플) · 운영"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "홈"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "통화 및 회의"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "음성 및 영상 통화, 회의 예약, 녹음 및 녹취록은 이 빌드의 일부가 아닙니다."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "통화 제공자·구성 없음"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "통화나 회의를 시작할 수 없습니다."
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "여기"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "결정이 필요함·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "참여, 녹음 또는 전사 제어 기능이 없습니다."
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "실제로는 아무 일도 일어나지 않기 때문입니다. 회의"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "예약하거나 저장할 수 없습니다. 아무것도 존재하지 않습니다."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "통화가 존재하기 전에 결정된 토베"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "그러는 동안"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "통화 및 회의"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "통화 제공업체 및 통화 데이터 위치"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "업무 대화"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "처리됨"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O 활성, 각각은 개체에 바인딩되어 있습니다."
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "결정이 필요함·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "논의됨."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "참가자의 사전 동의"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "사람에게 메시지 보내기"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "녹음 또는 대본"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "직접 메시지는 첫 번째로 생성됩니다."
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "메시지."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "녹음 보관 및 액세스"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "조치에 동의"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "메시지에서 작업을 제안합니다. 도달하다"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "및 성적표(URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO 검토하고 제출한 후에만 가능합니다."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "설정"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "운영자"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "대상 장치, 디스플레이 및 방"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ 대표단 마스터"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "파일럿회사 A(샘플)·운영"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "누가 누구를 위해, 무엇을, 얼마나 오랫동안 행동할 수 있습니까? 업무인계 및 승인권한"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "대체는 별도의 시간 제한이 있는 권한입니다."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "결정이 필요함 · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "위임의 비즈니스적 의미와 체인 허용 여부는 결정되지 않습니다.보수적"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "기본값이 적용됩니다. 위임자는 위임자가 보유하고 있는 것보다 더 많은 권한을 부여하지 않습니다(매번마다 다시 확인함)."
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "사용), 체인이 차단되며 승인 대체에는 별도의 관리자가 필요합니다."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "알"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "승인 대기 중"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "예정됨"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "활성"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "만료됨"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "취소됨"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "거부됨"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "두 종류 모두 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "승인 대체 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "작업인계 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "나와 관련된 위임만"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q 인물, 아이디, 사유 검색"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "11월 6일 - 12월 3일"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "이전"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "오늘"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "나중에"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "누가 누구를 따르나요?"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "로한다스"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "비크람샤를 위한 행위"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "운영"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "파일럿회사A(샘플)·운영"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "계획은 승인된 목표, 약속된 작업 및 리소스를 버전이 지정된 워크플로에 연결합니다. 통과해야합니다"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "실행을 시작하기 전에 지정된 사람의 승인을 받고 활성화되어야 합니다."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "초안"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "검토 준비 완료"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "인리뷰"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "질문"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "정지됨"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "ID, 제목, 목적 검색"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "계획 1개"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "다음주 생산 준비 계획"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "ObjectiveOBJ-026·다음주 제작계획 준비"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "준비 상태 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "라이브 버전"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·draftv1·10노드"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "비활성"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "승인자"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "소유자"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "비크람샤"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "준비 상태 해결"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / 양식 마스터"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "ID, 제목을 검색하세요.."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ 양식 마스터"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "부서별 요구에 따라 생성된 양식 정의입니다. 게시된 버전은 변경할 수 없습니다. 모든 변화"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "독립적인 검토자가 게시하는 새로운 초안 버전이 됩니다."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "AII"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "게시됨"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "은퇴"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "모든 부서"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q ID, 이름, 기록 검색"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "생산 준비 체크리스트"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "포장 실행 전 운영자 체크리스트."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "보기"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "및 운영Owner Kabir Sen, 준비 체크리스트 작성"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "PLAN-021에 바인딩됨"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8필드·불변"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "FormsMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / 인사마스터"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "계획 자원으로서의 사람: 역할, 기술, 작업 일정 및 그들이 전념하는 것. 로그인"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "사람과 기술"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "계층 구조 및 직원 배치"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "가용성 게시판"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "가져오기(CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "사람(&People)"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "품 스킬 매트릭스"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "스킬"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "상태"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "내 모든 부서"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "모든 기술"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "활성 및 비활성"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "이름, 역할 또는 기술"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "수닐 바르마"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "유지보수 기술자"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "포장 운영자"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "유지보수"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "전기"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "포장"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "품질"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "엠"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "티"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "여"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗아무것도 커밋되지 않았습니다."
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "로그인 계정 없음"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "로그인: 아르준 메타"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "마야 라오"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "씨"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / 받은편지함"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "귀하가 참여하고 있는 모든 대화는 귀하에게 필요한 것이 먼저 나오도록 정렬됩니다."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "마칼리드"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "누군가에게 메시지를 보내세요"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "알리 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "읽지 않음"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "다이렉트 메시지"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "언급"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "이름, 주제, 메시지 텍스트 검색"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "읽지 않음"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#운영계획"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "팀 채널"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "2026년 11월 12일, 오전 7:05"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha 2026년 11월 13일 이전에 WORK-021 충돌을 해결해 주세요..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / 머신마스터"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "작업 일정을 잡을 수 있는 장비: 어디에 있는지, 무엇을 할 수 있는지, 시간당 얼마인지, 언제인지"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "열려 있고 이미 예약되어 있는 것. 예약만 가능하며 기계 제어는 불가능합니다."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIl3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "가능"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "서비스 중단"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q 이름, 위치 또는 능력"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "라벨 프린터 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "포장라인 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "플랜트A·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "플랜트A·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900개 라벨/시간"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "단위/시간"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "라벨링"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "씰링"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "에프"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O 예약됨다운타임 예정 없음"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 예약됨 2026년 11월 19일 다운"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "포장라인 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "플랜트A·베이2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "시범회사 A(샘플)·운영"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "모든 목표에는 결과, 성공이 어떻게 입증되는지, 그리고 이를 소유한 사람이 누구인지 명시되어 있습니다."
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "계획, 승인, 실행 및 관리되는 기록입니다."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "목표"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "임무"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "미션·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "임무 및 목표"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "신뢰할 수 있고 입증된 운영"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "사람들과 함께 모든 생산 약속을 정시에 완료하고,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "계획되고, 승인되고, 입증되는 장비와 결정."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "소유자AshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "인간은 릴리스를 승인합니다."
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "모든 출력은 추적 가능합니다."
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "계획은 실제 용량을 반영합니다."
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "오픈 미션"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "모두 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "검토 대기 중"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "수락됨"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "개정됨"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "ID, 직함, 소유자 검색"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "준비하다"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "다음"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "일주일"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / 사람 디렉토리"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "회사의 모든 사람에게 UUsers의 팀 및 역할과 함께 메시지를 보낼 수 있습니다. HR 가용성"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "액세스 세부정보는 여기에 표시되지 않습니다."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "이름, 직위 또는 부서"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "Ail10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "공학"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "운영 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "기획"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "계정"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "모두 (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①현재 상태가 표시되지 않습니다: UPingme 실시간 상태 서비스가 없습니다. 상태는 UUsers 계정 상태입니다."
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "아르준 메타(당신)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "아샤 쿨카르니"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1메시지"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "회사 관리자"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "활성 계정"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "관리자"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "활성 계정"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "비크람 샤"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "메시지"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(승인자)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / 팀 채널"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "내가 속한 채널, 가입할 수 있는 공개 채널, 보관된 채널입니다."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 새 채널"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "비공개 채널은 해당 구성원에게만 표시됩니다."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "채널 이름, 주제 또는 메시지 텍스트"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "전사적으로"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "귀하의 채널"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "A공장 주간 생산 계획"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5회원"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "마지막 메시지 2026년 11월 12일, 오전 7:05"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "오픈채널가입이 가능합니다"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## 식물 발표"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "A공장에 대한 전사공지사항. 소유자만 해당"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "게시물."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "전사2명소유주 Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "소유주"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "미리보기"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "가입"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "회사 전체에 있거나 UPingme 범위 내 부서에 속한 팀 채널을 엽니다. 개인 채널이 나열됩니다."
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "지명된 사람들은 정확하고 고정된 개정판을 결정합니다. 승인, 반품, 거부는 별도의 결정입니다. 안"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "증명은 승인 후 별도의 단계입니다."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "나를 기다리고 있어요"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "디"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "내가 요청한 것"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "예외"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "결정"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "범위 내 모든 것"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "검색ID,제목,요청자"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "당신을 기다리는 것은 아무것도 없습니다"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "귀하가 공개 단계의 지정된 승인자이거나 활성 대체자인 경우 여기에 요청이 표시됩니다."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "각 카드는 정확히 중요한 내용을 엽니다."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "작업공간 맵"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "품카드"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "보드"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 목록"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "내 범위의 모든"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "오전 9시 29분에 새로고침됨"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C 새로 고침"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "작업이 설정 및 수행되는 위치"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "사명과 목표"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / 내 작업"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "내 작업"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "워크플로 단계, 양식 요청, 승인, 후속 조치 및 UPingme까지 모든 것이 여러분을 기다리고 있습니다."
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "제안 — 행동할 위치와 완료 내용이 변경됩니다."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "내 작업(My Tasks)은 사용자가 지시한 UDO 부분입니다. UDO의"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·내 작업"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "이름, 소유자, 사용자 및 기타 화면은 표시되지 않습니다."
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "결정이 필요함·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "정의되었으므로 다른 내용은 표시되지 않습니다."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "나에게 할당됨"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "내가 할당함"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "열기"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "진행중"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "반환됨"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "연체"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "오늘 마감"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "완료됨"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "알일로"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "유형"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q ID, 직위, 출처 또는 담당자를 검색합니다."
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "모든 유형"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "아직 귀하에게 할당된 항목이 없습니다."
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "워크플로 실행(양식 및 인간 단계), 승인을 통해 작업이 여기에 도착합니다."
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "요청, 다른 사람이 귀하에게 할당한 후속 조치 및 확인된 제안"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. 알림도 받게 됩니다."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/실행"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "실행"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "승인되고 게시된 워크플로 버전의 모든 실행 - 대기 중인 대상, 실패한 항목 및 내용"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "조정이 필요합니다. 실행은 계획이 변경된 후에도 정확한 버전을 유지합니다."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "런타임 정의"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "Ail0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "나를 기다리고 있어"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "대기 중"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "달리기"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "취소됨"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "실행 또는 계획 ID 검색"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "아직 실행 없음"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "EnginePlanner의 활성 계획에서 시작을 실행합니다."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "개방형 EnginePlanner"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "게시된 Forms Master 템플릿을 채웁니다. 모든 제출은 제출된 정확한 양식 버전을 유지합니다."
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "그리고 시청자는 수정을 위해 수락하거나 반환합니다."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "사용 가능한 양식"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "내 제출물"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "게시된 양식"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "현재 게시된 버전만 시작할 수 있으며 이전 버전의 제출물은 계속 읽을 수 있습니다."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "양식 검색"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "생산 준비 체크리스트"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8개 분야"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6개 필수"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "품 1개 테이블"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1파일"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1조건부"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "부서"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "양식 소유자"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "카비르 센"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "생산기록"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "준비 체크리스트"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021다음주 제작준비"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "계획"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026다음주 제작준비"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "대화에서 당신이 필요로 하는 것이 무엇인지, 그리고 그 내용이 무엇인지에 관한 것입니다."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "받은편지함 열기"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "대화에서 당신을 기다리고 있는 것은 아무것도 없습니다."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "메시지는 작업을 조정합니다. 그들은 결코 그것을 승인하거나, 서명하거나, 완료하지 않습니다. 작업은 다음 이후에만 존재합니다."
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "제안서를 검토하고 제출합니다."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1통화 및 회의"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "읽지 않은 내용"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "다음에서 작업 열기"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "제출되지 않음"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "정확한 시간에 열어보세요"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "대화"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "제안"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "메시지"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "메시지를 통해"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "귀하에게 할당된 날짜:"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "나만 할 수 있는 초안"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "읽지 않았다"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "참조"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "당신이 필요합니다"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "언급"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "최근 대화"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ops-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "2026년 11월 12일, 오전 7:05"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "읽지 않은 내용 및 다음 작업 열기 없음"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "계획"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "대화."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / 내 작업"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "과 동일한 작업, ID, 증거 및 권한"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscam"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "UPingme에서"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "대화의 작업만"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "당신의 대화에서; 각 링크는 해당 페이지로 다시 연결됩니다."
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "소스대화."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "연체0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "오늘 마감"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "SearchID, 직함, 출처 또는 담당자"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "모든 유형"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "시범회사 A(샘플)·운영"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "실행 기록, 승인된 양식 및 수동 입력, 공개 규칙이 포함된 통제 문서"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "소스 계보가 있는 하나의 스토어에서 검색 및 내보내기는 액세스 범위를 따릅니다."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "품전기록"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "운영 기록o"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "통제 문서"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "비"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "법적 보류"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "ID, 제목, 유형 검색"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "모든 상태"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "통제 문서"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "릴리스된 콘텐츠는 동결됩니다. 변경 사항은 자체 승인을 받은 새로운 개정판이며 문서 관리자가 이를 릴리스합니다."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 포장라인"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "전환"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "공개된 문서"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "개정판 1 출시"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "제어되는 SopOperations"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "버전 1개"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "소유주 릴라 메논"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "1개의 기록이 표시됨·접근 범위 밖의 기록은 계산되지 않습니다."
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "귀하에게 할당된 정확한 버전을 알아보세요. 섹션을 읽으면 진행 상황이 기록됩니다. 버전만"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "승인 또는 평가 통과를 통해 완료됩니다."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "나의 학습"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "내 과제"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "작전"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "휴무"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "알리"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "포장라인 안전"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① 할당됨"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "마감일2일·2026년 11월 15일"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · 귀하의 버전"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "수업 시작"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "프리젠테이션·안전·포장라인"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "릴라 메논이 할당함"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0of2섹션읽음"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "평가·합격100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "컨텐츠 라이브러리"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "주제"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "제품"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "제목, 주제, 제품 검색"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "모든 주제"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "모든 제품"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "내 상태"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "모두"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "플랫폼 ID 및 해당 액세스: 역할, 부서 범위, 세션, 위임 및 액세스 검토."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "인력 배치 및 가용성은 HR Master에 있습니다."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "사람"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "서비스 ID"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "회사 디렉터리가 표시됩니다. 역할, 부서 범위 및 세션이 회사에 표시됩니다."
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "관리자."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "전체10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "액티브10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "비활성"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "Q이름, 이메일, 아이디 검색"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "포장 운영자 운영"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "관리자에게 표시되는 역할"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "2026년 11월 13일, 오전 9:28"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "회사 관리자운영"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "관리자에게 역할 표시"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / 업무 대화"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "하나의 목표, 계획, 작업, 형식, 기록 또는 작업에 연결된 대화"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+신작대화"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "아이템. 객체의 상태와 버전은 항상 자체 모듈에서 나옵니다."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "알로"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "이름, 주제 또는 메시지 텍스트"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "보관됨"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "아직 업무 관련 대화가 없습니다."
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "업무 대화는 열 수 있는 하나의 개체, 즉 계획,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "목표, 작업, 양식, 기록 또는 작업 항목 —토론이 다음 단계로 진행됩니다."
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "일에."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "하나 시작하세요"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "시범회사A(예시)·운영"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "HR Master의 인력과 Machine Master의 장비에 맞춰 작업을 배치합니다."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "예약 미리보기는 절대 예약되지 않습니다. 커밋만 수행됩니다."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "일정이 필요함"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "진행 중"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "승인 대기 중"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "충돌"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "주간 타임라인"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "검색ID,제목,위치"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "프로덕션 준비 실행—2026년 11월 16일 주"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "일정"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021·2026년 11월 18일 마감·포장/밀봉"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "2026년 11월 9일 주"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "이번 주"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "이번주 채용공고 0개"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "직업"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "월"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "화"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "수요일"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "2026년 11월 9일"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "2026년 11월 10일"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "2026년 11월 11일"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / 작업공간 설정"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Workspacesettings/Channelsettings"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "채널 설정"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "주제, 읽고 게시할 수 있는 구성원 — 채널 및 업무 대화용입니다. 매"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "변경 사항은 버전이 지정되고 감사됩니다."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "채널"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "알림"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "액세스"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "보유"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "회원 - 읽기 전용"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# 작전 계획"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##운영계획"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "읽기 전용"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "소유자(VikramShah) 또는 작업 공간만"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "관리자는 이러한 설정을 변경할 수 있습니다."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "누가 읽을 수 있나요?"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "개방형 - 사람 범위 내"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "찾아서 가입할 수 있습니다."
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "메시지가 표시됩니다"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "회원 전용"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "게시할 수 있는 사람"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "모든 회원"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "주간생산"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "A공장 계획"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "회원"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "아샤 쿨카르니, 비크람"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "샤, 네하 레이어, 마야"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "라오, 아르준 메타"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "정책이력"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / 사업 목표"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / 워크플로 초안"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / 소유권"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / 공동 실행"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / 결과 검토"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "양식 / 입력 → 조건"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "휴먼 태스크 → 재확인"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "에이전트 작업 → 통합"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "테스트 → 검토 → 활성화"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "완료됐나요?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "일정"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "편차"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · 준비 체크리스트"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · 버전이 있는 워크플로"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · 활성 개정판"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · 지명된 승인자"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · 결정을 기다리는 중"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/미션&목표"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·아르준메타"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → 종료"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "캐러셀"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "슬라이드"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "조직의 모든 부분에 AI 에이전트를 활용하세요."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "UCXO의 실제 작동 모습을 확인하세요."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "다음 주 생산 계획을 준비하세요."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "플랫폼 ID, 계정 상태 및 관리자 액세스 컨텍스트가 포함된 UUsers입니다."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "계정은 UUsers에서 별도로 관리됩니다."
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    }
+  }
+}

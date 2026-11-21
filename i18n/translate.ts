@@ -1,0 +1,9 @@
+type Compiled={targets:Set<string>;templates:{pattern:RegExp;slots:string[];target:string}[];results:Map<string,string>};
+const compiled=new WeakMap<Record<string,string>,Compiled>();
+export function translateMessage(messages:Record<string,string>,text:string,strict=false):string{
+ const clean=text.replace(/\s+/g,' ').trim();let catalogue=compiled.get(messages);
+ if(!catalogue){const templates:Compiled['templates']=[];for(const[source,target]of Object.entries(messages)){if(!/\{\d+\}/.test(source))continue;const slots:string[]=[];const pattern=source.split(/(\{\d+\})/).map(part=>{if(/^\{\d+\}$/.test(part)){slots.push(part);return '(.+?)';}return part.split('').map(c=>'[](){}.*+?^$|\\'.includes(c)?'\\'+c:c).join('');}).join('');templates.push({pattern:new RegExp('^'+pattern+'$'),slots,target});}catalogue={targets:new Set(Object.values(messages)),templates,results:new Map(Object.entries(messages))};compiled.set(messages,catalogue);}
+ const known=catalogue.results.get(clean);if(known!==undefined)return text.replace(clean,()=>known);
+ for(const template of catalogue.templates){const match=clean.match(template.pattern);if(!match)continue;let result=template.target;template.slots.forEach((slot,i)=>{result=result.replace(slot,()=>translateMessage(messages,match[i+1],strict));});catalogue.results.set(clean,result);catalogue.targets.add(result);return text.replace(clean,()=>result);}
+ const invariant=['UCXO.AI','UCXO.ai','Engine Planner','UDashview','UPingme','UApprove','URecords','UTraining','USpace','UMaster','UForms','U-Engine','UEngine','U&Me','UCXO','UDO','AM','UX'].reduce((s,brand)=>s.split(brand).join(''),clean);if(strict&&/[A-Za-z]{2}/.test(invariant)&&!/^([A-Z]{1,6}-?\d+|v\d+)$/.test(clean)&&!catalogue.targets.has(clean)&&!/^([\w.+-]+@[\w.-]+\.[A-Za-z]+|(?:https?:|mailto:).*)$/.test(clean))throw new Error('Uncatalogued public message: '+clean);return text;
+}

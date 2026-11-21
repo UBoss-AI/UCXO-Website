@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "สวัสดีทีมงาน UCXO"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "ฉันต้องการจัดเตรียมการสาธิตของ UCXO"
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "สิ่งที่ฉันต้องการบรรลุ:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "ฉันต้องการพูดคุยเรื่องนี้ในระหว่างการสาธิต"
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "ขอบคุณ"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "ขอการสาธิต UCXO"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "ทำเครื่องหมายในช่องแล้ว"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "จำเป็น"
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "ข้อมูลการติดต่อและรายละเอียดบริษัทของคุณ"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "ชื่อ"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "นามสกุล"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "อีเมล์ที่ทำงาน"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "บริษัท"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "ชื่อบริษัท"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "ชื่องาน"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "บทบาทของคุณ"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "ขนาดของบริษัท"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "เลือกขนาดทีม"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "ประเทศ"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "ประเทศของคุณ"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "คุณอยากจะประสบความสำเร็จอะไร?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "ไม่จำเป็น"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "ขั้นตอนการทำงานที่ต้องปรับปรุง เป้าหมายที่ต้องบรรลุ หรือความท้าทายในการแก้ไข..."
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "ปล่อยว่างไว้"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "เราจะใช้รายละเอียดของคุณเพื่อตอบสนองต่อคำขอสาธิตของคุณ โปรดหลีกเลี่ยงการรวมข้อมูลที่เป็นความลับ"
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "ขอการสาธิตของฉัน"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "เปิดแอปอีเมลโดยกรอกรายละเอียดไว้ล่วงหน้า"
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "การดำเนินธุรกิจประสานงาน"
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "แพลตฟอร์ม"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "มันทำงานอย่างไร"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "กรณีการใช้งาน"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "การกำกับดูแล"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "กลับไปด้านบน"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. สงวนลิขสิทธิ์."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "นำโดยมนุษย์ ขับเคลื่อนด้วย AI รับผิดชอบตามการออกแบบ"
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO บ้าน"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "เปิดการนำทาง"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "การนำทางหลัก"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "จองการสาธิต"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "เข้าสู่ระบบ"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "ปิดเมนู"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "เปิดเมนู"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / ภาพประกอบ"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "ตัวหนา 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "ขั้นตอนการทำงาน"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "ขั้นตอนที่เชื่อมต่อกัน"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "ความเป็นเจ้าของ"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "ผู้คน + ตัวแทนเครื่องยนต์"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "การตรวจสอบโดยมนุษย์"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "จำเป็น / กำลังรอ"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "เก็บรักษาไว้ในที่ที่จำเป็น"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "กำหนดวัตถุประสงค์"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "เริ่มต้นด้วยผลลัพธ์"
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "ระบุผลลัพธ์และใครเป็นเจ้าของ"
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "ประสานงานแผนความพร้อมในการผลิต"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "วัตถุประสงค์และบริบททางธุรกิจ"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "ความเป็นเจ้าของขององค์กร"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "ผลลัพธ์ที่ต้องการ"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "ตรวจสอบขั้นตอนการทำงาน"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "จัดทำแผนให้ชัดเจน"
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "ตรวจสอบขั้นตอน การขึ้นต่อกัน และการอนุมัติที่จำเป็น"
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "ทบทวนแผนปฏิบัติการที่นำเสนอ"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Human tasks & AI agents"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "การพึ่งพาและการส่งมอบ"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Required approval gates"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Approve & assign"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "ใส่ความเป็นเจ้าของในสถานที่"
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "อนุมัติแผนและมอบหมายแต่ละงานให้กับเจ้าของแผน"
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "อนุมัติแผนและมอบหมายให้เจ้าของ"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "เจ้าของงานที่รับผิดชอบ"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "ความสามารถของตัวแทนที่ได้รับอนุมัติ"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "ความรับผิดชอบในการตรวจสอบโดยมนุษย์"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "ดำเนินการ"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "ให้งานเชื่อมต่อกัน"
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine ปฏิบัติตามแผนและแจ้งปัญหาเพื่อตรวจสอบ"
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "ตรวจสอบงาน การรัน และการส่งมอบ"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "การดำเนินการที่คำนึงถึงการพึ่งพา"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "การทำงานของเอเจนต์ที่ได้รับการตรวจสอบ"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "การยกระดับข้อยกเว้น"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "ตรวจสอบผลลัพธ์"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "ปิดวง."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "เปรียบเทียบผลลัพธ์และหลักฐานกับเป้าหมายเดิม"
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "ตรวจสอบผลลัพธ์พร้อมหลักฐาน"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "หลักฐานงานและการอนุมัติ"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "ประวัติการดำเนินการของตัวแทน"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "การทบทวนผลลัพธ์"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "การเดินทาง UCXO"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "ลูกศรขวา"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "ลูกศรซ้าย"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "บ้าน"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "สิ้นสุด"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "เริ่มต้นการเดินทางอีกครั้ง"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "ขั้นตอนต่อไป"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "ขั้นตอนการทำงานเชิงภาพประกอบ"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "เชื่อมต่อกับวัตถุประสงค์ทางธุรกิจของคุณ"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "พันธมิตรของเรา"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "โลโก้พันธมิตรต่อ"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "หยุดโลโก้พันธมิตรชั่วคราว"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO พันธมิตร"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "จุดเริ่มต้นของคุณ"
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "ดูภาพใหญ่."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "บริบทของบริษัท ขอบเขตแผนก และมุมมองพื้นที่ทำงาน"
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "ภาพรวมพื้นที่ทำงาน"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "บริบทของแผนก"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "โมดูลที่เชื่อมต่อ"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview พร้อมบริบทของบริษัทและแผนก แท็บภาพรวมและกิจกรรม และแผนที่พื้นที่ทำงานที่มองเห็นได้"
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "แผนที่แดชบอร์ดยังคงอยู่ด้านล่างการจับ PDF การแสดงตัวอย่างนี้จะรักษาหน้าจอที่มองเห็นได้ชัดเจน มันไม่ได้สร้างส่วนที่ขาดหายไป"
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "งานของคุณ"
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "การตัดสินใจของคุณ"
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "ใช้ UDO สำหรับการมอบหมายงาน และ UApprove สำหรับคำขออนุมัติ"
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · งานของฉัน"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "มอบหมายให้ฉัน / โดยฉัน"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · การตัดสินใจของมนุษย์"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO งานของฉันที่มีแท็บการมอบหมาย ตัวกรองสถานะงาน การค้นหา และสถานะว่างเปล่าดั้งเดิม"
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove พร้อมกำลังรอฉัน, ร้องขอโดยฉัน, ข้อยกเว้นและตัวกรองที่ตัดสินใจ และสถานะว่างเปล่าดั้งเดิม"
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "ทำงานทุกวัน."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "ในที่เดียว"
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "แบบฟอร์ม บันทึก การดำเนินขั้นตอนการทำงาน และการฝึกอบรม"
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "แบบฟอร์มและบันทึก"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · เวิร์กโฟลว์ทำงาน"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "การเรียนรู้ที่ได้รับมอบหมาย"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms แสดงรายการตรวจสอบความพร้อมในการผลิตที่เผยแพร่ เวอร์ชัน ฟิลด์ และเวิร์กโฟลว์ที่เชื่อมโยง"
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords แสดง SOP ที่ควบคุมการเปลี่ยนแปลงสายการผลิตบรรจุภัณฑ์ที่เผยแพร่แล้วและการแก้ไข"
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "หน้าจอ UEngine Runs ดั้งเดิม โดยคงป้ายกำกับ UI ที่แน่นอนไว้และสถานะยังไม่มีการรัน"
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining แสดงบทเรียนด้านความปลอดภัยของสายการบรรจุที่ได้รับมอบหมาย ความคืบหน้า และข้อกำหนดในการประเมิน"
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "จัดตั้งธุรกิจ."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "วางแผนการทำงาน."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "วัตถุประสงค์ ทรัพยากร การออกแบบขั้นตอนการทำงาน และการเข้าถึง"
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "วัตถุประสงค์และการวางแผน"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "คนและอุปกรณ์"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "เทมเพลตและการเข้าถึง"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner พร้อมร่างแผนความพร้อมในการผลิต ความพร้อม 4/8 ชื่อเจ้าของและผู้อนุมัติ และสถานะไม่ใช้งาน"
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "ภารกิจและวัตถุประสงค์"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "ภารกิจและวัตถุประสงค์ที่แสดงภารกิจการปฏิบัติงานที่เชื่อถือได้และมีหลักฐานและตัวกรองวัตถุประสงค์"
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "ผู้วางแผนการทำงาน"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "ผู้วางแผนงานพร้อมการนับกำหนดการ รายการงานความพร้อมในการผลิต และไทม์ไลน์สัปดาห์"
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "ปริญญาโททรัพยากรบุคคล"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "ปริญญาโทด้านทรัพยากรบุคคลพร้อมด้วยบุคลากร บทบาท ทักษะ ปฏิทินการทำงาน และความมุ่งมั่น"
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "มาสเตอร์เครื่อง"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Machine Master พร้อมอุปกรณ์ ความจุ ชั่วโมงการทำงาน และการจอง"
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "ปริญญาโทแบบฟอร์ม"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Forms Master พร้อมด้วยรายการตรวจสอบความพร้อมในการผลิตเวอร์ชันที่เผยแพร่และไม่เปลี่ยนรูป"
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "อาจารย์คณะผู้แทน"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "หัวหน้าคณะผู้แทนพร้อมประกาศแจ้งการตัดสินใจที่จำเป็นดั้งเดิมและการทดแทนการอนุมัติตามกำหนดเวลา"
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "การสนทนากับการทำงานในบริบท"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "เก็บบทสนทนา"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "ใกล้กับที่ทำงาน"
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "ค้นหาการสนทนาของคุณ ประสานงานในช่องทางของทีม และเชื่อมโยงการสนทนากับงานที่พวกเขาเกี่ยวข้อง ตรวจสอบและส่งข้อเสนองานแล้ว เชื่อมต่อกลับไปที่ UDO"
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "กล่องจดหมายและการกล่าวถึง"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "ช่องทีมงาน"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "การสนทนาที่เกี่ยวข้องกับงาน"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "กล่องจดหมาย"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme กล่องจดหมายพร้อมตัวกรองการสนทนาและการสนทนาที่ยังไม่ได้อ่านตามแผนปฏิบัติการดั้งเดิม"
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme ช่องของทีมที่แสดงการวางแผนปฏิบัติการและช่องประกาศโรงงานทั่วทั้งบริษัท"
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "บทสนทนาเรื่องงาน"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme การสนทนาเรื่องงานด้วยสถานะว่างเปล่าดั้งเดิมและคำอธิบายของลิงก์งาน-วัตถุ"
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "ภาพรวมการสนทนา"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview พร้อมการสนทนาที่ยังไม่ได้อ่าน การกล่าวถึง งาน และจำนวนข้อเสนอที่ยังไม่ได้ส่ง"
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "การดำเนินธุรกิจที่ขับเคลื่อนด้วย AI"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "เปลี่ยน SOP ให้เป็นขั้นตอนการทำงาน มอบหมายความรับผิดชอบ ติดตามเสร็จสิ้น"
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "ธุรกิจของคุณดำเนินไป คุณอยู่ในการควบคุม"
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI คือการดำเนินธุรกิจที่ขับเคลื่อนด้วย AI เปลี่ยน SOP ให้เป็นขั้นตอนการทำงาน มอบหมายความรับผิดชอบ ติดตามเสร็จสิ้น ธุรกิจของคุณดำเนินไป คุณอยู่ในการควบคุม"
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "ภาพรวมพื้นที่ทำงานของคุณ"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. จุดเริ่มต้นของคุณ พบบริษัทของคุณ เลือกแผนก และเปิดโมดูลที่คุณต้องการ"
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "มุมมองและขอบเขตของแผนก"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "ใช้ภาพรวมเพื่อดูอย่างรวดเร็ว หรือใช้กิจกรรมเพื่อติดตามการอัปเดต ตัวควบคุมมุมมองนำเสนอแผนที่ การ์ด กระดาน และรายการ"
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. งานและการอนุมัติของคุณ UDO แสดงงานที่มอบหมายให้คุณ"
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "การมอบหมาย สถานะ และการค้นหา"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "กรองตามสถานะ ค้นหางาน หรือตรวจสอบงานที่คุณมอบหมายให้บุคคลอื่น"
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · คิวการตัดสินใจของคุณ"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "เปิด UApprove เพื่อตรวจสอบคำขอที่รอการตัดสินใจของคุณ อนุมัติ คืน หรือปฏิเสธงาน"
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · แบบฟอร์มที่เผยแพร่"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. ที่คุณทำงาน. กรอกแบบฟอร์มที่เผยแพร่ใน UForms และติดตามการส่งของคุณ"
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · หลักฐานและเอกสาร"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords จัดเก็บเอกสารและหลักฐานพร้อมรายละเอียดการแก้ไขและการอนุมัติ"
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine แสดงการรันเวิร์กโฟลว์ ความคืบหน้า และข้อยกเว้น ตัวอย่างนี้ยังไม่มีการดำเนินการ"
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · การเรียนรู้ที่ได้รับมอบหมาย"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining รวบรวมบทเรียนที่ได้รับมอบหมาย วันครบกำหนด และการประเมินผลไว้ด้วยกัน"
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. กำหนดวิธีการทำงานของธุรกิจของคุณ เริ่มต้นด้วยภารกิจและวัตถุประสงค์เพื่อกำหนดเป้าหมายและเจ้าของ"
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner จัดตารางเวลางานให้กับผู้คนและอุปกรณ์ที่พวกเขาต้องการ"
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner กำหนดเวิร์กโฟลว์ ทดสอบ รับการอนุมัติ และเปิดใช้งานก่อนดำเนินการ"
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master จัดการบทบาท ทักษะ และความพร้อมของพนักงาน"
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master จัดการความจุของอุปกรณ์ ความพร้อมใช้งาน และการบำรุงรักษา"
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master สร้างและเผยแพร่เทมเพลตที่ทีมของคุณกรอกใน UForms"
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Delegation Master กำหนดว่าใครสามารถรับช่วงต่องานหรือการอนุมัติได้ และใช้เวลานานเท่าใด"
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers จัดการบัญชีผู้ใช้ บทบาท และสิทธิ์การเข้าถึง"
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "สำรวจภาพรวมการสนทนา กล่องขาเข้า งานที่ใช้ร่วมกัน ช่องทาง ผู้คน และการตั้งค่าพื้นที่ทำงาน"
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "ภาพรวมการสนทนาของคุณ"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme มีภาพรวมการสนทนาของตัวเอง โดยรวบรวมการกล่าวถึงที่ยังไม่ได้อ่าน การสนทนาที่ยังไม่ได้อ่าน งานที่เปิดอยู่จากการสนทนา และข้อเสนอที่ยังไม่ได้ส่ง พร้อมลิงก์กลับไปยังงานที่เกี่ยวข้อง"
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "เลือกกล่องจดหมายเพื่อค้นหาการสนทนาของคุณ กรองการสนทนาที่ยังไม่ได้อ่าน ข้อความส่วนตัว การกล่าวถึง และกิจกรรมแยกจากกัน ตัวอย่างแสดงช่องทางของทีมวางแผนปฏิบัติการและการสนทนาที่ยังไม่ได้อ่าน"
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · งานที่ใช้ร่วมกัน"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "เลือก UDO เพื่อดูที่เก็บงานเดียวกันกับที่ UCXO ใช้ งานการสนทนาจะลิงก์กลับไปยังแหล่งที่มา ข้อเสนอข้อความจะกลายเป็นงานหลังจากที่ได้รับการตรวจทานและส่งแล้วเท่านั้น"
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "เลือกช่องของทีมเพื่อดูช่องของคุณ เปิดช่องที่คุณสามารถเข้าร่วม และช่องที่เก็บถาวร ช่องส่วนตัวจะปรากฏเฉพาะสมาชิกเท่านั้น กลุ่มตัวอย่างแยกการวางแผนปฏิบัติการออกจากประกาศโรงงานทั่วทั้งบริษัท"
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "เลือก การสนทนาเกี่ยวกับงาน เพื่อให้การสนทนาเชื่อมโยงกับวัตถุประสงค์ แผน งาน แบบฟอร์ม บันทึก หรือรายการงาน สถานะและเวอร์ชันยังคงมาจากโมดูลของออบเจ็กต์เอง"
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "การโทรและการประชุม · สถานะปัจจุบัน"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "การโทรและการประชุมสามารถมองเห็นได้ในการนำทาง แต่บิลด์ที่ให้มาไม่มีผู้ให้บริการการโทร หน้าจอนี้อธิบายว่าการโทร การกำหนดเวลา การบันทึก และการถอดเสียงยังไม่พร้อมใช้งานในขณะนี้"
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "ไดเร็กทอรีบุคคล"
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "การตั้งค่าพื้นที่ทำงาน"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "เลือกการตั้งค่าพื้นที่ทำงานสำหรับหัวข้อช่อง การเป็นสมาชิก สิทธิ์การอ่านและการโพสต์ และประวัตินโยบาย ผู้ใช้ตัวอย่างมีสิทธิ์เข้าถึงแบบอ่านอย่างเดียว งานประสานงานข้อความ พวกเขาไม่อนุมัติหรือทำให้เสร็จสิ้น"
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "หน้าจอซอฟต์แวร์ต้นฉบับ"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "ดูแบบเต็มหน้าจอ"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "ตรวจสอบหน้าจอเดิม"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "แตะที่หน้าจอเพื่อตรวจสอบขนาดเต็ม"
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "หน้า PDF"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "เค้าโครง ป้ายกำกับ ข้อมูล และสถานะดั้งเดิม"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "หมายเหตุอ้างอิง:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "ซอฟต์แวร์ UCXO ดั้งเดิม · หน้า PDF"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "พอดีกับหน้าต่าง"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "ขนาดจริง"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "ปิดตัวอย่างหน้าจอ"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "ภาพรวมและการนำทาง"
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "งานและการอนุมัติ"
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "เครื่องมือประจำวัน"
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "การตั้งค่าธุรกิจ"
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "ข้อผิดพลาดในการยกเลิก"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "เลือกเล่นเพื่อบรรยายต่อ"
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO การสาธิตผลิตภัณฑ์พร้อมคำแนะนำสี่ส่วน"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "ไม่สามารถโหลดคำบรรยายได้ เลือกเล่นพร้อมคำบรรยายเพื่อลองอีกครั้ง"
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "ทัวร์ชมผลิตภัณฑ์ UCXO"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "บทนำ"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "เล่นซ้ำพร้อมคำบรรยาย"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "บรรยายต่อ"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "ปิดเสียงบรรยาย"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "เล่นพร้อมเสียงบรรยาย"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "พื้นที่ทำงานของคุณเชื่อมต่อกัน"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "ส่วนสาธิตผลิตภัณฑ์สี่ส่วน"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "ลูกศรลง"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "ลูกศรขึ้น"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "·การสาธิตพร้อมคำแนะนำ"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "หยุดบรรยาย"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "พอดีหน้าจอ"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "โฟกัสมุมมอง"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "ขยายการสาธิตพร้อมคำแนะนำ"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "เล่นทัวร์ซ้ำ"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "เล่นการสาธิตพร้อมคำแนะนำ"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "หยุดการสาธิตพร้อมคำแนะนำชั่วคราว"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "เล่นซ้ำส่วนนี้"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "ปิดเสียงบรรยายการสาธิต"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "เปิดใช้งานคำบรรยายสาธิต"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "ความคืบหน้าของส่วนสาธิต"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "ทัวร์เสร็จสมบูรณ์"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "การเล่นคำบรรยาย"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "หยุดคำบรรยายชั่วคราว"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "ปิดคำบรรยาย"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "ขยาย UCXO การสาธิตแบบมีคำแนะนำ"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "ปิดการแสดงตัวอย่าง"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "เล่นการสาธิต"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "หยุดการสาธิตชั่วคราว"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "ภาพรวม"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "กิจกรรม"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ แผนที่พื้นที่ทำงาน"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ การ์ด"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇คณะกรรมการ"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ รายการ"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "แผนก"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "ทั้งหมดนี้อยู่ในขอบเขตของฉัน⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ บริษัทนำร่อง A (ตัวอย่าง)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ การดำเนินงาน"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "ดีใจที่ได้พบคุณ อรชุน (โอเปอเรเตอร์) ทุกโมดูลที่คุณสามารถเปิดได้จะมีขนาดประมาณ UCXO โดยมีรูปเดียว การ์ดแต่ละใบจะเปิดสิ่งที่นับได้อย่างแน่นอน"
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ รีเฟรช 09:29 น"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ รีเฟรช"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "บริษัทนำร่อง A (ตัวอย่าง)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "แผนกของคุณ: ฝ่ายปฏิบัติการ"
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "สถานที่ซึ่งมีการจัดเตรียมและดำเนินการงาน"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "ภารกิจและวัตถุประสงค์"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "ภารกิจและวัตถุประสงค์ ผู้วางแผนงาน และ Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "ความพร้อมในการผลิต"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "เริ่มต้นด้วยวัตถุประสงค์ที่ยอมรับ: เตรียมแผนการผลิตในสัปดาห์หน้า"
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "ผู้คนและความเป็นเจ้าของ"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "ผู้คนและความเป็นเจ้าของให้บริบทสำหรับงานที่มุ่งมั่น"
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "ขั้นตอนการทำงานแบบร่าง"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "เชื่อมโยงวัตถุประสงค์ งานที่มุ่งมั่น และทรัพยากรเข้ากับเวิร์กโฟลว์ที่มีเวอร์ชัน"
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "รายการตรวจสอบความพร้อม"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "บันทึกรายการตรวจสอบความพร้อมโดยใช้แบบฟอร์ม/ขั้นตอนการป้อนข้อมูล"
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "บทวิจารณ์โดยมนุษย์ที่มีชื่อ"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "บุคคลที่ระบุชื่อจะต้องอนุมัติการแก้ไขก่อนจึงจะสามารถเปิดใช้งานได้"
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "งานที่มุ่งมั่น"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "มอบหมายงานและทรัพยากรที่แผนจะประสานงาน"
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner ขั้นตอนการพิมพ์"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "การกระทำของตัวแทน"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "ตัวแทน AI · สรุปกำลังการผลิต"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "สรุปกำลังการผลิตจะดำเนินการหลังจากผ่านเงื่อนไขการเว้นรายการ"
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "แบบฟอร์ม/อินพุต"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "มนุษย์ · รายการตรวจสอบความพร้อม"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "บุคคลหนึ่งกรอกรายการตรวจสอบความพร้อมใน UForms"
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "สภาพ"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "การควบคุม · การกวาดล้างบรรทัด?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "ใช่ ดำเนินการ AI ต่อไป ไม่มีเส้นทางไปสู่งานของมนุษย์เพื่อแก้ไขปัญหา"
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "งานของมนุษย์"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "มนุษย์ · แก้ไขความเบี่ยงเบน"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "แก้ไขค่าเบี่ยงเบนระยะห่างใน UDO จากนั้นตรวจสอบแบบฟอร์มอีกครั้งสูงสุดสามครั้ง"
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "บูรณาการ"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "ระบบ · กำหนดการ ERP"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "อัปเดตกำหนดการ ERP หลังจากสรุปกำลังการผลิต การซิงค์ล้มเหลวตามเส้นทางการแจ้งเตือน"
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "การอนุมัติ"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "มนุษย์ · การตรวจสอบการเผยแพร่"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "หัวหน้าฝ่ายปฏิบัติการที่มีชื่ออนุมัติการเปิดตัวใน UApprove"
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "บันทึกเอาท์พุท"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "ระบบ · แผนได้รับการอนุมัติ"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "แผนการผลิตที่ได้รับอนุมัติจะยังคงอยู่จนถึง URecords"
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "การควบคุม"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "ดำเนินการเส้นทางเวิร์กโฟลว์ที่กำหนดค่าไว้ให้เสร็จสมบูรณ์"
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine การดำเนินการและการฟื้นฟูมนุษย์ใน UDO"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "ผู้รับผิดชอบจะได้รับและทำงานกู้คืนที่ได้รับมอบหมายให้เสร็จสิ้นใน UDO"
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "สรุปกำลังการผลิตสามารถทำงานได้เมื่อผ่านเงื่อนไขการเคลียร์รายการเท่านั้น"
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "การเผยแพร่จะรอผู้อนุมัติที่ระบุชื่อ U-Engine ไม่สามารถตัดสินใจได้"
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "ไม่มีเส้นทางไป UDO และกลับสู่รายการตรวจสอบความพร้อม ใช่ ดำเนินการ AI ต่อไป"
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "การรวมจะอัปเดตกำหนดการ ERP ก่อนที่จะอนุมัติการเปิดตัว"
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords และการกู้คืนการแจ้งเตือน"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "หัวหน้าฝ่ายปฏิบัติการที่ระบุชื่อจะตรวจสอบหลักฐานและตัดสินใจว่าจะอนุมัติการปล่อยตัวหรือไม่"
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "ระบบ · บันทึกเอาต์พุต"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "รักษาแผนการผลิตที่ได้รับอนุมัติและบันทึกสนับสนุน"
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "การแก้ไขที่ดำเนินการอยู่ได้รับการอนุมัติ"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "เฉพาะการแก้ไขที่ผ่านการทดสอบ ทบทวน อนุมัติ และเปิดใช้งานแล้วเท่านั้นที่สามารถเริ่มดำเนินการได้"
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "ระบบ · การซิงค์ล้มเหลว"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "การซิงค์ ERP ที่ล้มเหลวจะเป็นไปตามเส้นทางการแจ้งเตือนที่กำหนดค่าไว้"
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "การแจ้งเตือน"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "ระบบ · แจ้งเตือนผู้วางแผน"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "แจ้งผู้วางแผนที่รับผิดชอบเกี่ยวกับความล้มเหลวในการซิงค์ ERP UPingme เชื่อมต่อการสนทนา"
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "เส้นทางบันทึกที่ได้รับอนุมัติและเส้นทางการกู้คืนการแจ้งเตือนแต่ละจุดสิ้นสุด"
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "แชท · เตือน · ยกระดับ"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "การสนทนา การเตือน และการยกระดับไปถึงผู้รับผิดชอบที่นี่ การอนุมัติยังคงอยู่ใน UApprove"
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "กำหนดและวางแผน"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "วัตถุประสงค์ แผนเวอร์ชัน"
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Mission & Objectives เชื่อมโยงงานที่มุ่งมั่นและทรัพยากรผ่าน Work Planner และ Engine Planner"
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "เริ่มต้นด้วยวัตถุประสงค์: เตรียมแผนการผลิตในสัปดาห์หน้า"
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "เชื่อมโยงผู้คนและงานที่มุ่งมั่นผ่าน HR Master และ Work Planner"
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms รวบรวมรายการตรวจสอบความพร้อม"
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner เชื่อมโยงวัตถุประสงค์และทรัพยากรเข้ากับเวิร์กโฟลว์ที่มีเวอร์ชัน"
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "ทดสอบ ทบทวน เปิดใช้งาน"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "ขั้นตอนที่พิมพ์ การปล่อยแบบควบคุม"
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "ตรวจสอบพื้นที่เวิร์กโฟลว์ ทดสอบ และดำเนินการตรวจสอบความพร้อมให้เสร็จสิ้นก่อนที่จะมีการอนุมัติและเปิดใช้งานโดยมนุษย์"
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "เวิร์กโฟลว์เริ่มต้นด้วยแบบฟอร์มและเงื่อนไขการเคลียร์รายการ"
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "หากการกวาดล้างล้มเหลว งานของมนุษย์จะแก้ไขส่วนเบี่ยงเบนและตรวจสอบแบบฟอร์มอีกครั้ง"
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "หากผ่านไป การดำเนินการของ AI จะเตรียมสรุปกำลังการผลิต จากนั้นการรวมจะอัปเดตกำหนดการ"
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "ทดสอบ ทบทวน อนุมัติ และเปิดใช้งานการแก้ไขก่อนที่ U-Engine จะเริ่มต้นการดำเนินการ"
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "ดำเนินการและกู้คืน"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine วิ่ง ผู้คนยังคงมีส่วนร่วม"
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "เวิร์กโฟลว์ที่ได้รับอนุมัติจะเป็นไปตามเส้นทางที่กำหนดค่าไว้ UDO ดำเนินการกู้คืนกับผู้รับผิดชอบ"
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine ติดตามการแก้ไขที่ใช้งานอยู่และเส้นทางเงื่อนไข"
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "สรุปกำลังการผลิตจะทำงานหลังจากที่ผ่านช่องว่างแล้วเท่านั้น"
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "ผู้คนจะได้รับและทำงานกู้คืนที่ได้รับมอบหมายให้เสร็จสิ้นใน UDO"
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "การรวมจะอัปเดตกำหนดการหรือติดตามเส้นทางความล้มเหลว"
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "การเผยแพร่จะรอผู้อนุมัติที่เป็นมนุษย์ซึ่งมีชื่ออยู่ใน UApprove"
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "อนุมัติและบันทึก"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "การอนุมัติของมนุษย์ บันทึกที่เชื่อมต่อ"
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove เก็บการตัดสินใจด้วยคน URecords คงแผนไว้ UPingme เชื่อมต่อการสนทนา"
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "การรวมที่ล้มเหลวจะแจ้งผู้วางแผนที่รับผิดชอบ UPingme เชื่อมต่อการสนทนา"
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "การอนุมัติการเผยแพร่ยังคงเป็นของบุคคลที่มีชื่อใน UApprove"
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "ผู้อนุมัติจะตรวจสอบหลักฐานและตัดสินใจ"
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "หลังจากได้รับการอนุมัติ URecords ยังคงแผนการผลิตไว้และขั้นตอนการทำงานจะสิ้นสุด"
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. การดำเนินธุรกิจประสานงาน"
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "ภารกิจและวัตถุประสงค์"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR MASTER · นักวางแผนงาน"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · การฟื้นฟูของมนุษย์"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "การบูรณาการ · กำหนดการ ERP"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "การแจ้งเตือน · ผู้วางแผนที่รับผิดชอบ"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "บันทึกการตัดสินใจของมนุษย์แล้ว"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "ผลลัพธ์เชื่อมโยงกับวัตถุประสงค์"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "กำลังเตรียมขั้นตอนการทำงาน..."
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "ไม่อนุญาตข้อผิดพลาด"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "เบราว์เซอร์ของคุณหยุดคำบรรยายชั่วคราว เลือกเล่นคำบรรยายเพื่อเริ่มต้น"
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "ไม่สามารถเริ่มคำบรรยายได้ เลือกเล่นคำบรรยายเพื่อลองอีกครั้ง"
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "UCXO ทำงานอย่างไร"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "อินพุต"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "ปุ่ม"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "ไม่สามารถโหลดคำบรรยายได้ เลือกเล่นคำบรรยายเพื่อลองอีกครั้ง"
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "UCXO ทำงานอย่างไร"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "วัตถุประสงค์เดียว เรื่องราวที่เชื่อมโยงกัน"
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "เตรียมสัปดาห์หน้า"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "ฟังคำอธิบาย"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "เล่นบรรยาย"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "เปิดเสียง · ปิดเสียง"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "กำลังเริ่มบรรยาย..."
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "เล่นคำอธิบาย"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "หยุดอธิบายชั่วคราว"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "เล่นซ้ำบท"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "เปิดใช้งานเสียง"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "ปิดเสียง"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "ความคืบหน้าของบท"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "ภาพยนตร์บท"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "การบรรยาย · ปิดเสียง"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "คำบรรยาย · การเล่น"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "คำบรรยาย · ไม่พร้อมใช้งาน"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "คำบรรยาย · แตะเล่น"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "คำบรรยาย · หยุดชั่วคราว"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "คำบรรยาย · กำลังโหลด"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "เลือกบท"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "เล่นภาพเคลื่อนไหว"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "มนุษย์"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "ตัวแทนเอไอ"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "ระบบ"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "การควบคุม"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "ผู้วางแผนเริ่มต้นขึ้น"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "วิ่งพร้อม"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "ทริกเกอร์"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "รายการตรวจสอบความพร้อม"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "การกวาดล้างบรรทัด"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "สรุปความจุ"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "อัปเดตแซนด์บ็อกซ์ ERP"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "หัวหน้าฝ่ายปฏิบัติการ"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "อนุมัติการปล่อย"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "ได้รับการอนุมัติการผลิต"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "บันทึกแผน"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "เคลียร์เคลียร์"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "แจ้งผู้วางแผนระบบ ERP"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "การซิงค์ล้มเหลว"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "ใช่"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "ไม่"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "ตรวจสอบอีกครั้ง (สูงสุด 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "เอาต์พุตไม่ถูกต้อง"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "การซิงค์ล้มเหลว"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "อนุมัติแล้ว"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "ถูกปฏิเสธ/ส่งคืน"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner เวิร์กโฟลว์แคนวาส"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "ผืนผ้าใบเวิร์กโฟลว์"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "ร่าง v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "ภาพประกอบ"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "ผ้าใบ"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "ขั้นตอนการสั่งซื้อ"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "ขั้นตอนการทำงานที่พิมพ์"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "ซูมเข้าขั้นตอนการทำงาน"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "ซูมออกขั้นตอนการทำงาน"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "ปรับเวิร์กโฟลว์ทั้งหมดเพื่อดู"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "การดำเนินการ"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "การตัดสินใจ·การฟื้นตัว"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "ใช่ → สรุปความจุ · ไม่ใช่ → แก้ไขค่าเบี่ยงเบนระยะห่าง"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "ตรวจสอบรายการตรวจสอบความพร้อมอีกครั้ง (สูงสุด 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "การซิงค์ล้มเหลว → แจ้งผู้วางแผน"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "ขั้นตอนการทำงานเพื่อความพร้อมในการผลิตพร้อมสาขาการอนุมัติและการกู้คืน"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "เข้า"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "แผนเตรียมความพร้อมการผลิตสัปดาห์หน้า"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "บันทึกการอนุมัติภาพประกอบ"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "ต้องได้รับการอนุมัติจากมนุษย์"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "จองการสาธิต — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "ดูว่า UCXO เชื่อมโยงวัตถุประสงค์ ผู้คน และบุคลากร AI ของคุณอย่างไร บอกเราเกี่ยวกับธุรกิจของคุณและขอการสาธิตส่วนตัว"
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "จองการสาธิต"
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "สำหรับทีมของคุณ"
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "ดู UCXO พร้อมขั้นตอนการทำงานจากธุรกิจของคุณ"
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "วัตถุประสงค์ของคุณ"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "ผู้คน + เอไอ"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "ผลลัพธ์"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "สิ่งที่คาดหวัง"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "เริ่มต้นด้วยเป้าหมายของคุณ"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "บอกเราว่างานติดขัดตรงไหน"
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "สำรวจความเป็นไปได้"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "เดินผ่านเครื่องมือที่เกี่ยวข้องกับทีมของคุณ"
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "ค้นหาขั้นตอนต่อไปของคุณ"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "ตัดสินใจว่า UCXO ตรงกับความต้องการของคุณหรือไม่"
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "ต้องการอีเมลไหม?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "การสาธิตส่วนบุคคล"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "รายละเอียดของคุณ"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "บอกเราเล็กน้อยเกี่ยวกับทีมของคุณ"
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "ตัวอย่างหน้าแรกสี่รายการ — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "กลับไปที่เว็บไซต์"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "ม้าหมุนหน้าแรก · การตรวจสอบการออกแบบในท้องถิ่น"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "พื้นที่ทำงานแห่งหนึ่ง"
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "สี่วิธีในการก้าวไปข้างหน้า"
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "การ์ดหน้าแรกที่เสนอสี่ใบ หน้าจอซอฟต์แวร์จริง คำอธิบายที่ชัดเจน และดูแต่ละส่วนของ UCXO อย่างละเอียด"
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "หน้าจอต้นฉบับจาก PDF การออกแบบของคุณ"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "การแสดงตัวอย่างแบบคงที่สำหรับการตรวจสอบ"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "สำรวจตัวอย่างทั้งสี่รายการ"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "ตัวอย่างหน้าแรกสี่รายการ"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "ตัวอย่างแบบคงที่สี่รายการ · พร้อมสำหรับการตรวจสอบของคุณ"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "ซอฟต์แวร์นำไปสู่"
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "เรื่องราวทำให้ชัดเจน"
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "เลือกตัวเลือกหน้าจอใดก็ได้เพื่อตรวจสอบโมดูลที่เกี่ยวข้อง เปิดหน้าจอขนาดเต็มเพื่อเปรียบเทียบกับ PDF การแสดงตัวอย่างเหล่านี้จะเก็บข้อมูลตัวอย่างดั้งเดิมและสถานะว่างเปล่าหรือแบบร่างไว้"
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "กลับไปที่ภาพรวมสี่ตัวอย่าง"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "มันทำงานอย่างไร — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "ปฏิบัติตามวัตถุประสงค์ทางธุรกิจประการหนึ่งตั้งแต่ขั้นตอนการทำงานที่เสนอไปจนถึงการอนุมัติจากมนุษย์และผลลัพธ์ที่ได้รับการตรวจสอบ"
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "จากทิศทางสู่การส่งมอบ"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "วัตถุประสงค์หนึ่ง"
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "ทุกขั้นตอนเชื่อมต่อกัน"
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "ปฏิบัติตามแผนความพร้อมในการผลิตที่เป็นภาพประกอบ"
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "ผู้คนยังคงรักษาการตัดสินใจที่จำเป็นต้องมีวิจารณญาณของมนุษย์"
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "การดำเนินธุรกิจ"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "นำวัตถุประสงค์ ผู้คน และบุคลากร AI ของคุณมาไว้ในเวิร์กโฟลว์ที่ใช้ร่วมกันที่เดียว"
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "สำรวจแพลตฟอร์ม"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "ลงชื่อเข้าใช้ UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — การดำเนินธุรกิจ, การประสานงาน"
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "เปลี่ยนวัตถุประสงค์ทางธุรกิจให้เป็นการดำเนินการที่มีการประสานงาน วางแผนขั้นตอนการทำงาน เชื่อมต่อผู้คนกับตัวแทน AI และให้การดำเนินการมีความรับผิดชอบ"
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "วัตถุประสงค์ในขั้นตอนการทำงาน"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "แบ่งเป้าหมายทางธุรกิจออกเป็นขั้นตอน การพึ่งพา และเจ้าของ"
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "วางแผนการทำงาน"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "กำหนดงาน เงื่อนไข การรวม และเส้นทางการอนุมัติในเวิร์กโฟลว์ที่มีเวอร์ชัน"
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "ออกแบบขั้นตอนการทำงาน"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO งานที่ได้รับมอบหมาย"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "ให้แต่ละงานมีผู้รับผิดชอบและมีสถานะที่ชัดเจน"
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "มอบหมายความรับผิดชอบ"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "ความพร้อมของขั้นตอนการทำงาน"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "ทดสอบการแก้ไขและดำเนินการตรวจสอบให้เสร็จสิ้นก่อนการอนุมัติและการเปิดใช้งาน"
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "เตรียมพร้อมสำหรับการประหารชีวิต"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "AI ทั่วทั้งองค์กรของคุณ"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 — แพลตฟอร์ม"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "ทำงานด้วยตนเองน้อยลง"
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "มีเวลาให้กับทีมของคุณมากขึ้น"
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "นำตัวแทน AI มาที่"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "สร้างและประสานงานตัวแทน AI เพื่อทำให้งานประจำวันทั่วทั้งแผนกเป็นแบบอัตโนมัติ"
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "ดูตัวอย่างขั้นตอนการทำงาน"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "แฮนด์ออฟด้วยตนเองน้อยลง"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "ผู้คนและ AI ทำงานร่วมกัน"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "เคลียร์ความเป็นเจ้าของ"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "เส้นทางที่ชัดเจนจากเป้าหมายสู่ผลลัพธ์"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — มันทำงานอย่างไร"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "จากเป้าหมาย"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "เพื่อทำงานให้เสร็จ"
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "ปฏิบัติตามห้าขั้นตอนของเวิร์กโฟลว์"
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "สร้างขึ้นเพื่อการทำงานร่วมกัน"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — ความสามารถหลัก"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "เครื่องมืออยู่ข้างหลัง"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "ขั้นตอนการทำงาน"
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "วางแผน มอบหมาย ทดสอบ และดำเนินการ"
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "ระบบอัตโนมัติพร้อมความรับผิดชอบ"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "การตัดสินใจของมนุษย์"
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "ในช่วงเวลาที่เหมาะสม"
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove กำหนดเส้นทางการตัดสินใจไปยังผู้รับผิดชอบ"
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "หลักฐานก่อนอนุมัติ"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "ตรวจสอบบันทึกสนับสนุน"
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "การมองเห็นตลอดการดำเนินการ"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "ดูประวัติการวิ่งและข้อยกเว้น"
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "ล้างบทบาทและการอนุญาต"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "กำหนดบทบาทและขอบเขตของแผนก"
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "การกำกับดูแลการดำเนินการ"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "ภาพประกอบ"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "การตรวจสอบการดำเนินการเวิร์กโฟลว์"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "ประตูอนุมัติของมนุษย์"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "การตัดสินใจจะอยู่กับคุณ"
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "ตรวจสอบหลักฐานและตัดสินใจ"
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "รอการอนุมัติจากมนุษย์"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "แนบหลักฐานประกอบมาด้วย"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "ตรวจพบข้อยกเว้น"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "ส่งต่อไปยังผู้ตรวจสอบที่รับผิดชอบ"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "งานตรวจสอบไม่ได้ให้การอนุมัติจากมนุษย์"
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "สร้างมาเพื่อแนวทางการทำงานของธุรกิจ"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — กรณีการใช้งาน"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "งานจริง."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "เชื่อมต่อกันตั้งแต่ต้นจนจบ"
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "เลเยอร์การดำเนินการที่ใช้ร่วมกันสำหรับเจ้าของธุรกิจ"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "ผู้นำการปฏิบัติงานและทีมที่พวกเขาเป็นผู้นำ"
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "การดำเนินงาน"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "การประสานงานการปฏิบัติงาน"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "จัดแนวงานข้ามสายงาน เจ้าของ และการพึ่งพาตามวัตถุประสงค์ทางธุรกิจที่ใช้ร่วมกัน"
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "กำหนดแผน"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "ประสานการรับมอบ"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "งานที่ทำซ้ำได้"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "การรายงานที่เกิดซ้ำ"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "นำตัวแทน AI มาใช้ซ้ำเพื่อเตรียมงาน จากนั้นกำหนดเส้นทางผลลัพธ์และหลักฐานไปยังบุคคลที่ตรวจสอบ"
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "รวบรวมอินพุต"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "รับสมัครตัวแทน"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "การตรวจสอบโดยมนุษย์"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "การประหารชีวิตที่ถูกควบคุม"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "งานที่ได้รับการอนุมัติ"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "เชื่อมต่อหลักฐานงาน ประตูการอนุมัติโดยมนุษย์ และการจัดการข้อยกเว้นในขั้นตอนการทำงานที่มองเห็นได้เพียงขั้นตอนเดียว"
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "เก็บหลักฐาน"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "ขออนุมัติ"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "แก้ไขข้อยกเว้น"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "กรณีการใช้งานที่เป็นตัวแทน ตัวอย่างเวิร์กโฟลว์เป็นเพียงภาพประกอบ"
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "มีบางสิ่งที่ทำให้ชัดเจน"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "สร้างขึ้นเพื่อความชัดเจน"
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "UCXO คืออะไร?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO ช่วยให้ทีมเปลี่ยนขั้นตอนการทำงานให้เป็นงานที่ได้รับมอบหมายและติดตามได้กับตัวแทน AI และการอนุมัติของมนุษย์"
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Engine Planner และ U-Engine ทำงานร่วมกันอย่างไร"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner ออกแบบขั้นตอนการทำงาน U-Engine ดำเนินการแก้ไขที่ได้รับการทดสอบ อนุมัติ และเปิดใช้งานแล้ว"
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "ใครอนุมัติงาน?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "ผู้อนุมัติที่เป็นมนุษย์ซึ่งมีชื่อเป็นผู้ตัดสินใจ ตัวแทน AI ไม่สามารถให้การอนุมัติดังกล่าวได้"
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "เวิร์กโฟลว์สามารถทำงานได้เมื่อใด"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "หลังจากการตรวจสอบความพร้อม การอนุมัติจากมนุษย์ และการเปิดใช้งาน"
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "ให้วัตถุประสงค์ของคุณก้าวไปข้างหน้า"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "ดู UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "จองการสาธิตให้กับทีมของคุณ หรือดูตัวอย่างขั้นตอนการทำงาน"
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "ชมขั้นตอนการทำงาน"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "กรุณากรอกข้อมูลในช่องนี้"
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "กรุณากรอกที่อยู่อีเมลที่ถูกต้อง"
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "โปรดตรวจสอบค่านี้"
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "เสียง: อังกฤษ"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "การถอดเสียง"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "ไม่พบหน้า"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "ไม่พบหน้าที่คุณร้องขอ"
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "กลับบ้าน"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "เลือกภาษา"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "ค้นหาภาษา"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "หลบหนี"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "ภาษา"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO คำขอสาธิต — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "ชื่อ: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "อีเมลที่ทำงาน: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "บริษัท: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "ตำแหน่งงาน: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "ขนาดบริษัท: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "ประเทศ: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "บทที่ {0}: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "ขั้นตอนที่ {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} จาก {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "เรื่องราวที่สมบูรณ์ · {0} วินาที"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "ขยายหน้าจอ {0}"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "ตรวจสอบหน้าจอ {0} ดั้งเดิม"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "หน้าจอซอฟต์แวร์ {0}"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} หน้าจอซอฟต์แวร์ต้นฉบับ"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "ถัดไป · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} บทสาธิต"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0} หน้าจอซอฟต์แวร์ UCXO ดั้งเดิมพร้อมการสาธิตเคอร์เซอร์แบบมีคำแนะนำ"
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / การโทรและการประชุม"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "ค้นหา ID, ชื่อ..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "บริษัทนำร่อง A (ตัวอย่าง) · ปฏิบัติการ"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "หน้าแรก"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "การโทรและการประชุม"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "การโทรด้วยเสียงและวิดีโอ การกำหนดเวลาการประชุม การบันทึก และการถอดเสียงไม่ได้เป็นส่วนหนึ่งของโครงสร้างนี้"
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "ผู้ให้บริการโทร·ไม่มีการกำหนดค่า"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "ไม่สามารถเริ่มการโทรหรือการประชุมได้"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "ที่นี่"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "จำเป็นต้องตัดสินใจ·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "ไม่มีการควบคุมการรวม บันทึก หรือถอดเสียง"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "เพราะไม่มีอะไรจะเกิดขึ้นจริง การประชุม"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "ไม่สามารถกำหนดเวลาหรือจัดเก็บได้ - ไม่มีอยู่"
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "โทเบตัดสินใจก่อนที่จะเลิกชอบเซ็กส์จัด"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "ขณะเดียวกัน"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "การโทรและการประชุม"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "ผู้ให้บริการโทรศัพท์และข้อมูลการโทรอยู่ที่ไหน"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "บทสนทนาในการทำงาน"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "ประมวลผล"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O ใช้งานอยู่ แต่ละอันถูกผูกไว้กับวัตถุที่ถูก"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "จำเป็นต้องตัดสินใจ·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "กล่าวถึง"
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "ผู้เข้าร่วมได้รับความยินยอมก่อนใดๆ"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "ส่งข้อความถึงบุคคล"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "การบันทึกหรือการถอดเสียง"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "Directmessages ถูกสร้างขึ้นด้วยข้อความแรก"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "ข้อความ"
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "การเก็บรักษาและการเข้าถึงการบันทึก"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "เห็นด้วยกับการดำเนินการ"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "เสนองานจากข้อความ มันถึง"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "และการถอดเสียง(URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO หลังจากที่คุณตรวจสอบและส่งแล้วเท่านั้น"
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "การตั้งค่า"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "ผู้ดำเนินการ"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "อุปกรณ์เป้าหมาย จอแสดงผล และห้อง"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ อาจารย์คณะผู้แทน"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "บริษัทนำร่อง A(ตัวอย่าง)·การดำเนินงาน"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "ใครจะทำเพื่อใคร ทำอะไร และนานแค่ไหน การส่งมอบงานและผู้มีอำนาจอนุมัติ"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "การทดแทนแยกจากกัน หน่วยงานที่มีกำหนดเวลา"
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "จำเป็นต้องตัดสินใจ · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "ความหมายทางธุรกิจของการมอบหมายและการอนุญาตให้ใช้โซ่ไม่ได้ถูกกำหนดไว้ อนุรักษ์นิยม"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "ใช้ค่าเริ่มต้น: การมอบสิทธิ์ไม่เคยให้สิทธิ์มากกว่าที่ผู้มอบสิทธิ์มีอยู่ (ตรวจสอบอีกครั้งในทุก ๆ"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "การใช้งาน) เชนถูกบล็อก และการทดแทนการอนุมัติจำเป็นต้องมีผู้ดูแลระบบอิสระ"
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "เออิล"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "อยู่ระหว่างการพิจารณาอนุมัติ"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "กำหนดเวลาแล้ว"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "ใช้งานอยู่"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "หมดอายุแล้ว"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "เพิกถอนแล้ว"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "ถูกปฏิเสธ"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "ทั้งสองแบบ 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "การอนุมัติการทดแทน 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "การส่งมอบงาน 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "มีเพียงการมอบหมายที่เกี่ยวข้องกับฉันเท่านั้น"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "ถาม ค้นหาบุคคล ID เหตุผล"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6 พ.ย.-3 ธ.ค"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "ก่อนหน้านี้"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "วันนี้"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "ต่อมา"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "ใครทำเพื่อใคร"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "โรฮันดาส"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "ถ"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "กระทำการเพื่อวิกรมชาห์"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "การดำเนินงาน"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "PilotCompanyA(ตัวอย่าง)·การดำเนินงาน"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "แผนผูกวัตถุประสงค์ งานที่มุ่งมั่น และทรัพยากรที่ยอมรับเข้ากับเวิร์กโฟลว์ที่กำหนดเวอร์ชัน มันจะต้องผ่านไป"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "ความพร้อมได้รับการอนุมัติจากบุคคลที่มีชื่อและเปิดใช้งานก่อนที่จะเริ่มดำเนินการได้"
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "ร่าง"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "พร้อมสำหรับการทบทวน"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "รีวิว"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "ถาม"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "ถูกระงับ"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "รหัสการค้นหา ชื่อเรื่อง หรือวัตถุประสงค์"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 แผน"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "แผนความพร้อมในการผลิตสัปดาห์หน้า"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "วัตถุประสงค์OBJ-026·เตรียมแผนการผลิตในสัปดาห์หน้า"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "ความพร้อม 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "เวอร์ชันสด"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·draftv1·10โหนด"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "ไม่ใช้งาน"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "ผู้อนุมัติ"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "เจ้าของ"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "วิครามชาห์"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "แก้ความพร้อม"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / ปรมาจารย์แบบฟอร์ม"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "ค้นหา ID, ชื่อเรื่อง.."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ ปรมาจารย์แบบฟอร์ม"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "คำจำกัดความของแบบฟอร์มที่สร้างขึ้นตามความต้องการของแผนก เวอร์ชันที่เผยแพร่จะไม่เปลี่ยนรูป ทุกการเปลี่ยนแปลง"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "กลายเป็นฉบับร่างใหม่ที่ผู้ตรวจสอบอิสระเผยแพร่"
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "เอไอไอ"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "เผยแพร่แล้ว"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "เกษียณแล้ว"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "ทุกหน่วยงาน"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q ค้นหา ID ชื่อหรือบันทึก"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "รายการตรวจสอบความพร้อมในการผลิต"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "รายการตรวจสอบของผู้ปฏิบัติงานก่อนดำเนินการบรรจุภัณฑ์"
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "ดู"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "& เจ้าของฝ่ายปฏิบัติการ Kabir Senจัดทำรายการตรวจสอบความพร้อม"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "ผูกไว้กับPLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8fields·ไม่เปลี่ยนรูป"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "ฟอร์มมาสเตอร์"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / ปรมาจารย์ทรัพยากรบุคคล"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "บุคลากรในฐานะทรัพยากรการวางแผน: บทบาท ทักษะ ปฏิทินการทำงาน และสิ่งที่พวกเขามุ่งมั่น เข้าสู่ระบบ"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "คนและทักษะ"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "ลำดับชั้นและการจัดพนักงาน"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "บอร์ดว่าง"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "นำเข้า (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&ผู้คน"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品เมทริกซ์ทักษะ"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "ทักษะ"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "สถานะ"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "ทุกแผนกของฉัน"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "ทักษะอะไรก็ได้"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "ใช้งานอยู่และไม่ได้ใช้งาน"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "ชื่อ บทบาท หรือทักษะ"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "สุนิล วาร์มา"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "เอสวี"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "ช่างซ่อมบำรุง"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "ผู้ประกอบการบรรจุภัณฑ์"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "การบำรุงรักษา"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "ไฟฟ้า"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "บรรจุภัณฑ์"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "คุณภาพ"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "ม"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "ต"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "ว"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗ไม่มีอะไรมุ่งมั่น"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "ไม่มีบัญชีเข้าสู่ระบบ"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "เข้าสู่ระบบ: อรชุน เมห์ตา"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "มายา ราว"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "นาย"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / อินบ็อกซ์"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "ทุกการสนทนาที่คุณเป็นสมาชิกจะถูกจัดเรียงโดยคำนึงถึงความต้องการของคุณเป็นอันดับแรก"
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "มาร์กัลรีด"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "ส่งข้อความหาใครสักคน"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "อัล 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "ยังไม่ได้อ่าน"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "ข้อความโดยตรง"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "กล่าวถึง"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "ค้นหาชื่อ หัวข้อ และข้อความ"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "ยังไม่ได้อ่าน"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#การวางแผนปฏิบัติการ"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "ช่องทีม"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "12 พ.ย.2569,07:05 น"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha โปรดแก้ไขข้อขัดแย้งของWORK-021ก่อนวันที่ 13-11-2569..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / มาสเตอร์เครื่องจักร"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "อุปกรณ์ที่ทำงานสามารถกำหนดเวลาได้: อยู่ที่ไหน, ทำอะไรได้บ้าง, ชั่วโมงละเท่าไร, เมื่อใด"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "เปิดและสิ่งที่จองไว้แล้ว การจัดกำหนดการเท่านั้น — ไม่มีการควบคุมเครื่องจักร"
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "เอไอ3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "มีจำหน่าย"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "นอกการบริการ"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "ถาม ชื่อ ที่ตั้ง หรือความสามารถ"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "เครื่องพิมพ์ฉลาก 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "สายการบรรจุ 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "แพลนเอ·เบย์2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "แพลนเอ·เบย์3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 ฉลาก/ชม"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "หน่วย/ชั่วโมง"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "การติดฉลาก"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "การปิดผนึก"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "เอฟ"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "ส"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O สงวนไว้ไม่มีการวางแผนการหยุดทำงาน"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 จองแล้ว ลง 19 พ.ย. 2026"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "สายการบรรจุ 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "แพลนเอ·เบย์2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "บริษัทนำร่อง A(ตัวอย่าง)· การดำเนินงาน"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "ทุกวัตถุประสงค์ระบุผลลัพธ์ วิธีการพิสูจน์ความสำเร็จ และใครเป็นเจ้าของมัน จากนั้นการเดินทางจะผ่านไป"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "การวางแผน การอนุมัติ การดำเนินการและบันทึกกำกับ"
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "วัตถุประสงค์"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "ภารกิจ"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "ภารกิจ·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "ภารกิจและวัตถุประสงค์"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "การดำเนินงานที่เชื่อถือได้และมีหลักฐาน"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "ส่งมอบทุกความมุ่งมั่นในการผลิตตรงเวลาร่วมกับบุคลากร"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "อุปกรณ์และการตัดสินใจที่ได้รับการวางแผน อนุมัติและเป็นหลักฐาน"
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "เจ้าของAshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "มนุษย์อนุมัติการเผยแพร่"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "ทุกเอาต์พุตไม่สามารถติดตามได้"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "แผนสะท้อนให้เห็นถึงความสามารถที่แท้จริง"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "เปิดภารกิจ"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "ทั้งหมด 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "รอการตรวจสอบ"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "ได้รับการยอมรับ"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "แก้ไขแล้ว"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "รหัสการค้นหา ชื่อ หรือเจ้าของ"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "เตรียมตัว"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "ถัดไป"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "สัปดาห์"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / ไดเรกทอรีบุคคล"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "ทุกคนในบริษัทของคุณคุณสามารถส่งข้อความถึงทีมและบทบาทจาก UUsers ความพร้อมด้านทรัพยากรบุคคล"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "และรายละเอียดการเข้าถึงจะไม่แสดงที่นี่"
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "ชื่อ ตำแหน่ง หรือแผนก"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "เอไอล10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "วิศวกรรม"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "การดำเนินงาน 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "การวางแผน"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "บัญชี"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "ใดๆ (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "1 การแสดงตนไม่แสดง: UPingme ไม่มีบริการการแสดงตนแบบเรียลไทม์ สถานะคือสถานะบัญชี UUsers"
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "อรชุน เมธา (คุณ)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "อาชา กุลการ์นี"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "อลาสก้า"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1ข้อความ"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "ผู้บริหารบริษัท"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "บัญชีที่ใช้งานอยู่"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "ผู้ดูแลระบบ"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "บัญชีที่ใช้งานอยู่"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "วิคราม ชาห์"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "ข้อความ"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(ผู้อนุมัติ)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / ช่องทีม"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "ช่องที่คุณเป็นสมาชิก เปิดช่องที่คุณสามารถเข้าร่วม และช่องที่เก็บถาวร"
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "🍁ช่องใหม่"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "ช่องส่วนตัวจะมองเห็นได้เฉพาะสมาชิกเท่านั้น"
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "ชื่อช่อง หัวข้อข้อความ"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "ทั่วทั้งบริษัท"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "ช่องของคุณ"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "การวางแผนการผลิตรายสัปดาห์สำหรับโรงงาน A"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&เปิดการดำเนินงาน5สมาชิก"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "ข้อความล่าสุด 12 พ.ย. 2569,07:05 น"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "เปิดช่องคุณสามารถเข้าร่วมได้"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "##ประกาศโรงงาน"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "ประกาศทั่วทั้งบริษัทสำหรับโรงงาน ก. เฉพาะเจ้าของเท่านั้น"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "โพสต์"
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "เจ้าของทั้งบริษัท2คน Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "เจ้าของโพสต์"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "ดูตัวอย่าง"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "เข้าร่วม"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "เปิดช่องทางทีมที่ทั่วทั้งบริษัทหรือเป็นพันธมิตรในขอบเขตUPingmeของคุณ ช่องส่วนตัวถูกแสดงรายการแล้ว"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "ผู้ที่ระบุชื่อจะตัดสินใจเลือกการแก้ไขที่หยุดนิ่งและแน่นอน อนุมัติ ส่งคืน และปฏิเสธเป็นการตัดสินใจที่แยกจากกัน ก"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "การรับรองแยกขั้นตอนหลังจากได้รับการอนุมัติ"
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "รออยู่นะครับ"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "ดี"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "ร้องขอโดยฉัน"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "ข้อยกเว้น"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "ตัดสินใจแล้ว"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "ทั้งหมดอยู่ในขอบเขต"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "SearchID, ชื่อเรื่อง, ผู้ร้องขอ"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "ไม่มีอะไรรอคุณอยู่"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "คำขอจะปรากฏที่นี่เมื่อคุณเป็นผู้อนุมัติที่มีชื่อสำหรับเวทีเปิดหรือตัวแทนที่ดำเนินการอยู่"
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "บัตรแต่ละใบเปิดเฉพาะสิ่งที่นับ"
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "แผนที่พื้นที่ทำงาน"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品การ์ด"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "คณะกรรมการ"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 รายการ"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "ทั้งหมดอยู่ในขอบเขตของฉัน"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "รีเฟรช 09:29 น"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "ซี รีเฟรช"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "สถานที่ทำงานตั้งค่าและดำเนินการ"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "ภารกิจและวัตถุประสงค์"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / งานของฉัน"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "งานของฉัน"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "ทุกสิ่งรอคุณอยู่ —— ตั้งแต่ขั้นตอนเวิร์กโฟลว์ คำขอแบบฟอร์ม การอนุมัติ การติดตามผล และ UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "ข้อเสนอ — จะต้องดำเนินการที่ไหนและมีการเปลี่ยนแปลงอะไรบ้าง"
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "งานของฉันเป็นส่วนหนึ่งของ UDO ที่ผู้ใช้กำกับ UDOของ"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·งานของฉัน"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "ชื่อนามสกุล เจ้าของ ผู้ใช้ และหน้าจออื่นๆ ไม่เป็น"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "จำเป็นต้องตัดสินใจ·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "กำหนดไว้แล้ว จึงไม่แสดงสิ่งอื่นใดอีก"
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "มอบหมายให้ฉัน"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "ได้รับมอบหมายจากฉัน"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "เปิด"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "ความคืบหน้า"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "กลับมาแล้ว"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "เกินกำหนด"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "ครบกำหนดวันนี้"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "เสร็จสิ้น"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "อัลอิโล"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "ประเภท"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q ค้นหา ID, ตำแหน่ง, แหล่งที่มาหรือผู้รับมอบหมาย"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "ทุกประเภท"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "ยังไม่มีการมอบหมายให้กับคุณ"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "งานมาถึงที่นี่จากการรันเวิร์กโฟลว์ (แบบฟอร์มและขั้นตอนของมนุษย์) การอนุมัติ"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "คำขอ การติดตามผลที่ใครบางคนมอบหมายให้คุณ และข้อเสนอที่ได้รับการยืนยัน"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. คุณจะได้รับการแจ้งเตือนด้วย"
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/รัน"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "วิ่ง"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "การดำเนินการทุกครั้งของเวอร์ชันเวิร์กโฟลว์ที่ได้รับอนุมัติและเผยแพร่แล้ว — ใครบ้างที่รออยู่ อะไรล้มเหลว และอะไร"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "ต้องการการกระทบยอด การรันจะรักษาเวอร์ชันที่แน่นอนไว้แม้หลังจากเปลี่ยนแผนแล้ว"
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "คำจำกัดความรันไทม์"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "เออิล0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "รอฉันอยู่"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "กำลังรอ"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "วิ่ง"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "ยกเลิกแล้ว"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "ค้นหาการรันหรือรหัสแผน"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "ยังไม่มีการวิ่งเลย"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "รันเริ่มจากแผนที่ใช้งานอยู่ใน EnginePlanner"
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "เปิด EnginePlanner"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "กรอกเทมเพลต Forms Master ที่เผยแพร่ การส่งทุกครั้งจะคงเวอร์ชันของแบบฟอร์มไว้ตามเดิม"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "และผู้ดูยอมรับกลับมาเพื่อแก้ไข"
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "แบบฟอร์มที่มีจำหน่าย"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "การส่งของฉัน"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "แบบฟอร์มที่เผยแพร่"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "เฉพาะเวอร์ชันที่เผยแพร่ในปัจจุบันเท่านั้นที่สามารถเริ่มต้นได้ เวอร์ชันเก่าสามารถอ่านได้ในการส่งผลงาน"
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "แบบฟอร์มการค้นหา"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "รายการตรวจสอบความพร้อมในการผลิต"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8ฟิลด์"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6 จำเป็น"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 โต๊ะ"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1ไฟล์"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1แบบมีเงื่อนไข"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "แผนก"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "เจ้าของแบบฟอร์ม"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "กาบีร์ เซน"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "บันทึกการผลิต"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "รายการตรวจสอบความพร้อม"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021ความพร้อมในการผลิตของสัปดาห์หน้า"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "แผน"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026เตรียมการผลิตสัปดาห์หน้า"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "บทสนทนาของคุณต้องการอะไร และเกี่ยวข้องกับงานอะไร"
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "เปิดกล่องจดหมาย"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "ไม่มีอะไรในการสนทนาของคุณกำลังรอคุณอยู่"
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "งานประสานงานข้อความ พวกเขาไม่เคยอนุมัติ ลงนาม หรือดำเนินการให้เสร็จสิ้น งานจะเกิดขึ้นหลังจาก a"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "ข้อเสนอได้รับการตรวจสอบและส่งแล้ว"
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1การโทรและการประชุม"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "ยังไม่ได้อ่าน"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "เปิดงานจาก"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "ยังไม่ได้ส่ง"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "เปิดตรงครับ"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "บทสนทนา"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "ข้อเสนอ"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "ข้อความ"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "พร้อมข้อความถึงคุณ"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "มอบหมายให้คุณใน"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "ร่างจดหมายเท่านั้นที่คุณทำได้"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "ยังไม่ได้อ่าน"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "ดูสิ"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "ต้องการคุณ"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "การกล่าวถึงทั้งหมด"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "การสนทนาล่าสุด"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ปฏิบัติการ-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "12 พ.ย. 2569 07:05 น"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "คำนามการอ่านและการไม่เปิดงานจาก"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "การวางแผน"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "การสนทนา"
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / งานของฉัน"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "งาน รหัส หลักฐาน และอำนาจหน้าที่เดียวกันกับ"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscame"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "ใน UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "งานจากการสนทนาเท่านั้น"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "จากการสนทนาของคุณ แต่ละลิงก์กลับไปที่มัน"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "แหล่งที่มาของการสนทนา"
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "เกินกำหนด0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "เนื่องจากวันนี้"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "รหัสการค้นหา ชื่อ แหล่งที่มา หรือผู้รับมอบหมาย"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "ทุกประเภท"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "บริษัทนำร่อง A(ตัวอย่าง)·การดำเนินงาน"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "บันทึกจากการวิ่ง แบบฟอร์มที่ยอมรับและการป้อนข้อมูลด้วยตนเอง และเอกสารควบคุมที่มีกฎการเผยแพร่-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "ในร้านเดียวที่มีเชื้อสายต้นทาง ค้นหาและส่งออกตามขอบเขตการเข้าถึงของคุณ"
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品บันทึกทั้งหมด"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "บันทึกการปฏิบัติงาน"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "เอกสารที่ถูกควบคุม"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "บี"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "การระงับตามกฎหมาย"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "รหัสการค้นหา ชื่อ หรือประเภท"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "สถานะอะไรก็ได้"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "เอกสารควบคุม"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "เนื้อหาที่เผยแพร่ถูกระงับ การเปลี่ยนแปลงคือการแก้ไขใหม่โดยได้รับอนุมัติจากตัวมันเอง ตัวควบคุมเอกสารจะเผยแพร่"
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 สายการบรรจุ"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "การเปลี่ยนแปลง"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "เอกสารที่ออกแล้ว"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "เปิดตัวรอบที่ 1"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "ควบคุม SopOperations"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 แก้ไข"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "เจ้าของ ลีลา เมนอน"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "1 บันทึกที่แสดง·บันทึกนอกการเข้าถึงของคุณจะไม่นับ"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "เรียนรู้เวอร์ชันที่แน่นอนที่กำหนดให้กับคุณ การอ่านบันทึกความคืบหน้าในส่วน; เฉพาะเวอร์ชันเท่านั้น"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "การรับทราบหรือการละเว้นการประเมินจะถือว่าเสร็จสมบูรณ์"
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "การเรียนรู้ของฉัน"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "งานของฉัน"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "ปฏิบัติการ"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "ปิดแล้ว"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "อัลไอ"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "ความปลอดภัยของสายการบรรจุ"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① ได้รับมอบหมายแล้ว"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "ครบกำหนด2วัน·15พ.ย.2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · เวอร์ชันของคุณ"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "เริ่มบทเรียน"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "การนำเสนอ·ความปลอดภัย·สายการบรรจุ"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "มอบหมายโดยลีลา เมนอน"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0of2sectionsอ่าน"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "การประเมิน·ผ่าน 100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "ไลบรารีเนื้อหา"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "หัวข้อ"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "สินค้า"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "ค้นหาชื่อ หัวข้อ ผลิตภัณฑ์"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "ทุกหัวข้อ"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "สินค้าทั้งหมด"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "สถานะของฉัน"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "อะไรก็ได้"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "ข้อมูลประจำตัวของแพลตฟอร์มและการเข้าถึง: บทบาท ขอบเขตแผนก เซสชัน การมอบหมาย และการตรวจสอบการเข้าถึง"
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "การสรรหาบุคลากรและความพร้อมใช้งานอยู่ใน HR Master"
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "ผู้คน"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "ข้อมูลประจำตัวของบริการ"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "คุณจะเห็นไดเร็กทอรีของบริษัท บทบาท ขอบเขตแผนก และเซสชันต่างๆ จะปรากฏแก่บริษัท"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "ผู้ดูแลระบบ"
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "ทั้งหมด10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "ใช้งานอยู่10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "ไม่ได้ใช้งาน"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QSearch ชื่อ อีเมล ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "ปฏิบัติการผู้ประกอบการบรรจุภัณฑ์"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "บทบาทที่มองเห็นได้สำหรับผู้ดูแลระบบ"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "13 พ.ย. 2569 09:28 น"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "ผู้บริหารบริษัทการดำเนินงาน"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "บทบาทที่ผู้ดูแลระบบมองเห็นได้"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / บทสนทนาเรื่องงาน"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "การสนทนาเชื่อมโยงกับวัตถุประสงค์ แผน งาน แบบฟอร์ม บันทึก หรืองานเดียว"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+ บทสนทนาการทำงานใหม่"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "รายการ สถานะและเวอร์ชันของออบเจ็กต์จะมาจากโมดูลของตัวเองเสมอ"
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "เอไอแอลโอ"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "ชื่อ หัวข้อ หรือข้อความ"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "เก็บถาวรแล้ว"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "ยังไม่มีการสนทนาเรื่องงาน"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "การสนทนาเรื่องงานเชื่อมโยงกับวัตถุเดียวที่คุณสามารถเปิดได้ เช่น แผน"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "วัตถุประสงค์ งาน แบบฟอร์ม บันทึก หรือรายการงาน ดังนั้นการอภิปรายจะดำเนินต่อไป"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "ไปทำงาน"
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "เริ่มอันหนึ่ง"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "บริษัทนำร่องA (ตัวอย่าง)·การดำเนินงาน"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "งานที่วางทันเวลากับคนจาก HR Master และอุปกรณ์จาก Machine Master"
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "การแสดงตัวอย่างการกำหนดเวลาจะไม่จอง มีเพียงการกระทำเท่านั้นที่ทำ"
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "จำเป็นต้องมีการจัดตารางเวลา"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "อยู่ระหว่างดำเนินการ"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "รอการอนุมัติ"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "ข้อขัดแย้ง"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "ไทม์ไลน์ประจำสัปดาห์"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "รหัสการค้นหา ชื่อ ตำแหน่ง"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "ความพร้อมในการผลิต—สัปดาห์ปี 2026-11-16"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "กำหนดการ"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021·ครบกำหนด 18 พ.ย. 2026·บรรจุภัณฑ์/ซีล"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "สัปดาห์ที่ 9 พ.ย.2569"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "สัปดาห์นี้"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 งานในสัปดาห์นี้"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "งาน"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "จันทร์"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "อ"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "พ"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9 พ.ย.2569"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "10 พ.ย.2569"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "11 พ.ย.2569"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / การตั้งค่าพื้นที่ทำงาน"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/การตั้งค่าพื้นที่ทำงาน/การตั้งค่าช่องสัญญาณ"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "การตั้งค่าช่อง"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "หัวข้อ สมาชิก ผู้ที่อ่านได้และใครโพสต์ได้ — สำหรับช่องทางและการสนทนาเรื่องงาน ทุกๆ"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "การเปลี่ยนแปลงได้รับเวอร์ชันและตรวจสอบแล้ว"
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "ช่อง"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "การแจ้งเตือน"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "การเข้าถึง"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "การเก็บรักษา"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "สมาชิก—อ่านอย่างเดียว"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# การวางแผนการปฏิบัติการ"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##การวางแผนปฏิบัติการ"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "อ่านอย่างเดียว"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "เฉพาะเจ้าของ (VikramShah) หรือพื้นที่ทำงาน"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "ผู้ดูแลระบบสามารถเปลี่ยนการตั้งค่าเหล่านี้ได้"
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "ใครอ่านได้บ้าง"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "เปิด—ขอบเขตผู้คน"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "สามารถค้นหาและเข้าร่วมได้"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "ข้อความแสดงอยู่"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "สมาชิกเท่านั้น"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "ใครสามารถโพสต์ได้"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "สมาชิกทุกท่าน"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "การผลิตรายสัปดาห์"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "การวางแผนสำหรับโรงงาน A"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "สมาชิก"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "อาชา กุลการ์นี, วิคราม"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "ชาห์, เนฮา ลีเยร์, มายา"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "เรา, อรชุน เมธา"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "ประวัตินโยบาย"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / วัตถุประสงค์ทางธุรกิจ"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / ขั้นตอนการทำงานแบบร่าง"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / ความเป็นเจ้าของ"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / การดำเนินการประสานงาน"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / รีวิวผลลัพธ์"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "แบบฟอร์ม / อินพุต → เงื่อนไข"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "งานของมนุษย์ → ตรวจสอบอีกครั้ง"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "การดำเนินการของตัวแทน → การบูรณาการ"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "ทดสอบ → ทบทวน → เปิดใช้งาน"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "เสร็จหรือยัง?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "กำหนดการ"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "ส่วนเบี่ยงเบน"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · รายการตรวจสอบความพร้อม"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · เวิร์กโฟลว์เวอร์ชันต่างๆ"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · การแก้ไขที่ใช้งานอยู่"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · ผู้อนุมัติที่มีชื่อ"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · รอการตัดสินใจ"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/ภารกิจ&วัตถุประสงค์"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → สิ้นสุด"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "ภาพหมุน"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "สไลด์"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "นำตัวแทน AI มาสู่ทุกส่วนขององค์กรของคุณ"
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "ดูการทำงานของ UCXO"
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "เตรียมแผนการผลิตสัปดาห์หน้า"
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers พร้อมด้วยข้อมูลประจำตัวของแพลตฟอร์ม สถานะบัญชี และบริบทการเข้าถึงของผู้ดูแลระบบ"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "เลือกไดเรกทอรีบุคคลเพื่อค้นหาเพื่อนร่วมงานที่คุณสามารถส่งข้อความถึง พร้อมทีมและบทบาทจาก UUsers สถานะบัญชีที่ใช้งานอยู่จะปรากฏขึ้น ข้อมูลอ้างอิงไม่ได้แสดงสถานะแบบเรียลไทม์"
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "บัญชีได้รับการจัดการแยกกันในUUsers"
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    }
+  }
+}

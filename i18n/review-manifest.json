@@ -1,0 +1,1828 @@
+{
+  "status": "local-draft-review-required",
+  "locales": [
+    {
+      "code": "en",
+      "dir": "ltr",
+      "copyReview": "source"
+    },
+    {
+      "code": "es",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "de",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "fr",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "pt",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "it",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "nl",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "pl",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "uk",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "ru",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "ro",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "cs",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "hu",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "el",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "sv",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "da",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "nb",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "fi",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "zh-Hans",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "zh-Hant",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "ja",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "ko",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "id",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "ms",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "vi",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "th",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "fil",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "ar",
+      "dir": "rtl",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "tr",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "fa",
+      "dir": "rtl",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "he",
+      "dir": "rtl",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "sw",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "ha",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    },
+    {
+      "code": "am",
+      "dir": "ltr",
+      "copyReview": "fluent-review-required"
+    }
+  ],
+  "routes": [
+    "/",
+    "/how-it-works/",
+    "/book-a-demo/",
+    "/carousel-preview/"
+  ],
+  "audio": {
+    "language": "en",
+    "approvedDubsAvailable": false,
+    "tracks": [
+      "/narration/product-tour.wav",
+      "/narration/ucxo-explainer.wav"
+    ],
+    "policy": "Original English tracks retained and labelled in the selected website language."
+  },
+  "copyReview": {
+    "routes": [
+      "/",
+      "/how-it-works/",
+      "/book-a-demo/",
+      "/carousel-preview/"
+    ],
+    "locales": [
+      "es",
+      "de",
+      "fr",
+      "pt",
+      "it",
+      "nl",
+      "pl",
+      "uk",
+      "ru",
+      "ro",
+      "cs",
+      "hu",
+      "el",
+      "sv",
+      "da",
+      "nb",
+      "fi",
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "id",
+      "ms",
+      "vi",
+      "th",
+      "fil",
+      "ar",
+      "tr",
+      "fa",
+      "he",
+      "sw",
+      "ha",
+      "am"
+    ],
+    "status": "All translated entries are drafts; semantic, tone, and legitimate-identical review is incomplete."
+  },
+  "artworkReview": [
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "calls",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/calls.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 58,
+      "lowConfidenceText": [],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "delegation-master",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/delegation-master.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 60,
+      "lowConfidenceText": [
+        {
+          "text": "AIl",
+          "confidence": 0.6869133909543356
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "engine-planner",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/engine-planner.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 57,
+      "lowConfidenceText": [
+        {
+          "text": "Q",
+          "confidence": 0.6101582646369934
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "forms-master",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/forms-master.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 48,
+      "lowConfidenceText": [
+        {
+          "text": "AII",
+          "confidence": 0.7837384144465128
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "hr-master",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/hr-master.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 72,
+      "lowConfidenceText": [
+        {
+          "text": "W",
+          "confidence": 0.7330247759819031
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "inbox",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/inbox.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 44,
+      "lowConfidenceText": [
+        {
+          "text": "AlI 1",
+          "confidence": 0.7115766286849976
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "machine-master",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/machine-master.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 61,
+      "lowConfidenceText": [
+        {
+          "text": "AIl3",
+          "confidence": 0.7906000167131424
+        },
+        {
+          "text": "S",
+          "confidence": 0.7750709056854248
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "mission-objectives",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/mission-objectives.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 58,
+      "lowConfidenceText": [
+        {
+          "text": "All 1",
+          "confidence": 0.733562421798706
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "people-directory",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/people-directory.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 66,
+      "lowConfidenceText": [
+        {
+          "text": " OPERATIONS",
+          "confidence": 0.8251983902671121
+        },
+        {
+          "text": "VS",
+          "confidence": 0.8079485595226288
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "team-channels",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/team-channels.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 50,
+      "lowConfidenceText": [
+        {
+          "text": "AII",
+          "confidence": 0.7301065524419149
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "uapprove",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/uapprove.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 41,
+      "lowConfidenceText": [
+        {
+          "text": "D",
+          "confidence": 0.7330750226974487
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "udashview",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/udashview.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 49,
+      "lowConfidenceText": [],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "udo",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/udo.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 53,
+      "lowConfidenceText": [
+        {
+          "text": "AlIlo",
+          "confidence": 0.6980778515338898
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "uengine",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/uengine.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 46,
+      "lowConfidenceText": [
+        {
+          "text": "AIl0",
+          "confidence": 0.6576283276081085
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "uforms",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/uforms.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 58,
+      "lowConfidenceText": [],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "upingme-dashboard",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/upingme-dashboard.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 62,
+      "lowConfidenceText": [],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "upingme-udo",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/upingme-udo.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 54,
+      "lowConfidenceText": [
+        {
+          "text": "AIl",
+          "confidence": 0.7951462666193644
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "urecords",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/urecords.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 55,
+      "lowConfidenceText": [
+        {
+          "text": "B",
+          "confidence": 0.7502627372741699
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "utraining",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/utraining.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 58,
+      "lowConfidenceText": [
+        {
+          "text": "op",
+          "confidence": 0.736272543668747
+        },
+        {
+          "text": "AlI",
+          "confidence": 0.7290628254413605
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "uusers",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/uusers.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 58,
+      "lowConfidenceText": [],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "work-conversations",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/work-conversations.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 41,
+      "lowConfidenceText": [
+        {
+          "text": "AIlO",
+          "confidence": 0.769778773188591
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "work-planner",
+      "activeHomepageScene": true,
+      "asset": "public/product-previews/work-planner.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 57,
+      "lowConfidenceText": [],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    },
+    {
+      "routes": [
+        "/",
+        "/carousel-preview/"
+      ],
+      "scene": "workspace-settings",
+      "activeHomepageScene": false,
+      "asset": "public/product-previews/workspace-settings.webp",
+      "overlay": "i18n/artwork-text.json",
+      "recognizedTextBoxes": 58,
+      "lowConfidenceText": [],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Fluent and pixel-level review required; OCR coverage does not certify every English pixel is masked."
+    }
+  ],
+  "explainerReview": [
+    {
+      "route": "/how-it-works/",
+      "chapter": "Define and plan",
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Rendered SVG text and captions localized; native-language typography and semantic review still required."
+    },
+    {
+      "route": "/how-it-works/",
+      "chapter": "Test, review, activate",
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Rendered SVG text and captions localized; native-language typography and semantic review still required."
+    },
+    {
+      "route": "/how-it-works/",
+      "chapter": "Execute and recover",
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Rendered SVG text and captions localized; native-language typography and semantic review still required."
+    },
+    {
+      "route": "/how-it-works/",
+      "chapter": "Approve and record",
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ],
+      "status": "Rendered SVG text and captions localized; native-language typography and semantic review still required."
+    }
+  ],
+  "guidedTour": [
+    {
+      "route": "/",
+      "chapter": "UDashview",
+      "steps": [
+        {
+          "id": "workspace",
+          "scene": "udashview"
+        },
+        {
+          "id": "views",
+          "scene": "udashview"
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ]
+    },
+    {
+      "route": "/",
+      "chapter": "U&Me",
+      "steps": [
+        {
+          "id": "my-tasks",
+          "scene": "udo"
+        },
+        {
+          "id": "task-status",
+          "scene": "udo"
+        },
+        {
+          "id": "approvals",
+          "scene": "uapprove"
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ]
+    },
+    {
+      "route": "/",
+      "chapter": "USpace",
+      "steps": [
+        {
+          "id": "forms",
+          "scene": "uforms"
+        },
+        {
+          "id": "records",
+          "scene": "urecords"
+        },
+        {
+          "id": "runs",
+          "scene": "uengine"
+        },
+        {
+          "id": "training",
+          "scene": "utraining"
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ]
+    },
+    {
+      "route": "/",
+      "chapter": "UMaster",
+      "steps": [
+        {
+          "id": "objectives",
+          "scene": "mission-objectives"
+        },
+        {
+          "id": "work-planning",
+          "scene": "work-planner"
+        },
+        {
+          "id": "engine-planning",
+          "scene": "engine-planner"
+        },
+        {
+          "id": "people",
+          "scene": "hr-master"
+        },
+        {
+          "id": "equipment",
+          "scene": "machine-master"
+        },
+        {
+          "id": "templates",
+          "scene": "forms-master"
+        },
+        {
+          "id": "delegation",
+          "scene": "delegation-master"
+        },
+        {
+          "id": "access",
+          "scene": "uusers"
+        }
+      ],
+      "locales": [
+        "es",
+        "de",
+        "fr",
+        "pt",
+        "it",
+        "nl",
+        "pl",
+        "uk",
+        "ru",
+        "ro",
+        "cs",
+        "hu",
+        "el",
+        "sv",
+        "da",
+        "nb",
+        "fi",
+        "zh-Hans",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "id",
+        "ms",
+        "vi",
+        "th",
+        "fil",
+        "ar",
+        "tr",
+        "fa",
+        "he",
+        "sw",
+        "ha",
+        "am"
+      ]
+    }
+  ]
+}

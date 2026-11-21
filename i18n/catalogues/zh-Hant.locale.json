@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "您好UCXO團隊，"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "我想安排一個UCXO的演示。"
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "我想實現的目標："
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "我想在演示期間討論這個問題。"
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "謝謝你，"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "請求UCXO演示"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "已標記的字段"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "是必需的。"
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "您的聯絡方式和公司詳細信息"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "名字"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "姓氏"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "工作信箱"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "公司簡介"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "公司名稱"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "職稱"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "你的角色"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "公司規模"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "選擇團隊規模"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "國家"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "你的國家"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "您想實現什麼目標？"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "可選"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "需要改進的工作流程、需要達成的目標或需要解決的挑戰…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "將此留空"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "我們將使用您的詳細資訊回覆您的演示請求。請避免包含機密資訊。"
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "請求我的演示"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "打開您的電子郵件應用程式並預先填寫您的詳細資料。"
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "業務執行，協調一致。"
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "平台"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "它是如何運作的"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "使用案例"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "監督"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "回到頂部"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO。版權所有。"
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "以人為主導。人工智慧驅動。設計負責。"
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO首頁"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "導航打開"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "主導航"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "預約演示"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "登入"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "關閉選單"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "開啟選單"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / 說明性"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "粗體 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "工作流程"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "連接階段"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "所有權"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "人員+發動機代理商"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "人工審核"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "需要/等待"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "在需要的地方保存"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "定義目標"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "從結果開始。"
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "說明結果以及誰擁有它。"
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "協調生產準備計劃"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "目標和業務背景"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "組織所有權"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "期望的結果"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "審查工作流程"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "使計劃明確。"
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "檢查步驟、依賴性和所需的批准。"
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "審查擬議的執行計劃"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "人工任務和人工智慧代理"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "依賴性和移交"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "所需的審批關口"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "批准並分配"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "將所有權落實到位。"
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "批准計劃並將每項任務分配給其所有者。"
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "批准計劃並指定所有者"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "負責任的任務所有者"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "認可的代理能力"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "人工審核職責"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "執行"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "保持工作聯繫。"
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine 遵循計劃並標記問題以供審查。"
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "監控任務、運行和切換"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "依賴感知執行"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "受監控的代理程式運行"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "異常升級"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "審查結果"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "關閉循環。"
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "將結果及其證據與最初的目標進行比較。"
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "用證據審查結果"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "任務證據和批准"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "代理執行歷史記錄"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "結果審查"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "UCXO之旅"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "右箭頭"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "向左箭頭"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "首頁"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "結束"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "再次開始旅程"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "下一步"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "說明性工作流程"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "與您的業務目標相關"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "我們的合作夥伴"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "履歷表合作夥伴徽標"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "暫停合作夥伴徽標"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO合作夥伴"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "你的起點。"
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "看大局。"
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "公司背景、部門範圍和工作空間視圖。"
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "工作區概述"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "部門背景"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "連接模組"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview 包含公司和部門上下文、概述和活動選項卡以及可見的工作區地圖。"
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "儀表板地圖繼續位於 PDF 捕獲下方。此預覽保留了準確的可見螢幕；它並沒有發明缺少的部分。"
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "你的任務。"
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "你的決定。"
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "使用UDO進行作業，使用UApprove進行批准請求。"
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · 我的任務"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "分配給我/由我分配"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · 人類的決定"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO 我的任務，有分配標籤、任務狀態過濾器、搜尋和原始空狀態。"
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove 正在等待我、我請求、例外和已決定過濾器以及原始的空狀態。"
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "日常工作。"
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "在一個地方。"
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "表格、記錄、工作流程運作和培訓。"
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "表格和記錄"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · 工作流程運行"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "指定學習"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms 顯示已發佈的生產準備清單、其版本、欄位和連結的工作流程。"
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords 顯示已發布的包裝線轉換控制 SOP 及其修訂版。"
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "原始的UEngine 運行螢幕，保留其確切的 UI 標籤和尚未運行狀態。"
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining 顯示分配的包裝線安全課程、進度和評估要求。"
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "設立業務。"
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "計劃工作。"
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "目標、資源、工作流程設計和存取。"
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "目標與規劃"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "人員與設備"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "模板和訪問"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner 具有生產準備計畫草案，準備情況 4/8，指定所有者和審批者，且處於非活動狀態。"
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "使命與目標"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "任務和目標顯示可靠、經過驗證的營運任務和目標過濾器。"
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "工作計劃員"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "工作計劃器包含計劃計數、生產準備工作項目和週時間表。"
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "人力資源碩士"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "人力資源大師，了解人員、角色、技能、工作行事曆和承諾。"
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "機械大師"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Machine Master 提供設備可用性、產能、工作時間和預訂資訊。"
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "表格大師"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Forms Master 包含已發佈的、不可變的生產準備清單版本。"
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "代表團團長"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "代表團主控及其原始決定需要通知和預定的批准替換。"
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "與工作相關的對話"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "保持對話"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "離工作很近。"
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "找到你們的對話，在團隊管道中進行協調，並使討論與他們關心的工作聯繫起來。審核並提交的任務提案連接回UDO。"
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "收件匣和提及"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "團隊頻道"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "與工作相關的對話"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "收件匣"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme 帶有對話過濾器和原始運營計劃未讀對話的收件匣。"
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme 顯示營運規劃的團隊頻道和全公司範圍的工廠公告頻道。"
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "工作對話"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme 工作對話及其原始空狀態和工作對象連結的解釋。"
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "對話概述"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview 包含未讀對話、提及、任務和未提交提案計數。"
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "人工智慧驅動的業務執行"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "將 SOP 轉變為工作流程。分配責任。追蹤完成。"
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "你的生意運作起來。您保持掌控。"
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI 是人工智慧驅動的業務執行。將 SOP 轉變為工作流程。分配責任。追蹤完成。你的生意運作起來。您保持掌控。"
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "您的工作空間概覽"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview。你的起點。查看您的公司，選擇部門，然後開啟您需要的模組。"
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "觀點和部門範圍"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "使用“概述”快速查看，或使用“活動”追蹤更新。視圖控制提供地圖、卡片、圖板和清單。"
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me。您的任務和批准。 UDO 顯示分配給您的工作。"
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "作業、狀態和搜尋"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "按狀態篩選、搜尋任務或檢查您指派給其他人的工作。"
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · 你的決策隊列"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "打開UApprove查看等待您決定的請求。批准、退回或拒絕工作。"
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · 已發布的表格"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace。你在哪里做工作。填寫UForms中發布的表格並追蹤您的提交情況。"
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords·證據和文件"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords 儲存文件和證據，及其修訂和批准詳細資訊。"
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine 顯示工作流程運作、進度和異常。该样本尚未运行。"
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · 指定學習"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining 匯集了分配的課程、截止日期和評估。"
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster。設定您的業務運作方式。從使命和目標開始，定義目標及其所有者。"
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "工作計劃者可以安排工作所需的人員和設備。"
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner 定義了工作流程。在執行之前對其進行測試、獲得批准並啟動。"
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master 管理角色、技能和員工可用性。"
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master 管理設備容量、可用性和維護。"
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master 建立並發佈您的團隊填寫的範本UForms。"
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "委托大师定义谁可以接管任务或批准以及持续多长时间。"
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers 管理用户帐户、角色和访问权限。"
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "探索對話概述、收件匣、共享任務、頻道、人員和工作區設定。"
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "您的谈话概述"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme 有自己的對話概述。它匯集了未讀的提及、未讀的對話、對話中的未完成任務和未提交的提案，以及返回相關工作的連結。"
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "選擇「收件匣」以尋找您所屬的對話。過濾分離未讀對話、直接訊息、提及和活動。此範例顯示了營運規劃團隊頻道及其未讀對話。"
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · 共享任務"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "選擇UDO查看UCXO所使用的相同任務儲存。對話任務連結回其來源。訊息提案經過審核提交後才成為任務。"
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "選擇團隊頻道以查看您的頻道、您可以加入的開放頻道以及已存檔的頻道。私人頻道僅對會員可見。此範例將營運規劃與公司範圍內的工廠公告分開。"
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "選擇「工作對話」可將討論與目標、計畫、任務、表單、記錄或工作項目綁定。它的狀態和版本仍然來自物件自己的模組。"
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "通話與會議 · 目前狀態"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "通話和會議在導航中可見，但提供的版本沒有通話提供者。此畫面說明通話、排程、錄音和文字記錄目前不可用。"
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "人員目錄"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "選擇「人員目錄」以尋找您可以向其發送訊息的同事，以及來自 UUsers 的團隊和角色。顯示活躍帳戶狀態；此參考不提供即時狀態。"
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "工作區設定"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "選擇頻道主題、成員資格、閱讀和發佈權限以及策略歷史記錄的工作區設定。範例使用者俱有唯讀存取權限。訊息協調工作；他們不批准或完成它。"
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "原版軟體畫面"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "全螢幕檢視"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "檢查原螢幕"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "點擊螢幕以全尺寸檢查。"
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "PDF頁面"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "原始佈局、標籤、資料和狀態"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "參考註："
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "原創UCXO軟體·PDF頁面"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "適合窗戶"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "實際尺寸"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "關閉螢幕預覽"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "概述和導航。"
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "任務和批准。"
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "日常工具。"
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "業務設定。"
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "中止錯誤"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "選擇“播放”以恢復旁白。"
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO 四部指導產品展示"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "旁白無法載入。選擇「播放旁白」以重試。"
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "UCXO 產品展示"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "簡介"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "帶旁白重播"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "繼續旁白"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "靜音旁白"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "播放語音導覽"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "您的工作空間，互聯互通"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "四個產品展示部分"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "向下箭頭"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "向上箭頭"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· 引導式演示"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "暫停旁白"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "適合螢幕"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "焦點視圖"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "展開引導演示"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "重播遊覽"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "播放引導演示"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "暫停引導演示"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "重播本節"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "將示範旁白靜音"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "啟用演示旁白"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "演示部分進度"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "巡迴結束"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "旁白播放"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "旁白暫停"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "旁白關閉"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "擴展的UCXO引導演示"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "關閉預覽"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "播放示範"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "暫停演示"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "概述"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "活動"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ 工作區地圖"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ 卡片"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ 主機板"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ 列表"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "部門"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "都在我的範圍內⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ 試辦A公司（樣本）"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ 營運"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "很高興見到你，Arjun（接線員）。您可以打開的每個模組都位於 UCXO 周圍，並帶有一個數字；每張卡都準確打開其計數。"
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ 上午 09:29 刷新"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ 刷新"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "試辦A公司（樣本）"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "您的部門：營運。"
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "工作地點及開展地點"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "使命與目標"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "使命和目標、工作計劃和Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "生產準備狀況"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "從一個公認的目標開始：準備下週的生產計劃。"
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "人員與所有權"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "人員和所有權為承諾的工作提供了背景。"
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "工作流程草案"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "将目标、承诺的工作和资源绑定到版本化工作流程。"
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "準備檢查表"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "使用表单/输入步骤捕获准备情况清单。"
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "指定人工審核"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "修订版必须由指定人员批准才能激活。"
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "盡心盡力的工作"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "承諾計劃將協調的工作和資源。"
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner 類型化工作流程"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "代理行動"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AI智能體·能力匯總"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "线路间隙条件通过后，将运行容量摘要。"
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "表格/輸入"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "人類·準備就緒清單"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "一個人完成UForms中的準備清單。"
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "條件"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "控制·線間隙？"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "是的，繼續人工智慧行動。沒有解決人工任務的途徑。"
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "人工任務"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "人性·解決偏差"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "解决UDO中的间隙偏差，然后重新检查表格，最多检查3次。"
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "整合"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "系統·ERP計劃表"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "產能匯總後更新 ERP 計劃。同步失敗遵循通知路徑。"
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "核准"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "人類·發布審查"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "一位指定的运营负责人在UApprove中批准了发布。"
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "記錄輸出"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "系統·批准的計劃"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "核准的生產計畫透過URecords保留。"
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "控制"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "完成配置的工作流程路徑。"
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-EngineUDO中的處決與人類康復"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "負責人接收並完成UDO分配的恢復任務。"
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "僅當線路間隙條件滿足時，容量匯總才能運作。"
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "發布等待指定審批人； U-Engine無法做出這個決定。"
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "沒有通往UDO和返回準備清單的路線。是的，繼續人工智慧行動。"
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "整合會在發布批准之前更新 ERP 計劃。"
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove、URecords和通知恢復"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "指定的營運負責人審查證據並決定是否批准釋放。"
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "系統·記錄輸出"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "保留批准的生產計劃及其支援記錄。"
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "經批准的主動修訂"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "只有經過測試、審核、批准和啟動的修訂版才能開始運作。"
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "系統·同步失敗"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "失敗的 ERP 同步遵循已設定的通知路由。"
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "通知"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "系統·通知規劃師"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "通知負責的計畫人員 ERP 同步失敗。 UPingme 連結對話。"
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "核准的記錄路徑和通知復原路徑均到達End。"
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "聊天·提醒·升級"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "對話、提醒和升級將發送至此處的負責人；批准仍在UApprove中。"
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "定義和計劃"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "一個目標。版本化計劃。"
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "使命和目標透過工作規劃器和Engine Planner將承諾的工作和資源連結起來。"
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "從目標開始：準備下週的生產計畫。"
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "透過 HR Master 和 Work Planner 將人員和承諾的工作連結起來。"
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms 捕捉準備情況清單。"
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner 將目標和資源綁定到版本化工作流程。"
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "測試、審核、激活"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "鍵入步驟。受控釋放。"
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "在手動批准和啟動之前，請檢查工作流程畫布、進行測試並完成準備檢查。"
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "工作流程從表單和線間隙條件開始。"
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "如果清除失敗，人工任務會解決偏差並重新檢查表單。"
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "如果通過，人工智慧操作會準備容量摘要，然後整合更新計畫。"
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "在U-Engine開始運行之前測試、審查、批准和激活修訂。"
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "執行並恢復"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine 運行。人們保持參與。"
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "核准的工作流程遵循其配置的路線。 UDO 與負責人一起進行復原工作。"
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine 遵循活動修訂及其條件路線。"
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "容量摘要僅在線路清理通過後運行。"
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "人們在UDO中接收並完成指派的復原任務。"
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "整合會更新計劃，或遵循其失敗路線。"
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "發布等待UApprove中指定的人類審批者。"
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "批准並記錄"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "人類的認可。連接的記錄。"
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove 將決定留給一個人。 URecords保留該計劃。 UPingme 連結對話。"
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "失敗的整合會通知負責的規劃人員。 UPingme 連結對話。"
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "發布批准仍由UApprove中的指定人員保留。"
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "批准者審查證據並做出決定。"
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "批准後，URecords保留生產計劃，工作流程結束。"
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO。業務執行，協調一致。"
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "使命與目標"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "人力資源大師‧工作規劃師"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO·人體康復"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "整合·ERP 時間表"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "通知負責任的規劃者"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "記錄人類決策"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "結果與目標掛鉤"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "準備工作流程..."
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "不允許錯誤"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "您的瀏覽器暫停了旁白。選擇“播放旁白”開始。"
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "旁白無法開始。選擇「播放旁白」以重試。"
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "UCXO如何運作"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "輸入"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "按鈕"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "旁白無法載入。選擇「播放旁白」以重試。"
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "UCXO如何運作"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "一個目標。一個相互關聯的故事。"
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "準備下週的"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "聽解釋"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "播放旁白"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "聲音開啟 · 靜音"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "開始旁白…"
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "玩法說明"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "暫停說明"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "重播章節"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "啟用聲音"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "靜音"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "章節進度"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "章節電影"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "旁白·聲音關閉"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "旁白·演奏"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "旁白·不可用"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "旁白·點擊播放"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "旁白·暫停"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "旁白·載入"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "選擇章節"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "播放動畫"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "人類"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "人工智慧代理"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "系統"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "控制"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "計劃器啟動"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "準備運行"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "觸發"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "準備清單"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "線路間隙"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "產能匯總"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "更新沙箱 ERP"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "營運主管"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "批准發布"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "批准生產"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "計劃記錄"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "解決清關"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "通知ERP計劃員"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "同步失敗"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "是的"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "否"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "重新檢查（最多 3 次）"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "無效輸出"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "同步失敗"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "已批准"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "拒絕/退回"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner 工作流程畫布"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "工作流程畫布"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "草案 v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "說明性的"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "帆布"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "有序步驟"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "類型化工作流程"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "放大工作流程"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "縮小工作流程"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "適合整個工作流程查看"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "執行"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "決定·恢復"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "是 → 容量總結 · 否 → 解決間隙偏差"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "重新檢查準備清單（最多 3 個）"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "同步失敗 → 通知計劃員"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "具有審批和恢復分支的生產準備工作流程"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "輸入"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "下週的生產準備計劃"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "說明性批准記錄"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "需要手動批准"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "預約演示 — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "了解UCXO如何連結您的目標、人員和人工智慧勞動力。告訴我們您的業務並請求個人演示。"
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "預約演示。"
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "為了你的團隊。"
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "請參閱UCXO以及您企業的工作流程。"
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "你的目標"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "人+人工智慧"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "結果"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "會發生什麼"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "從你的目標開始"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "告訴我們工作陷入困境的地方。"
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "探索可能性"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "瀏覽與您的團隊相關的工具。"
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "找到你的下一步"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "確定UCXO是否適合您的需求。"
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "更喜歡電子郵件？"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "個人示範"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "您的詳細信息"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "告訴我們一些關於您的團隊的資訊。"
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "四個主頁預覽 — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "返回網站"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "主頁輪播本地設計回顧"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "一個工作區。"
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "前進的四種方式。"
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "四個建議的主頁卡。真實的軟體螢幕，清晰的解釋，以及對UCXO每個部分的仔細觀察。"
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "來自設計 PDF 的原始螢幕"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "靜態預覽以供審核"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "探索四個預覽"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "四個主頁預覽"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "四個靜態預覽·可供您查看"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "軟體引領。"
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "故事已經說得很清楚了。"
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "選擇任何螢幕選擇器來檢查相關模組。打開全尺寸螢幕，將其與 PDF 進行比較。這些預覽保留原始範例資料以及空或草稿狀態。"
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "返回四預覽概述"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "它是如何運作的 — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "遵循一個業務目標，從建議的工作流程到手動批准和審核結果。"
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "從指示到交付"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "一個目標。"
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "每一步都相連。"
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "遵循說明性的生產準備計劃。"
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "人們保留需要人類判斷的決定。"
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "業務執行、"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "將您的目標、人員和 AI 勞動力納入一個共享工作流程。"
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "探索平台"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "登入UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — 業務執行，協調。"
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "將業務目標轉化為協調一致的行動。規劃工作流程，連結人員和人工智慧代理，並保持執行責任。"
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "將目標納入工作流程"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "將業務目標分解為步驟、依賴項和擁有者。"
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "計劃工作"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "在版本化工作流程中定義任務、條件、整合和審核路徑。"
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "設計工作流程"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO作業"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "每項任務都有一個負責人，並且有明確的地位。"
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "分配責任"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "工作流程準備狀況"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "在批准和激活之前測試修訂並完成檢查。"
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "準備執行"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "整個組織的人工智慧"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 — 平台"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "減少手工工作。"
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "有更多時間為您的團隊服務。"
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "將 AI 代理程式引入"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "創建和協調人工智慧代理以自動化跨部門的日常任務。"
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "查看工作流程範例"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "更少的手動切換"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "人與人工智慧一起工作"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "所有權清晰"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "從目標到結果的清晰路徑"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — 工作原理"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "從目標"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "到完成的工作。"
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "遵循工作流程的五個階段。"
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "為協同工作而生"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — 核心能力"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "工具落後"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "工作流程。"
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "計劃、分配、測試和運行。"
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "自動化與責任"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "人類的決定。"
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "在正確的時刻。"
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove 將決策傳遞給負責人。"
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "批准前的證據"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "檢查支援記錄。"
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "執行過程中的可見性"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "查看運行歷史記錄和異常。"
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "清晰的角色和權限"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "設定角色和部門範圍。"
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "執行監督"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "說明性的"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "監控工作流程執行狀況"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "人工審核門"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "決定由您決定。"
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "審查證據並做出決定。"
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "等待人類批准"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "附上支持證據"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "偵測到異常"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "升級至負責審核者"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "監控工作不需人為批准。"
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "專為企業運作方式設計"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — 用例"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "真正的工作。"
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "從一端連接到另一端。"
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "為企業主提供共享執行層，"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "營運領導者及其領導的團隊。"
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "營運"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "營運協調"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "圍繞共同的業務目標協調跨職能任務、所有者和依賴關係。"
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "定義計劃"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "協調交接"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "可重複的工作"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "定期報告"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "重複使用人工智慧代理來準備工作，然後將輸出和證據發送給審查人員。"
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "收集輸入"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "運行代理"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "人工審核"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "受控執行"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "審批驅動的工作"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "將任務證據、人工審批門和異常處理連接到一個可見的工作流程。"
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "收集證據"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "請求批准"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "解決異常"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "代表性用例。工作流程範例具有說明性。"
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "有幾件事要明確"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "為清晰起見而構建。"
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "UCXO是什麼？"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO 帮助团队将流程转化为经过人工智能代理和人工批准的已分配、可跟踪的工作。"
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Engine Planner和U-Engine如何協同工作？"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner 設計工作流程。 U-Engine 运行经过测试、批准和激活的修订版。"
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "誰批准工作？"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "由指定的人類批准者決定。 AI 代理無法授予該批准。"
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "工作流程什麼時候可以運作？"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "經過準備檢查、人工批准和啟動後。"
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "為您的目標指明前進的方向"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "參見UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "为您的团队预订演示，或观看工作流程示例。"
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "觀看工作流程"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "請填寫此欄位。"
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "請輸入有效的電子郵件地址。"
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "請檢查該值。"
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "音訊：英語"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "成績單"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "找不到頁面"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "無法找到您要求的頁面。"
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "回國"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "選擇語言"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "搜尋語言"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "逃亡"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "語言"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO 演示請求 — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "名稱：{value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "工作電子郵件：{value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "公司：{value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "職位名稱：{value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "公司規模：{value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "國家：{value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "第{0}章：{1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "步驟 {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0}（共 {1}）：{2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "完整的故事 · {0} 秒"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "展開{0}螢幕"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "檢查原始的 {0} 螢幕"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} 軟體螢幕"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0}原始軟體螢幕"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "下一個 · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} 個示範章節"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}。帶有引導遊標演示的原始UCXO軟體螢幕。"
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / 通話和會議"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "搜尋 ID、標題..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "試點A公司（樣本）·運營"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "首頁"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "通話和會議"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "語音和視訊通話、會議安排、錄音和文字記錄不屬於此版本。"
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "呼叫提供者·未配置"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "無法開始通話或會議"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "這裡"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "需要決定·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "沒有加入、記錄或轉錄控制"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "因為實際上什麼事也不會發生。會議"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "無法安排或儲存——不存在。"
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "托貝在打電話之前就決定了"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "同時"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "通話和會議"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "呼叫提供者以及呼叫資料的位置"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "工作對話"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "加工過的"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O 活動的，每個都綁定到正在的對象"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "需要決定·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "討論過。"
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "任何活動前均需徵得參與者同意"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "給一個人發訊息"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "錄音或文字記錄"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "直接訊息是用第一個創建的"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "消息。"
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "錄音的保留和訪問"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "同意某項行動"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "從訊息中提出任務；它達到"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "和成績單(URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO僅在您審核並提交後。"
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "設定"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "操作員"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "目標設備、顯示器和房間"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/代表團團長"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "試點A公司（樣本）·運營"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "誰可以為誰行事、為什麼行事、持續多久。任務交接及審核權限"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "替代是單獨的、有時限的權威。"
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "需要做出決定·D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "委托的商业意义以及是否允许连锁尚未确定。保守"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "應用預設值：委託授予的金額永遠不會超過委託人持有的金額（每次都會再次檢查）"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "使用），链条被封锁，审批替代需要独立管理员。"
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "鋁"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "待批准"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "預定"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "活躍"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "已過期"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "已撤銷"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "被拒絕"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "兩種1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "批准替代1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "任務交接 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "只有我參與的代表團"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q 搜尋人物、ID、原因"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "11月6日至12月3日"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "早些時候"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "今天"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "後來"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "誰為誰行動"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "羅漢達斯"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "研發"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "為維克拉姆·沙阿效力"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "營運"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "試點A公司（樣本）·運營"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "計劃將已接受的目標、承諾的工作和資源綁定到版本化的工作流程。一定要通過"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "準備就緒，由指定人員批准並在任何運行開始之前啟動。"
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "吃水"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "準備審查"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "評論中"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "問"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "暫停"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "搜尋 ID、標題或目標iv"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 計劃"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "下週的生產準備計劃"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "目標OBJ-026·準備下週的生產計劃"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "準備就緒 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "現場版"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·草稿v1·10節點"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "不活躍"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "核准人"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "業主"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "維克拉姆·沙阿"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "解決準備問題"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / 表格大師"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "搜尋 ID、標題.."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/表格大師"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "根據部門需求建立的表單定義。發布的版本是不可變的；每一個變化"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "成為獨立審閱者發布的新草稿版本。"
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "全部"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "已發表"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "退休"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "所有部門"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q 搜尋 ID、姓名或記錄"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "生產準備清單"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "包裝運作前的操作員檢查表。"
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "查看"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "和營運所有者 Kabir Sen 製作準備清單"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "綁定到PLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8字段·不可變"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "表格大師"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / 人力資源碩士"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "人員作為規劃資源：角色、技能、工作行事曆以及他們的承諾。登入"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "人員與技能"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "層次結構和人員配置"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "可用性板"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "導入（CSV）"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "人物(&P)"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 技能矩陣"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "技能"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "狀態"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "我所有的部門"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "任意技能"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "活躍和不活躍"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "姓名、角色或技能"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "蘇尼爾·瓦爾瑪"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "維修技師"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "包裝操作員"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "維護保養"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "電力"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "包裝"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "品質"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "中號"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "時間"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "瓦"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗什麼也沒做"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "沒有登入帳戶"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "登入：阿瓊·梅塔"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "瑪雅·拉奧"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "先生"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / 收件匣"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "您參與的每一次對話都經過排序，以便您的需求優先。"
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "馬克雷德"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "給某人發訊息"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "鋁1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "未讀"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "直接訊息"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "提及"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "搜尋名稱、主題和訊息文本"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "未讀"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#ops-規劃"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "團隊頻道"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "2026 年 11 月 12 日上午 7:05"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah：@Neha 請在 2026 年 11 月 13 日之前解決 WORK-021 衝突..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / 機器大師"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "可以安排工作的設備：它在哪裡、它可以做什麼、每小時多少、何時"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "打開，以及已經保留的內容。僅調度——無機器控制。"
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "鋁3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "可用"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "停止服務"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q 名稱、地點或能力"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "標籤印表機05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "包裝線03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "A廠·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "植物A·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 個標籤/小時"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "單位/小時"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "標籤"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "密封"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O 保留 無計劃停機"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 保留 下 2026 年 11 月 19 日"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "包裝線02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "植物A·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "試點A公司（樣本）·運營"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "每個目標都會說明一個結果、如何證明成功以及誰擁有它——然後遍歷"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "規劃、批准、執行和管理記錄。"
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "目標"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "使命"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "使命·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "使命與目標"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "可靠且經過驗證的操作"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "與人們按時交付每一項生產承諾，"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "規劃、批准和證明的設備和決策。"
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "業主AshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "人類批准發布"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "每個輸出都是可追蹤的"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "計劃反映實際容量"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "開放任務"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "全部 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "等待審核"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "已接受"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "修訂版"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "搜尋 ID、標題或擁有者"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "準備"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "下一個"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "一週的"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / 人物目錄"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "您可以向公司中的每個人發送訊息，包括來自 UUsers 的團隊和角色。人力資源可用性"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "此處未顯示訪問詳細資訊。"
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "姓名、職務或部門"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "鋁10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "工程"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "行動4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "規劃"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "帳戶"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "任意 (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①不顯示線上狀態：UPingme沒有即時線上狀態服務。狀態是UUsers帳號狀態。"
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "阿瓊·梅塔（你）"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "阿莎·庫爾卡尼"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1條留言"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "公司管理員"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "活躍帳戶"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "管理員"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "活躍帳戶"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "維克拉姆·沙阿"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "留言"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "（審批人）"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / 團隊頻道"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "您所屬的頻道、您可以加入的開放頻道以及已存檔的頻道。"
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 新頻道"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "私人頻道僅對其成員可見。"
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "頻道名稱、主題或訊息文本"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "全公司範圍"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "您的頻道"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "A工廠每週生產計劃"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "OpenOperations5 成員(&O)"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "最後一則訊息 2026 年 11 月 12 日上午 7:05"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "開放渠道，您可以加入"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## 工廠公告"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "A 工廠的全公司通知。僅限所有者"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "貼文。"
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "全公司2名成員所有者 Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "業主貼文"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "預覽"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "加入"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "開啟全公司範圍或屬於您的UPingme範圍內的部門的團隊管道。私人管道已列出"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "指定人員決定進行精確的、凍結的修訂。批准、返回和拒絕是單獨的決定；一個"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "認證是批准後的一個單獨步驟。"
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "等我"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "D"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "我要求的"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "例外情況"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "決定了"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "全部在範圍內"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "搜尋ID、標題、請求者"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "沒有什麼在等你"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "當您是開放階段的指定批准者或活躍替代者時，請求將顯示在此。"
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "每張卡片都可以準確地打開它所需的內容。"
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "工作區地圖"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品卡"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "董事會"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三、列表"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "都在我的範圍之內"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "上午 09:29 刷新"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C 重新整理"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "工作在哪裡設定和進行"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "使命與目標"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / 我的任務"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "我的任務"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "一切都在等著您—從工作流程步驟、表單請求、批准、跟進和UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "提案－在哪裡行動以及完成什麼改變。"
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "我的任務是使用者指定的UDO的一部分。 UDO的"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·我的任務"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "全名、所有者、用戶和其他螢幕都不是"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "需要決定·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "已定義，因此沒有顯示任何其他內容。"
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "分配給我"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "由我分配"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "打開"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "進行中"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "已返回"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "逾期"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "今天到期"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "已完成"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "阿洛"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "類型"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q 搜尋 ID、標題、來源或受讓人"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "所有類型"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "尚未為您分配任何內容"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "任務從工作流程運行（表單和人工步驟）、批准到達這裡"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "請求、某人分配給您的後續行動以及確認的提案"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme。您還將收到一則通知。"
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/運行"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "跑步"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "已批准、發布的工作流程版本的每次執行 - 它正在等待誰、失敗了什麼以及什麼"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "需要協調。即使計劃更改後，運行也會保留其準確版本。"
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "運行時定義"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "鋁0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "等著我"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "等待"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "跑步"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "取消"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "搜尋運行或計劃 ID"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "還沒有運行"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "從 EnginePlanner 中的活動計劃開始運作。"
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "打開引擎規劃器"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "填寫已發佈的表單主範本。每次提交都會保留其提交時的確切表單版本，"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "並讓觀眾接受並返回以進行更正。"
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "可用表格"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "我的意見"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "已發布的表格"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "只能啟動目前發布的版本；舊版本的提交內容仍然可讀。"
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "搜尋表格"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "生產準備清單"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8場"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 需要 6 個"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 桌"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1個文件"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1有條件"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "部門"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "表格所有者"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "卡比爾·森"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "製作記錄"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "準備清單"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021下週的生產準備"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "計劃"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026準備下週的製作"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "談話中需要你做什麼，以及談話的內容。"
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "打開收件匣"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "你的談話中沒有任何內容在等著你。"
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "訊息協調工作；他們從不批准、簽署或完成它。任務僅在執行後才存在"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "提案經過審查並提交。"
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1通話和會議"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "未讀內容"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "開啟任務來自"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "未提交"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "準確打開"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "對話"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "提案"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "留言"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "透過訊息你"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "分配給您於"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "只有您可以草稿"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "還沒讀過"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "看到"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "需要你"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "所有提及"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "最近的對話"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#操作-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "2026 年 11 月 12 日上午 7:05"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "沒有未讀過的內容，也沒有未完成的任務"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "規劃"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "一次談話。"
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / 我的任務"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "相同的任務、ID、證據和權限"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscam"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "在UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "僅對話中的任務"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "從你們的談話中；每個連結回其"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "源對話。"
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "逾期0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "今天到期"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "SearchID、標題、來源或受讓人"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "所有類型"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "試點A公司（樣本）·運營"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "運行記錄、接受的表格和手動輸入以及帶有發布規則的受控文件-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "在一家具有来源血统的商店中。搜索和导出遵循您的访问范围。"
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品所有記錄"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "操作記錄so"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "受控文件"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "乙"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "合法保留"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "搜索 ID、标题或类型"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "任何狀態"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "受控文件"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "发布的内容被冻结。更改是經過其自己批准的新修訂；文件控制者發布它。"
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 包裝線"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "轉換"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "發布文件"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "發布版本 1"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "受控SOP操作"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 次修訂"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "業主莉拉·梅農"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "顯示 1 筆記錄·您造訪以外的記錄不計算在內"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "了解分配给您的确切版本。阅读一段记录进度；只有版本的"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "确认或通过评估即可完成。"
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "我的學習"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "我的作業"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "操作"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "關閉"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "鋁"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "包裝線安全"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① 已分配"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "到期2天·2026年11月15日"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · 你的版本"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "開始上課"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "展示·安全·包裝線"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "由 Leela Menon 分配"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0 of 2sections 已讀"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "考核·通過100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "內容庫"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "主題"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "產品展示"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "搜尋標題、主題、產品"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "所有主題"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "所有產品"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "我的狀態"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "任意"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "平台身份及其访问权限：角色、部门范围、会话、授权和访问权限审核。"
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "人員配置和可用性位於 HR Master 中。"
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "人"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "服務身分"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "您可以看到公司目錄。角色、部門範圍和會話對公司可見"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "管理員。"
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "全部10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "活躍10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "不活躍"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "Q搜尋姓名、電子郵件、ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "包裝操作員操作"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "管理員可見的角色"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "2026 年 11 月 13 日上午 9:28"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "公司管理員營運"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "管理員可見的角色"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / 工作對話"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "與一個目標、計劃、任務、表格、記錄或工作相關的對話"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+新作品對話"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "項目。物件的狀態和版本始終來自自己的模組。"
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "鋁氧體"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "名稱、主題或訊息文本"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "已存檔"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "還沒有工作對話"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "工作對話與您可以打開的一個物件綁定在一起 - 計劃，"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "目標、任務、形式、記錄或工作項目－所以討論留到下一個"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "去工作。"
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "開始一個"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/工作計畫表"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "試點A公司（樣本）·運營"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "工作由 HR Master 的人員和 Machine Master 的設備及時安排。"
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "安排預覽從不預約；只有提交才可以。"
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "需要調度"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "進行中"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "等待批准"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "衝突"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "週時間表"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "搜尋ID、標題、位置"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "生產準備運作—本週2026-11-16"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "時間表"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021·截止日期 2026 年 11 月 18 日·包裝/密封"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "2026 年 11 月 9 日當週"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "本週"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "本週 0 個職位"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "工作"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "週一"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "治療費用"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "週三"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "2026 年 11 月 9 日"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "2026 年 11 月 10 日"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "2026 年 11 月 11 日"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / 工作區設置"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/工作區設定/頻道設置"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "頻道設定"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "主題、會員、誰可以閱讀以及誰可以發佈 - 用於頻道和工作對話。每個"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "變更經過版本控制和審核。"
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "頻道"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "通知"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "訪問"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "保留率"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "會員——唯讀"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# 營運規劃"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##營運規劃"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "只讀"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "只有所有者 (VikramShah) ora 工作區"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "管理員可以更改這些設定。"
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "誰可以閱讀"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "開放式－以人為本"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "可以找到並加入它；"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "訊息顯示給"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "僅限會員"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "誰可以發文"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "所有會員"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "每週產量"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "A 廠規劃"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "會員"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "阿莎·庫爾卡尼，維克拉姆"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "沙阿、尼哈萊爾、瑪雅"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "拉奧·阿瓊·梅塔"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "政策史"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / 商业目标"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / 工作流程草案"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / 所有权"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / 协调执行"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / 结果回顾"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "表格/输入 → 条件"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "人工任务 → 重新检查"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "代理行动 → 整合"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "测试 → 审查 → 激活"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "完成？"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "時間表"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "偏差"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · 準備狀況檢查表"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · 版本化工作流程"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · 主動修訂"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · 指定核准人"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove·等待決定"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/使命&目標"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·阿瓊梅塔"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/工作計畫員"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → 結束"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "輪播"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "投影片"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "將人工智慧代理帶到組織的每個部分。"
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "請參閱實際操作中的UCXO。"
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "準備下週的生產計劃。"
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers 具有平台身分、帳戶狀態和管理員存取上下文。"
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "帳戶在UUsers中單獨管理。"
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    }
+  }
+}

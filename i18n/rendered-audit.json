@@ -1,0 +1,76 @@
+[
+  {
+    "locale": "en",
+    "route": "/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "UCXO — Business execution, coordinated."
+  },
+  {
+    "locale": "en",
+    "route": "/how-it-works/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "How it works — UCXO"
+  },
+  {
+    "locale": "en",
+    "route": "/book-a-demo/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "Book a demo — UCXO"
+  },
+  {
+    "locale": "fr",
+    "route": "/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "UCXO — Exécution commerciale, coordonnée."
+  },
+  {
+    "locale": "fr",
+    "route": "/how-it-works/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "Comment ça marche — UCXO"
+  },
+  {
+    "locale": "fr",
+    "route": "/book-a-demo/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "Réservez une démo — UCXO"
+  },
+  {
+    "locale": "ar",
+    "route": "/",
+    "status": 200,
+    "errors": [],
+    "leaks": [
+      "UMASTERS"
+    ],
+    "title": "UCXO — تنفيذ الأعمال، منسق."
+  },
+  {
+    "locale": "ar",
+    "route": "/how-it-works/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "كيف يعمل — UCXO"
+  },
+  {
+    "locale": "ar",
+    "route": "/book-a-demo/",
+    "status": 200,
+    "errors": [],
+    "leaks": [],
+    "title": "احجز عرضًا توضيحيًا — UCXO"
+  }
+]

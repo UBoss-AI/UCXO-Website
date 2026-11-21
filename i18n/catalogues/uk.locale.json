@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Привіт, команда UCXO,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Я хотів би організувати демонстрацію UCXO."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Чого я хотів би досягти:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Я хотів би обговорити це під час демонстрації."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "дякую,"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Запит на демонстрацію UCXO"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Поля позначені"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "потрібні."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "Ваші контактні дані та дані компанії"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "ім'я"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "Прізвище"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "Робоча електронна пошта"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Компанія"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Назва компанії"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Назва посади"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "Ваша роль"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "Розмір компанії"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Виберіть розмір команди"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "Країна"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "Ваша країна"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Чого б ви хотіли досягти?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "Додатково"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "Робочий процес, який потрібно вдосконалити, ціль, яку потрібно досягти, чи завдання, яке потрібно вирішити…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "Залиште це поле порожнім"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "Ми використаємо ваші дані, щоб відповісти на ваш запит на демонстрацію. Уникайте включення конфіденційної інформації."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Запит на мою демонстрацію"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Відкриває програму електронної пошти з попередньо заповненими даними."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Виконання бізнесу, злагоджено."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Платформа"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Як це працює"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Випадки використання"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Нагляд"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Повернутися до початку"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. Всі права захищені."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "Під керівництвом людини. ШІ. Відповідальний за дизайном."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO додому"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "навігація відкрита"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Основна навігація"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Замовити демо"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Увійдіть"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Закрити меню"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "Відкрити меню"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / ІЛЮСТРАТИВНО"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "жирний 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "РОБОЧИЙ ПРОЦЕС"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "ПОВ'ЯЗАНІ ЕТАПИ"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "ПРАВО ВЛАСНОСТІ"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "ЛЮДИ + АГЕНТИ ДВИГУНІВ"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "ОГЛЯД ЛЮДИНИ"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "ПОТРІБНО / ОЧІКУЄТЬСЯ"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "ЗБЕРЕЖЕННЯ ДЕ ПОТРІБНО"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Визначте мету"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Почніть з результату."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Вкажіть результат і кому він належить."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Узгодження плану готовності виробництва"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "Ціль і бізнес-контекст"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Організаційна власність"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Бажаний результат"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Огляд робочого процесу"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Зробіть план чітким."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Перевірте кроки, залежності та необхідні дозволи."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Перегляньте запропонований план виконання"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Людські завдання та агенти ШІ"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "Залежності та передачі"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Необхідні ворота для затвердження"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Затвердити та призначити"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Встановити право власності."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Затвердити план і призначити кожне завдання його власнику."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Затвердити план і призначити власників"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "Відповідальні власники завдань"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Схвалені можливості агента"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "Обов'язки перевірки персоналом"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "Виконати"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Тримайте роботу на зв’язку."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine дотримується плану та позначає проблеми для перегляду."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "Контролюйте завдання, запуски та передачі"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "Виконання з урахуванням залежностей"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Контрольований агент працює"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Ескалація винятків"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Огляд результатів"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Закрийте петлю."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "Порівняйте результат і його докази з початковою метою."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Перевірте результат із його доказами"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Докази та схвалення завдань"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Історія виконання агента"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "Огляд результатів"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "Подорож UCXO"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "Стрілка вправо"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "Стрілка вліво"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "додому"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "Кінець"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Почніть подорож знову"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Наступний крок"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "ІЛЮСТРАТИВНИЙ РОБОЧИЙ ПРОЦЕС"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "Пов’язано з вашою бізнес-ціллю"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "Наші партнери"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "Логотипи партнерів резюме"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "Призупинити логотипи партнерів"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO партнерів"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "Ваша відправна точка."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "Дивіться загальну картину."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Контекст компанії, сфера діяльності відділу та види робочого простору."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Огляд робочого простору"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "Контекст відділу"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Підключені модулі"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview з контекстом компанії та відділу, вкладками «Огляд» і «Діяльність», а також видимою картою робочого простору."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "Карта інформаційної панелі продовжується під записом PDF. Цей попередній перегляд зберігає точний видимий екран; він не винаходить відсутню частину."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "Ваші завдання."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "Ваші рішення."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Використовуйте UDO для призначень і UApprove для запитів на затвердження."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · Мої завдання"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "Призначено мені / мною"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · Людські рішення"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO Мої завдання з вкладками призначень, фільтрами стану завдань, пошуком і початковим порожнім станом."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove з фільтрами «Чекає на мене», «Запитано мною», «Винятки» та «Вирішено» та початковим порожнім станом."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Повсякденна робота."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "В одному місці."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "Форми, записи, запуск робочого процесу та навчання."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Форми та записи"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · Робочий процес працює"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "Навчання за призначенням"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms, де показано опублікований контрольний список готовності до виробництва, його версію, поля та пов’язаний робочий процес."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords, де показано випущену СОП із контрольованою зміною пакувальної лінії та її перегляд."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "Оригінальний екран UEngine Runs, зберігаючи точну позначку інтерфейсу користувача та стан «No runs still»."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining, що показує призначений урок безпеки пакувальної лінії, прогрес і вимоги до оцінювання."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Налаштуйте бізнес."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Сплануйте роботу."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Цілі, ресурси, дизайн робочого процесу та доступ."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Цілі та планування"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Люди та обладнання"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Шаблони та доступ"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner з чернеткою плану готовності виробництва, готовність 4/8, названий власник і затверджувач, і стан «Неактивний»."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "Місія та цілі"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Місія та цілі, що показують надійну, підтверджену операційну місію та фільтри цілей."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "Планувальник роботи"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Планувальник робіт із підрахунками розкладу, робочим елементом готовності до виробництва та тижневим графіком."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "Майстер кадрів"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "Майстер HR з людьми, ролями, навичками, робочими календарями та зобов’язаннями."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "Машинний майстер"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Майстер машини з інформацією про наявність обладнання, потужність, години роботи та бронювання."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "Майстер форм"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Forms Master з опублікованою незмінною версією контрольного списку готовності до виробництва."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Майстер делегування"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "Майстер делегування з оригінальним повідомленням про необхідність прийняття рішення та запланованою заміною схвалення."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers з ідентифікаторами платформи, станами облікових записів і контекстом доступу адміністратора."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "БЕСІДИ З РОБОТОЮ В КОНТЕКСТІ"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Підтримуйте розмови"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "близько до роботи."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Знаходьте свої розмови, координуйте роботу в командних каналах і зберігайте обговорення, пов’язані з роботою, яка їх стосується. Переглянуті та надіслані пропозиції завдань підключаються до UDO."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Вхідні та згадки"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Командні канали"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Розмови, пов’язані з роботою"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Вхідні"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Вхідні з фільтрами бесід і оригінальною непрочитаною бесідою для планування операцій."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Командні канали, що показують планування операцій і канал сповіщень для всієї компанії."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Робочі бесіди"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme Робочі розмови з початковим порожнім станом і поясненням зв’язків робочий об’єкт."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "Огляд розмови"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview з непрочитаними розмовами, згадками, завданнями та ненадісланими пропозиціями."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "Виконання бізнесу на основі AI"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "Перетворіть SOP на робочі процеси. Призначити відповідальність. Завершення треку."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "Ваш бізнес працює. Ви залишаєтесь під контролем."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "Огляд вашого робочого простору"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. Ваша відправна точка. Перегляньте свою компанію, виберіть відділ і відкрийте потрібний вам модуль."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "Види та сфера діяльності відділу"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "Використовуйте «Огляд» для швидкого перегляду або «Активність», щоб стежити за оновленнями. Елементи керування переглядом пропонують карту, картки, дошку та список."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. Ваші завдання та погодження. UDO показує доручену вам роботу."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "Завдання, статус і пошук"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "Фільтруйте за статусом, знайдіть завдання або перевірте роботу, яку ви доручили комусь іншому."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · Ваша черга рішень"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Відкрийте UApprove, щоб переглянути запити, які очікують на ваше рішення. Схвалити, повернути або відхилити роботу."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Опубліковані форми"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Де ви виконуєте роботу. Заповнюйте опубліковані форми в UForms та відстежуйте свої надсилання."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · Докази та документи"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords зберігає документи та докази з деталями їх перегляду та затвердження."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine показує запуски робочого процесу, прогрес і винятки. Цей зразок ще не виконано."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Навчання за призначенням"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining об’єднує призначені уроки, терміни виконання та оцінювання."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Налаштуйте, як працює ваш бізнес. Почніть із Місії та Цілей, щоб визначити мету та її власника."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner планує роботу з необхідними людьми та обладнанням."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner визначає робочий процес. Протестуйте його, отримайте схвалення та активуйте перед виконанням."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master керує ролями, навичками та наявністю персоналу."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master керує потужністю обладнання, доступністю та обслуговуванням."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master створює та публікує шаблони, які заповнює ваша команда UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Майстер делегування визначає, хто може взяти на себе завдання або затвердження та на який термін."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers керує обліковими записами користувачів, ролями та правами доступу."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Ознайомтеся з оглядом розмов, папкою \"Вхідні\", спільними завданнями, каналами, людьми та налаштуваннями робочої області."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "Огляд вашої розмови"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme має власний огляд розмов. Він об’єднує непрочитані згадки, непрочитані розмови, відкриті завдання з розмов і ненадіслані пропозиції з посиланнями на відповідну роботу."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Виберіть «Вхідні», щоб знайти розмови, до яких ви належите. Фільтри відокремлюють непрочитані бесіди, прямі повідомлення, згадки та дії. Зразок показує канал команди планування операцій і його непрочитану розмову."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · Спільні завдання"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "Виберіть UDO, щоб побачити те саме сховище завдань, яке використовує UCXO. Завдання розмови посилаються на своє джерело. Пропозиція повідомлення стає завданням лише після того, як її розглянуто та подано."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Виберіть командні канали, щоб переглянути свої канали, відкриті канали, до яких ви можете приєднатися, і заархівовані канали. Приватні канали бачать лише учасники. Зразок відокремлює планування операцій від повідомлень про підприємство в масштабах компанії."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Виберіть «Робочі розмови», щоб обговорення було прив’язане до цілі, плану, завдання, форми, запису або робочого елемента. Його статус і версія все ще надходять із власного модуля об’єкта."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Дзвінки та зустрічі · Поточний статус"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "Дзвінки та зустрічі видно в навігації, але надана збірка не має постачальника дзвінків. На цьому екрані пояснюється, що виклики, планування, запис і стенограми наразі недоступні."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "Каталог людей"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Виберіть каталог «Люди», щоб знайти колег, яким ви можете надіслати повідомлення, з командами та ролями від UUsers. Відображається статус активного облікового запису; посилання не забезпечує присутності в реальному часі."
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Налаштування робочого простору"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Виберіть налаштування робочої області для тем каналу, членства, дозволів на читання та публікацію, а також історії політики. Зразок користувача має доступ лише для читання. Повідомлення координують роботу; вони не затверджують і не завершують його."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Екран оригінального програмного забезпечення"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Переглянути на весь екран"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Огляньте оригінальний екран"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "Торкніться екрана, щоб переглянути його в повному розмірі."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "сторінка PDF"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Оригінальний макет, мітки, дані та стани"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Довідкова примітка:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Оригінальне програмне забезпечення UCXO · сторінка PDF"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Підходить до вікна"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Фактичний розмір"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "Закрити попередній перегляд екрана"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Огляд і навігація."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "Завдання та погодження."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "Щоденні інструменти."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Налаштування бізнесу."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "AbortError"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "Виберіть Відтворити, щоб відновити оповідання."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO Демонстрація продукту з чотирьох частин"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "Не вдалося завантажити дикторський текст. Виберіть Відтворити з дикторським текстом, щоб повторити спробу."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "ТУР ПРОДУКЦІЇ UCXO"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "ВСТУП"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Повтор з дикторським текстом"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "Відновити розповідь"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "Вимкнути оповідання"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Відтворити з озвученням"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "ВАШ РОБОЧИЙ ПРОСТОР, ПІДКЛЮЧЕНИЙ"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "Чотири демонстраційні розділи продукту"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "Стрілка вниз"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "Стрілка вгору"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· Керована демонстрація"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "Призупинити розповідь"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "Припасувати екран"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Фокусний вид"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Розгорнути керовану демонстрацію"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Повторний тур"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Відтворити демо-версію"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Призупинити керовану демонстрацію"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "Повторіть цей розділ"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "Вимкнути демонстраційний текст"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "Увімкнути демонстраційний текст"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "Прогрес демонстраційного розділу"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "ТУР ЗАВЕРШЕНО"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "ВІДТВОРЕННЯ РОЗПОВІДІ"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "РОЗПОВІД ПРИЗУПИНЕНО"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "Оповідання ВИМКНЕНО"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Розширена демо-версія UCXO"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Закрити попередній перегляд"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Відтворити демо"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "Призупинити демонстрацію"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Огляд"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "діяльність"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Карта робочого простору"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Картки"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ Дошка"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Список"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "кафедра"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Все в моїй сфері⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ Пілотна компанія A (зразок)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ Операції"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "Радий тебе бачити, Арджун (оператор). Кожен модуль, який ви можете відкрити, знаходиться навколо UCXO з однією фігурою; кожна карта відкриває саме те, що вона зараховує."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ Оновлено 09:29 ранку"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Оновити"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "Пілотна компанія A (зразок)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "Ваші відділи: Операційний."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Де налагоджена та проводиться робота"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "Місія та цілі"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "Місія та цілі, планувальник роботи та Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "ГОТОВНІСТЬ ВИРОБНИЦТВА"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "Почніть із прийнятої мети: підготуйте виробничий план на наступний тиждень."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "ЛЮДИ І ВЛАСНІСТЬ"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "Люди та право власності забезпечують контекст для відданої роботи."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "ПРОЕКТ РОБОЧОГО ПРОЦЕСУ"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Пов’яжіть ціль, зобов’язану роботу та ресурси з версійним робочим процесом."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "КОНТРОЛЬНИЙ СПИСОК ГОТОВНОСТІ"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Зробіть контрольний список готовності за допомогою форми / кроку введення."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "NAMED HUMAN REVIEW"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "Зазначена особа має схвалити версію, перш ніж її можна буде активувати."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "ВІДДАНА РОБОТА"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Виконайте роботу та ресурси, які координуватиме план."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner типізований робочий процес"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Дія агента"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "АГЕНТ ШІ · РЕЗЮМЕ ПРО ПОТУЖНІСТЬ"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "Зведення про ємність запускається після того, як умова зазору лінії пройде."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "Форма / вхід"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "ЛЮДИНА · КОНТРОЛЬНИЙ СПИСОК ГОТОВНОСТІ"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "Людина заповнює контрольний список готовності в UForms."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "Стан"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "КОНТРОЛЬ · ПРОЗОР ЛІНІЇ?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "Так, продовжує дія ШІ. Немає шляхів до людського завдання для вирішення."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Людське завдання"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "ЛЮДИНА · РОЗРІШИТИ ДЕВІАЦІЮ"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Усуньте відхилення від дозволу в UDO, а потім ще раз перевірте форму, максимум три рази."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "Інтеграція"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "СИСТЕМА · ГРАФІК ERP"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Оновіть графік ERP після зведення про потужності. Помилка синхронізації слідує за шляхом сповіщення."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "Затвердження"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "ЛЮДИНА · ОГЛЯД ВИПУСКУ"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "Названий керівник операцій схвалює випуск у UApprove."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Вивід запису"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "СИСТЕМА · ЗАТВЕРДЖЕНИЙ ПЛАН"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "Затверджений план виробництва зберігається до URecords."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "КОНТРОЛЬ"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Завершіть налаштований шлях робочого процесу."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine страта та відновлення людини в UDO"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "Відповідальна особа отримує та виконує призначене завдання відновлення в UDO."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "Підсумок ємності може виконуватися лише після виконання умови зазору лінії."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "Release очікує на названого затверджувача; U-Engine не може прийняти це рішення."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Немає маршрутів до UDO та назад до контрольного списку готовності. Так, продовжує дія ШІ."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "Інтеграція оновлює розклад ERP перед затвердженням випуску."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords та відновлення сповіщень"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "Зазначений керівник операцій розглядає докази та вирішує, чи схвалювати звільнення."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "СИСТЕМА · ВИХІД ЗАПИСУ"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Зберігайте затверджений виробничий план і допоміжний запис."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "ЗАТВЕРДЖЕНО АКТИВНУ ПЕРЕГЛЯД"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Лише перевірена, перевірена, схвалена та активована версія може почати роботу."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "СИСТЕМА · ПОМИЛКА СИНХРОНІЗАЦІЇ"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "Помилка синхронізації ERP слідує за налаштованим маршрутом сповіщення."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Сповіщення"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "СИСТЕМА · ПОВІДОМЛЕННЯ ПЛАНІВНИКА"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "Повідомте відповідального планувальника про збій синхронізації ERP. UPingme підключає розмову."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "Схвалений шлях запису та шлях відновлення сповіщень досягають кінця."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "ЧАТ · НАГАДУЄТЬ · ЕСКАЛАЦІЯ"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "Розмови, нагадування та ескалації досягають відповідальної особи тут; схвалення залишається в UApprove."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "Визначити і спланувати"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Мета. Версійний план."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Місія та цілі поєднують віддану роботу та ресурси за допомогою Work Planner і Engine Planner."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Почніть з мети: підготуйте план виробництва на наступний тиждень."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "З’єднайте людей і віддану роботу за допомогою HR Master і Work Planner."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms фіксує контрольний список готовності."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner прив’язує ціль і ресурси до версійного робочого процесу."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Тестувати, переглядати, активувати"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Введені кроки. Контрольоване вивільнення."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Перегляньте полотно робочого процесу, протестуйте його та завершіть перевірку готовності до схвалення та активації людиною."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "Робочий процес починається з форми та умови зазору рядків."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Якщо очищення не вдається, завдання людини вирішує відхилення та повторно перевіряє форму."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Якщо він пройдений, дія AI готує підсумок ємності, а потім інтеграція оновлює розклад."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "Тестуйте, переглядайте, затверджуйте та активуйте версію перед тим, як U-Engine розпочне роботу."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "Виконати та відновити"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine біжить. Люди залишаються залученими."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "Схвалений робочий процес слідує своїм налаштованим маршрутам. UDO веде відновлювальні роботи з відповідальною особою."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine слідує за активною версією та маршрутами її стану."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "Зведення про ємність запускається лише після проходження лінії."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Люди отримують і виконують призначені завдання відновлення в UDO."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "Інтеграція оновлює розклад або слідує маршруту його збою."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "Реліз чекає на затверджувача, названого в UApprove."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "Затвердити та записати"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "Людське схвалення. Підключений запис."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove зберігає рішення у людини. URecords зберігає план. UPingme підключає розмову."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "Невдала інтеграція сповіщає відповідального планувальника. UPingme підключає розмову."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "Схвалення випуску залишається у вказаної особи в UApprove."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "Особа, яка затверджує, переглядає докази та приймає рішення."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "Після схвалення URecords зберігає план виробництва, і робочий процес завершується."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Виконання бізнесу, злагоджено."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "МІСІЯ ТА ЦІЛІ"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "МАЙСТЕР HR · ПЛАНІВНИК РОБОТИ"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · ОЗДОРОВЛЕННЯ ЛЮДИНИ"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "ІНТЕГРАЦІЯ · ГРАФІК ERP"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "ПОВІДОМЛЕННЯ · ВІДПОВІДАЛЬНИЙ ПЛАНІВНИК"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "РІШЕННЯ ЛЮДИНИ ЗАПИСАНО"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "РЕЗУЛЬТАТ, ПОВ’ЯЗАНИЙ З ЦІЛЮ"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "Підготовка робочого процесу…"
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "NotAllowedError"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "Ваш браузер призупинив оповідання. Щоб почати, виберіть Відтворити оповідання."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "Розповідь не може початися. Виберіть Відтворити оповідання, щоб повторити спробу."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "Як працює UCXO"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "ВХІД"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "КНОПКА"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "Не вдалося завантажити дикторський текст. Виберіть Відтворити оповідання, щоб повторити спробу."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "ЯК ПРАЦЮЄ UCXO"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "ОДНА МЕТА. ОДНА ПОВ’ЯЗАНА ІСТОРІЯ."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "Готуйте наступного тижня"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "Слухайте пояснення"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Грати розповідь"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Звук увімкнено · Вимкнено"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Початок оповідання…"
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Відтворити пояснення"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Пауза в поясненні"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Повторити розділ"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Увімкнути звук"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Вимкнути звук"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "Прогрес глави"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "РОЗДІЛ ФІЛЬМ"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "ДОПОВІДЬ · ЗВУК ВИМКН"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "РОЗПОВІДЬ · ГРА"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "РОЗПОВІД · НЕДОСТУПНИЙ"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "РОЗПОВІД · НАТИСНІТЬ ГРАТИ"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "РОЗПОВІД · ПАУЗА"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "РОЗПОВІД · ЗАВАНТАЖЕННЯ"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Виберіть розділ"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "Відтворити анімацію"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "Людина"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "AI агент"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "система"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "контроль"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "Планувальник запускається"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "пробіг готовності"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "Тригер"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "Контрольний лист готовності"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "Кліренс лінії"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Підсумок ємності"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Оновити пісочницю ERP"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Керівництво операціями"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "затверджує випуск"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Затверджене виробництво"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "запис плану"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Вирішити оформлення"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Повідомте планувальника ERP"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "збій синхронізації"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "так"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "немає"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Повторна перевірка (макс. 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "Недійсний вихід"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "Помилка синхронізації"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "Затверджено"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "Відхилено / повернуто"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner полотно робочого процесу"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Полотно робочого процесу"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "чернетка v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "Ілюстративний"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "Полотно"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "Упорядковані кроки"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Введений робочий процес"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "Збільшити робочий процес"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "Зменшити робочий процес"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "Розмістіть весь робочий процес для перегляду"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "виконання"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "рішення · відновлення"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Так → Підсумок ємності · Ні → Усунути відхилення від зазору"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Повторна перевірка контрольного списку готовності (макс. 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "Помилка синхронізації → Повідомити планувальнику"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Робочий процес готовності до виробництва з гілками затвердження та відновлення"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Введіть"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "План підготовки виробництва на наступний тиждень"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "Ілюстративне затвердження записано"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "Потрібне схвалення людини"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Замовити демо — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Подивіться, як UCXO поєднує ваші цілі, людей і робочу силу ШІ. Розкажіть нам про свій бізнес і замовте особисту демонстрацію."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "Замовити демо."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "Для вашої команди."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Перегляньте UCXO з робочим процесом вашого бізнесу."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "ВАША МЕТА"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "ЛЮДИ + ШІ"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "РЕЗУЛЬТАТ"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "Чого чекати"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "Почніть зі своїх цілей"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Розкажіть, де робота застряє."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "Досліджуйте можливості"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "Ознайомтеся з інструментами, які стосуються вашої команди."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Знайдіть свій наступний крок"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "Вирішіть, чи UCXO відповідає вашим потребам."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "Віддаєте перевагу електронній пошті?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "ПЕРСОНАЛЬНА ДЕМО"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "Ваші дані"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Розкажіть трохи про свою команду."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Чотири попередні перегляди домашньої сторінки — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Повернутися на сайт"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "ДОМАШНЯ КАРУСЕЛЬ · ОГЛЯД МІСЦЕВОГО ДИЗАЙНУ"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Одне робоче місце."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "Чотири шляхи руху вперед."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Чотири запропоновані картки домашньої сторінки. Екрани справжнього програмного забезпечення, чіткі пояснення та ближчий погляд на кожну частину UCXO."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Оригінальні екрани з вашого дизайну PDF"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Статичний попередній перегляд для перегляду"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Ознайомтеся з чотирма попередніми переглядами"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "Чотири попередніх перегляду домашньої сторінки"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "ЧОТИРИ СТАТИЧНІ ПЕРЕГЛЯДИ · ГОТОВІ ДО ВАШОГО ПЕРЕГЛЯДУ"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "Програмне забезпечення веде."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "Історія дає зрозуміти."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Виберіть будь-який селектор екрана, щоб перевірити відповідний модуль. Відкрийте екран у повному розмірі, щоб порівняти його з PDF. Ці попередні перегляди зберігають оригінальні зразки даних і порожні чи чернеткові стани."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Повернутися до огляду чотирьох попередніх переглядів"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Як це працює — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "Дотримуйтеся однієї бізнес-цілі від запропонованого робочого процесу до схвалення персоналом і перевіреного результату."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "ВІД НАПРАВЛЕННЯ ДО ДОСТАВКИ"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Одна мета."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "Кожен крок пов'язаний."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "Дотримуйтесь ілюстративного плану готовності виробництва."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "Люди зберігають рішення, які потребують людського судження."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "Виконання бізнесу,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Об’єднайте свої цілі, людей і робочу силу ШІ в один спільний робочий процес."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Дослідіть платформу"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "Увійдіть до UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — Виконання бізнесу, скоординоване."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Перетворіть бізнес-цілі на скоординовані дії. Плануйте робочі процеси, об’єднуйте людей і агентів штучного інтелекту та підтримуйте відповідальність за виконання."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Цілі в робочі процеси"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "Розбийте бізнес-ціль на кроки, залежності та власників."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Сплануйте роботу"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Визначте завдання, умови, інтеграції та шляхи затвердження в версійному робочому процесі."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Спроектуйте робочий процес"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO завдання"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "Призначте відповідальну особу та чіткий статус кожного завдання."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Призначити відповідальність"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "Готовність робочого процесу"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Протестуйте версію та завершіть її перевірку перед схваленням і активацією."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Підготуватися до виконання"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "ШІ У ВАШІЙ ОРГАНІЗАЦІЇ"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 — ПЛАТФОРМА"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Менше ручної роботи."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "Більше часу для вашої команди."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "Приведіть агентів ШІ"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "Створюйте та координуйте агентів ШІ для автоматизації повсякденних завдань у відділах."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "Перегляньте приклад робочого процесу"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "Менше ручних передач"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Люди та ШІ працюють разом"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Чітке право власності"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "ЧІТКИЙ ШЛЯХ ВІД МЕТИ ДО РЕЗУЛЬТАТУ"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — ЯК ЦЕ ПРАЦЮЄ"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "Від голу"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "до виконаної роботи."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Дотримуйтеся п’яти етапів робочого процесу."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "СТВОРЕНІ ДЛЯ СПІЛЬНОЇ РАБОТИ"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — ОСНОВНІ МОЖЛИВОСТІ"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Інструменти позаду"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "робочий процес."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Плануйте, призначайте, тестуйте та запускайте."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "АВТОМАТИЗАЦІЯ З ВІДПОВІДАЛЬНІСТЮ"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "Людські рішення."
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "У правильні моменти."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove направляє рішення відповідальній особі."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Докази до затвердження"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Огляньте супровідні записи."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Видимість виконання"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "Переглянути історію виконання та винятки."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Чіткі ролі та дозволи"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "Встановіть ролі та сферу діяльності відділу."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "НАГЛЯД ЗА ВИКОНАННЯМ"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "ІЛЮСТРАТИВНА"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "Моніторинг виконання робочого процесу"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "ВОРОТА СХВАЛЕННЯ ЛЮДИНИ"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "Рішення залишається за вами."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Перегляньте докази та вирішіть."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "Чекає схвалення людини"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Підтверджувальні докази додаються"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "Виявлено виняток"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Передано відповідальному рецензенту"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "Моніторингова робота не дає схвалення людини."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "Створено для того, як працює бізнес"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — ВИПАДКИ ВИКОРИСТАННЯ"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Справжня робота."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "З’єднані з кінця в кінець."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Спільний рівень виконання для власників бізнесу,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "керівники операцій і команди, які вони очолюють."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "ОПЕРАЦІЇ"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "Оперативна координація"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Поєднайте міжфункціональні завдання, власників і залежностей навколо спільної бізнес-цілі."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Визначити план"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Передача координат"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "ПОВТОРНА РОБОТА"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Періодична звітність"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "Повторно використовуйте агентів штучного інтелекту для підготовки роботи, а потім направляйте результати та докази людям, які їх переглядають."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Зберіть вхідні дані"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "Запустіть агента"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "Огляд людиною"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "РЕГУЛЮВАНЕ ВИКОНАННЯ"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "Робота, орієнтована на схвалення"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "Об’єднайте докази завдань, перевірку персоналом і обробку винятків в одному видимому робочому процесі."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "Зберіть докази"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Запит на схвалення"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "Усунення винятків"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Репрезентативні випадки використання. Приклади робочого процесу є ілюстративними."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "КІЛЬКА РЕЧЕЙ ПРОЯСНЕНІ"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Створено для ясності."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "Що таке UCXO?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO допомагає командам перетворити процедури на призначену, відстежувану роботу з агентами ШІ та схваленнями людей."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Як Engine Planner та U-Engine працюють разом?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner проектує робочий процес. U-Engine запускає перевірену, затверджену та активовану версію."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Хто затверджує роботу?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "Вирішує названа особа, яка затверджує. Агент ШІ не може надати таке схвалення."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Коли можна запустити робочий процес?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "Після перевірки готовності, схвалення людиною та активації."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "ДАЙТЕ СВОЇМ ЦІЛЯМ ШЛЯХ УПЕРЕД"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Дивіться UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Замовте демонстрацію для своєї команди або перегляньте приклад робочого процесу."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Слідкуйте за робочим процесом"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Будь ласка, заповніть це поле."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Введіть дійсну електронну адресу."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Будь ласка, перевірте це значення."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Аудіо: англійська"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "Стенограма"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Сторінка не знайдена"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "Сторінку, яку ви запитували, не вдалося знайти."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "Повернення додому"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Виберіть мову"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "Пошук мов"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "Втеча"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "Мови"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO демо-запит — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Ім'я: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "Робоча електронна адреса: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Компанія: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Посада: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Розмір компанії: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Країна: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "Розділ {0}: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "КРОК {0}/{1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} з {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "ПОВНА ІСТОРІЯ · {0} СЕКУНД"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "Розгорнути екран {0}"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "Огляньте оригінальний екран {0}"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "Екрани програмного забезпечення: {0}"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} оригінальний екран програмного забезпечення"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "ДАЛІ · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} демонстраційних розділів"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. Оригінальний екран програмного забезпечення UCXO з демонстрацією керованого курсору."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Дзвінки та зустрічі"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Шукати ідентифікатори, назви..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "Пілотна компанія A (зразок) · Операції"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "ДІМ"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Дзвінки та зустрічі"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "Голосові та відеодзвінки, планування зустрічей, запис і стенограми не є частиною цієї збірки."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "ПОСТАЧАЛЬНИК ВИКЛИКУ·НЕ НАЛАШТОВАНО"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Неможливо почати дзвінки чи зустрічі"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "тут"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Необхідне рішення·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Немає елементів керування приєднанням, записом або транскрибуванням"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "тому що насправді нічого не станеться. Зустрічі"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "не можна запланувати або зберегти — їх немає."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Вирішити, перш ніж callsexist"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "Тим часом"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Дзвінки та зустрічі"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "Провайдер дзвінків і дані про дзвінки"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "Робочі бесіди"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "оброблені"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O активний, кожен з яких пов’язаний з об’єктом"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Необхідне рішення·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "обговорено."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "Згода учасника перед будь-яким"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Надішліть повідомлення людині"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "запис або стенограма"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "Прямі повідомлення створюються з першими"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "повідомлення."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "Зберігання та доступ до записів"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "Погодьтеся на дію"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "Запропонувати завдання з повідомлення; воно досягає"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "і стенограми (URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO лише після того, як ви його переглянете та подасте."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Налаштування"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Оператор"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "Цільові пристрої, дисплеї та приміщення"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ Майстер делегування"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "Пілотна компанія A (зразок) · Операції"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "Хто може діяти для кого, на що і як довго. Передача завдань і затвердження повноважень"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "заміна є окремими повноваженнями, обмеженими за часом."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Необхідне рішення · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "Ділове значення делегування та чи дозволені ланцюжки не вирішуються. Консервативний"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "застосовуються значення за замовчуванням: делегування ніколи не надає більше, ніж утримує делегатор (перевіряється знову кожного разу"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "використання), ланцюжки заблоковано, а заміна схвалення потребує незалежного адміністратора."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "AIl"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "Очікує затвердження"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "За розкладом"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Активний"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "Термін дії минув"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "Відкликано"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "Відхилено"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Обидва види 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Заміна схвалення 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Передача завдання 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Лише делегації за участю мене"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Пошук людей, ID, причина"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6 листопада-3 грудня"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "Раніше"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "Сьогодні"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "Пізніше"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "ХТО ДІЄ ЗА КОГО"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "РоханДас"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "виступає за ВікрамШах"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Операції"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "PilotCompanyA(зразок)·Операції"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "План пов’язує прийняту мету, зобов’язану роботу та ресурси з керованим робочим процесом. Це повинно пройти"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "готовності, бути схваленим названою особою та бути активованим перед початком будь-якого запуску."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "Чернетка"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Готовий до перегляду"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "В огляді"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "Q"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "Підвішено"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "Ідентифікатор пошуку, назва або ціль"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 план"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "План готовності виробництва на наступний тиждень"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "ObjectiveOBJ-026·Підготувати виробничий план наступного тижня"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "Готовність 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "ЖИВА ВЕРСІЯ"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·проектv1·10вузлів"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "Неактивний"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "ЗАТВЕРДЖУВАЧ"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "ВЛАСНИК"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "ВікрамШах"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Вирішити готовність"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Майстер форм"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Ідентифікатори пошуку, заголовки.."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Майстер форм"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Визначення форм, створені на вимогу відділу. Опубліковані версії є незмінними; кожна зміна"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "стає новою чорновою версією, яку публікує незалежний рецензент."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "AII"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Опубліковано"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "На пенсії"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Всі відділи"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Пошук ID, імені або запису"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "Контрольний лист готовності виробництва"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Контрольний список оператора перед запуском упаковки."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Переглянути"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "& OperationsOwner Kabir SenProduces Контрольний список готовності"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "Прив’язка до ПЛАН-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8 полів · незмінні"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "FormsMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / магістр кадрів"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "Люди як ресурси для планування: роль, навички, робочий календар і те, до чого вони віддані. Логін"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Люди та навички"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "Ієрархія та персонал"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "Дошка наявності"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "Імпорт (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Люди"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Матриця навичок"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "Майстерність"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Статус"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Всі мої відділи"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Будь-який навик"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Активний і неактивний"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Ім'я, роль або навички"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Суніл Варма"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "СВ"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Технік з обслуговування"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Оператор пакування"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "Технічне обслуговування"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "Електричний"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Упаковка"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "якість"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "М"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "Т"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "В"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗Нічого не зобов’язано"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Немає облікового запису для входу"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "Логін: Арджун Мехта"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "Майя Рао"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "MR"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / Вхідні"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "Кожна бесіда, у якій ви берете участь, відсортована таким чином, щоб те, що вам потрібно, було на першому місці."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markallread"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Повідомлення комусь"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "Алі 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Непрочитаний"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Прямі повідомлення"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "Згадки"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Пошук імен, тем і тексту повідомлення"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "НЕПРОЧИТАНИЙ"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#ops-планування"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Командний канал"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "12 листопада 2026, 7:05 ранку"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah: @Neha, будь ласка, вирішіть конфлікт WORK-021 до 2026-11-13 a..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / Майстер машини"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "Обладнання, на якому можна запланувати роботу: де воно знаходиться, що воно може робити, скільки на годину, коли воно"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "відкрито, а те, що вже зарезервовано. Лише планування — без керування машиною."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIl3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "в наявності"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "Несправний"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "П. Ім'я, місцезнаходження або можливості"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "Принтер етикеток 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "Пакувальна лінія 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "PlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "PlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 етикеток/год"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "одиниць/год"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "Маркування"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "Пломбування"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "Ф"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "С"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O зарезервовано Не планується простой"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 зарезервовано Down 19 листопада 2026"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "Пакувальна лінія 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "Пілотна компанія А (зразок) · Операції"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Кожна мета вказує на результат, як підтверджується успіх і хто ним володіє — потім проходить"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "планування, затвердження, виконання та контрольований запис."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Цілі"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "Місія"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "МІСІЯ·МІС-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Місія та цілі"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Надійні, підтверджені операції"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Вчасно виконуйте кожне виробниче зобов’язання з людьми,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "обладнання та рішення, які плануються, схвалюються та підтверджуються."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "Власник Аша Кулкарні"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "Люди схвалюють випуски"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Кожен вихід відстежується"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "Плани відображають реальну потужність"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "Відкрита місія"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Всі 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "Очікує розгляду"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "прийнято"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "Переглянуто"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Ідентифікатор пошуку, назва або власник"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "Приготуйте"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "наступний"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "тижня"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Каталог людей"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "Кожен у вашій компанії, якому ви можете надіслати повідомлення, з його командою та ролями з UUsers. Наявність кадрів"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "і деталі доступу тут не показано."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Ім'я, посада або відділ"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIl10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Інженерія"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Операції 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "Планування"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "Обліковий запис"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "Будь-який (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①Присутність не відображається: UPingme не має служби присутності в реальному часі. Статус – це стан облікового запису UUsers."
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Арджун Мехта (ви)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Аша Кулкарні"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "АК"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1 повідомлення"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "Адміністратор компанії"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Активний акаунт"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "адміністратор"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "Активний обліковий запис"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Вікрам Шах"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "повідомлення"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "ПРОТИ"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(затверджувач)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Командні канали"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Канали, до яких ви належите, відкриті канали, до яких ви можете приєднатися, і заархівовані канали."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Новий канал"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "Приватні канали доступні лише для їхніх учасників."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Назва каналу, тема чи текст повідомлення"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "В масштабі компанії"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "ВАШІ КАНАЛИ"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Тижневе планування виробництва для заводу А"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5членів"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Останнє повідомлення 12 листопада 2026, 7:05 am"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "ВІДКРИТИЙ КАНАЛ ВИ МОЖЕТЕ ПРИЄДНАТИСЯ"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## завод-оголошення"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "Повідомлення для всієї компанії для заводу А. Тільки власник"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "пости."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "Власник 2 членів компанії Аша Кулкарні"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "власник повідомлень"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Попередній перегляд"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Приєднуйтесь"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Відкрийте командні канали, які поширюються на всю компанію або належать відділу у вашій сферіUPingme. Приватні канали перераховані"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "На точну, заморожену ревізію вирішують названі люди. Схвалити, повернути та відхилити – це окремі рішення; ан"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "атестація є окремим етапом після затвердження."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Чекає на мене"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "Д"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "Запитано мною"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "Винятки"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "Вирішив"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Все в обсязі"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "SearchID, назва, запитувач"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Тебе нічого не чекає"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "Запити з’являються тут, якщо ви є затверджувачем відкритої сцени або активною заміною."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "кожна картка саме те, що має значення."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Карта робочого простору"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品Картки"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "дошка"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 Список"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Все в моїй сфері"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "Оновлено о 09:29"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C Оновити"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Де налагоджені та проводяться роботи"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Місія та цілі"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / Мої завдання"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "Мої завдання"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "Усе, що чекає на вас — від етапів робочого процесу, запитів форм, схвалень, подальших дій і UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "пропозиції — з тим, куди діяти і що доповнення це змінює."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "Мої завдання є частиною UDO, якою керує користувач. UDO"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·MyTasks"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "повне ім'я, власник, користувачі та інші екрани - ні"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "Необхідне рішення·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "визначено, тому більше нічого не показано."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "Призначений мені"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "Призначений мною"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "відкритий"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "У процесі"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "Повернувся"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "Прострочена"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Термін виконання сьогодні"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "Виконано"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "Алло"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Тип"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Ідентифікатор пошуку, назва, джерело або правонаступник"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Всі типи"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Вам ще нічого не призначено"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "Завдання надходять сюди з запусків робочого циклу (кроки форми та людини), затвердження"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "запити, подальші дії, які хтось призначає вам, і пропозиції, підтверджені в"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Ви також отримаєте сповіщення."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Бігає"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Бігає"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Кожне виконання схваленої опублікованої версії робочого циклу — на кого вона чекає, що не вдалося і що"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "потребує узгодження. Запуски зберігають свою точну версію навіть після зміни плану."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Визначення середовища виконання"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "AIl0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "Чекає на мене"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "Очікування"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "Біг"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "Скасовано"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "Шукати запуск або ідентифікатор плану"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Пробігів ще немає"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Запуски починаються з активного плану в EnginePlanner."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Відкрийте EnginePlanner"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Заповніть опубліковані шаблони Forms Master. Кожне подання зберігає точну версію форми, у якій воно було зроблено,"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "іпереглядач приймає або повертає його для виправлення."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Доступні форми"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "Мої подання"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Опубліковані форми"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "Можна запустити лише поточну опубліковану версію; старі версії залишаються доступними для читання в їхніх поданнях."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "Пошукові форми"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Контрольний лист готовності виробництва"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8 полів"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6 потрібно"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 табл"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1 файл"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1 умовний"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "ВІДДІЛ"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "ВЛАСНИК ФОРМИ"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "Кабір Сен"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "ПРОДУКТИЗАПИС"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "Контрольний лист готовності"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "ПЛАН-021 Готовність до виробництва наступного тижня"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "планувати"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026 Підготуйте виробництво наступного тижня"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Те, що у ваших розмовах потребує вас, і робота, про яку вони йдеться."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Відкрити вхідні"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "Ніщо у ваших розмовах не чекає на вас."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "Повідомлення координують роботу; вони ніколи не затверджують, не підписують і не завершують його. Завдання існує лише після a"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "пропозиція розглянута та подана."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1Дзвінки та зустрічі"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Непрочитані"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Відкриті завдання від"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "Не надіслано"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "Відкрито точно"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "розмови"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "пропозиції"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "повідомлення"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "З повідомленнями ви"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "Призначено вам в"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "Чернетки вмієте тільки ви"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "не читав"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "побачити"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "Ви потребуєте"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "Усі згадки"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "Останні розмови"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ops-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "12 листопада 2026, 7:05 ранку"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Nounreadmentandnoopentaskfrom"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "планування"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "розмова."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / Мої завдання"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Ті ж завдання, документи, докази та повноваження, що й"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Opentaskscame"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "У UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Тільки завдання з розмов"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "з ваших розмов; кожен посилається на свій"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "джерелорозмова."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "Прострочено0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "Термін виконання сьогодні"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "Ідентифікатор пошуку, назва, джерело або правонаступник"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Всі види"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "Пілотна компанія A(зразок)·Операції"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Записи з прогонів, прийняті форми та введення вручну, а також контрольовані документи з правилами випуску-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "в одному магазині з вихідним походженням. Шукайте й експортуйте відповідно до сфери доступу."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品Всі записи"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Оперативні записи так"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "Контрольовані документи"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "Б"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Законне утримання"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "Ідентифікатор пошуку, назва або тип"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "Будь-який статус"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Контрольовані документи"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "Опублікований вміст заморожено. Зміна – це нова версія з власним схваленням; контролер документів випускає її."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 Пакувальна лінія"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "перехід"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Випущений документ"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "Випущено ред. 1"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "ControlledSopOperations"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 перегляд"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Власниця Ліла Менон"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "1 показаний запис · записи поза вашим доступом не враховуються"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "Дізнайтеся точну версію, призначену вам. Читання розділу записує прогрес; тільки версії"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "підтвердження або непрохідна оцінка завершує його."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "Моє навчання"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "Мої завдання"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "ор"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "Закрито"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "АлІ"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "Безпека пакувальної лінії"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① Призначено"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "Термін за 2 дні·15 листопада 2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · ваша версія"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "Розпочати урок"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "Презентація·Безпека·Пакувальні лінії"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "Автор: Ліла Менон"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0з2прочитаних розділів"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Оцінка·пройшов100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Бібліотека вмісту"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "Тема"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "Продукт"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Назва пошуку, тема, продукт"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Всі теми"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Всі продукти"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "Мій статус"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "Будь-який"
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Ідентифікатори платформи та доступ до них: ролі, сфера діяльності відділу, сесії, делегування та перегляд доступу."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "Персонал і доступність живуть у HR Master."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "Люди"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Сервісні ідентифікатори"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "Ви бачите каталог компанії. Ролі, обсяг відділу та сеанси видно компанії"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "адміністратори."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Усі10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Активний10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "Неактивний"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QПошук імені, електронної пошти, ідентифікатора"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Оператор пакування"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "Ролі, видимі для адміністраторів"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "13 листопада 2026, 9:28 ранку"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "Операційний адміністратор компанії"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "Ролі, видимі для адміністраторів"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Робочі розмови"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Розмови, пов'язані з однією метою, планом, завданням, формою, записом або роботою"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+Нова розмова на роботі"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "пункт. Статус і версія об'єкта завжди надходять з його власного модуля."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "AILO"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Ім'я, тема або текст повідомлення"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Архівовано"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Поки немає робочих розмов"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "Робоча розмова прив’язана до одного об’єкта, який ви можете відкрити — плану,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "мета, завдання, форма, запис або робочий елемент — тому обговорення залишається наступним"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "до роботи."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Почніть один"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Пілотна компаніяA (зразок)·Операції"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "Роботи, розміщені вчасно з людьми з HR Master та обладнанням з Machine Master."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Планування попереднього перегляду ніколи не резервується; тільки коміт робить."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "Потребує планування"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "В роботі"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "Очікує затвердження"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "Конфлікти"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "Хронологія тижня"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "SearchID, назва, місцезнаходження"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Запуск виробничої готовності—тиждень 2026-11-16"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "розклад"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021·термін дії 18 листопада 2026·упаковка/запечатування"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "Тиждень 9 листопада 2026 р"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "Цього тижня"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 вакансій цього тижня"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "РОБОТА"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "ПН"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "ВТ"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "СР"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9 листопада 2026 року"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "10 листопада 2026"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "11 листопада 2026"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Налаштування робочої області"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Workspacesettings/Channelsettings"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Налаштування каналу"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Тема, учасники, хто може читати і хто може публікувати — для каналів і робочих розмов. кожен"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "зміни перевіряються версіями та перевіряються."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "Канали"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Сповіщення"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "Доступ"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "Утримання"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Член — лише читання"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# ops-планування"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##операційне планування"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Тільки для читання"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Тільки власник (ВікрамШах) або робоче місце"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "адміністратор може змінити ці налаштування."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Хто вміє читати"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Відкритий — доступ до людей"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "може знайти і приєднатися до нього;"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "повідомлення відображаються"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "лише члени"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Хто може розміщувати"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Всі учасники"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Щотижневе виробництво"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "планування заводу А"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "Члени"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "Аша Кулкарні, Вікрам"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Шах, Неха Лієр, Майя"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Рао, Арджун Мехта"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "Історія політики"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / БІЗНЕС-ЦІЛЬ"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / ПРОЕКТ РОБОЧОГО ПРОЦЕСУ"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / ПРАВО ВЛАСНОСТІ"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / УЗЛАДЖЕНЕ ВИКОНАННЯ"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / ОГЛЯД РЕЗУЛЬТАТІВ"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "ФОРМА / ВХІД → УМОВА"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "ЗАВДАННЯ ЛЮДИНИ → ПЕРЕВІРКА"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "ДІЯ АГЕНТА → ІНТЕГРАЦІЯ"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "ТЕСТ → ПЕРЕГЛЯНУТИ → АКТИВАТИ"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "повний?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "графік"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "відхилення"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · КОНТРОЛЬНИЙ СПИСОК ГОТОВНОСТІ"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · ВЕРСІЙНИЙ РОБОЧИЙ ПРОЦЕС"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · АКТИВНА ПЕРЕГЛЯД"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · ІМЕНОВИЙ ЗАТВЕРДЖУВАЧ"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · ЧЕКАЄМО РІШЕННЯ"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Місія та цілі"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → КІНЕЦЬ"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "карусель"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "слайд"
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI — це бізнес-виконання на основі ШІ. Перетворіть SOP на робочі процеси. Призначити відповідальність. Завершення треку. Ваш бізнес працює. Ви залишаєтесь під контролем."
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Додайте агентів ШІ до кожної частини вашої організації."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Дивіться UCXO в дії."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Підготуйте виробничий план на наступний тиждень."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "облікові записи управляються окремо в UUsers."
+    }
+  }
+}

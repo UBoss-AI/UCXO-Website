@@ -1,0 +1,6791 @@
+{
+  "sourceMessages": 1165,
+  "locales": [
+    {
+      "locale": "es",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_1ea442a134b2a184",
+          "source": "No"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_dab9c75c494e593c",
+          "source": "Duein2days·15Nov2026"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "de",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_59be71333c960fd0",
+          "source": "Optional"
+        },
+        {
+          "key": "m_13ec2943dc2777e4",
+          "source": "UCXO / ILLUSTRATIVE"
+        },
+        {
+          "key": "m_d072aa117dab568b",
+          "source": "WORKFLOW"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_9a42d40a3f319da5",
+          "source": "Integration"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_6725e7bbcd28f3a8",
+          "source": "System"
+        },
+        {
+          "key": "m_dc6f10e7c1dab2be",
+          "source": "Name: {value}"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_ebf12ef47cf575b3",
+          "source": "Draft"
+        },
+        {
+          "key": "m_e74767dc0855ce6c",
+          "source": "Readyforreview"
+        },
+        {
+          "key": "m_3d600b06ddfd4fb0",
+          "source": "Inreview"
+        },
+        {
+          "key": "m_8d81752d9c24d45d",
+          "source": "Readiness 4/8"
+        },
+        {
+          "key": "m_bc255baed81f10b7",
+          "source": "WF-008·draftv1·10nodes"
+        },
+        {
+          "key": "m_072b9dea5010ac3f",
+          "source": "APPROVER"
+        },
+        {
+          "key": "m_0559aadba9e29b9a",
+          "source": "OWNER"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_83658c838dce6fd2",
+          "source": "Resolve readiness"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_a9f71bc2404c9193",
+          "source": "Retired"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_920e413c7d411b61",
+          "source": "Status"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_92240f76a7f03593",
+          "source": "Login: Arjun Mehta"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_e6b85bfbf55020aa",
+          "source": "Mission"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_cb21d4f65270b3cd",
+          "source": "In UPingme"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_c7b2783655439902",
+          "source": "JOB"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "fr",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_348348036267fa04",
+          "source": "INTRODUCTION"
+        },
+        {
+          "key": "m_7d31b83313991d4c",
+          "source": "Notification"
+        },
+        {
+          "key": "m_c17c02e81c901ffe",
+          "source": "message."
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_e6b85bfbf55020aa",
+          "source": "Mission"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_135ed23731090d9f",
+          "source": "1Message"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_2f77668a9dfbf8d5",
+          "source": "Message"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_a0c002f91bf98dba",
+          "source": "Exceptions"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_a22fb301bc81f64c",
+          "source": "品 1 table"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_5c0dc939187d4ae4",
+          "source": "conversations"
+        },
+        {
+          "key": "m_ab530a13e4591498",
+          "source": "message"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        },
+        {
+          "key": "m_788011833a5a0f22",
+          "source": "Notifications"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "pt",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_160ae3842daf1405",
+          "source": "CALLINGPROVIDER·NONECONFIGURED"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_92240f76a7f03593",
+          "source": "Login: Arjun Mehta"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "it",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_1ea442a134b2a184",
+          "source": "No"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_7a816ddfd3603dbb",
+          "source": "1file"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_0d236ac2b9f685bd",
+          "source": "sourceconversation."
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "nl",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_c78ffe19571018fb",
+          "source": "Platform"
+        },
+        {
+          "key": "m_d072aa117dab568b",
+          "source": "WORKFLOW"
+        },
+        {
+          "key": "m_8b9c643731c94119",
+          "source": "Trigger"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_73b6e48a1b552d11",
+          "source": "Later"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_bc255baed81f10b7",
+          "source": "WF-008·draftv1·10nodes"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_920e413c7d411b61",
+          "source": "Status"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_95f41a9477c6d635",
+          "source": "#ops-planning"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_cb21d4f65270b3cd",
+          "source": "In UPingme"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_fb9ef894175c3274",
+          "source": "Product"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_6a8b8c9585a7b5f7",
+          "source": "# ops-planning"
+        },
+        {
+          "key": "m_22d976f6e03853e1",
+          "source": "##ops-planning"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "pl",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_92240f76a7f03593",
+          "source": "Login: Arjun Mehta"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "uk",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_c3c2517b1b0d6a69",
+          "source": "NAMED HUMAN REVIEW"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "ru",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_98609107b2c7329d",
+          "source": "Nounreadmentionandnoopentaskfrom"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "ro",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_478f3bf96d5d3d42",
+          "source": "bold 30px Arial"
+        },
+        {
+          "key": "m_94835ea2fcf775cd",
+          "source": "Inbox"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_32d7e82082479b8c",
+          "source": "Control"
+        },
+        {
+          "key": "m_8b9c643731c94119",
+          "source": "Trigger"
+        },
+        {
+          "key": "m_291101a07fe980e9",
+          "source": "Operator"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_bc255baed81f10b7",
+          "source": "WF-008·draftv1·10nodes"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_9cb4b1e2161169e8",
+          "source": "Import (CSV)"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_9fc46a32e83dd2c4",
+          "source": "UPingme / Inbox"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_95f41a9477c6d635",
+          "source": "#ops-planning"
+        },
+        {
+          "key": "m_47f34dbfc93b6883",
+          "source": "UCXO / Machine Master"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_4194d1706ed1f408",
+          "source": "administrator"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_90ddb7bc6034227b",
+          "source": "+Newworkconversation"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_c7b2783655439902",
+          "source": "JOB"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "cs",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_48e61e2dd0a22398",
+          "source": "ArrowLeft"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_75b08a9f83878e6d",
+          "source": "Workflow canvas"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_95f41a9477c6d635",
+          "source": "#ops-planning"
+        },
+        {
+          "key": "m_47f34dbfc93b6883",
+          "source": "UCXO / Machine Master"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_c7b2783655439902",
+          "source": "JOB"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "hu",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_c78ffe19571018fb",
+          "source": "Platform"
+        },
+        {
+          "key": "m_13ec2943dc2777e4",
+          "source": "UCXO / ILLUSTRATIVE"
+        },
+        {
+          "key": "m_8e2f7ffbbdb947d8",
+          "source": "ArrowRight"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_dc8659db6d416dc3",
+          "source": "Enter"
+        },
+        {
+          "key": "m_cbeb1b9a1d23423f",
+          "source": "PEOPLE + AI"
+        },
+        {
+          "key": "m_160ae3842daf1405",
+          "source": "CALLINGPROVIDER·NONECONFIGURED"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_bc255baed81f10b7",
+          "source": "WF-008·draftv1·10nodes"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_47f34dbfc93b6883",
+          "source": "UCXO / Machine Master"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_2b76b5a38ce556db",
+          "source": "MON"
+        },
+        {
+          "key": "m_be0898683160c494",
+          "source": "TUE"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "el",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_afd6bb7a283b669a",
+          "source": "Forms Master"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_d54c7143a3f3a35e",
+          "source": "CHAT · REMIND · ESCALATE"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_2058215541c8169d",
+          "source": "UCXO/ Delegation Master"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_95f41a9477c6d635",
+          "source": "#ops-planning"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_4f9449deb30e7e17",
+          "source": "&OpenOperations5members"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_98609107b2c7329d",
+          "source": "Nounreadmentionandnoopentaskfrom"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_6a8b8c9585a7b5f7",
+          "source": "# ops-planning"
+        },
+        {
+          "key": "m_22d976f6e03853e1",
+          "source": "##ops-planning"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "sv",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_1691b24968755415",
+          "source": "UCXO partners"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_f2d6e8a847a16c4e",
+          "source": "Form / input"
+        },
+        {
+          "key": "m_9a42d40a3f319da5",
+          "source": "Integration"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_f4262548cb993257",
+          "source": "INPUT"
+        },
+        {
+          "key": "m_6725e7bbcd28f3a8",
+          "source": "System"
+        },
+        {
+          "key": "m_3824a9f4dafe92c6",
+          "source": "Canvas"
+        },
+        {
+          "key": "m_cbeb1b9a1d23423f",
+          "source": "PEOPLE + AI"
+        },
+        {
+          "key": "m_037c968467aa3fd7",
+          "source": "Escape"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_3d600b06ddfd4fb0",
+          "source": "Inreview"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_ba7cfb6071991ab2",
+          "source": "LIVE VERSION"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_920e413c7d411b61",
+          "source": "Status"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_729bb48d0f86a9e2",
+          "source": "Engineering"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_64879f7d6b960a01",
+          "source": "plan"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_59aa08228026562b",
+          "source": "Allmentions"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_611bf251723cd621",
+          "source": "Onlegal hold"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_acabae51f20d03f1",
+          "source": "1 revision"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_dab9c75c494e593c",
+          "source": "Duein2days·15Nov2026"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_3b1f58d94eacf04f",
+          "source": "Retention"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        },
+        {
+          "key": "m_fe9427cadbd929fd",
+          "source": "AGENT ACTION → INTEGRATION"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "da",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_c78ffe19571018fb",
+          "source": "Platform"
+        },
+        {
+          "key": "m_f256861866e868ac",
+          "source": "HR Master"
+        },
+        {
+          "key": "m_afd6bb7a283b669a",
+          "source": "Forms Master"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_31f5089da03b8347",
+          "source": "Replay tour"
+        },
+        {
+          "key": "m_f2d6e8a847a16c4e",
+          "source": "Form / input"
+        },
+        {
+          "key": "m_9a42d40a3f319da5",
+          "source": "Integration"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_f4262548cb993257",
+          "source": "INPUT"
+        },
+        {
+          "key": "m_92c7d7f84c3ecbd9",
+          "source": "AI agent"
+        },
+        {
+          "key": "m_6725e7bbcd28f3a8",
+          "source": "System"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_ba7cfb6071991ab2",
+          "source": "LIVE VERSION"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_9cb4b1e2161169e8",
+          "source": "Import (CSV)"
+        },
+        {
+          "key": "m_920e413c7d411b61",
+          "source": "Status"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_92240f76a7f03593",
+          "source": "Login: Arjun Mehta"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_e6b85bfbf55020aa",
+          "source": "Mission"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_729bb48d0f86a9e2",
+          "source": "Engineering"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_4194d1706ed1f408",
+          "source": "administrator"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_baaddf70fb5d432b",
+          "source": "Type"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_64879f7d6b960a01",
+          "source": "plan"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_acabae51f20d03f1",
+          "source": "1 revision"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_dab9c75c494e593c",
+          "source": "Duein2days·15Nov2026"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_c7b2783655439902",
+          "source": "JOB"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "nb",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_3dbc15db3026067f",
+          "source": "The approved production plan is retained through URecords."
+        },
+        {
+          "key": "m_0ed53240e665fdb4",
+          "source": "U-Engine execution and human recovery in UDO"
+        },
+        {
+          "key": "m_eac84a149bcbf84b",
+          "source": "The responsible person receives and completes the assigned recovery task in UDO."
+        },
+        {
+          "key": "m_7f945dff7fd09101",
+          "source": "The capacity summary can run only when the line-clearance condition passes."
+        },
+        {
+          "key": "m_242dd6c8068c476c",
+          "source": "Retain the approved production plan and its supporting record."
+        },
+        {
+          "key": "m_60ec42a068eb46c8",
+          "source": "Only a tested, reviewed, approved and activated revision can start a run."
+        },
+        {
+          "key": "m_50c90fa0ce43dc83",
+          "source": "A failed ERP sync follows the configured notification route."
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_6725e7bbcd28f3a8",
+          "source": "System"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_920e413c7d411b61",
+          "source": "Status"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_729bb48d0f86a9e2",
+          "source": "Engineering"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_4194d1706ed1f408",
+          "source": "administrator"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_baaddf70fb5d432b",
+          "source": "Type"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_64879f7d6b960a01",
+          "source": "plan"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_59aa08228026562b",
+          "source": "Allmentions"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_dab9c75c494e593c",
+          "source": "Duein2days·15Nov2026"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "fi",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_f4262548cb993257",
+          "source": "INPUT"
+        },
+        {
+          "key": "m_3824a9f4dafe92c6",
+          "source": "Canvas"
+        },
+        {
+          "key": "m_dc8659db6d416dc3",
+          "source": "Enter"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_47f34dbfc93b6883",
+          "source": "UCXO / Machine Master"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        },
+        {
+          "key": "m_661927000b67ea5f",
+          "source": "FORM / INPUT → CONDITION"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "zh-Hans",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "zh-Hant",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "ja",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "ko",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "id",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_291101a07fe980e9",
+          "source": "Operator"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_920e413c7d411b61",
+          "source": "Status"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_4194d1706ed1f408",
+          "source": "administrator"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        },
+        {
+          "key": "m_b8a7e24e95497806",
+          "source": "slide"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "ms",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_c78ffe19571018fb",
+          "source": "Platform"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_f4262548cb993257",
+          "source": "INPUT"
+        },
+        {
+          "key": "m_9e9f23ca031cab55",
+          "source": "BUTTON"
+        },
+        {
+          "key": "m_291101a07fe980e9",
+          "source": "Operator"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_f5bb21a92cd855c6",
+          "source": "actsforVikramShah"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_3d600b06ddfd4fb0",
+          "source": "Inreview"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_9cb4b1e2161169e8",
+          "source": "Import (CSV)"
+        },
+        {
+          "key": "m_920e413c7d411b61",
+          "source": "Status"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_7cd3a7014cf070cf",
+          "source": "OwnerAshaKulkarni"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_98609107b2c7329d",
+          "source": "Nounreadmentionandnoopentaskfrom"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_dab9c75c494e593c",
+          "source": "Duein2days·15Nov2026"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_48b371ba2b55544a",
+          "source": "9 Nov2026"
+        },
+        {
+          "key": "m_bb29514cb4c8253b",
+          "source": "10Nov2026"
+        },
+        {
+          "key": "m_41e5a46208a9787e",
+          "source": "11Nov2026"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "vi",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_0d236ac2b9f685bd",
+          "source": "sourceconversation."
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "th",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_f00a5304c4e8e4e1",
+          "source": "Human tasks & AI agents"
+        },
+        {
+          "key": "m_f6d2bce5bd524a50",
+          "source": "Required approval gates"
+        },
+        {
+          "key": "m_6a215ed36be2ee83",
+          "source": "Approve & assign"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "fil",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_478f3bf96d5d3d42",
+          "source": "bold 30px Arial"
+        },
+        {
+          "key": "m_e38572b5a47a0b85",
+          "source": "Exception escalation"
+        },
+        {
+          "key": "m_8e2f7ffbbdb947d8",
+          "source": "ArrowRight"
+        },
+        {
+          "key": "m_48e61e2dd0a22398",
+          "source": "ArrowLeft"
+        },
+        {
+          "key": "m_afd6bb7a283b669a",
+          "source": "Forms Master"
+        },
+        {
+          "key": "m_94835ea2fcf775cd",
+          "source": "Inbox"
+        },
+        {
+          "key": "m_3d08d45bad10c594",
+          "source": "AI-powered business execution"
+        },
+        {
+          "key": "m_5c7d8135a2eea4ae",
+          "source": "PDF page"
+        },
+        {
+          "key": "m_922d9048cabb4d5b",
+          "source": "Reference note:"
+        },
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_8c3328a2d233b346",
+          "source": "Focus view"
+        },
+        {
+          "key": "m_e4850a80a3d24c7a",
+          "source": "♙ Pilot Company A (sample)"
+        },
+        {
+          "key": "m_c3f9d0b1244c0166",
+          "source": "Pilot Company A (sample)"
+        },
+        {
+          "key": "m_7a2db48af9cf3ac3",
+          "source": "READINESS CHECKLIST"
+        },
+        {
+          "key": "m_f2d6e8a847a16c4e",
+          "source": "Form / input"
+        },
+        {
+          "key": "m_84ec9b8ca204dc4d",
+          "source": "CONTROL · LINE CLEARANCE?"
+        },
+        {
+          "key": "m_6826e968c4624a6a",
+          "source": "SYSTEM · ERP SCHEDULE"
+        },
+        {
+          "key": "m_7ab84cfe10b8da0f",
+          "source": "SYSTEM · RECORD OUTPUT"
+        },
+        {
+          "key": "m_16a89ae5a4eef05c",
+          "source": "HR MASTER · WORK PLANNER"
+        },
+        {
+          "key": "m_51d3d203594de7c8",
+          "source": "UDO · HUMAN RECOVERY"
+        },
+        {
+          "key": "m_06093c1bc26ecf59",
+          "source": "NOTIFICATION · RESPONSIBLE PLANNER"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_f4262548cb993257",
+          "source": "INPUT"
+        },
+        {
+          "key": "m_9e9f23ca031cab55",
+          "source": "BUTTON"
+        },
+        {
+          "key": "m_8b9c643731c94119",
+          "source": "Trigger"
+        },
+        {
+          "key": "m_b116a6e7359c2188",
+          "source": "Line clearance"
+        },
+        {
+          "key": "m_86f39f6b73501a9a",
+          "source": "draft v1"
+        },
+        {
+          "key": "m_3824a9f4dafe92c6",
+          "source": "Canvas"
+        },
+        {
+          "key": "m_701fce1dd957784e",
+          "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW"
+        },
+        {
+          "key": "m_a8df6d937c29b2c0",
+          "source": "FROM DIRECTION TO DELIVERY"
+        },
+        {
+          "key": "m_658b5bcf91fd26a9",
+          "source": "Coordinate handoffs"
+        },
+        {
+          "key": "m_46926eec3ee5eec8",
+          "source": "Audio: English"
+        },
+        {
+          "key": "m_721164f0dc7096a8",
+          "source": "Transcript"
+        },
+        {
+          "key": "m_160ae3842daf1405",
+          "source": "CALLINGPROVIDER·NONECONFIGURED"
+        },
+        {
+          "key": "m_291101a07fe980e9",
+          "source": "Operator"
+        },
+        {
+          "key": "m_2058215541c8169d",
+          "source": "UCXO/ Delegation Master"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_f5bb21a92cd855c6",
+          "source": "actsforVikramShah"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_ebf12ef47cf575b3",
+          "source": "Draft"
+        },
+        {
+          "key": "m_3d600b06ddfd4fb0",
+          "source": "Inreview"
+        },
+        {
+          "key": "m_ba7cfb6071991ab2",
+          "source": "LIVE VERSION"
+        },
+        {
+          "key": "m_072b9dea5010ac3f",
+          "source": "APPROVER"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_9ced30727521dd35",
+          "source": "& OperationsOwner Kabir SenProduces Readiness checklist"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_ee4b8c54d86fa2a2",
+          "source": "Availability board"
+        },
+        {
+          "key": "m_9cb4b1e2161169e8",
+          "source": "Import (CSV)"
+        },
+        {
+          "key": "m_850d021cf42386bb",
+          "source": "品 Skill matrix"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_228121b02f3ccdb8",
+          "source": "Maintenancetechnician"
+        },
+        {
+          "key": "m_a2eefbcb6bbec8b4",
+          "source": "Electrical"
+        },
+        {
+          "key": "m_0d62bb01df4edd95",
+          "source": "Packaging"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_9fc46a32e83dd2c4",
+          "source": "UPingme / Inbox"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_47f34dbfc93b6883",
+          "source": "UCXO / Machine Master"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_e674447337e83c13",
+          "source": "Available"
+        },
+        {
+          "key": "m_891647ace20eaab8",
+          "source": "Outofservice"
+        },
+        {
+          "key": "m_79364def16df54c6",
+          "source": "Label printer 05"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_729bb48d0f86a9e2",
+          "source": "Engineering"
+        },
+        {
+          "key": "m_7e1b0d5641f2640c",
+          "source": "Account"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_94a3f5af5ff9f9ba",
+          "source": "Activeaccount"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_9dc4cfcff07bbc45",
+          "source": "OPENCHANNELSYOUCANJOIN"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_fb2ccd98eca74a79",
+          "source": "Inprogress"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_18ca79d5c8dbdc8a",
+          "source": "DEPARTMENT"
+        },
+        {
+          "key": "m_9a6173b23279f70e",
+          "source": "FORM OWNER"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_9696eb98c35a1579",
+          "source": "Readinesschecklist"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_59aa08228026562b",
+          "source": "Allmentions"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_98609107b2c7329d",
+          "source": "Nounreadmentionandnoopentaskfrom"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_08133fa4235a1b48",
+          "source": "Overdue0"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_611bf251723cd621",
+          "source": "Onlegal hold"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_483837185816da8c",
+          "source": "0of2sectionsread"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_492da9259a532f4e",
+          "source": "Productionreadinessrun—weekof2026-11-16"
+        },
+        {
+          "key": "m_be0898683160c494",
+          "source": "TUE"
+        },
+        {
+          "key": "m_10ccb2e1c6fd204b",
+          "source": "WED"
+        },
+        {
+          "key": "m_dbeaba72a4b4177d",
+          "source": "UPingme/Workspacesettings/Channelsettings"
+        },
+        {
+          "key": "m_ec5ba0abb717da87",
+          "source": "Access"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_7eb980c783ab6de4",
+          "source": "Shah, Neha lyer, Maya"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        },
+        {
+          "key": "m_40ac4244e50fd3b4",
+          "source": "04 / COORDINATED EXECUTION"
+        },
+        {
+          "key": "m_6d15584669042fa8",
+          "source": "05 / OUTCOME REVIEW"
+        },
+        {
+          "key": "m_b766c64f87483525",
+          "source": "TEST → REVIEW → ACTIVATE"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "ar",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "tr",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_22468da5be0a514a",
+          "source": "1 plan"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_271170120155b7ad",
+          "source": "UCXO/UEngine/Runs"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "fa",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_8e2f7ffbbdb947d8",
+          "source": "ArrowRight"
+        },
+        {
+          "key": "m_afd6bb7a283b669a",
+          "source": "Forms Master"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_6b8ef6967058ef3f",
+          "source": "SYSTEM · NOTIFY PLANNER"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_36e65c39f83b8df9",
+          "source": "HOME"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_bc255baed81f10b7",
+          "source": "WF-008·draftv1·10nodes"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_3392246ac448dfe5",
+          "source": "C Refresh"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_661927000b67ea5f",
+          "source": "FORM / INPUT → CONDITION"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "he",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_35217c2db25b53f2",
+          "source": "AbortError"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_cbeb1b9a1d23423f",
+          "source": "PEOPLE + AI"
+        },
+        {
+          "key": "m_6b12c0eb5aee382c",
+          "source": "There is no Join, Record or Transcribe control"
+        },
+        {
+          "key": "m_4a3eafcc0ea7d3b9",
+          "source": "because nothingwould actuallyhappen.Meetings"
+        },
+        {
+          "key": "m_aea081039e017fee",
+          "source": "cannot be scheduled or stored—none exist."
+        },
+        {
+          "key": "m_6a5c34601864b806",
+          "source": "Tobe decided before callsexist"
+        },
+        {
+          "key": "m_165676acb370f64e",
+          "source": "Calling provider and where call data is"
+        },
+        {
+          "key": "m_d4e96570856902e1",
+          "source": "O active, each bound to the object being"
+        },
+        {
+          "key": "m_19a1b4b34a4e0e7e",
+          "source": "Participant consent before any"
+        },
+        {
+          "key": "m_ac24d457fcbd7ff0",
+          "source": "Directmessages arecreated withthe first"
+        },
+        {
+          "key": "m_f7b71dea77b1786c",
+          "source": "Retention and access for recordings"
+        },
+        {
+          "key": "m_a3b4304e156f89ae",
+          "source": "and transcripts(URecords)"
+        },
+        {
+          "key": "m_0e6ea45b41509fb6",
+          "source": "UDO only after you review and submit it."
+        },
+        {
+          "key": "m_8063cf6e4a7a339c",
+          "source": "Targetdevices,displays and room"
+        },
+        {
+          "key": "m_2058215541c8169d",
+          "source": "UCXO/ Delegation Master"
+        },
+        {
+          "key": "m_858a6d20a4df4b5b",
+          "source": "PilotCompany A(sample)·Operations"
+        },
+        {
+          "key": "m_def797f942a05686",
+          "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority"
+        },
+        {
+          "key": "m_7e93da02ceee5074",
+          "source": "substitutionareseparate,time-bound authorities."
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_d9f304129ab624c0",
+          "source": "AIl3"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_6c345650f486be5d",
+          "source": "PRODUCESRECORD"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_dab9c75c494e593c",
+          "source": "Duein2days·15Nov2026"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "sw",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_8b6787abc1dfbb24",
+          "source": "THE UCXO PRODUCT TOUR"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_12204d1d8ab89f8a",
+          "source": "ArrowUp"
+        },
+        {
+          "key": "m_d9f05fb162a0c239",
+          "source": "NotAllowedError"
+        },
+        {
+          "key": "m_d4b5e2ca61b96a97",
+          "source": "AIl"
+        },
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_ba7cfb6071991ab2",
+          "source": "LIVE VERSION"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_b990fcc51c5e4816",
+          "source": "FormsMaster"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_098a381d15d9d2e6",
+          "source": "Maya Rao"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_3a2b54e6f22de845",
+          "source": "AlI 1"
+        },
+        {
+          "key": "m_7a0902903e3a0d34",
+          "source": "PlantA·Bay2·MACH-005"
+        },
+        {
+          "key": "m_14fd3a1dc55c77a5",
+          "source": "PlantA·Bay3·MACH-003"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_8fcbe0112220fd57",
+          "source": "MISSION·MIS-001"
+        },
+        {
+          "key": "m_4794704bc8dd514f",
+          "source": "AIl10"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_8db1a2e199a24646",
+          "source": "VS"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_a5bd56f2f84bca84",
+          "source": "AIl0"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_9262c46943940bbe",
+          "source": "Kabir Sen"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_6b999de4f229a3b5",
+          "source": "#ops-"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_fd48f392559b37f5",
+          "source": "UDOinUCxO—onestore.Oopentaskscame"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_aaf4836a213d2f72",
+          "source": "ControlledSopOperations"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_42ce031ef2554962",
+          "source": "AlI"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_192abacef7f891ea",
+          "source": "AIlO"
+        },
+        {
+          "key": "m_cc6ba49ff9483624",
+          "source": "UCXO/WorkPlanner"
+        },
+        {
+          "key": "m_2b76b5a38ce556db",
+          "source": "MON"
+        },
+        {
+          "key": "m_be0898683160c494",
+          "source": "TUE"
+        },
+        {
+          "key": "m_10ccb2e1c6fd204b",
+          "source": "WED"
+        },
+        {
+          "key": "m_bb29514cb4c8253b",
+          "source": "10Nov2026"
+        },
+        {
+          "key": "m_41e5a46208a9787e",
+          "source": "11Nov2026"
+        },
+        {
+          "key": "m_039f16076d874857",
+          "source": "Asha Kulkarni, Vikram"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "ha",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_c04e26e440ed819e",
+          "source": "Forms & records"
+        },
+        {
+          "key": "m_9660fb862202c3be",
+          "source": "ArrowDown"
+        },
+        {
+          "key": "m_9e9f23ca031cab55",
+          "source": "BUTTON"
+        },
+        {
+          "key": "m_ac0ea0a5b7823640",
+          "source": "RohanDas"
+        },
+        {
+          "key": "m_4414cdcb7cc80ae5",
+          "source": "RD"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_f6ddebfba254f9e4",
+          "source": "VikramShah"
+        },
+        {
+          "key": "m_f08ea7758ef00972",
+          "source": "UCXO / Forms Master"
+        },
+        {
+          "key": "m_08b154cddc3832e9",
+          "source": "UCXO/ Forms Master"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_04ace396529124fc",
+          "source": "UCXO / HR Master"
+        },
+        {
+          "key": "m_850d021cf42386bb",
+          "source": "品 Skill matrix"
+        },
+        {
+          "key": "m_c30be76e0ad43892",
+          "source": "Sunil Varma"
+        },
+        {
+          "key": "m_a4cd8b4d9855cd16",
+          "source": "SV"
+        },
+        {
+          "key": "m_2f98da7420cfb4e1",
+          "source": "MR"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_bc70c8a0065a900d",
+          "source": "Markallread"
+        },
+        {
+          "key": "m_06baeb7b1a60a1f4",
+          "source": "PlantA·Bay2·MACH-002"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_177de399e7aff65a",
+          "source": "Asha Kulkarni"
+        },
+        {
+          "key": "m_3c4e58eff203b042",
+          "source": "AK"
+        },
+        {
+          "key": "m_7947851c88f6f5d6",
+          "source": "Vikram Shah"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_d73c9b645e6d67ff",
+          "source": "三 List"
+        },
+        {
+          "key": "m_e7c511395cb2ee43",
+          "source": "AlIlo"
+        },
+        {
+          "key": "m_cfaff02b04655d72",
+          "source": "Alltypes"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_59aa08228026562b",
+          "source": "Allmentions"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_037aeaeaf4bbf26d",
+          "source": "op"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_2b76b5a38ce556db",
+          "source": "MON"
+        },
+        {
+          "key": "m_be0898683160c494",
+          "source": "TUE"
+        },
+        {
+          "key": "m_904e6b5f5be54c3e",
+          "source": "Rao, Arjun Mehta"
+        }
+      ],
+      "extra": []
+    },
+    {
+      "locale": "am",
+      "missing": [],
+      "stale": [],
+      "placeholders": [],
+      "artifacts": [],
+      "identical": [
+        {
+          "key": "m_01babc37e3b53a3a",
+          "source": "9NoV16No23No30NoTATE"
+        },
+        {
+          "key": "m_789c58d43b3c16e1",
+          "source": "UCXO/ Engine Planner"
+        },
+        {
+          "key": "m_89a3ec1b5208f13d",
+          "source": "AII"
+        },
+        {
+          "key": "m_d23d6ba7f3603896",
+          "source": "UPingme /"
+        },
+        {
+          "key": "m_eb572628161ebe0e",
+          "source": "UCXO /"
+        },
+        {
+          "key": "m_37ccb3259b56792e",
+          "source": "UCXO/ UApprove"
+        },
+        {
+          "key": "m_6187b34b7a7c0d3e",
+          "source": "UCXO / UApprove"
+        },
+        {
+          "key": "m_753951aca1603863",
+          "source": "UCXO / UDashview"
+        },
+        {
+          "key": "m_1c1e3ca67262113b",
+          "source": "UCXO / UDO"
+        },
+        {
+          "key": "m_fc416f9e5971e083",
+          "source": "UDO·MyTasks"
+        },
+        {
+          "key": "m_547b2f9e5bd87746",
+          "source": "UCXO / UEngine"
+        },
+        {
+          "key": "m_488d30b78821af39",
+          "source": "UCXO/"
+        },
+        {
+          "key": "m_37aa456f47d53c13",
+          "source": "UCXO / UForms"
+        },
+        {
+          "key": "m_c0945a6b43d17b00",
+          "source": "UPingme / UDashview"
+        },
+        {
+          "key": "m_148bf6901f046ffc",
+          "source": "UPingme / UDO"
+        },
+        {
+          "key": "m_83d8f33b8ec560cc",
+          "source": "UCXO / URecords"
+        },
+        {
+          "key": "m_8819ede3d4f7a6a5",
+          "source": "UCXO/ UTraining"
+        },
+        {
+          "key": "m_60d797ccdf617593",
+          "source": "UCXO / UUsers"
+        },
+        {
+          "key": "m_be0898683160c494",
+          "source": "TUE"
+        }
+      ],
+      "extra": []
+    }
+  ],
+  "structuralErrors": [],
+  "reviewRequired": [
+    {
+      "locale": "es",
+      "status": "draft",
+      "unreviewedIdentical": 34
+    },
+    {
+      "locale": "de",
+      "status": "draft",
+      "unreviewedIdentical": 72
+    },
+    {
+      "locale": "fr",
+      "status": "draft",
+      "unreviewedIdentical": 47
+    },
+    {
+      "locale": "pt",
+      "status": "draft",
+      "unreviewedIdentical": 42
+    },
+    {
+      "locale": "it",
+      "status": "draft",
+      "unreviewedIdentical": 44
+    },
+    {
+      "locale": "nl",
+      "status": "draft",
+      "unreviewedIdentical": 50
+    },
+    {
+      "locale": "pl",
+      "status": "draft",
+      "unreviewedIdentical": 33
+    },
+    {
+      "locale": "uk",
+      "status": "draft",
+      "unreviewedIdentical": 36
+    },
+    {
+      "locale": "ru",
+      "status": "draft",
+      "unreviewedIdentical": 19
+    },
+    {
+      "locale": "ro",
+      "status": "draft",
+      "unreviewedIdentical": 68
+    },
+    {
+      "locale": "cs",
+      "status": "draft",
+      "unreviewedIdentical": 59
+    },
+    {
+      "locale": "hu",
+      "status": "draft",
+      "unreviewedIdentical": 67
+    },
+    {
+      "locale": "el",
+      "status": "draft",
+      "unreviewedIdentical": 55
+    },
+    {
+      "locale": "sv",
+      "status": "draft",
+      "unreviewedIdentical": 77
+    },
+    {
+      "locale": "da",
+      "status": "draft",
+      "unreviewedIdentical": 73
+    },
+    {
+      "locale": "nb",
+      "status": "draft",
+      "unreviewedIdentical": 68
+    },
+    {
+      "locale": "fi",
+      "status": "draft",
+      "unreviewedIdentical": 58
+    },
+    {
+      "locale": "zh-Hans",
+      "status": "draft",
+      "unreviewedIdentical": 19
+    },
+    {
+      "locale": "zh-Hant",
+      "status": "draft",
+      "unreviewedIdentical": 19
+    },
+    {
+      "locale": "ja",
+      "status": "draft",
+      "unreviewedIdentical": 24
+    },
+    {
+      "locale": "ko",
+      "status": "draft",
+      "unreviewedIdentical": 26
+    },
+    {
+      "locale": "id",
+      "status": "draft",
+      "unreviewedIdentical": 43
+    },
+    {
+      "locale": "ms",
+      "status": "draft",
+      "unreviewedIdentical": 67
+    },
+    {
+      "locale": "vi",
+      "status": "draft",
+      "unreviewedIdentical": 44
+    },
+    {
+      "locale": "th",
+      "status": "draft",
+      "unreviewedIdentical": 22
+    },
+    {
+      "locale": "fil",
+      "status": "draft",
+      "unreviewedIdentical": 131
+    },
+    {
+      "locale": "ar",
+      "status": "draft",
+      "unreviewedIdentical": 19
+    },
+    {
+      "locale": "tr",
+      "status": "draft",
+      "unreviewedIdentical": 34
+    },
+    {
+      "locale": "fa",
+      "status": "draft",
+      "unreviewedIdentical": 47
+    },
+    {
+      "locale": "he",
+      "status": "draft",
+      "unreviewedIdentical": 61
+    },
+    {
+      "locale": "sw",
+      "status": "draft",
+      "unreviewedIdentical": 59
+    },
+    {
+      "locale": "ha",
+      "status": "draft",
+      "unreviewedIdentical": 36
+    },
+    {
+      "locale": "am",
+      "status": "draft",
+      "unreviewedIdentical": 19
+    }
+  ]
+}

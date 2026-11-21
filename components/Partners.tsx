@@ -1,4 +1,5 @@
 'use client';
+import {useLocalize} from '@/i18n/LocaleProvider';
 import {useEffect,useId,useRef,useState} from 'react';
 import Marquee from 'react-fast-marquee';
 import {Pause,Play} from 'lucide-react';
@@ -9,7 +10,7 @@ const partners=[
  {name:'Tianum Lifecare',image:'/partners/tianum-lifecare.jpeg',width:358,height:327,key:'tianum'},
 ] as const;
 
-export default function Partners(){
+export default function Partners(){const localize=useLocalize();
  const host=useRef<HTMLElement>(null),[paused,setPaused]=useState(false),[reduced,setReduced]=useState(true),[inView,setInView]=useState(false);
  const id=useId().replace(/[^a-zA-Z0-9]/g,''),spm=`partner-spm-${id}`,tianum=`partner-tianum-${id}`;
  useEffect(()=>{
@@ -20,7 +21,7 @@ export default function Partners(){
   return()=>{motion.removeEventListener('change',update);observer.disconnect();};
  },[]);
  const logos=<div className="partner-pair">{partners.map(partner=><div className="partner-logo" key={partner.key}><img src={partner.image} width={partner.width} height={partner.height} alt="" loading="lazy" draggable={false} style={{filter:`url(#${partner.key==='spm'?spm:tianum})`}}/></div>)}</div>;
- return <section className="partner-strip" id="partners" ref={host} aria-labelledby="partners-heading">
+ return localize(<section className="partner-strip" id="partners" ref={host} aria-labelledby="partners-heading">
   <svg className="partner-filter-defs" width="0" height="0" aria-hidden="true" focusable="false"><defs>
    <filter id={spm} colorInterpolationFilters="sRGB"><feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 -4 0 0 3.8"/><feComposite in2="SourceGraphic" operator="in"/></filter>
    <filter id={tianum} colorInterpolationFilters="sRGB"><feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 3 0 0 -1"/></filter>
@@ -31,5 +32,5 @@ export default function Partners(){
     {reduced?logos:<Marquee play={!paused&&inView} pauseOnHover direction="left" speed={24} autoFill={false} gradient={false}>{logos}</Marquee>}
    </div>
   </div>
- </section>;
+ </section>);
 }

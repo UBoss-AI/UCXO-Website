@@ -1,0 +1,53 @@
+{
+  "media": [
+    {
+      "locale": "fr",
+      "device": "mobile Chrome",
+      "nativeAudioStarted": true,
+      "pause": true,
+      "chapterSeekAndReplay": true,
+      "localizedCaptions": true,
+      "audioLanguage": "en"
+    },
+    {
+      "locale": "fr",
+      "homepageNarrationStarted": true,
+      "localizedIntroduction": true
+    },
+    {
+      "locale": "ar",
+      "device": "mobile Chrome",
+      "nativeAudioStarted": true,
+      "pause": true,
+      "chapterSeekAndReplay": true,
+      "localizedCaptions": true,
+      "audioLanguage": "en"
+    },
+    {
+      "locale": "ar",
+      "homepageNarrationStarted": true,
+      "localizedIntroduction": true
+    }
+  ],
+  "routing": {
+    "noJavaScriptPreference": true,
+    "explicitEnglishOverridesCookie": true,
+    "queryAndAnchor": true
+  },
+  "seo": {
+    "hreflang": 35,
+    "canonical": true,
+    "sitemapEntries": 102
+  },
+  "network": {
+    "inactiveCatalogueProbesAbsent": 32,
+    "onlyActiveCatalogueEmbedded": true,
+    "noRuntimeTranslationRequests": true,
+    "audioRange206": true
+  },
+  "publicBaseline": {
+    "url": "https://chief-engine.vercel.app/",
+    "status": "observed without changes",
+    "title": "UCXO — Business execution, coordinated."
+  }
+}

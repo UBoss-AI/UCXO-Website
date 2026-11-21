@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Sannu UCXO tawagar,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Ina so in shirya demo na UCXO."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Abin da nake so in cim ma:"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Nemi UCXO demo"
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "Alamar ku da bayanan kamfani"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "Sunan farko"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": ".\nSunan karshe"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": ".\nGirman kamfani"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Zaɓi girman ƙungiyar"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": ".\nƘasa"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": ".\nKasar ku"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Me kuke so ku cimma?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": ".\nNa zaɓi"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": ".\nTsarin aiki don ingantawa, burin da ake son cimmawa, ko ƙalubale don warwarewa…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": ".\nBar wannan fanko"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "Za mu yi amfani da bayanan ku don amsa buƙatun ku na demo. Da fatan za a guje wa haɗa bayanan sirri."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Nemi demo dina"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Buɗe app ɗin imel ɗin ku tare da cika cikakkun bayananku."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Kisa na kasuwanci, hadewa."
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Yi amfani da lokuta"
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "Jagoranci mutum. AI mai ƙarfi. Mai lissafi ta ƙira."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO gida"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": ".\nbude nav"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": ".\nUCXO / KYAUTA"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "m 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": ".\nGURIN AIKI"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": ".\nMATAKAN DA AKE HADA"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "MALLAKA"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": ".\nMUTANE + AIKIN INJINI"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": ".\nBINCIKEN DAN ADAM"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": ".\nANA BUKATA / JIRAN"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "A TSARE INDA AKE KE BUKATA"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Ƙayyade manufa"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Fara da sakamakon."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Bayyana sakamakon da kuma wanda ya mallaka."
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Mallakar kungiya"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Sanya shirin a sarari."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Bincika matakai, abubuwan dogaro, da yarda da ake buƙata."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Yi bitar shirin aiwatar da shirin"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": ".\nAyyukan ɗan adam & wakilan AI"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": ".\nDogara & handoffs"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": ".\nMa'abuta ɗawainiya masu lissafi"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Ƙwararrun wakili da aka amince"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": ".\nNauyin nazari na ɗan adam"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": ".\nKashe"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Ci gaba da haɗin gwiwar aikin."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": ".\nU-Engine yana bin tsari kuma yana fitar da matsalolin don dubawa."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": ".\nSaka idanu ayyuka, Gudu, da handoffs"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": ".\nDogaro-sane da kisa"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Wakilin sa ido yana Gudu"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Banda haɓakawa"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Bitar sakamakon"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Rufe madauki."
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Shaidar aiki & yarda"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "Tafiya UCXO"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "Kibiya Dama"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "Kibiya Hagu"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": ".\nGida"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": ".\nƘarshe"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "Abokan hulɗarmu"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": ".\nCi gaba da tambarin abokin tarayya"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": ".\nDakatar da tambarin abokin tarayya"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO abokan hulɗa"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": ".\nMafarin ku."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": ".\nDuba babban hoto."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Halin kamfani, iyakar sashe, da ra'ayoyin sararin aiki."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Bayanin filin aiki"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "mahallin sashen"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Abubuwan da aka haɗa"
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Yi amfani da UDO don ayyuka da UApprove don buƙatun amincewa."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · Ayyukana"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "An ba ni / ta ni"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": ".\nUApprove · Hukuncin mutane"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": ".\nUDO Ayyukana tare da shafuka masu aiki, matattarar matsayi, bincike da yanayin fanko na asali."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": ".\nForms, rikodin, gudanar da aiki, da horo."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Forms & records"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": ".\nU-Engine · Gudun aiki yana gudana"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": ".\nKoyon da aka sanyawa"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": ".\nUForms yana nuna jerin abubuwan da aka buga na shirye-shiryen samarwa, sigar sa, filayen sa da haɗin aikin aiki."
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": ".\nURecords yana nuna canjin layin fakitin da aka saki wanda ke sarrafa SOP da bita."
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "Ainihin UEngine Gudun allo, yana adana ainihin tambarin UI kuma Babu gudanar da yanayin tukuna."
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining yana nuna darasin aminci na Layin Packaging, ci gaba da buƙatun ƙima."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Shirya aikin."
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Mutane & kayan aiki"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Samfura & shiga"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": ".\nEngine Planner tare da daftarin shirin shirye-shiryen samarwa, shirye-shiryen 4/8, mai suna kuma mai yarda, kuma Ba jiha mai aiki ba."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": ".\nManufar & Manufa"
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": ".\nInji Jagora"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Inji Master tare da wadatar kayan aiki, iya aiki, lokutan aiki da ajiyar kuɗi."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": ".\nForms Master"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": ".\nSiffofin Jagora tare da wallafe-wallafen, sigar da ba za ta iya canzawa ta jerin shirye-shiryen samarwa ba."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Jagoran Wakilci"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": ".\nJagoran Wakilci tare da sanarwar da ake buƙata na yanke shawara na asali da sauya yarda da aka tsara."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": ".\nUUsers tare da bayanan dandamali, jihohin asusun da mahallin shiga mai gudanarwa."
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "TATTAUNAWA TARE DA AIKI A CIKIN HAKA"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Ci gaba da tattaunawa"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "kusa da aikin."
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Tashoshin kungiya"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Akwatin saƙo mai shiga tare da matattarar tattaunawa da ainihin tattaunawar ops-shirya mara karantawa."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Tashoshin ƙungiya suna nuna ops-tsarin da tashar sanarwar sanarwar shuka-fadi na kamfani."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Tattaunawar aiki"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": ".\nUPingme Tattaunawar aiki tare da ainihin yanayin wofinta da bayanin hanyoyin haɗin kayan aiki."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": ".\nBayanin tattaunawa"
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": ".\nUCXO.AI shine aiwatar da kasuwancin AI mai ƙarfi. Juya SOPs zuwa ayyukan aiki. Sanya alhaki. Bibiyar kammalawa. Kasuwancin ku yana gudana. Ka tsaya cikin iko."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "Bayanin filin aikin ku"
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": ".\nRa'ayoyi da iyakar sashe"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "Yi amfani da Bayani don kallo mai sauri, ko Ayyuka don bin ɗaukakawa. Ikon duba yana ba da taswira, katunan, allo, da jeri."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": ".\nAyyuka, matsayi da bincike"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": ".\nTace ta matsayi, bincika ɗawainiya, ko duba aikin da kuka sanya wa wani."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · Layin yanke shawara"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Bude UApprove don duba buƙatun da ke jiran shawarar ku. Amincewa, dawowa, ko ƙi aikin."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Siffofin da aka buga"
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine yana nuna tafiyar aiki, ci gaba, da keɓancewa. Wannan samfurin ba shi da gudu tukuna."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Mai tsara Aiki yana tsara ayyuka tare da mutane da kayan aikin da suke buƙata."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner yana bayyana tsarin aiki. Gwada shi, sami izini, kuma kunna shi kafin kisa."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": ".\nHR Master yana sarrafa ayyuka, ƙwarewa, da wadatar ma'aikata."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": ".\nInji Master yana sarrafa ƙarfin kayan aiki, samuwa, da kiyayewa."
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": ".\nUPingme yana da nasa bayanin tattaunawa. Yana haɗa abubuwan da ba a karanta ba, maganganun da ba a karanta ba, buɗe ayyuka daga tattaunawa, da shawarwarin da ba a gabatar da su ba, tare da hanyoyin haɗin kai zuwa aikin da ya dace."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Zaɓi Akwatin saƙon saƙo don nemo tattaunawar da kuke ciki. Tace tana raba maganganun da ba a karanta ba, saƙonnin kai tsaye, ambato, da ayyuka. Samfurin yana nuna tashar ƙungiyar shirin ops da tattaunawar da ba a karanta ba."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": ".\nUDO · Ayyukan da aka raba"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": ".\nZaɓi UDO don ganin kantin kayan aiki iri ɗaya wanda UCXO ke amfani dashi. Ayyukan tattaunawa suna haɗi zuwa tushen su. Shawarar saƙo ya zama aiki ne kawai bayan an duba shi kuma an ƙaddamar da shi."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Zaɓi tashoshi na ƙungiya don ganin tashoshinku, buɗe tashoshin da zaku iya shiga, da tashoshi da aka adana. Ana iya ganin tashoshi masu zaman kansu ga membobi kawai. Samfurin ya raba ops-tsarin daga sanarwar shuka na kamfani."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Zaɓi Tattaunawar Aiki don kiyaye tattaunawa akan manufa, tsari, ɗawainiya, tsari, rikodi, ko abun aiki. Matsayinsa da sigar sa har yanzu suna fitowa daga na'urar abin nasa."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Kira & tarurruka · Matsayi na yanzu"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Zaɓi littafin jagorar mutane don nemo abokan aikin da za ku iya saƙo, tare da ƙungiyoyi da matsayi daga UUsers. Ana nuna matsayin asusu mai aiki; da tunani ba ya samar da real-lokaci gaban."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Allon software na asali"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Duba cikakken allo"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Duba asali allo"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": ".\nMatsa allon don duba shi a cikakken girmansa."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": ".\nPDF shafi"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": ".\nRufe samfotin allo"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Bayani da kewayawa."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": ".\nAyyuka da yarda."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": ".\nKayan aikin yau da kullun."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Saitin kasuwanci."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": ".\nZubar da Kuskure"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": ".\nZaɓi Kunna don ci gaba da labarin."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": ".\nUCXO demo jagorar samfur mai sassa huɗu"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "Ba za a iya ɗaukar labari ba. Zaɓi Kunna tare da labari don sake gwadawa."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "UCXO YAWAN KYAUTA"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "GABATARWA"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Maimaita wasa da ruwaya"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Saurari bayanin"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "ArrowDown"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "Kibiya Up"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· demo jagora"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": ".\nDakatar da ruwaya"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": ".\nFit allo"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": ".\nSake kunna wannan sashe"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "Yi shiru da labarin demo"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": ".\nKunna bayanin demo"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": ".\nCi gaban sashen demo"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "YAWAN CIKAKKEN"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": ".\nWASAN LABARI"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": ".\nLABARI DA AKA DAUKA"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": ".\nKASHE LABARI"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Fadada UCXO demo jagora"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Rufe samfoti"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Kunna demo"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "Dakatar da demo"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Taswirar sararin aiki"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Lissafi"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "Sashen"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Duk a cikin ikona"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": ".\n♙ Kamfanin Pilot A (samfurin)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": ".\n♧ Ayyuka"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": ".\nSashen ku: Ayyuka."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Inda aka kafa aiki da aiwatar da shi"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": ".\nManufar & Manufa"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": ".\nManufar & Manufa, Mai tsara Aiki da Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "KARATUN SAURAYI"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": ".\nFara da maƙasudin yarda: shirya shirin samarwa na mako mai zuwa."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": ".\nMUTANE DA MALLAKA"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": ".\nMutane da yawa suna ba da damar yin aiki tare da kayan aiki masu dacewa."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "DAFATAR GURIN AIKI"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Haɗa haƙiƙa, sadaukarwar aiki da albarkatu zuwa ingantaccen tsarin aiki."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "LITTAFI MAI TSARKI"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Ɗauki lissafin shirye-shiryen ta amfani da tsari/matakin shigarwa."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "AIKIN YI"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Ayyukan wakili"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AI WAKILAN · TAKAITACCEN KARIYA"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "Takaitaccen ƙarfin aiki yana gudana bayan yanayin tsabtace layin ya wuce."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": ".\nForm / shigarwa"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": ".\nDAN ADAM · LITTAFI MAI TSARKI"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": ".\nDAN ADAM · WARWARE RUWA"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Yanke karkacewar sharewa a cikin UDO, sannan a sake duba fom, har sau uku."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": ".\nHaɗin kai"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": ".\nSYSTEM · JADAWALIN ERP"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Sabunta jadawalin ERP bayan taƙaitaccen iya aiki. Rashin aiki tare yana bin hanyar sanarwa."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": ".\nAmincewa"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": ".\nDAN ADAM · BINCIKEN SAKI"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": ".\nJagorar ayyukan mai suna ya amince da sakin a cikin UApprove."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Yi rikodin fitarwa"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "TSARIN · YARDA DA SHIRIN"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "An kiyaye tsarin samarwa da aka amince ta hanyar URecords."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "MULKI"
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "Saki yana jiran mai ba da izini mai suna; U-Engine ba zai iya yanke wannan shawarar ba."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Babu hanyoyi zuwa UDO da komawa zuwa lissafin shirye-shiryen. Ee ya ci gaba zuwa aikin AI."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "Haɗin yana sabunta jadawalin ERP kafin amincewar sakin."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": ".\nUApprove, URecords da dawo da sanarwar"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": ".\nJagorar ayyukan da aka ambata suna duba shaidar kuma ta yanke shawarar ko za a amince da sakin."
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": ".\nRashin aikin daidaitawa na ERP yana bin hanyar sanarwar da aka tsara."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Sanarwa"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": ".\nTSARIN · SANAR DA MAI TSARIN"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": ".\nSanar da mai tsara shirin gazawar daidaitawa ta ERP. UPingme yana haɗa tattaunawar."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "Hanyar rikodin yarda da hanyar dawo da sanarwar kowane ya isa Ƙarshe."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": ".\nTATTAUNAWA · TUNATARWA · TSIRA"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": ".\nTattaunawa, tunatarwa da haɓaka sun isa ga mai alhakin a nan; yarda ya rage a cikin UApprove."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": ".\nƘayyade da tsarawa"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Manufar. Tsarin tsari."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Manufa & Makasudi suna haɗa ayyukan sadaukarwa da albarkatu ta hanyar Mai tsara Aiki da Engine Planner."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Fara da makasudin: shirya shirin samarwa na mako mai zuwa."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "Haɗa mutane da himma aiki ta HR Master da Mai tsara Aiki."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Gwaji, bita, kunnawa"
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "Gudun aikin yana farawa da tsari da yanayin tsabtace layi."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Idan sharewa ta gaza, aikin ɗan adam yana warware karkacewar kuma ya sake duba fom."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Idan ya wuce, aikin AI yana shirya taƙaitaccen iya aiki, sannan haɗin kai yana sabunta jadawalin."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": ".\nGwaji, bita, yarda, da kunna bita kafin U-Engine ya fara gudu."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": ".\nKisa da murmurewa"
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": ".\nHaɗin yana sabunta jadawalin, ko yana bin hanyar gazawarsa."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "Sakin yana jiran mai ba da izini ɗan adam mai suna a cikin UApprove."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": ".\nAmincewa da yin rikodin"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": ".\nYardar dan Adam. Rikodin da aka haɗa."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove yana kiyaye yanke shawara tare da mutum. URecords yana riƙe da shirin. UPingme yana haɗa tattaunawar."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": ".\nHaɗin da ya gaza yana sanar da mai tsara shirin. UPingme yana haɗa tattaunawar."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": ".\nAmincewar sakin ya kasance tare da wanda aka ambata a cikin UApprove."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": ".\nWanda ya yarda ya duba shaidar kuma ya yanke shawara."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "Bayan amincewa, URecords yana riƙe da tsarin samarwa kuma aikin ya kai Ƙarshe."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "MANUFOFI & MANUFOFI"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR MASTER · MAI SHIRIN AIKI"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "SANARWA · MAI TSARIN ALHAKI"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": ".\nHUKUNCIN HUKUNCIN DAN ADAM"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": ".\nSAMUN DAKE DANGANTA GA MANUFOFI"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": ".\nINPUT"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "BUTTON"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": ".\nBa za a iya ɗaukar labari ba. Zaɓi Kunna labari don sake gwadawa."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": ".\nYADDA UCXO AIKI"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "MANUFOFI DAYA. LABARI DAYA MAI HADA."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": ".\nShirya mako mai zuwa"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": ".\nSaurari bayani"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Wasa labari"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Sauti · Yi shiru"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Fara ba da labari…"
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Play bayani"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Kunna sauti"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "FILM BABI"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "LABARI · KASHE SAUTI"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "LABARI · WASA"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": ".\nLABARI · BABU"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": ".\nLABARI · TABA WASA"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": ".\nAI wakili"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "Tsari"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": ".\nSarrafa"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": ".\nMai tsarawa ya fara"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "gudun shiri"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": ".\nTasiri"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": ".\nLissafin shirye-shirye"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": ".\nTsarewar layi"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Takaitaccen iya aiki"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Sabunta ERP sandbox"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Ayyukan gudanarwa"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "ya amince da saki"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Yanke izini"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "Ee"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "A'a"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Sake dubawa (max 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": ".\nFitowa mara inganci"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": ".\nAn gaza daidaitawa"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": ".\ndaftarin v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "Misali"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": ".\nCanvas"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": ".\nMatakan da aka ba da oda"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Rubutun tafiyar aiki"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": ".\nZuƙowa cikin tafiyar aiki"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": ".\nZuƙowa aikin aiki"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": ".\nDaidaita tsarin aiki gaba ɗaya don dubawa"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "kisa"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "yanke shawara · farfadowa"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Ee → Takaitaccen iyawa · A'a → Yanke karkacewar sharewa"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Sake duba lissafin shirye-shirye (max 3)"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Shiga"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "Ana buƙatar amincewar ɗan adam"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Littafin demo - UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Duba yadda UCXO ke haɗa manufofin ku, mutane, da ma'aikatan AI. Faɗa mana game da kasuwancin ku kuma nemi demo na sirri."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": ".\nYi littafin demo."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": ".\nDon ƙungiyar ku."
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": ".\nFara da burin ku"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Faɗa mana inda aiki ke makale."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": ".\nBincika damar"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": ".\nYi tafiya cikin kayan aikin da suka dace da ƙungiyar ku."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Nemo mataki na gaba"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": ".\nYanke shawarar ko UCXO ya dace da bukatun ku."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": ".\nFi son imel?"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "DEMO NA KAI"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "Bayanin ku"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Faɗa mana kaɗan game da ƙungiyar ku."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Shafukan gida hudu - UCXO"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Wurin aiki ɗaya."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Fuskokin asali daga ƙirar PDF ɗin ku"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Tsayayyen samfoti don bita"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Bincika samfoti guda huɗu"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": ".\nShafi na gida hudu"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": ".\nBAYANI HUDU TSAYE · SHIRYE DON BUKATA"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": ".\nBi manufar kasuwanci ɗaya daga tsarin aikin da aka tsara zuwa amincewar ɗan adam da sakamakon da aka sake dubawa."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "DAGA HANYA ZUWA ISAR"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Buri ɗaya."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": ".\nKowane mataki yana haɗi."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": ".\nBi tsarin shirye-shiryen samarwa mai hoto."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": ".\nMutane suna riƙe da shawarar da ke buƙatar hukuncin ɗan adam."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "Kisa na kasuwanci,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Kawo manufofin ku, mutane, da ma'aikatan AI cikin tafiyar aiki guda ɗaya."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Bincika dandalin"
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Juya manufofin kasuwanci zuwa ayyukan haɗin gwiwa. Shirya gudanawar aiki, haɗa mutane da wakilan AI, kuma kiyaye aiwatar da kisa."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Shirya aikin"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Ƙayyadaddun ayyuka, yanayi, haɗin kai, da hanyoyin yarda a cikin tsarin aiki da aka siffa."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Zane tsarin aiki"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": ".\nUDO ayyuka"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": ".\nKa ba kowane ɗawainiya mutumin da ke da alhakin da kuma matsayi bayyananne."
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": ".\n01 - DANDALIN"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Ƙananan aikin hannu."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": ".\nƘarin lokaci don ƙungiyar ku."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": ".\nKu kawo wakilan AI zuwa"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": ".\nƘirƙiri da daidaita wakilan AI don sarrafa ayyukan yau da kullun a cikin sassan."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": ".\nDubi misalin tafiyar aiki"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": ".\nKadan kayan hannu"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Mutane da AI suna aiki tare"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Share ikon mallakar"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "TAFARKIN SHEKARU DAGA BURIN ZUWA FITOWA"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 - YADDA YAKE AIKI"
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Bi matakai biyar na tafiyar aiki."
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Kayan aiki a baya"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "tsarin aiki."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Tsara, sanyawa, gwadawa, da gudu."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": ".\nAutomation TARE DA HISABI"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": ".\nHukunce-hukuncen mutane."
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": ".\nDuba tarihin gudu da keɓantacce."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Share ayyuka da izini"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": ".\nSaita ayyuka da iyakar sashe."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": ".\nKASASHEN KASA"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "MISALI"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": ".\nKula da aiwatar da tafiyar aiki"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": ".\nKOFAR YARDA DA DAN ADAM"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": ".\nShawara tana tare da ku."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Yi bitar shaida kuma ku yanke shawara."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "Ana jiran amincewar ɗan adam"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Shaida mai goyan baya haɗe"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "An gano banda"
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "YI DON HANYA KASUWANCI AIKI"
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "Haɗa daga ƙarshe zuwa ƙarshe."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Tsarin aiwatar da raba ga masu kasuwanci,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "shugabannin ayyuka, da kungiyoyin da suke jagoranta."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": ".\nAyyuka"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": ".\nHaɗin kai na aiki"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": ".\nSake amfani da jami'an AI don shirya aiki, sannan hanyoyin fitar da hanya da shaida ga mutanen da suke bitar su."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Tara abubuwan shiga"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": ".\nGudanar da wakili"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": ".\nBinciken ɗan adam"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "HUKUNCIN HUKUNCI"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": ".\nAikin da aka tabbatar"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": ".\nHaɗa shaidar ɗawainiya, ƙofofin amincewar ɗan adam, da keɓance kulawa a cikin kwararar aiki ɗaya da ake iya gani."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": ".\nTattara shaida"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Nemi yarda"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "A warware keɓantacce"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Matsalolin amfani da wakilci. Misalai na aikin aiki suna misaltawa."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "ABUBUWA KADAN, AKA BAYYANA"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO yana taimakawa ƙungiyoyi su juya hanyoyin zuwa aikin da aka ba su, aiki mai iya bin diddigi tare da wakilan AI da amincewar ɗan adam."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Wanene ya yarda da aiki?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "Mai ba da izini ɗan adam mai suna ya yanke shawara. Wakilin AI ba zai iya ba da wannan amincewar ba."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Yaushe tsarin aiki zai iya gudana?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": ".\nBayan binciken shirye-shiryen, amincewar ɗan adam, da kunnawa."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": ".\nKA BADA MANUFOFIN KA HANYA CIGABA"
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "Na gode,"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "ana bukata."
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Kamfanin"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Yadda yake aiki"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Littafin Demo"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Rufe menu"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": ".\nBuɗe menu"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": ".\nManufar & mahallin kasuwanci"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": ".\nBinciken sakamako"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Mataki na gaba"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": ".\nHaɗa zuwa manufar kasuwancin ku"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": ".\nTaswirar dashboard tana ci gaba a ƙasan kamawar PDF. Wannan samfoti yana adana ainihin allon bayyane; ba ya ƙirƙira abin da ya ɓace."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": ".\nHukunce-hukuncen ku."
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove tare da Jiran ni, Nemanta da ni, Keɓancewa da Matsalolin da aka yanke, da kuma ainihin yanayin fanko."
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Aikin yau da kullun."
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Kafa kasuwancin."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Manufofin & tsarawa"
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": ".\nMai tsara Aiki"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": ".\nUPingme UDashview tare da tattaunawar da ba a karanta ba, ambato, ayyuka da ƙididdige ƙididdigewa."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": ".\nJuya SOPs zuwa ayyukan aiki. Sanya alhaki. Bibiyar kammalawa."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": ".\nKasuwancin ku yana gudana. Ka tsaya cikin iko."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": ".\nURecords · Shaida da takardu"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords tana adana takardu da shaidu, tare da sake dubawa da cikakkun bayanan amincewa."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Koyon da aka sanyawa"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining yana tattaro darussa da aka ba su, ranakun da za a yi, da tantancewa."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "Bayanin tattaunawar ku"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Bayanan Bayani:"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Daidaita zuwa taga"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Girman gaske"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": ".\nBata labari"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": ".\nSassan demo na samfur huɗu"
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": ".\n◷ An sabunta 09:29 na safe"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": ".\nKamfanin Pilot A (samfurin)"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": ".\nDole ne mai suna ya amince da bita kafin a kunna shi."
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Aiwatar da aiki da albarkatun da shirin zai daidaita."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": ".\nSharadi"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": ".\nEe ya ci gaba zuwa aikin AI. Babu hanyoyi zuwa aikin ɗan adam don warwarewa."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Aikin ɗan adam"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Kammala hanyar tafiyar aiki da aka saita."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine kisa da murmurewa ɗan adam a cikin UDO"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Gwaji, sake dubawa, yarda da kunna bita kawai zai iya fara gudu."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner yana ɗaure makasudi da albarkatu zuwa ingantaccen tsarin aiki."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Yi bitar zane mai tafiyar aiki, gwada shi, da kuma cikakken shirye-shiryen bincike kafin amincewa da kunnawa ɗan adam."
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine gudu. Mutane suna ci gaba da shiga."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": ".\nAmintaccen aikin aiki yana bin hanyoyin da aka tsara. UDO yana kiyaye aikin farfadowa tare da wanda ke da alhakin."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": ".\nU-Engine yana bin bita mai aiki da hanyoyin yanayin sa."
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": ".\nKuskuren Ba a Halasi ba"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "Mai binciken ku ya dakatar da labarin. Zaɓi Kunna labari don farawa."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": ".\nBa a iya farawa ba labari. Zaɓi Kunna labari don sake gwadawa."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": ".\nYadda UCXO ke aiki"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Babin sake kunnawa"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": ".\nCi gaban babin"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": ".\nLABARI · LOADING"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": ".\nKunna tashin hankali"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "Mutum"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "rikodin shirin"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "gazawar daidaitawa"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "An ƙi / dawo"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Ayyukan shirye-shiryen samarwa tare da yarda da rassan farfadowa"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "SAURARA"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "Abin da ake tsammani"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": ".\nHOMEPAGE CAROUSEL · KYAUTATA KYAKKYAWAR KARANCIN"
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": ".\nHanyoyi hudu don ci gaba."
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": ".\nShiga zuwa UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO - Kisa na kasuwanci, hadewa."
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": ".\nRage burin kasuwanci zuwa matakai, abin dogaro, da masu mallaka."
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": ".\nShirye-shiryen aikin aiki"
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Shirya don kisa"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": ".\nAI ACIKIN KUNGIYAR KU"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": ".\ndon kammala aikin."
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": ".\n03 - KYAUTA MAI GIRMA"
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "A lokacin da ya dace."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove hanyoyin yanke shawara zuwa ga wanda ke da alhakin."
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Duba bayanan tallafi."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Ganuwa a duk faɗin aiwatarwa"
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Ƙayyade shirin"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Gina don tsabta."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "Menene UCXO?"
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Ta yaya Engine Planner da U-Engine suke aiki tare?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": ".\nEngine Planner yana tsara tsarin aiki. U-Engine yana gudanar da gwajin da aka gwada, an yarda, da kunna bita."
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": ".\nKwafi"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Ba a samo shafi ba"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": ".\nBa a iya samun shafin da kuka nema ba."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": ".\nKoma gida"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Zaɓi harshe"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": ".\nBincika harsuna"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": ".\nGudu"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": ".\nHarsuna"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO buƙatun demo - {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Suna: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "Imel na aiki: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Kamfanin: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Ƙasa: {value}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "MATAKI {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} na {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "CIKAKKEN LABARI · {0} seconds"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": ".\nFadada allon {0}"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": ".\nDuba asali na allo {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": ".\n{0} babin demo"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": ".\n{0}. Allon software na asali UCXO tare da nunin siginan kwamfuta mai jagora."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Kira & tarurruka"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Neman ID, lakabi..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "Kamfanin Pilot A (samfurin) · Ayyuka"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Kira & tarurruka"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "KIRA MAI BA DA KYAU · BABU GABATARWA"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Ba za a iya fara kira ko taro ba"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": ".\nnan"
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Tobe ya yanke shawarar kafin ya kasance"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": ".\nA halin yanzu"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Kira &taro"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": ".\nMai bada kira da inda bayanan kira yake"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": ".\nTattaunawar aiki"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "sarrafa"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "Ya mai aiki, kowanne yana ɗaure da abu"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Ana buƙatar yanke shawara · D09"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "Ana ƙirƙirar saƙon kai tsaye tare da farko"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "sako."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "Riƙewa da samun damar yin rikodin"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": ".\nYarda da wani aiki"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": ".\nBa da shawarar aiki daga saƙon; yana kaiwa"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": ".\nNa'urori masu niyya, nuni da ɗaki"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": ".\nUCXO/ Jagoran Wakilci"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": ".\nPilotCompany A(samfurin) · Ayyuka"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": ".\nWanene zai iya yin aiki ga wane, akan menene, kuma tsawon wane lokaci. Bayar da ɗawainiya da izini-iko"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "musanya daban-daban, hukumomi masu iyaka."
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Ana buƙatar yanke shawara · D04"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "amfani), an toshe sarƙoƙi, kuma maye gurbin amincewa yana buƙatar mai gudanarwa mai zaman kansa."
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "An tsara"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Mai aiki"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "Karewa"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": ".\nsoke"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": ".\nAn ƙi"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6 Nuwamba-3 Dec"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": ".\nTun da farko"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": ".\nYau"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "Daga baya"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": ".\nWANDA YAYIWA"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": ".\nSaukewa: 9NoV16No23No30"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "RohanDas"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "aiki don VikramShah"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "shirye-shirye, wanda mai suna ya amince da shi kuma a kunna shi kafin farawa."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "Daftarin aiki"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Shirya bita"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": ".\nBita"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": ".\nQ"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": ".\nShirin shirye-shiryen samarwa na mako mai zuwa"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "Manufar OBJ-026 · Shiri shirin samarwa naextweek"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": ".\nShirye 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": ".\nLIVE VERSION"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008 · zane-zane 1 · 10 nodes"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": ".\nBa ya aiki"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": ".\nYARDA"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": ".\nMAI GIRMA"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "VikramShah"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Yanke shiri"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Forms Master"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Neman ID, lakabi.."
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "ya zama sabon sigar daftarin da mai dubawa mai zaman kansa ya wallafa."
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "Yayi ritaya"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Duk sassan"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Neman ID, suna ko rikodin"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": ".\nLissafin shirye-shiryen samarwa"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": ".\nFormsMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / HR Master"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": ".\nMutane a matsayin albarkatun tsarawa: rawar, ƙwarewa, kalanda na aiki da abin da suka himmatu a kai. Shiga"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Mutane & basira"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": ".\nMatsayi & Ma'aikata"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": ".\nallon samuwa"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": ".\nShigo da (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Mutane"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Skill matrix"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "Ƙwarewa"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Matsayi"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Mai aiki kuma mara aiki"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Masanin gyaran gyare-gyare"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Mai aiki da kayan aiki"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": ".\nKulawa"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": ".\nLantarki"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": ".\n苗Ba abin da aka aikata"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Babu asusun shiga"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": ".\nLogin: Arjun Mehta"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": ".\nMaya Rao"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "MR"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": ".\nUPingme / Inbox"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": ".\nDuk tattaunawar da kuke memba a cikinta, an tsara ta yadda abin da kuke buƙata ya zo a gaba."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markallread"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Saƙon wani"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "Ali 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Ba a karanta ba"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Bincika sunaye, batutuwa da rubutun saƙo"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Tashar tawaga"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "Nuwamba 12, 2026, 7:05 na safe"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah: @Neha don Allah a warware rigima-021 kafin 2026-11-13 a..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": ".\nUCXO / Inji Master"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": ".\nKayan aikin da za a iya tsarawa: inda yake, abin da zai iya yi, nawa a kowace awa, lokacin da yake."
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": ".\nLabel printer 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "Layin Package 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": ".\nPlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": ".\nPlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 lakabi / awa"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": ".\nraka'a/awa"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": ".\nLakabi"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": ".\nRufewa"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "Ya tanadaBa'a shirya lokacin hutu ba"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 an adana shi a ranar 19 ga Nuwamba, 2026"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Kowane maƙasudi yana faɗin sakamako, yadda aka tabbatar da nasara, da kuma wanda ya mallake ta - sannan ya bi ta"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "tsarawa, amincewa, aiwatarwa da rikodin hukuma."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Makasudai"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": ".\nManufar"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": ".\nMISALI · MIS-001"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": ".\nJama'a sun yarda"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Duk wani abu mai yiwuwa"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": ".\nShirye-shiryen suna nuna ƙarfin gaske"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": ".\nBude manufa"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Duk 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": ".\nAna jiran bita"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": ".\nKarba"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": ".\nBita"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Nemo ID, take ko mai shi"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "Shirya"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "na gaba"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "mako"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "kuma ba a nuna cikakkun bayanai a nan."
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Injiniya"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Ayyuka 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "Tsare-tsare"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": ".\nAsusu"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": ".\nKowa (10)"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": ".\nManajan kamfani"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Asusun mai aiki"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": ".\nshugaba"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": ".\nAccount mai aiki"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Vikram Shah"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": ".\nSako"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": ".\nVS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": ".\n(mai yarda)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Tashoshin kungiya"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Tashoshin da kuke ciki, buɗe tashoshin da za ku iya shiga, da tashoshi da aka adana."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Sabon tashar"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "Masu zaman kansu suna iya ganuwa ga membobinsu."
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "TAshoshin ku"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Sakon ƙarshe 12 Nov 2026,7:05 na safe"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "BUDE ZAKU IYA SHIGA"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## shuka-sanarwa"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": ".\nSanarwa na kamfani ga Shuka A. Mai shi kaɗai"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": ".\nposts."
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": ".\nUCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": ".\nMutane masu suna suna yanke shawara akan takamaiman, daskararre bita. Amincewa, Komawa da Ƙin yanke shawara daban-daban; an"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": ".\nShaidawa ware mataki na yarda."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Jira onme"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": ".\nD"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": ".\nNi ne aka nema"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": ".\nBanda"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "Ya yanke shawara"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Duk a cikin iyaka"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "SearchID, take, mai tambaya"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Babu wani abu da ke jiran ku"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "kowane kati ya buɗe daidai abin da ake ƙima."
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "Hukumar"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 List"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Duk a cikin ikona"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": ".\nAn sabunta 09:29 na safe"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": ".\nC Sabuntawa"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": ".\nDuk abin da ke jiran ku -- daga matakan aikin aiki, buƙatun tsari, yarda, bibiya da UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "shawarwari - tare da inda za a yi aiki da abin da kammala shi ya canza."
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": ".\nUDO·MyTasks"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "cikakken suna, mai shi, masu amfani da sauran allo ba"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": ".\nAna buƙatar yanke shawara · D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": ".\nayyana, don haka babu wani abu da aka nuna."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": ".\nAn sanya mani"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "Ni ne aka ba ni"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "Bude"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "Ci gaba"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "An dawo"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "An kammala"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Neman ID, take, tushe ko wanda aka ba shi"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Alltypes"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Ba a sanya maka komai ba tukuna"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": ".\nAyyuka sun zo nan daga gudanawar aiki (nau'i da matakan ɗan adam), amincewa"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": ".\nbuƙatun, bin diddigin wani ya ba ku da shawarwari da aka tabbatar a ciki"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": ".\nyana buƙatar sulhu.Runs suna kiyaye ainihin sigar su koda bayan shirin ya canza."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Ma'anar lokacin aiki"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": ".\nAil0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": ".\nIna jirana"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "Jira"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": ".\nGudu"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": ".\nAn soke"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": ".\nNemo gudu ko shirin ID"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Babu gudu tukuna"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Runsstart daga shirin mai aiki a cikin EnginePlanner."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Bude EnginePlanner"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Cika samfuran Jagora da aka buga. Kowane ƙaddamarwa yana kiyaye ainihin sigar da aka yi ta,"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "Gabatarwa na"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Siffofin da aka buga"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "Sai kawai sigar da aka buga a halin yanzu za a iya farawa; tsofaffin sigar za a iya karantawa akan ƙaddamar da su."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": ".\nBincika siffofin"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": ".\n1 sharadi"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "SAFE"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": ".\nMAI SAMUN FIM"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": ".\nKabiru Sen"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "PRODICESECORD"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": ".\nJerin dubawa na shirye-shirye"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": ".\nPLAN-021 Shiri na samarwa na mako-mako"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": ".\nshirin"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026 Shirye-shiryen samarwa naextweek"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Abin da ke cikin tattaunawar ku yana buƙatar ku, da aikin da suke."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Bude akwatin saƙo mai shiga"
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "Saƙonni suna daidaita aikin; ba su taba yarda, sa hannu ko kammala shi ba. Aiki yana wanzuwa bayan a"
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1Kira & tarurruka"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Rashin karantawa"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Buɗe ayyuka daga"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": ".\nBa a ƙaddamar da shi ba"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": ".\nBude a daidai"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": ".\nZane kawai zaka iya"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "ban karanta ba"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": ".\ngani"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": ".\nKuna bukata"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "Allmentions"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": ".\nTattaunawar baya-bayan nan"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": ".\n#Abba-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": ".\n12 ga Nuwamba, 2026 a 7:05 na safe"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Karatun nono kuma ba tare da buɗewa ba"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "shiryawa"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "tattaunawa."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO-onestore.Oopentaskcam"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "daga tattaunawar ku; kowanne yana danganta komawarsa"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "tattaunawa ta tushe."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "Wanda ya wuce0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": ".\nWato yau"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": ".\nSearchID, take, tushe ko wanda aka sanyawa"
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": ".\n品 Duk bayanan"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Rikodin aiki"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": ".\nTakaddun sarrafawa"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": ".\nB"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Riƙe na doka"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": ".\nNeman ID, take ko nau'in"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": ".\nDuk wani matsayi"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Takardun da aka sarrafa"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "Abun da aka fitar ya daskare. Canji sabon bita ne tare da amincewarsa; mai sarrafa daftarin aiki ya sake shi."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "Layin marufi na SOP-PKG-004"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "canji"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Mai gida Leela Menon"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "Rikodi 1 da aka nuna · ba'a kirga rikodi a wajen samun damar ku"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": ".\nKoyi ainihin sigar da aka ba ku. Karanta wani sashe yana rubuta ci gaba; kawai sigar ta"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": ".\namincewa ko tsallake kima ya kammala shi."
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": ".\nMarufi aminci line"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① An sanyawa"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": ".\nKwanaki 2 · 15 Nuwamba 2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · sigar ku"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": ".\nFara darasi"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": ".\nGabatarwa · Tsaro · Layukan Marufi"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": ".\nLeela Menon ne ya sanyawa hannu"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0 na 2 sashi karanta"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Ƙimar · wuce 100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Laburaren abun ciki"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "Taken"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Duk batutuwa"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "Kowa"
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Halayen dandamali da samun damar su: matsayinsu, iyakar sashe, zama, wakilai da bita."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": ".\nMa'aikata da samuwa suna zaune a cikin Jagoran HR."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": ".\nMutane"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": ".\nMara aiki"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "Sunan QSearch, imel, ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Ayyuka na marufi"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": ".\nMasu gudanar da ayyuka masu iya gani"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": ".\n13 ga Nuwamba, 2026, 9:28 na safe"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "Ayyukan gudanarwa na Kamfanin"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "Ayyukan da ake iya gani ga masu gudanarwa"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+ Sabuwar tattaunawa"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Suna, batu ko rubutun saƙo"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Ajiye"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Babu tattaunawar aiki tukuna"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": ".\nTattaunawar aiki tana ɗaure ga abu ɗaya da zaku iya buɗewa - tsari,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": ".\nhaƙiƙa, ɗawainiya, tsari, rikodin ko abu na aiki - don haka tattaunawar ta tsaya a gaba"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": ".\nAyyukan da aka sanya a cikin lokaci tare da mutanen HR Master da kayan aiki daga Injin Master."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Jadawalin samfoti ba a taɓa ajiyewa ba; alkawari kawai yake yi."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": ".\nYana buƙatar tsari"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": ".\nAna ci gaba"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": ".\nAna jiran amincewa"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": ".\nRikici"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": ".\nJadawalin sati"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "SearchID, take, wuri"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Shirye-shiryen samarwa-weekof2026-11-16"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "Jadawalin"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "AIKI-021 · ranar 18 ga Nuwamba 2026 · Marufi/Rufewa"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 ayyuka a wannan makon"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "TUE"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "LARABA"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9 Nuwamba 2026"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": ".\n10 Nuwamba 2026"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": ".\n11 Nuwamba 2026"
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": ".\nTashoshi"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Sanarwa"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": ".\nShiga"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": ".\nRiƙewa"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Memba — karantawa kawai"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": ".\n# ops-tsari"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": ".\n##tsare-tsare"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Karanta kawai"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Sai mai shi (VikramShah) ko filin aiki"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "mai gudanarwa na iya canza waɗannan saitunan."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Wanene zai iya karantawa"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "ana nuna sakonni"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Duk membobin"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Samar da mako-mako"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "shirin Plant A"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": ".\nMembobi"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": ".\nAsha Kulkarni, Vikram"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": ".\nTarihin siyasa"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "Matsayinku"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Komawa saman"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. An kiyaye duk haƙƙoƙi."
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Aminta & sanyawa"
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Amincewa da shirin kuma sanya masu su"
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Yi nazarin sakamakon tare da shaidarsa"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "A wuri guda."
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "Jagoran HR tare da mutane, ayyuka, ƙwarewa, kalanda masu aiki da alƙawura."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Akwati mai shiga & ambato"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Akwati mai shiga"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. Mafarin ku. Duba kamfanin ku, zaɓi sashe, kuma buɗe tsarin da kuke buƙata."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. Ayyukanku da yarda. UDO yana nuna aikin da aka ba ku."
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Inda kuke yin aikin. Cika fom ɗin da aka buga a cikin UForms kuma ku bi diddigin abubuwan da kuka gabatar."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Tsara yadda kasuwancin ku ke aiki. Fara da manufa da Maƙasudai don ayyana manufa da mai shi."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Bincika sharhin tattaunawar, akwatin saƙo mai shiga, ayyukan da aka raba, tashoshi, mutane, da saitunan sararin aiki."
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Zaɓi Saitunan Wurin Aiki don batutuwan tashoshi, membobinsu, izinin karatu da aikawa, da tarihin siyasa. Mai amfani da samfurin yana da damar karanta-kawai. Saƙonni suna daidaita aikin; ba su yarda ko kammala ba."
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Kunna demo jagora"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "Ayyuka"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ allo"
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner buga aikin aiki"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Riƙe ingantaccen tsarin samarwa da rikodin goyon bayan sa."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "TSARIN · HANYA TA KASA"
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms yana ɗaukar lissafin shirye-shirye."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "Takaitaccen iya aiki yana gudana ne kawai bayan an wuce layin layi."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Mutane suna karɓa kuma suna kammala ayyukan dawo da aka sanya su a cikin UDO."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Kisa na kasuwanci, hadewa."
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "HADIN KAI · JADAWALIN ERP"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "MANUFOFIN KA"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "Labarin ya bayyana a sarari."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Zaɓi kowane mai zaɓin allo don bincika abin da ke da alaƙa. Bude allo a cikakken girman don kwatanta shi da PDF. Waɗannan samfoti suna riƙe ainihin bayanan samfurin kuma babu komai ko daftarin jihohi."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Komawa zuwa duban samfoti huɗu"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Yadda yake aiki - UCXO"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Aiki na gaske."
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Maimaitawa da rahoto"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Da fatan za a kammala wannan filin."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Da fatan za a duba wannan ƙimar."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Audio: Turanci"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Girman kamfani: {value}"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} allon software na asali"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "Gaba · {0}"
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "saboda babu abin da zai faru a zahiri.Taruka"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "ba za a iya tsarawa ko adanawa ba-babu babu."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "Yarda da ɗan takara kafin kowane"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "rikodi ko kwafi"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "da kwafi (URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO kawai bayan kun duba kuma ku ƙaddamar da shi."
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Mai aiki"
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "Ana amfani da abubuwan da ba su dace ba: wakilai ba su taɓa bayar da fiye da abin da wakilin ya ɗauka ba (an sake duba kowane"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "Ana jiran amincewa"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Canjin amincewa 1"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Wakilai kawai da suka shafe ni"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Bincika mutane, ID, dalili"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Ayyuka"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "Tsari yana ɗaure wani abin da aka yarda da shi, sadaukarwar aiki da albarkatu zuwa ingantaccen tsarin aiki. Dole ne ya wuce"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "Neman ID, take ko manufa"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Samfuran ma'anar da aka ƙirƙira akan buƙatar sashe. Siffofin da aka buga ba su canzawa; kowane canji"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Buga"
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Duba"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "An ɗaure zuwa PLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8 filayen · mai iya canzawa"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Duk wani fasaha"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Sunil Varma"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "inganci"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "T"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "W"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "ambaton"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "# ops-tsari"
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIL3"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "Ba ya aiki"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q Suna, wuri ko iya aiki"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Amintacce, ayyuka masu shaida"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "kayan aiki da yanke shawara waɗanda aka tsara, yarda da shaida."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "Mai gidaAshaKulkarni"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "Kowa a cikin kamfanin ku kuna iya yin saƙo, tare da ƙungiyarsu da matsayinsu daga UUsers. Samuwar HR"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIL 10"
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Arjun Mehta (ka)"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1 Saƙo"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "Fadin kamfani"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5 membobi"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "majiɓinta"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Dubawa"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Shiga"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Bude tashoshi na kamfani-fadi ko na gundumomi a cikin UPingmescope.Masu fasaha na keɓaɓɓu an jera su"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "Buƙatun suna bayyana a nan lokacin da kake suna mai amincewa da buɗaɗɗen mataki ko mataimaki mai aiki."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO/UDashview"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "Katuna"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Manufar & Manufa"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO/UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / Ayyukana"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "Ayyukana"
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "Ayyukana ɓangaren UDO ne mai amfani ya jagoranta. Bayani na UDO"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Wato yau"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Nau'in"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Za ku kuma sami sanarwa."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO/UEngine"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Gudu"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Kowane aiwatar da ingantaccen sigar gudanawar aiki da aka buga - wanda yake jira, menene ya gaza kuma menene"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO/UForms"
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Abubuwan da ake samuwa"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8 filaye"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "tebur 1"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1 fayil"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "Babu wani abu a cikin maganganunku da ke jiran ku."
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "shawarwari"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "Tare da sakonnin ku"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "An sanya muku a ciki"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Ayyuka iri ɗaya, ID, shaida da iko kamar"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "A cikin UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Ayyuka daga tattaunawa kawai"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "Kamfanin Pilot A(samfurin) · Ayyuka"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Rubuce-rubuce daga gudu-gurbi, fom da aka karɓa da shigarwar hannu, da takaddun sarrafawa tare da ƙa'idodin sakin-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "a cikin wani kantin sayar da mai tushe. Bincika da fitarwa suna bin iyakar samun damar ku."
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "An saki Rev 1"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 bita"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "Ayyukana"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "An rufe"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "Ali"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Bincika take, jigo, samfur"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "Matsayina"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "Kuna ganin tarihin kamfanin.Ayyukan, iyawar sashe da zaman suna bayyane ga kamfani"
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Duk 10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Mai aiki10"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Tattaunawa da ke daure zuwa manufa ɗaya, tsari, ɗawainiya, tsari, rikodi ko aiki"
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "AILO"
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Fara daya"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Kamfanin PilotA (samfurin) · Ayyuka"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "A wannan makon"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "MON"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Saitunan Wurin Aiki"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Saitin Wurin aiki/Saitunan Tashoshi"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Taken, membobi, waɗanda zasu iya karantawa kuma waɗanda zasu iya aikawa - don tashoshi da tattaunawar aiki. Kowanne"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "an yi sigar canji kuma ana duba su."
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "zai iya nemo kuma ya haɗa shi;"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Wanene zai iya aikawa"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Rao, Arjun Mehta"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Ina so in tattauna wannan yayin demo."
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Filayen da aka yiwa alama"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "Imel na aiki"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Sunan kamfani"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Sunan aiki"
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Dandalin"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Kulawa"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Babban kewayawa"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Shiga"
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Daidaita shirin shirye-shiryen samarwa"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Sakamakon da ake so"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Bitar tafiyar aiki"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Ƙofofin yarda da ake buƙata"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Sanya ikon mallaka a wurin."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Amincewa da shirin kuma sanya kowane aiki ga mai shi."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "Kwatanta sakamakon da shaidarsa tare da ainihin manufar."
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Tarihin aiwatar da wakili"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Fara tafiya kuma"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "KYAUTA MAI KYAU"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview tare da kamfani da mahallin sashe, Bayanin Bayani da Shafukan Ayyuka, da taswirar sararin aiki a bayyane."
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "Ayyukan ku."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Maƙasudai, albarkatu, ƙirar aikin aiki, da samun dama."
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Manufa da Manufofin da ke nuna Dogara, tabbataccen manufa ayyuka da matattarar haƙiƙa."
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Mai tsara Aiki tare da ƙididdige ƙididdigewa, kayan aikin shirye-shiryen samarwa da jerin lokutan mako."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "HR Jagora"
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Nemo tattaunawar ku, daidaita cikin tashoshi na ƙungiya, kuma ku ci gaba da tattaunawa mai alaƙa da aikin da suka shafi. Bita da ƙaddamar da shawarwarin ɗawainiya sun haɗa baya zuwa UDO."
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Tattaunawa masu alaƙa da aiki"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "Aiwatar da kasuwancin AI mai ƙarfi"
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Siffofin Jagora suna ƙirƙira da buga samfura da ƙungiyar ku ta cika a UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Delegation Master yana bayyana wanda zai iya ɗaukar wani aiki ko amincewa, da tsawon lokacin."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers suna sarrafa asusun mai amfani, matsayi, da izinin shiga."
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "Ana iya ganin kira da tarurruka a cikin kewayawa, amma ginin da aka kawo ba shi da mai bada kira. Wannan allon yana bayyana cewa kira, tsarawa, rikodi, da kwafi ba a samuwa a halin yanzu."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "Jagorar mutane"
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Saitunan Wurin aiki"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Tsarin asali na asali, lakabi, bayanai da jihohi"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Asalin software na UCXO · Shafin PDF"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "Ci gaba da ruwaya"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "WURIN AIKI, HANNU"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Duban mai da hankali"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Fadada demo jagora"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Sake kunna yawon shakatawa"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Dakatar da demo jagora"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Dubawa"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Katuna"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "Da kyau ganin ku, Arjun (Mai aiki). Kowane tsarin da zaku iya buɗewa yana zaune a kusa da UCXO tare da adadi ɗaya; kowane kati yana buɗe daidai abin da ya ƙidaya."
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Sake sabuntawa"
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "MAI SUNA BINCIN DAN ADAM"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "Mutum ya kammala lissafin shirye-shiryen a cikin UForms."
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "Sarrafa · TSARE LAYI?"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "Wanda ke da alhakin karɓa kuma ya kammala aikin da aka sanya a cikin UDO."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "Takaitaccen iya aiki zai iya gudana kawai lokacin da yanayin tsabtace layi ya wuce."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "TSARIN · RUBUTUN FITARWA"
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "ABINDA AKE YARDA DA BAYYANE"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Matakai da aka buga. Saki mai sarrafawa."
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · FADAKARWA DAN ADAM"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "Ana shirya tafiyar aiki…"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Dakatar da bayani"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Yi shiru"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "LABARI · AN DAUKA"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Zaɓi babi"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Amintaccen samarwa"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Sanar da mai tsara shirin ERP"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "An amince"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner zane mai gudana"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Canvas Gudun Aiki"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "An kasa aiki tare → Sanar da mai tsarawa"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "Shirin shirye-shiryen samar da mako mai zuwa"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "An yi rikodin yarda da misali"
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Duba UCXO tare da tafiyar aiki daga kasuwancin ku."
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "MUTANE + AI"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Komawa gidan yanar gizon"
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Katunan shafin gida guda huɗu da aka gabatar. Haƙiƙanin allo na software, bayyanannun bayanai, da duban kurkusa kowane bangare na UCXO."
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "Software yana jagora."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Manufofin cikin ayyukan aiki"
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Sanya alhaki"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Gwada bita kuma kammala cak ɗin sa kafin amincewa da kunnawa."
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "Daga burin"
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "GINA DOMIN AIKI TARE"
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Shaida kafin amincewa"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Ya kai ga mai dubawa da alhakin"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "Ayyukan sa ido baya ba da izinin ɗan adam."
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 - AMFANI DA LURA"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Daidaita ayyuka daban-daban, masu mallaka, da abin dogaro a kusa da manufar kasuwanci ɗaya."
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Daidaita abubuwan hannu"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "AIKIN MAI MANTAWA"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Duba UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Yi littafin demo don ƙungiyar ku, ko duba misalin tafiyar aiki."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Duba tsarin aiki"
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Don Allah shigar da adireshin i-mel mai inganci."
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Sunan aiki: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "Babin {0}: {1}"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} allon software"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "GIDA"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "Kiran murya da bidiyo, jadawalin taro, yin rikodi da kwafi ba sa cikin wannan ginin."
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Ana buƙatar yanke shawara · D09 · D13"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Babu Haɗuwa, Rikodi ko Ikon Rubutu"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "tattauna."
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Saƙon mutum"
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Saituna"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "Ma'anar kasuwanci na wakilai da ko an yarda da sarƙoƙi ba a yanke shawara ba. Conservative"
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "Ail"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Duk nau'ikan 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Canjin aikin 0"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "PilotCompanyA(samfurin) · Ayyuka"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "An dakatar"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 shiri"
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Forms Master"
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "AII"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Lissafin ma'aikata kafin a fara tattarawa."
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "&Maigidan Ayyuka Kabir Sen"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Duk sassana"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Suna, matsayi ko fasaha"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Marufi"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "M"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Saƙonni kai tsaye"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "BA A KARANTA"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "bude, da abin da aka riga aka ajiye. Tsara tsarawa kawai - babu sarrafa injin."
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "Akwai"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "Layin Package 02"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "Kamfanin Pilot A(samfurin) · Ayyuka"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Manufar &Manufa"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Bayar da kowane sadaukarwar samarwa akan lokaci tare da mutane,"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Jagorar mutane"
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Suna, take ko sashe"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①Ba a nuna gaban: UPingme ba shi da sabis na kasancewar lokaci na ainihi. Matsayi shine jihar asusun UUsers."
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Asha Kulkarni"
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Sunan tashar, rubutun taken"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Tsarin samarwa na mako-mako don Plant A"
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "Asha Kulkarni -fadi2 memba"
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Taswirar sararin aiki"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Inda aka saita da aiwatarwa"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "Wanda ya wuce"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "AlIlo"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Gudun"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "kuma suna kallon karɓuwa da dawowa don gyarawa."
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Jerin abubuwan dubawa na shirye-shiryen samarwa"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6 ake bukata"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "Ana duba tsari kuma an ƙaddamar da shi."
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "tattaunawa"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "sako"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / Ayyukana"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Duk iri"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO/URecords"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Daftarin aiki da aka saki"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "SarrafaSopOperations"
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "Koyona"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "op"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "Samfura"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Duk samfuran"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Bayanan sabis"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "masu gudanarwa."
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Tattaunawar Aiki"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "abu. Matsayin abu da sigarsa koyaushe suna fitowa daga nasa tsarin."
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "zuwa aiki."
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/Mai Tsare-tsaren Aiki"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "Makonni 9 Nov 2026"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "AYUBA"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Saitunan tashar"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Bude-iyalin mutane"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "mambobi kawai"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Shah, Neha, Maya"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / MANUFAR KASUWANCI"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / DAFATAR GURIN AIKI"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / MALLAKA"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "SIFFOFI / SHIGA → HALI"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "GWAJI → BITA → KAYA"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": ".\ncikakke?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · LITTAFI MAI TSARKI"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · KYAUTA AIKI"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · BAYYANA AIKI"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · MAI YARDA MAI SUNA"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · JIRAN HUKUNCI"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/Master Delegation"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Manufa&Manufi"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/Mai Tsare-tsaren Aiki"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / HUKUNCIN HUKUNCI"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / NAZARI"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "AIKIN DAN ADAM → Sake duba"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "AIKIN WAKILI → HADIN KAI"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → KARSHE"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "jadawali"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "sabawa"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "nunin juyawa"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "zane"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Kawo wakilan AI zuwa kowane bangare na ƙungiyar ku."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Duba UCXO cikin aiki."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Shirya shirin samar da mako mai zuwa."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "ana sarrafa asusun ajiya na wajeUUsers."
+    }
+  }
+}

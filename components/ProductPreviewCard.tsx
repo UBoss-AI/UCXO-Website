@@ -1,14 +1,15 @@
 'use client';
+import {useLocalize} from '@/i18n/LocaleProvider';
 import {useRef,useState} from 'react';
 import {ArrowUpRight,Check,Expand,Maximize2,Minus,X} from 'lucide-react';
 import ProductScreenImage from './ProductScreenImage';
 import {productPreviews,type ProductPreview} from './product-preview-data';
 
-export default function ProductPreviewCard({preview,index}:{preview:ProductPreview;index:number}){
+export default function ProductPreviewCard({preview,index}:{preview:ProductPreview;index:number}){const localize=useLocalize();
   const [selected,setSelected]=useState(0),[actualSize,setActualSize]=useState(false);
   const dialog=useRef<HTMLDialogElement>(null),screen=preview.screens[selected];
   function expand(){setActualSize(false);dialog.current?.showModal();}
-  return <article className="product-preview-card" id={preview.id} aria-labelledby={`${preview.id}-heading`}>
+  return localize(<article className="product-preview-card" id={preview.id} aria-labelledby={`${preview.id}-heading`}>
     <div className="product-preview-card-top"><span><b>0{index+1}</b> / {String(productPreviews.length).padStart(2,'0')}</span><span>{preview.label}</span><span className="product-preview-proof"><Check size={12}/>Original software screen</span></div>
     <div className="product-preview-layout">
       <div className="product-preview-copy">
@@ -34,5 +35,5 @@ export default function ProductPreviewCard({preview,index}:{preview:ProductPrevi
       <div className="product-preview-dialog-bar"><div><strong>{screen.label}</strong><span>Original UCXO software · PDF page {screen.page}</span></div><div><button type="button" onClick={()=>setActualSize(x=>!x)}>{actualSize?<Minus size={16}/>:<Maximize2 size={16}/>} {actualSize?'Fit to window':'Actual size'}</button><button type="button" aria-label="Close screen preview" onClick={()=>dialog.current?.close()} autoFocus><X size={20}/></button></div></div>
       <div className={`product-preview-dialog-image ${actualSize?'is-actual-size':''}`}><ProductScreenImage screen={screen.id} alt={screen.description} active theme={index%2===0?'dark':'light'}/></div>
     </dialog>
-  </article>;
+  </article>);
 }

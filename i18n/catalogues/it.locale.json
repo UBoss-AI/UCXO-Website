@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Ciao squadra UCXO,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Vorrei organizzare una demo di UCXO."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Cosa vorrei ottenere:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Vorrei discuterne durante la demo."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "Grazie,"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Richiedi una demo di UCXO"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Campi contrassegnati"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "sono richiesti."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "I tuoi dati di contatto e aziendali"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "Nome"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "Cognome"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "E-mail di lavoro"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Compagnia"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Nome dell'azienda"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Titolo di lavoro"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "Il tuo ruolo"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "Dimensioni dell'azienda"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Seleziona la dimensione della squadra"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "Paese"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "Il tuo paese"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Cosa vorresti ottenere?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "Facoltativo"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "Un flusso di lavoro da migliorare, un obiettivo da raggiungere o una sfida da risolvere…"
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "Lascialo vuoto"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "Utilizzeremo i tuoi dati per rispondere alla tua richiesta di demo. Si prega di evitare di includere informazioni riservate."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Richiedi la mia demo"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Apre l'app di posta elettronica con i tuoi dati precompilati."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Esecuzione aziendale, coordinata."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Piattaforma"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Come funziona"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Casi d'uso"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Supervisione"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Torna all'inizio"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. Tutti i diritti riservati."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "Guidato dall'uomo. Alimentato dall'intelligenza artificiale. Responsabile fin dalla progettazione."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO casa"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "navigazione aperta"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Navigazione principale"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Prenota una dimostrazione"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Accedi"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Chiudi menù"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "Apri il menu"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / ILLUSTRATIVO"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "Arial 30px in grassetto"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "FLUSSO DI LAVORO"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "FASI CONNESSE"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "PROPRIETÀ"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "PERSONE + AGENTI MOTORE"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "REVISIONE UMANA"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "RICHIESTO / IN ATTESA"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "CONSERVATO DOVE RICHIESTO"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Definire l'obiettivo"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Inizia con il risultato."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Dichiara il risultato e chi ne è il proprietario."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Coordinare il piano di preparazione della produzione"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "Obiettivo e contesto aziendale"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Proprietà organizzativa"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Risultato desiderato"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Esaminare il flusso di lavoro"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Rendi esplicito il piano."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Controlla i passaggi, le dipendenze e le approvazioni richieste."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Esaminare il piano di esecuzione proposto"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Compiti umani e agenti IA"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "Dipendenze e trasferimenti"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Cancelli di approvazione richiesti"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Approva e assegna"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Metti in atto la proprietà."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Approva il piano e assegna ciascuna attività al relativo proprietario."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Approvare il piano e assegnare i proprietari"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "Proprietari di attività responsabili"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Funzionalità dell'agente approvate"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "Responsabilità umane di revisione"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "Esegui"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Mantieni il lavoro connesso."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine segue il piano e segnala i problemi per la revisione."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "Monitorare attività, esecuzioni e trasferimenti"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "Esecuzione sensibile alle dipendenze"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Viene eseguito l'agente monitorato"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Escalation delle eccezioni"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Esaminare i risultati"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Chiudi il ciclo."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "Confronta il risultato e le sue prove con l'obiettivo originale."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Esaminare il risultato con le sue prove"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Prove e approvazioni dell'attività"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Cronologia dell'esecuzione dell'agente"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "Revisione dei risultati"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "Il viaggio UCXO"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "Freccia a destra"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "Freccia sinistra"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "Casa"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "Fine"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Ricominciare il viaggio"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Prossimo passo"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "FLUSSO DI LAVORO ILLUSTRATIVO"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "Connesso al tuo obiettivo aziendale"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "I nostri partner"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "Riprendi i loghi dei partner"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "Metti in pausa i loghi dei partner"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO soci"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "Il tuo punto di partenza."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "Guarda il quadro generale."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Contesto aziendale, ambito del dipartimento e visualizzazioni dell'area di lavoro."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Panoramica dell'area di lavoro"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "Contesto del Dipartimento"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Moduli collegati"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview con il contesto dell'azienda e del dipartimento, le schede Panoramica e Attività e la mappa dell'area di lavoro visibile."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "La mappa del dashboard continua sotto l'acquisizione del PDF. Questa anteprima conserva l'esatta schermata visibile; non inventa la parte mancante."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "I tuoi compiti."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "Le tue decisioni."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Utilizzare UDO per gli incarichi e UApprove per le richieste di approvazione."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · I miei compiti"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "Assegnato a me/da me"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · Decisioni umane"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO Le mie attività con schede di assegnazione, filtri sullo stato delle attività, ricerca e stato vuoto originale."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove con In attesa di me, Richiesto da me, Filtri Eccezioni e Decisi e lo stato vuoto originale."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Lavoro quotidiano."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "In un posto."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "Moduli, record, esecuzioni di flussi di lavoro e formazione."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Moduli e documenti"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · Il flusso di lavoro viene eseguito"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "Apprendimento assegnato"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms che mostra la checklist di preparazione alla produzione pubblicata, la sua versione, i campi e il flusso di lavoro collegato."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords che mostra la SOP rilasciata per il cambio controllato della linea di confezionamento e la sua revisione."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "La schermata Esecuzioni UEngine originale, preservando l'esatta etichetta dell'interfaccia utente e lo stato Nessuna esecuzione ancora."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining che mostra la lezione sulla sicurezza della linea di confezionamento, i progressi e i requisiti di valutazione assegnati."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Avvia l'attività."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Pianifica il lavoro."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Obiettivi, risorse, progettazione del flusso di lavoro e accesso."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Obiettivi e pianificazione"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Persone e attrezzature"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Modelli e accesso"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner con la bozza del piano di preparazione alla produzione, disponibilità 4/8, proprietario e approvatore denominati e stato Non attivo."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "Missione e obiettivi"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Missione e obiettivi che mostrano la missione operativa affidabile, evidenziata e i filtri degli obiettivi."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "Pianificatore di lavoro"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Pianificatore del lavoro con conteggi della pianificazione, elemento di lavoro di preparazione della produzione e sequenza temporale settimanale."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "Maestro delle risorse umane"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "HR Master con persone, ruoli, competenze, calendari lavorativi e impegni."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "Maestro della macchina"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Machine Master con disponibilità delle attrezzature, capacità, orari di lavoro e prenotazioni."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "Maestro delle forme"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Master dei moduli con la versione pubblicata e immutabile dell'elenco di controllo di preparazione della produzione."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Maestro della delegazione"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "Master della Delega con la notifica originale della decisione necessaria e la sostituzione dell'approvazione programmata."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "CONVERSAZIONI CON IL LAVORO IN CONTESTO"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Mantieni le conversazioni"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "vicino al lavoro."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Trova le tue conversazioni, coordinati nei canali del team e mantieni le discussioni collegate al lavoro che riguardano. Le proposte di attività esaminate e inviate si ricollegano a UDO."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Posta in arrivo e menzioni"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Canali della squadra"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Conversazioni legate al lavoro"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Posta in arrivo"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Posta in arrivo con filtri di conversazione e conversazione non letta di pianificazione operativa originale."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Canali del team che mostrano la pianificazione delle operazioni e il canale degli annunci sull'impianto a livello aziendale."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Conversazioni di lavoro"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme Conversazioni di lavoro con il suo stato vuoto originale e spiegazione dei collegamenti agli oggetti di lavoro."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "Panoramica della conversazione"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview con conversazioni non lette, menzioni, attività e conteggi di proposte non inviate."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "Esecuzione aziendale basata sull'intelligenza artificiale"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "Trasforma le SOP in flussi di lavoro. Assegnare la responsabilità. Tieni traccia del completamento."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "La tua attività funziona. Mantieni il controllo."
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI è l'esecuzione aziendale basata sull'intelligenza artificiale. Trasforma le SOP in flussi di lavoro. Assegnare la responsabilità. Tieni traccia del completamento. La tua attività funziona. Mantieni il controllo."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "Panoramica del tuo spazio di lavoro"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. Il tuo punto di partenza. Visualizza la tua azienda, scegli un dipartimento e apri il modulo che ti serve."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "Viste e ambito del dipartimento"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "Utilizza Panoramica per una visualizzazione rapida o Attività per seguire gli aggiornamenti. I controlli di visualizzazione offrono una mappa, schede, tabellone ed elenco."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. I tuoi compiti e le tue approvazioni. UDO mostra il lavoro che ti è stato assegnato."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "Incarichi, stato e ricerca"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "Filtra per stato, cerca un'attività o controlla il lavoro che hai assegnato a qualcun altro."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · La tua coda decisionale"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Apri UApprove per esaminare le richieste in attesa della tua decisione. Approvare, restituire o rifiutare il lavoro."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Moduli pubblicati"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Dove svolgi il lavoro. Compila i moduli pubblicati in UForms e monitora i tuoi invii."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · Prove e documenti"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords memorizza documenti e prove, con i relativi dettagli di revisione e approvazione."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine mostra le esecuzioni, l'avanzamento e le eccezioni del flusso di lavoro. Questo campione non è ancora stato eseguito."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Apprendimento assegnato"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining riunisce le lezioni assegnate, le scadenze e le valutazioni."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Imposta come funziona la tua attività. Inizia con Missione e Obiettivi per definire l'obiettivo e il suo proprietario."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner pianifica i lavori con le persone e le attrezzature di cui hanno bisogno."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner definisce il flusso di lavoro. Testalo, ottieni l'approvazione e attivalo prima dell'esecuzione."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master gestisce ruoli, competenze e disponibilità del personale."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master gestisce la capacità, la disponibilità e la manutenzione delle apparecchiature."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master crea e pubblica i modelli compilati dal tuo team UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Il master della delega definisce chi può assumere il controllo di un'attività o di un'approvazione e per quanto tempo."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers gestisce gli account utente, i ruoli e le autorizzazioni di accesso."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Esplora la panoramica della conversazione, la posta in arrivo, le attività condivise, i canali, le persone e le impostazioni dell'area di lavoro."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "Panoramica della conversazione"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme ha una propria panoramica delle conversazioni. Riunisce menzioni non lette, conversazioni non lette, attività aperte da conversazioni e proposte non inviate, con collegamenti al lavoro pertinente."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Seleziona Posta in arrivo per trovare le conversazioni a cui appartieni. I filtri separano le conversazioni non lette, i messaggi diretti, le menzioni e le attività. L'esempio mostra il canale del team di pianificazione operativa e la relativa conversazione non letta."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · Compiti condivisi"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "Seleziona UDO per vedere lo stesso archivio attività utilizzato da UCXO. Le attività di conversazione si collegano alla fonte. Una proposta di messaggio diventa un'attività solo dopo essere stata esaminata e inviata."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Seleziona Canali del team per visualizzare i tuoi canali, i canali aperti a cui puoi unirti e i canali archiviati. I canali privati ​​sono visibili solo ai membri. L'esempio separa la pianificazione operativa dagli annunci di stabilimento a livello aziendale."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Selezionare Conversazioni di lavoro per mantenere una discussione legata a un obiettivo, piano, attività, modulo, record o elemento di lavoro. Il suo stato e la sua versione provengono ancora dal modulo dell'oggetto."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Chiamate e riunioni · Stato attuale"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "Chiamate e riunioni sono visibili nella navigazione, ma la build fornita non ha un provider di chiamate. Questa schermata spiega che le chiamate, la pianificazione, la registrazione e le trascrizioni non sono attualmente disponibili."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "Elenco delle persone"
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Seleziona la directory Persone per trovare i colleghi a cui puoi inviare messaggi, con team e ruoli di UUsers. Viene mostrato lo stato dell'account attivo; il riferimento non fornisce la presenza in tempo reale."
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Impostazioni dell'area di lavoro"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Seleziona le impostazioni dell'area di lavoro per argomenti del canale, iscrizione, autorizzazioni di lettura e pubblicazione e cronologia delle policy. L'utente di esempio ha accesso di sola lettura. I messaggi coordinano il lavoro; non lo approvano né lo completano."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Schermata del software originale"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Visualizza a schermo intero"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Ispezionare lo schermo originale"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "Tocca lo schermo per esaminarlo a grandezza naturale."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "Pagina PDF"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Layout, etichette, dati e stati originali"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Nota di riferimento:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Software originale UCXO · Pagina PDF"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Adatta alla finestra"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Dimensioni reali"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "Chiudi l'anteprima dello schermo"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Panoramica e navigazione."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "Compiti e approvazioni."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "Strumenti quotidiani."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Configurazione aziendale."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "Errore di interruzione"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "Seleziona Riproduci per riprendere la narrazione."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO Demo guidata del prodotto in quattro parti"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "Impossibile caricare la narrazione. Seleziona Riproduci con narrazione per riprovare."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "IL UCXO TOUR DEL PRODOTTO"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "INTRODUZIONE"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Riproduzione con narrazione"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "Riprendi la narrazione"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "Narrazione muta"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Riproduci con narrazione"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "IL TUO SPAZIO DI LAVORO, CONNESSO"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "Quattro sezioni demo del prodotto"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "Freccia giù"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "Freccia su"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· Demo guidata"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "Metti in pausa la narrazione"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "Adatta schermo"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Vista focalizzata"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Espandi la demo guidata"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Ripeti il giro"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Gioca alla demo guidata"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Metti in pausa la demo guidata"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "Riproduci questa sezione"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "Narrazione demo muta"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "Abilita la narrazione demo"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "Avanzamento della sezione demo"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "TOUR COMPLETATO"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "GIOCO DI NARRAZIONE"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "NARRAZIONE IN PAUSA"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "NARRAZIONE DISATTIVATA"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Demo guidata UCXO ampliata"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Chiudi l'anteprima"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Gioca alla demo"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "Metti in pausa la dimostrazione"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Panoramica"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "Attività"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Mappa dell'area di lavoro"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Carte"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ Consiglio"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Elenco"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "Dipartimento"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Tutto nel mio ambito⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ Azienda pilota A (campione)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ Operazioni"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "È bello vederti, Arjun (Operatore). Ogni modulo che puoi aprire si trova intorno a UCXO con una cifra; ogni carta apre esattamente ciò che conta."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ Aggiornato alle 09:29"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Aggiorna"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "Azienda pilota A (campione)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "I tuoi dipartimenti: Operations."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Dove viene impostato e svolto il lavoro"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "Missione e obiettivi"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "Missione e obiettivi, pianificazione del lavoro e Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "PREPARAZIONE DELLA PRODUZIONE"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "Inizia con un obiettivo accettato: preparare il piano di produzione della prossima settimana."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "PERSONE E PROPRIETÀ"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "Le persone e la proprietà forniscono il contesto per un lavoro impegnato."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "BOZZA DI FLUSSO DI LAVORO"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Associa l'obiettivo, il lavoro impegnato e le risorse a un flusso di lavoro con versione."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "LISTA DI CONTROLLO DELLA PREPARAZIONE"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Acquisisci l'elenco di controllo di preparazione utilizzando il passaggio modulo/input."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "REVISIONE UMANA NOMINATA"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "Una persona nominata deve approvare la revisione prima che possa essere attivata."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "LAVORO IMPEGNO"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Impegnare il lavoro e le risorse che il piano coordinerà."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner flusso di lavoro digitato"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Azione dell'agente"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AGENTE AI · SOMMARIO DELLA CAPACITÀ"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "Il riepilogo della capacità viene eseguito una volta superata la condizione di autorizzazione alla linea."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "Modulo/input"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "UMANO · LISTA DI CONTROLLO DELLA PREPARAZIONE"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "Una persona completa la checklist di preparazione in UForms."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "Condizione"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "CONTROLLO · DISTANZA DELLA LINEA?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "Sì continua con l'azione dell'IA. Nessun percorso verso un'attività umana per la risoluzione."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Compito umano"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "UMANO · RISOLVERE LA DEVIAZIONE"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Risolvi la deviazione di autorizzazione in UDO, quindi ricontrolla il modulo, fino a tre volte."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "Integrazione"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "SISTEMA · SCHEMA ERP"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Aggiorna la pianificazione ERP dopo il riepilogo della capacità. Un errore di sincronizzazione segue il percorso di notifica."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "Approvazione"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "UMANO · REVISIONE DEL RILASCIO"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "Un responsabile operativo nominato approva il rilascio in UApprove."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Uscita della registrazione"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "SISTEMA · PIANO APPROVATO"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "Il piano di produzione approvato viene mantenuto fino al URecords."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "CONTROLLO"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Completa il percorso del flusso di lavoro configurato."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine esecuzione e recupero umano in UDO"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "La persona responsabile riceve e completa l'attività di ripristino assegnata in UDO."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "Il riepilogo della capacità può essere eseguito solo quando viene superata la condizione di autorizzazione alla linea."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "Il rilascio attende l'approvatore nominato; U-Engine non può prendere questa decisione."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Nessun percorso per UDO e ritorno alla lista di controllo di preparazione. Sì continua con l'azione dell'IA."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "L'integrazione aggiorna la pianificazione ERP prima dell'approvazione del rilascio."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords e recupero notifiche"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "Il responsabile operativo nominato esamina le prove e decide se approvare il rilascio."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "SISTEMA · USCITA REGISTRAZIONE"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Conservare il piano di produzione approvato e la relativa documentazione di supporto."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "REVISIONE ATTIVA APPROVATA"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Solo una revisione testata, rivista, approvata e attivata può avviare un'esecuzione."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "SISTEMA · SINCRONIZZAZIONE NON RIUSCITA"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "Una sincronizzazione ERP non riuscita segue il percorso di notifica configurato."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Notifica"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "SISTEMA · NOTIFICA PIANIFICATORE"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "Notificare al pianificatore responsabile l'errore di sincronizzazione ERP. UPingme collega la conversazione."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "Il percorso del record approvato e il percorso di ripristino della notifica raggiungono ciascuno la Fine."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "CHAT · RICORDA · ESCALATE"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "Qui le conversazioni, i promemoria e le escalation raggiungono la persona responsabile; l'approvazione rimane in UApprove."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "Definire e pianificare"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Un obiettivo. Un piano con versioni."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Missione e obiettivi collega il lavoro impegnato e le risorse tramite Work Planner e Engine Planner."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Inizia con l’obiettivo: preparare il piano di produzione della prossima settimana."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "Connetti le persone e il lavoro impegnato tramite HR Master e Work Planner."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms cattura la lista di controllo della preparazione."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner lega l'obiettivo e le risorse a un flusso di lavoro con versione."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Testare, rivedere, attivare"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Passaggi digitati. Un rilascio controllato."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Esamina il canvas del flusso di lavoro, testalo e completa i controlli di idoneità prima dell'approvazione e dell'attivazione da parte di personale."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "Il flusso di lavoro inizia con un modulo e una condizione di autorizzazione della linea."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Se l'autorizzazione fallisce, un'attività umana risolve la deviazione e ricontrolla il modulo."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Se passa, l'azione AI prepara un riepilogo della capacità, quindi un'integrazione aggiorna la pianificazione."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "Testare, rivedere, approvare e attivare la revisione prima che U-Engine inizi un'esecuzione."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "Eseguire e ripristinare"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine corre. Le persone rimangono coinvolte."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "Il flusso di lavoro approvato segue i percorsi configurati. UDO continua il lavoro di recupero con la persona responsabile."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine segue la revisione attiva e i suoi percorsi di condizione."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "Il riepilogo della capacità viene eseguito solo dopo che è stata superata l'autorizzazione alla linea."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Le persone ricevono e completano le attività di recupero assegnate in UDO."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "L'integrazione aggiorna la pianificazione o segue il percorso di errore."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "Il rilascio attende l'approvatore umano nominato in UApprove."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "Approvare e registrare"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "Approvazione umana. Un record connesso."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove mantiene la decisione con una persona. URecords mantiene il piano. UPingme collega la conversazione."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "Un'integrazione fallita avvisa il pianificatore responsabile. UPingme collega la conversazione."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "L'approvazione del rilascio spetta alla persona nominata in UApprove."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "L'approvatore esamina le prove e decide."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "Dopo l'approvazione, URecords conserva il piano di produzione e il flusso di lavoro raggiunge la fine."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Esecuzione aziendale, coordinata."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "MISSIONE E OBIETTIVI"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR MASTER · PIANIFICATORE DEL LAVORO"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · RECUPERO UMANO"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "INTEGRAZIONE · SCHEMA ERP"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "NOTIFICA · PIANIFICATORE RESPONSABILE"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "DECISIONE UMANA REGISTRATA"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "RISULTATO LEGATO ALL'OBIETTIVO"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "Preparazione del flusso di lavoro..."
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "Errore non consentito"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "Il tuo browser ha messo in pausa la narrazione. Seleziona Riproduci narrazione per iniziare."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "Impossibile avviare la narrazione. Seleziona Riproduci narrazione per riprovare."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "Come funziona UCXO"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "INGRESSO"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "PULSANTE"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "Impossibile caricare la narrazione. Seleziona Riproduci narrazione per riprovare."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "COME FUNZIONA UCXO"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "UN OBIETTIVO. UNA STORIA CONNESSA."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "Prepara quello della prossima settimana"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "Ascolta la spiegazione"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Gioca alla narrazione"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Suono attivato · Disattiva audio"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Inizio della narrazione..."
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Gioca alla spiegazione"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Pausa spiegazione"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Riproduci il capitolo"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Abilita il suono"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Suono muto"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "Avanzamento del capitolo"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "FILM CAPITOLO"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "NARRAZIONE · SUONO DISATTIVATO"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "NARRAZIONE · GIOCANDO"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "NARRAZIONE · NON DISPONIBILE"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "NARRAZIONE · TOCCA PLAY"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "NARRAZIONE · IN PAUSA"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "NARRAZIONE · CARICAMENTO"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Scegli un capitolo"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "Riproduci l'animazione"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "Umano"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "Agente dell'intelligenza artificiale"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "Sistema"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "Controllo"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "Viene avviata la pianificazione"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "corsa di prontezza"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "Innesco"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "Lista di controllo della preparazione"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "Distanza dalla linea"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Riepilogo della capacità"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Aggiorna l'ERP sandbox"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Guida operativa"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "approva il rilascio"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Produzione approvata"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "registrazione del piano"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Risolvere l'autorizzazione"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Avvisare il pianificatore dell'ERP"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "errore di sincronizzazione"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "Sì"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "No"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Ricontrolla (max 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "Uscita non valida"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "Sincronizzazione non riuscita"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "Approvato"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "Rifiutato/restituito"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner tela del flusso di lavoro"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Area del flusso di lavoro"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "bozza v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "Illustrativo"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "Tela"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "Passi ordinati"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Flusso di lavoro digitato"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "Ingrandisci il flusso di lavoro"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "Ridurre il flusso di lavoro"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "Adatta l'intero flusso di lavoro per visualizzarlo"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "esecuzione"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "decisione · recupero"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Sì → Riepilogo capacità · No → Risolvere la deviazione della distanza"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Ricontrolla la checklist di preparazione (max 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "Sincronizzazione non riuscita → Avvisa il pianificatore"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Flusso di lavoro di preparazione alla produzione con rami di approvazione e ripristino"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Entra"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "Piano di preparazione alla produzione della prossima settimana"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "Approvazione illustrativa registrata"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "È necessaria l'approvazione umana"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Prenota una demo — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Scopri come UCXO collega i tuoi obiettivi, le persone e la forza lavoro AI. Raccontaci della tua attività e richiedi una demo personale."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "Prenota una dimostrazione."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "Per la tua squadra."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Visualizza UCXO con un flusso di lavoro della tua azienda."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "IL TUO OBIETTIVO"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "PERSONE + IA"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "RISULTATO"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "Cosa aspettarsi"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "Inizia con i tuoi obiettivi"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Raccontaci dove il lavoro si blocca."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "Esplora le possibilità"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "Esplora gli strumenti rilevanti per il tuo team."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Trova il prossimo passo"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "Decidi se UCXO si adatta alle tue esigenze."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "Preferisci la posta elettronica?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "DEMO PERSONALE"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "I tuoi dati"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Raccontaci un po' della tua squadra."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Quattro anteprime della home page — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Torna al sito web"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "CAROSEL HOMEPAGE · RASSEGNA DESIGN LOCALE"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Uno spazio di lavoro."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "Quattro modi per andare avanti."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Quattro schede proposte per la homepage. Schermate reali del software, spiegazioni chiare e uno sguardo più attento a ogni parte di UCXO."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Schermate originali dal PDF del tuo progetto"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Anteprime statiche per la revisione"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Esplora le quattro anteprime"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "Quattro anteprime della home page"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "QUATTRO ANTEPRIME STATICHE · PRONTO PER LA TUA REVISIONE"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "Il software guida."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "La storia lo dice chiaramente."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Scegli un selettore di schermata per ispezionare il modulo correlato. Apri una schermata a schermo intero per confrontarla con il PDF. Queste anteprime mantengono i dati del campione originale e gli stati vuoto o bozza."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Torna alla panoramica delle quattro anteprime"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Come funziona — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "Segui un obiettivo aziendale da un flusso di lavoro proposto all'approvazione umana e a un risultato rivisto."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "DALLA DIREZIONE ALLA CONSEGNA"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Un obiettivo."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "Ogni passo connesso."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "Seguire un piano illustrativo di preparazione alla produzione."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "Le persone mantengono le decisioni che necessitano del giudizio umano."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "Esecuzione aziendale,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Riunisci i tuoi obiettivi, le persone e la forza lavoro AI in un unico flusso di lavoro condiviso."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Esplora la piattaforma"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "Accedi a UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — Esecuzione aziendale, coordinata."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Trasforma gli obiettivi aziendali in azioni coordinate. Pianifica i flussi di lavoro, connetti persone e agenti IA e mantieni l'esecuzione responsabile."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Obiettivi nei flussi di lavoro"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "Suddividi un obiettivo aziendale in passaggi, dipendenze e proprietari."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Pianifica il lavoro"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Definisci attività, condizioni, integrazioni e percorsi di approvazione in un flusso di lavoro con versione."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Progetta il flusso di lavoro"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO compiti"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "Assegna a ogni attività una persona responsabile e uno status chiaro."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Assegnare la responsabilità"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "Predisposizione del flusso di lavoro"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Testare una revisione e completarne i controlli prima dell'approvazione e dell'attivazione."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Prepararsi per l'esecuzione"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "AI NELLA TUA ORGANIZZAZIONE"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 — LA PIATTAFORMA"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Meno lavoro manuale."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "Più tempo per la tua squadra."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "Porta gli agenti IA a"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "Crea e coordina agenti IA per automatizzare le attività quotidiane nei dipartimenti."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "Guarda un esempio di flusso di lavoro"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "Meno passaggi manuali"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Persone e intelligenza artificiale lavorano insieme"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Proprietà chiara"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "UN PERCORSO CHIARO DALL'OBIETTIVO AL RISULTATO"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — COME FUNZIONA"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "Dal gol"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "a lavoro completato."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Segui le cinque fasi di un flusso di lavoro."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "COSTRUITO PER LAVORARE INSIEME"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — CAPACITÀ FONDAMENTALI"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Strumenti dietro"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "il flusso di lavoro."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Pianifica, assegna, testa ed esegui."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "AUTOMAZIONE CON RESPONSABILITÀ"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "Decisioni umane."
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "Nei momenti giusti."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove indirizza le decisioni alla persona responsabile."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Prove prima dell'approvazione"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Ispezionare i documenti di supporto."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Visibilità durante l'esecuzione"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "Visualizza la cronologia delle esecuzioni e le eccezioni."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Ruoli e autorizzazioni chiari"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "Imposta i ruoli e l'ambito del dipartimento."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "VIGILANZA DELL'ESECUZIONE"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "ILLUSTRATIVO"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "Monitoraggio dell'esecuzione del flusso di lavoro"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "CANCELLO DI APPROVAZIONE UMANA"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "Una decisione resta con te."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Esaminare le prove e decidere."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "In attesa dell'approvazione umana"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Prove a sostegno allegate"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "Eccezione rilevata"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Inoltrato al revisore responsabile"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "Il lavoro di monitoraggio non garantisce l’approvazione umana."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "REALIZZATO PER IL MODO IN CUI LAVORANO LE AZIENDE"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — CASI D'USO"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Lavoro vero."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "Connesso da un capo all'altro."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Un livello di esecuzione condiviso per gli imprenditori,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "leader delle operazioni e i team che guidano."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "OPERAZIONI"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "Coordinamento operativo"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Allinea attività interfunzionali, proprietari e dipendenze attorno a un obiettivo aziendale condiviso."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Definire il piano"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Coordinare i trasferimenti"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "LAVORO RIPETIBILE"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Rapporti ricorrenti"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "Riutilizza gli agenti IA per preparare il lavoro, quindi invia i risultati e le prove alle persone che li esaminano."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Raccogli input"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "Gestisci un agente"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "Revisione umana"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "ESECUZIONE GOVERNATA"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "Lavoro basato sull'approvazione"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "Collega le prove delle attività, i canali di approvazione umana e la gestione delle eccezioni in un unico flusso di lavoro visibile."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "Raccogli prove"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Richiedi l'approvazione"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "Risolvere le eccezioni"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Casi d'uso rappresentativi. Gli esempi di flusso di lavoro sono illustrativi."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "POCHE COSE, CHIARITE"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Costruito per chiarezza."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "Cos'è UCXO?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO aiuta i team a trasformare le procedure in lavoro assegnato e tracciabile con agenti IA e approvazioni umane."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Come funzionano insieme Engine Planner e U-Engine?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner progetta il flusso di lavoro. U-Engine esegue la revisione testata, approvata e attivata."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Chi approva il lavoro?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "Decide l'approvatore umano nominato. Un agente AI non può concedere tale approvazione."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Quando può essere eseguito un flusso di lavoro?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "Dopo i controlli di disponibilità, l'approvazione umana e l'attivazione."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "DAI AI TUOI OBIETTIVI UNA STRADA AVANTI"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Vedi UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Prenota una demo per il tuo team o guarda l'esempio di flusso di lavoro."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Guarda il flusso di lavoro"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Per favore completa questo campo."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Inserisci un indirizzo email valido."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Si prega di verificare questo valore."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Audio: inglese"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "Trascrizione"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Pagina non trovata"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "Impossibile trovare la pagina richiesta."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "Ritorno a casa"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Scegli la lingua"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "Cerca lingue"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "Fuga"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "Lingue"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO Richiesta demo — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Nome: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "Email di lavoro: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Azienda: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Titolo di lavoro: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Dimensioni dell'azienda: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Paese: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "Capitolo {0}: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "PASSO {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} di {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "LA STORIA COMPLETA · {0} SECONDI"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "Espandi la schermata {0}"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "Ispeziona la schermata {0} originale"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} schermate del software"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} schermata del software originale"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "AVANTI · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} capitoli dimostrativi"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. Schermata del software originale UCXO con dimostrazione guidata del cursore."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Chiamate e riunioni"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Cerca ID, titoli..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "Azienda pilota A (campione) · Operazioni"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "CASA"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Chiamate e riunioni"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "Le chiamate vocali e video, la pianificazione delle riunioni, la registrazione e le trascrizioni non fanno parte di questa build."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "PROVIDER DI CHIAMATA·NESSUNO CONFIGURATO"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Non è possibile avviare chiamate o riunioni"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "qui"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Decisione necessaria·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Non esiste alcun controllo di unione, registrazione o trascrizione"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "perché in realtà non succederebbe nulla. Riunioni"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "non può essere pianificato o memorizzato: non esiste."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Tobe ha deciso prima che le chiamate esistessero"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "Nel frattempo"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Chiamate e riunioni"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "Fornitore della chiamata e dove si trovano i dati della chiamata"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "Conversazioni di lavoro"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "elaborato"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O attivi, ciascuno legato all'oggetto dell'essere"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Decisione necessaria·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "discusso."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "Consenso del partecipante prima di qualsiasi"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Invia un messaggio a una persona"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "registrazione o trascrizione"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "I messaggi diretti vengono creati con il primo"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "messaggio."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "Conservazione e accesso alle registrazioni"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "Concordare un'azione"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "Proporre un'attività dal messaggio; raggiunge"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "e trascrizioni(URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO solo dopo averlo esaminato e inviato."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Impostazioni"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Operatore"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "Dispositivi, display e stanza target"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ Maestro della Delegazione"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "Azienda Pilota A(campione)·Operazioni"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "Chi può agire per chi, su cosa e per quanto tempo. Consegna dei compiti e autorità di approvazione"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "sostituzione sono autorità separate e con limiti di tempo."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Decisione necessaria · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "Il significato commerciale della delega e se le catene siano consentite non sono decisi. Conservatore"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "si applicano le impostazioni predefinite: una delega non concede mai più di quanto detiene il delegante (ricontrollato ogni"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "utilizzare), le catene sono bloccate e la sostituzione dell'approvazione richiede un amministratore indipendente."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "AI"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "In attesa di approvazione"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "Programmato"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Attivo"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "Scaduto"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "Revocato"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "Rifiutato"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Entrambi i tipi 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Sostituzione dell'approvazione 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Consegna dei compiti 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Solo le delegazioni che mi coinvolgono"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Cerca persone, ID, motivo"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6 novembre-3 dicembre"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "In precedenza"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "Oggi"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "Più tardi"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "CHIAGISCE PER CHI"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "Rohan Das"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "agisce perVikramShah"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Operazioni"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "Azienda PilotaA(campione)·Operazioni"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "Un piano lega un obiettivo accettato, il lavoro impegnato e le risorse a un flusso di lavoro con versioni. Deve passare"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "essere pronto, essere approvato da una persona nominata ed essere attivato prima che qualsiasi corsa possa iniziare."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "Bozza"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Pronto per la revisione"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "Inrecensione"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "Q"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "Sospeso"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "Cerca ID, titolo o oggetto"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 piano"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "Il piano di preparazione alla produzione della prossima settimana"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "ObiettivoOBJ-026·Preparare il piano di produzione della prossima settimana"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "Prontezza 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "VERSIONE DAL VIVO"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·draftv1·10nodi"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "Non attivo"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "APPROVATORE"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "PROPRIETARIO"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "VikramShah"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Risolvere la prontezza"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Maestro dei moduli"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Cerca ID, titoli..."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Maestro dei moduli"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Definizioni di moduli create su richiesta del dipartimento. Le versioni pubblicate sono immutabili; ogni cambiamento"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "diventa una nuova bozza di versione pubblicata da un revisore indipendente."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "AI"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Pubblicato"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "Pensionato"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Tutti i dipartimenti"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Cerca ID, nome o registrazione"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "Lista di controllo per la preparazione alla produzione"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Elenco di controllo dell'operatore prima dell'esecuzione dell'imballaggio."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Visualizza"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "e operazioniIl proprietario Kabir Senproduce la lista di controllo della preparazione"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "Destinato aPLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8fields·immutabile"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "FormsMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / Maestro delle risorse umane"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "Le persone come risorse di pianificazione: ruolo, competenze, calendario lavorativo e impegno. Accedi"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Persone e competenze"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "Gerarchia e personale"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "Scheda disponibilità"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "Importazione (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Persone"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Matrice delle competenze"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "Abilità"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Stato"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Tutti i miei dipartimenti"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Qualsiasi abilità"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Attivo e inattivo"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Nome, ruolo o competenza"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Sunil Varma"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Tecnico della manutenzione"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Operatore del confezionamento"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "Manutenzione"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "Elettrico"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Imballaggio"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "Qualità"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "M"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "t"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "W"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "«Niente di impegnato"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Nessun account di accesso"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "Accesso: Arjun Mehta"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "Maya Rao"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "SIG"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / Posta in arrivo"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "Ogni conversazione di cui sei membro è ordinata in modo che ciò di cui hai bisogno venga prima."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markallread"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Invia un messaggio a qualcuno"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "AlI1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Non letto"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Messaggi diretti"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "Menzioni"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Cerca nomi, argomenti e testo del messaggio"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "NON LETTO"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#pianificazioneoperativa"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Canale della squadra"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "12 novembre 2026, 7:05"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha, per favore risolvi il conflitto WORK-021 prima del 13-11-2026 a..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / Maestro della macchina"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "È possibile programmare il funzionamento delle apparecchiature: dove si trovano, cosa possono fare, quanto all'ora, quando si trovano"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "aperto e ciò che è già prenotato. Solo pianificazione, nessun controllo della macchina."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIl3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "Disponibile"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "Fuori servizio"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q Nome, posizione o capacità"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "Stampante per etichette 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "Linea di confezionamento 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "PlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "PlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 etichette/ora"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "unità/ora"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "Etichettatura"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "Sigillatura"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O riservatoNessun tempo di inattività pianificato"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 prenotato fino al 19 novembre 2026"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "Linea di confezionamento 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "Azienda pilota A (campione)· Operazioni"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Ogni obiettivo indica un risultato, come viene dimostrato il successo e chi lo possiede, quindi viaggia attraverso"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "pianificazione, approvazione, esecuzione e registrazione governata."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Obiettivi"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "Missione"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "MISSIONE·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Missione e obiettivi"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Operazioni affidabili ed evidenziate"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Fornire ogni impegno di produzione in tempo con le persone,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "attrezzature e decisioni pianificate, approvate e comprovate."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "ProprietarioAshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "Gli esseri umani approvano i rilasci"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Ogni output è tracciabile"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "I piani riflettono la capacità reale"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "Missione aperta"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Tutti 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "In attesa di revisione"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "Accettato"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "Revisionato"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Cerca ID, titolo o proprietario"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "Preparati"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "successivo"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "settimana"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Directory delle persone"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "Puoi inviare messaggi a tutti nella tua azienda, con il proprio team e i ruoli di UUsers. Disponibilità delle risorse umane"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "e i dettagli di accesso non sono mostrati qui."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Nome, titolo o dipartimento"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIl10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Ingegneria"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Operazioni 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "Pianificazione"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "Conto"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "Qualunque (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①La presenza non viene visualizzata: UPingme non ha un servizio di presenza in tempo reale. Lo stato è lo stato dell'account UUsers."
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Arjun Mehta (tu)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Asha Kulkarni"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1Messaggio"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "Amministratore aziendale"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Conto attivo"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "amministratore"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "Conto attivo"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Vikram Shah"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "Messaggio"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(approvatore)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Canali della squadra"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Canali a cui appartieni, canali aperti a cui puoi unirti e canali archiviati."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Nuovo canale"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "I canali privati sono visibili solo ai loro membri."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Nome del canale, argomento o testo del messaggio"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "A livello aziendale"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "I TUOI CANALI"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Pianificazione settimanale della produzione per lo stabilimento A"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5membri"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Ultimo messaggio 12 nov 2026, 7:05"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "APRI CANALI PUOI PARTECIPARE"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## annunci di piante"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "Avvisi a livello aziendale per lo stabilimento A. Solo il proprietario"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "post."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "Asha Kulkarni, proprietaria di 2 membri a livello aziendale"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "proprietariopost"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Anteprima"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Partecipa"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Apri canali del team che riguardano l'intera azienda o appartengono a un dipartimento nel tuo ambito UPingme. Vengono elencati i canali privati"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "Le persone nominate decidono su una revisione esatta e congelata. Approvare, Restituire e Rifiutare sono decisioni separate; un"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "l'attestazione è una fase separata dopo l'approvazione."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Mi aspetto"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "D"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "Richiesto da me"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "Eccezioni"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "Deciso"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Tutto nell'ambito"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "SearchID, titolo, richiedente"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Niente ti aspetta"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "Le richieste vengono visualizzate qui quando sei l'approvatore nominato della fase aperta o un sostituto attivo."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "ogni carta apre esattamente ciò che conta."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Mappa dell'area di lavoro"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品Carte"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "Consiglio"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 Elenco"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Tutto nel mio ambito"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "Aggiornato 09:29"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C Aggiorna"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Dove il lavoro viene preparato ed eseguito"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Missione e obiettivi"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / I miei compiti"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "I miei compiti"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "Tutto ciò che ti aspetta —— dalle fasi del flusso di lavoro, alle richieste di moduli, alle approvazioni, ai follow-up e UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "proposte – con dove agire e cosa cambia completandolo."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "Le mie attività è la parte di UDO diretta dall'utente. UDO's"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·Le mie attività"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "nome completo, proprietario, utenti e altre schermate non lo sono"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "Decisione necessaria·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "definito, quindi non viene mostrato nient'altro."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "Assegnato a me"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "Assegnato da me"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "Aperto"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "In corso"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "Restituito"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "In ritardo"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Scadenza oggi"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "Completato"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "AlIlo"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Digitare"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Cerca ID, titolo, fonte o assegnatario"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Tutti i tipi"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Non ti è stato ancora assegnato nulla"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "Le attività arrivano qui dalle esecuzioni del flusso di lavoro (modulo e passaggi umani), dall'approvazione"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "richieste, approfondimenti che qualcuno ti assegna e proposte confermate"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Riceverai anche una notifica."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Corre"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Corre"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Ogni esecuzione di una versione del flusso di lavoro approvata e pubblicata: chi è in attesa, cosa non è riuscito e cosa"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "necessita di riconciliazione. Le corse mantengono la loro versione esatta anche dopo le modifiche del piano."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Definizioni di runtime"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "AI0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "Aspettandomi"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "In attesa"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "Correre"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "Annullato"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "Cerca l'ID dell'esecuzione o del piano"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Nessuna corsa ancora"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Le esecuzioni iniziano da un piano attivo in EnginePlanner."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Apri EnginePlanner"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Compila i modelli principali dei moduli pubblicati. Ogni invio mantiene l'esatta versione del modulo con cui è stato effettuato,"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "andatevieweracceptitorrestituiscilo per la correzione."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Moduli disponibili"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "Le mie proposte"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Moduli pubblicati"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "È possibile avviare solo la versione attualmente pubblicata; le versioni precedenti rimangono leggibili nei relativi invii."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "Moduli di ricerca"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Lista di controllo della preparazione alla produzione"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8 campi"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "*6 richiesti"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 tavolo"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1file"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1condizionale"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "DIPARTIMENTO"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "PROPRIETARIO DEL MODULO"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "Kabir Sen"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "PRODUCERECORD"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "Lista di controllo della preparazione"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021Prontezza per la produzione della prossima settimana"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "piano"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026 Preparare la produzione della prossima settimana"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Ciò che nelle tue conversazioni ha bisogno di te e il lavoro di cui trattano."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Apri la posta in arrivo"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "Niente nelle tue conversazioni ti sta aspettando."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "I messaggi coordinano il lavoro; non lo approvano, non lo firmano né lo completano mai. Un'attività esiste solo dopo a"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "la proposta viene esaminata e presentata."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1Chiamate e riunioni"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Nonletture"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Apri attività da"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "Non inviato"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "Aperto all'esatto"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "conversazioni"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "proposte"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "messaggio"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "Con i messaggi tu"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "Assegnato a te in"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "Bozze solo tu puoi"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "non ho letto"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "vedere"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "Ha bisogno di te"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "Tutte le menzioni"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "Conversazioni recenti"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ops-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "12 novembre 2026, 7:05"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Nessuna mancata lettura e nessuna attività aperta da"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "pianificazione"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "una conversazione."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / I miei compiti"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Gli stessi compiti, ID, prove e autorità di"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscame"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "Nel UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Solo attività dalle conversazioni"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "dalle tue conversazioni; ognuno si collega al suo"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "sourceconversation."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "In ritardo0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "Scadenza oggi"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "SearchID, titolo, fonte o assegnatario"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Tutti i tipi"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "Azienda pilota A (campione)·Operazioni"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Record di esecuzioni, moduli accettati e immissione manuale e documenti controllati con regole di rilascio-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "in un negozio con lignaggio di origine. La ricerca e l'esportazione seguono il tuo ambito di accesso."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品Tutti i record"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Registro operativo"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "Documenti controllati"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "B"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Trattenuta legale"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "Cerca ID, titolo o tipo"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "Qualsiasi stato"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Documenti controllati"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "Il contenuto rilasciato è congelato. Una modifica è una nuova revisione con la propria approvazione; il controller del documento la rilascia."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 Linea di confezionamento"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "cambio"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Documento rilasciato"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "Rilasciata la rev1"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "Operazioni Sop controllate"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 revisione"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Proprietaria Leela Menon"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "1 record mostrato·i record al di fuori del tuo accesso non vengono conteggiati"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "Scopri la versione esatta che ti è stata assegnata. La lettura di una sezione registra i progressi; solo la versione"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "il riconoscimento o una valutazione positiva lo completano."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "Il mio apprendimento"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "I miei compiti"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "op"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "Chiuso"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "AlI"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "Sicurezza della linea di confezionamento"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① Assegnato"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "Scadenzain2giorni·15novembre2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · la tua versione"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "Inizia lezione"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "Presentazione·Sicurezza·Linee di imballaggio"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "Assegnato da Leela Menon"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0di2sezioni lette"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Valutazione·superato100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Libreria di contenuti"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "Argomento"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "Prodotto"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Cerca titolo, argomento, prodotto"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Tutti gli argomenti"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Tutti i prodotti"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "Il mio stato"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "Qualunque"
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO /UUsers"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Identità della piattaforma e loro accesso: ruoli, ambito del dipartimento, sessioni, deleghe e revisione degli accessi."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "Personale e disponibilità vivono in HR Master."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "Persone"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Identità di servizio"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "Viene visualizzata la directory dell'azienda. Ruoli, ambito del dipartimento e sessioni sono visibili all'azienda"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "amministratori."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Tutti10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Attivo10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "Inattivo"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QCerca nome, email, ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Operazioni dell'operatore del confezionamento"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "Ruoli visibili agli amministratori"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "13 novembre 2026, 9:28"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "Amministratore aziendaleOperazioni"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "Ruolivisibile agli amministratori"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Conversazioni di lavoro"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Conversazioni legate a un obiettivo, piano, compito, modulo, registrazione o lavoro"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+Nuova conversazione di lavoro"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "elemento. Lo stato e la versione dell'oggetto provengono sempre dal suo stesso modulo."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "AILO"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Nome, argomento o testo del messaggio"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Archiviato"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Nessuna conversazione di lavoro ancora"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "Una conversazione di lavoro è legata a un oggetto che puoi aprire: un piano,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "obiettivo, attività, modulo, record o elemento di lavoro, quindi la discussione rimane successiva"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "al lavoro."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Iniziane uno"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Azienda PilotaA (campione)·Operazioni"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "Lavori collocati in tempo con le persone di HR Master e le attrezzature di Machine Master."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Le anteprime della pianificazione non vengono mai riservate; solo un commit lo fa."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "Necessita di programmazione"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "In corso"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "In attesa di approvazione"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "Conflitti"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "Cronologia della settimana"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "ID ricerca, titolo, posizione"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Ciclo di preparazione alla produzione: settimana del 16-11-2026"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "Programma"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021·scadenza 18 novembre 2026·Imballaggio/Sigillazione"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "Settimana del 9 novembre 2026"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "Questa settimana"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 lavori questa settimana"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "LAVORO"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "LUN"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "MAR"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "MER"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9 novembre 2026"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "10 novembre 2026"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "11 novembre 2026"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Impostazioni dell'area di lavoro"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Impostazioni area di lavoro/Impostazioni canale"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Impostazioni del canale"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Argomento, membri, chi può leggere e chi può pubblicare: per canali e conversazioni di lavoro. Ogni"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "la modifica viene sottoposta a versione e verificata."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "Canali"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Notifiche"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "Accesso"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "Conservazione"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Membro: sola lettura"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# pianificazione delle operazioni"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##pianificazione delle operazioni"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Sola lettura"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Solo il proprietario (VikramShah) o l'area di lavoro"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "l'amministratore può modificare queste impostazioni."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Chi sa leggere"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Aperto: persone nell'ambito"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "può trovarlo e aderirvi;"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "vengono mostrati i messaggi"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "solo membri"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Chi può pubblicare"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Tutti i membri"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Produzione settimanale"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "progettazione per lo stabilimento A"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "Membri"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "Asha Kulkarni, Vikram"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Shah, Neha lyer, Maya"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Rao, Arjun Mehta"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "Storia della politica"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / OBIETTIVO AZIENDALE"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / BOZZA DEL FLUSSO DI LAVORO"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / PROPRIETÀ"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / ESECUZIONE COORDINATA"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / REVISIONE DEI RISULTATI"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "MODULO / IMMISSIONE → CONDIZIONE"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "COMPITO UMANO → RIVERIFICARE"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "AZIONE DELL'AGENTE → INTEGRAZIONE"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "TEST → RIVEDI → ATTIVA"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "completo?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "programma"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "deviazione"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · LISTA DI CONTROLLO DI PRONTEZZA"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · FLUSSO DI LAVORO VERSIONATO"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · REVISIONE ATTIVA"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · APPROVATORE NOMINATO"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · IN ATTESA DI DECISIONE"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Missione&Obiettivi"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → FINE"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "carosello"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "diapositiva"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Porta gli agenti IA in ogni parte della tua organizzazione."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Guarda UCXO in azione."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Preparare il piano di produzione della prossima settimana."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers con identità della piattaforma, stati dell'account e contesto di accesso dell'amministratore."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "gli account sono gestiti separatamente in UUsers."
+    }
+  }
+}

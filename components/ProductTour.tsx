@@ -1,7 +1,8 @@
 'use client';
+import {useLocalize} from '@/i18n/LocaleProvider';
 import {useEffect,useRef,useState} from 'react';
 import {Play,Pause,RotateCcw,Volume2,VolumeX,Expand,Scan,MousePointer2} from 'lucide-react';
-import {tourChapters} from './product-tour-data';
+import {productTourIntro,tourChapters} from './product-tour-data';
 import {productTourTiming,productTourDuration,productTourIntroTiming,productTourAnnouncements} from './product-tour-timing';
 import {tourPosition,tourStepPosition} from './product-tour-clock';
 import ProductTourStage from './ProductTourStage';
@@ -14,13 +15,13 @@ const workspaceGuide=[
  {name:'UMaster',line:'Business setup.'},
 ];
 function timestamp(value:number){const s=Math.max(0,Math.floor(value));return `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;}
-export default function ProductTour(){
+export default function ProductTour(){const localize=useLocalize();
  const [time,setTime]=useState(0),[paused,setPaused]=useState(false),[sound,setSound]=useState(false),[playing,setPlaying]=useState(false),[message,setMessage]=useState(''),[visible,setVisible]=useState(true),[hidden,setHidden]=useState(false),[reduced,setReduced]=useState(false),[focusView,setFocusView]=useState(false),[complete,setComplete]=useState(false),[narrationStarted,setNarrationStarted]=useState(false);
  const root=useRef<HTMLElement>(null),audio=useRef<HTMLAudioElement>(null),clock=useRef(0),pendingAudioSeek=useRef<number|null>(null),request=useRef(0),heard=useRef(false),dialog=useRef<HTMLDialogElement>(null),tabs=useRef<(HTMLButtonElement|null)[]>([]),pendingTabFocus=useRef<number|null>(null),touch=useRef<{x:number;y:number}|null>(null);
  const position=tourPosition(time,productTourTiming),chapter=tourChapters[position.chapter],timing=productTourTiming[position.chapter],step=chapter.steps[position.step];
  const running=!paused&&visible&&!hidden&&!complete;
  const introActive=time<productTourIntroTiming.duration,announcement=productTourAnnouncements.find((cue,index)=>Math.round(time*1000)>=Math.round(cue.start*1000)&&Math.round(time*1000)<Math.round(productTourTiming[index].start*1000)),leadIn=introActive||!!announcement;
- const narrationText=introActive?'':announcement?`${announcement.label}.`:step.text;
+ const narrationText=introActive?(sound?productTourIntro.narration:''):announcement?`${announcement.label}.`:step.text;
  function update(value:number){const at=Math.max(0,Math.min(productTourDuration-.001,value));clock.current=at;setTime(at);}
  // Mobile browsers may not accept a seek until the audio metadata has loaded.
  function positionAudio(value:number){const a=audio.current;if(!a)return;pendingAudioSeek.current=value;if(a.readyState>=1){try{a.currentTime=value;pendingAudioSeek.current=null;}catch{/* Retry when the media is ready. */}}}
@@ -42,8 +43,8 @@ export default function ProductTour(){
  useEffect(()=>{const next=chapter.steps[position.step+1]?.screen;if(next){const image=new Image();image.src=`/product-previews/${next}.webp`;}},[position.chapter,position.step,chapter]);
  const chapterTime=Math.min(timing.duration,Math.max(0,time-timing.start));
  const introMode=time<productTourTiming[0].start,playbackStart=introMode?0:timing.start,playbackDuration=introMode?productTourTiming[0].start:timing.duration,playbackTime=introMode?time:chapterTime;
- return <section className="guided-product-tour" id="top" ref={root} aria-label="UCXO four-part guided product demo" aria-roledescription="carousel" tabIndex={0} onKeyDown={e=>{if((e.target as HTMLElement).closest('button,a,input,select,textarea,dialog'))return;if(e.key==='ArrowRight'){e.preventDefault();navigate(position.chapter+1);}if(e.key==='ArrowLeft'){e.preventDefault();navigate(position.chapter-1);}if(e.key===' '){e.preventDefault();togglePlay();}}} onTouchStart={e=>{if((e.target as HTMLElement).closest('button,a,input,dialog'))return;touch.current={x:e.touches[0].clientX,y:e.touches[0].clientY};}} onTouchEnd={e=>{const from=touch.current;touch.current=null;if(!from)return;const x=e.changedTouches[0].clientX-from.x,y=e.changedTouches[0].clientY-from.y;if(Math.abs(x)>70&&Math.abs(x)>Math.abs(y)*1.5)navigate(position.chapter+(x<0?1:-1));}}>
-  <audio ref={audio} src="/narration/product-tour.wav" preload="metadata" muted={!sound} onLoadedMetadata={applyPendingAudioSeek} onCanPlay={applyPendingAudioSeek} onPlaying={()=>{setPlaying(true);setMessage('');}} onPause={()=>setPlaying(false)} onEnded={()=>{update(productTourDuration-.001);setComplete(true);}} onError={()=>{setPaused(true);setMessage('Narration could not load. Select Play with narration to retry.');}}/>
+ return localize(<section className="guided-product-tour" id="top" ref={root} aria-label="UCXO four-part guided product demo" aria-roledescription="carousel" tabIndex={0} onKeyDown={e=>{if((e.target as HTMLElement).closest('button,a,input,select,textarea,dialog'))return;if(e.key==='ArrowRight'){e.preventDefault();navigate(position.chapter+1);}if(e.key==='ArrowLeft'){e.preventDefault();navigate(position.chapter-1);}if(e.key===' '){e.preventDefault();togglePlay();}}} onTouchStart={e=>{if((e.target as HTMLElement).closest('button,a,input,dialog'))return;touch.current={x:e.touches[0].clientX,y:e.touches[0].clientY};}} onTouchEnd={e=>{const from=touch.current;touch.current=null;if(!from)return;const x=e.changedTouches[0].clientX-from.x,y=e.changedTouches[0].clientY-from.y;if(Math.abs(x)>70&&Math.abs(x)>Math.abs(y)*1.5)navigate(position.chapter+(x<0?1:-1));}}>
+  <audio lang="en" ref={audio} src="/narration/product-tour.wav" preload="metadata" muted={!sound} onLoadedMetadata={applyPendingAudioSeek} onCanPlay={applyPendingAudioSeek} onPlaying={()=>{setPlaying(true);setMessage('');}} onPause={()=>setPlaying(false)} onEnded={()=>{update(productTourDuration-.001);setComplete(true);}} onError={()=>{setPaused(true);setMessage('Narration could not load. Select Play with narration to retry.');}}/>
   <div className="tour-topline"><span><i/>THE UCXO PRODUCT TOUR</span><span>{introActive?'INTRODUCTION':announcement?`NEXT · ${announcement.label}`:`0${position.chapter+1} / ${String(tourChapters.length).padStart(2,'0')} · ${chapter.label}`}</span></div>
   <div className="tour-window"><div className="tour-track" style={{transform:`translateX(-${position.chapter*100}%)`}}>
    {tourChapters.map((item,index)=>{
@@ -60,8 +61,8 @@ export default function ProductTour(){
   </div></div>
   <div className="tour-narration" aria-live={paused?'polite':'off'}><span>{narrationText}</span></div>
   <div className="tour-playback"><div className="tour-transport"><button type="button" aria-label={complete?'Replay tour':paused?'Play guided demo':'Pause guided demo'} onClick={togglePlay}>{paused||complete?<Play size={17}/>:<Pause size={17}/>}</button><button type="button" aria-label="Replay this section" onClick={()=>{seek(playbackStart);setPaused(false);if(sound)play();}}><RotateCcw size={16}/></button><button type="button" aria-label={sound?'Mute demo narration':'Enable demo narration'} aria-pressed={sound} onClick={toggleSound}>{sound?<Volume2 size={17}/>:<VolumeX size={17}/>}</button></div><span className="tour-time">{timestamp(playbackTime)} / {timestamp(playbackDuration)}</span><input type="range" aria-label="Demo section progress" min="0" max={Math.max(0,playbackDuration-.01)} step=".05" value={Math.min(playbackTime,playbackDuration-.01)} onChange={e=>seek(playbackStart+Number(e.target.value))}/><span className="tour-sound-status">{complete?'TOUR COMPLETE':sound?playing?'NARRATION PLAYING':'NARRATION PAUSED':'NARRATION OFF'}</span></div>
-  {message&&<p className="tour-message" role="status">{message}</p>}
+  <p className="tour-audio-language">Audio: English</p><details className="tour-translated-transcript"><summary>Transcript</summary><p>{productTourIntro.narration}</p>{tourChapters.map(c=><section key={c.id}><h2>{c.label}</h2>{c.steps.map(s=><p key={s.id}>{s.text}</p>)}</section>)}</details>{message&&<p className="tour-message" role="status">{message}</p>}
   <dialog className="tour-expanded" ref={dialog} aria-label="Expanded UCXO guided demo" onClick={e=>{if(e.target===e.currentTarget)dialog.current?.close();}}><div className="tour-expanded-bar"><strong>{chapter.label} · {step.title}</strong><div><button type="button" aria-pressed={focusView} onClick={()=>setFocusView(x=>!x)}>{focusView?'Fit screen':'Focus view'}</button><button type="button" onClick={()=>dialog.current?.close()} autoFocus>Close preview</button></div></div><ProductTourStage step={step} previous={chapter.steps[position.step-1]} time={position.stepTime} focusView={focusView} reduced={reduced||leadIn} active theme={position.chapter%2===0?'dark':'light'}/><p>{narrationText}</p><button className="tour-expanded-play" type="button" onClick={togglePlay}>{paused||complete?'Play demo':'Pause demo'}</button></dialog>
- </section>;
+ </section>);
 }
 

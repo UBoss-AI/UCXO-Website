@@ -1,0 +1,1294 @@
+[
+  {
+    "locale": "en",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "en",
+        "dir": "ltr",
+        "title": "UCXO — Business execution, coordinated."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "en",
+        "dir": "ltr",
+        "title": "How it works — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "en",
+        "dir": "ltr",
+        "title": "Book a demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Please complete this field.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "de",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "de",
+        "dir": "ltr",
+        "title": "UCXO – Geschäftsabwicklung, koordiniert."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "de",
+        "dir": "ltr",
+        "title": "Wie es funktioniert – UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "de",
+        "dir": "ltr",
+        "title": "Buchen Sie eine Demo – UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Bitte füllen Sie dieses Feld aus.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "es",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "es",
+        "dir": "ltr",
+        "title": "UCXO — Ejecución empresarial, coordinada."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "es",
+        "dir": "ltr",
+        "title": "Cómo funciona — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "es",
+        "dir": "ltr",
+        "title": "Reserve una demostración - UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Por favor complete este campo.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "fr",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "fr",
+        "dir": "ltr",
+        "title": "UCXO — Exécution commerciale, coordonnée."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "fr",
+        "dir": "ltr",
+        "title": "Comment ça marche — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "fr",
+        "dir": "ltr",
+        "title": "Réservez une démo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Veuillez remplir ce champ.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "pt",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "pt",
+        "dir": "ltr",
+        "title": "UCXO — Execução de negócios, coordenada."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "pt",
+        "dir": "ltr",
+        "title": "Como funciona — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "pt",
+        "dir": "ltr",
+        "title": "Agende uma demonstração — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Por favor preencha este campo.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "it",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "it",
+        "dir": "ltr",
+        "title": "UCXO — Esecuzione aziendale, coordinata."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "it",
+        "dir": "ltr",
+        "title": "Come funziona — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "it",
+        "dir": "ltr",
+        "title": "Prenota una demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Per favore completa questo campo.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "nl",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "nl",
+        "dir": "ltr",
+        "title": "UCXO — Bedrijfsuitvoering, gecoördineerd."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "nl",
+        "dir": "ltr",
+        "title": "Hoe het werkt — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "nl",
+        "dir": "ltr",
+        "title": "Boek een demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Vul dit veld in.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "pl",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "pl",
+        "dir": "ltr",
+        "title": "UCXO — Realizacja biznesowa, skoordynowana."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "pl",
+        "dir": "ltr",
+        "title": "Jak to działa — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "pl",
+        "dir": "ltr",
+        "title": "Zarezerwuj demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Proszę wypełnić to pole.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "uk",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "uk",
+        "dir": "ltr",
+        "title": "UCXO — Виконання бізнесу, скоординоване."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "uk",
+        "dir": "ltr",
+        "title": "Як це працює — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "uk",
+        "dir": "ltr",
+        "title": "Замовити демо — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Будь ласка, заповніть це поле.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "ru",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ru",
+        "dir": "ltr",
+        "title": "UCXO — Согласованное выполнение дел."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ru",
+        "dir": "ltr",
+        "title": "Как это работает — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ru",
+        "dir": "ltr",
+        "title": "Закажите демо — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Пожалуйста, заполните это поле.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "ro",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ro",
+        "dir": "ltr",
+        "title": "UCXO — Execuția afacerii, coordonată."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ro",
+        "dir": "ltr",
+        "title": "Cum funcționează — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ro",
+        "dir": "ltr",
+        "title": "Rezervați o demonstrație — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Vă rugăm să completați acest câmp.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "cs",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "cs",
+        "dir": "ltr",
+        "title": "UCXO — Obchodní provádění, koordinované."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "cs",
+        "dir": "ltr",
+        "title": "Jak to funguje — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "cs",
+        "dir": "ltr",
+        "title": "Zarezervujte si demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Vyplňte prosím toto pole.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "hu",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "hu",
+        "dir": "ltr",
+        "title": "UCXO — Üzleti végrehajtás, koordinált."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "hu",
+        "dir": "ltr",
+        "title": "Hogyan működik – UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "hu",
+        "dir": "ltr",
+        "title": "Foglaljon bemutatót — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Kérjük, töltse ki ezt a mezőt.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "sv",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "sv",
+        "dir": "ltr",
+        "title": "UCXO — Verksamhetsutförande, samordnat."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "sv",
+        "dir": "ltr",
+        "title": "Så fungerar det — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "sv",
+        "dir": "ltr",
+        "title": "Boka en demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Fyll i detta fält.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "el",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "el",
+        "dir": "ltr",
+        "title": "UCXO — Συντονισμένη εκτέλεση επιχειρήσεων."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "el",
+        "dir": "ltr",
+        "title": "Πώς λειτουργεί — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "el",
+        "dir": "ltr",
+        "title": "Κάντε κράτηση για μια επίδειξη — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Συμπληρώστε αυτό το πεδίο.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "da",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "da",
+        "dir": "ltr",
+        "title": "UCXO — Forretningsudførelse, koordineret."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "da",
+        "dir": "ltr",
+        "title": "Sådan virker det — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "da",
+        "dir": "ltr",
+        "title": "Book en demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Udfyld venligst dette felt.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "nb",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "nb",
+        "dir": "ltr",
+        "title": "UCXO — Forretningsutførelse, koordinert."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "nb",
+        "dir": "ltr",
+        "title": "Slik fungerer det — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "nb",
+        "dir": "ltr",
+        "title": "Bestill en demo – UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Fyll ut dette feltet.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "fi",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "fi",
+        "dir": "ltr",
+        "title": "UCXO — Liiketoiminnan toteuttaminen, koordinoitu."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "fi",
+        "dir": "ltr",
+        "title": "Miten se toimii — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "fi",
+        "dir": "ltr",
+        "title": "Varaa demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Täytä tämä kenttä.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "zh-Hans",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "zh-Hans",
+        "dir": "ltr",
+        "title": "UCXO — 业务执行，协调。"
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "zh-Hans",
+        "dir": "ltr",
+        "title": "它是如何工作的 — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "zh-Hans",
+        "dir": "ltr",
+        "title": "预订演示 — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "请填写此字段。",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "ko",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ko",
+        "dir": "ltr",
+        "title": "UCXO — 사업 실행, 조정."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ko",
+        "dir": "ltr",
+        "title": "작동 방식 — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ko",
+        "dir": "ltr",
+        "title": "데모 예약 — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "이 필드를 작성해 주세요.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "zh-Hant",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "zh-Hant",
+        "dir": "ltr",
+        "title": "UCXO — 業務執行，協調。"
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "zh-Hant",
+        "dir": "ltr",
+        "title": "它是如何運作的 — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "zh-Hant",
+        "dir": "ltr",
+        "title": "預約演示 — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "請填寫此欄位。",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "ja",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ja",
+        "dir": "ltr",
+        "title": "UCXO — 業務の実行、調整。"
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ja",
+        "dir": "ltr",
+        "title": "仕組み — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ja",
+        "dir": "ltr",
+        "title": "デモを予約する — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "このフィールドに入力してください。",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "id",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "id",
+        "dir": "ltr",
+        "title": "UCXO — Eksekusi bisnis, terkoordinasi."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "id",
+        "dir": "ltr",
+        "title": "Cara kerjanya — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "id",
+        "dir": "ltr",
+        "title": "Pesan demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Silakan lengkapi bidang ini.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "ms",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ms",
+        "dir": "ltr",
+        "title": "UCXO — Pelaksanaan perniagaan, diselaraskan."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ms",
+        "dir": "ltr",
+        "title": "Cara ia berfungsi — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ms",
+        "dir": "ltr",
+        "title": "Tempah demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Sila lengkapkan medan ini.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "vi",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "vi",
+        "dir": "ltr",
+        "title": "UCXO — Thực hiện kinh doanh, phối hợp."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "vi",
+        "dir": "ltr",
+        "title": "Cách thức hoạt động — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "vi",
+        "dir": "ltr",
+        "title": "Đặt bản demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Vui lòng hoàn thành trường này.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "fil",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "fil",
+        "dir": "ltr",
+        "title": "UCXO — Pagpapatupad ng negosyo, pinag-ugnay."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "fil",
+        "dir": "ltr",
+        "title": "Paano ito gumagana — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "fil",
+        "dir": "ltr",
+        "title": "Mag-book ng demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Mangyaring kumpletuhin ang field na ito.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "th",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "th",
+        "dir": "ltr",
+        "title": "UCXO — การดำเนินธุรกิจ, การประสานงาน"
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "th",
+        "dir": "ltr",
+        "title": "มันทำงานอย่างไร — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "th",
+        "dir": "ltr",
+        "title": "จองการสาธิต — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "กรุณากรอกข้อมูลในช่องนี้",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "ar",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ar",
+        "dir": "rtl",
+        "title": "UCXO — تنفيذ الأعمال، منسق."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ar",
+        "dir": "rtl",
+        "title": "كيف يعمل — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ar",
+        "dir": "rtl",
+        "title": "احجز عرضًا توضيحيًا — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "الرجاء إكمال هذا الحقل.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "tr",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "tr",
+        "dir": "ltr",
+        "title": "UCXO — İş yürütme, koordineli."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "tr",
+        "dir": "ltr",
+        "title": "Nasıl çalışır — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "tr",
+        "dir": "ltr",
+        "title": "Demo rezervasyonu yapın — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Lütfen bu alanı doldurun.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "fa",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "fa",
+        "dir": "rtl",
+        "title": "UCXO - اجرای تجاری، هماهنگ."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "fa",
+        "dir": "rtl",
+        "title": "چگونه کار می کند — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "fa",
+        "dir": "rtl",
+        "title": "رزرو نسخه نمایشی — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "لطفا این فیلد را تکمیل کنید.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "he",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "he",
+        "dir": "rtl",
+        "title": "UCXO - ביצוע עסקי, מתואם."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "he",
+        "dir": "rtl",
+        "title": "איך זה עובד - UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "he",
+        "dir": "rtl",
+        "title": "הזמן הדגמה - UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "נא למלא שדה זה.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "sw",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "sw",
+        "dir": "ltr",
+        "title": "UCXO — Utekelezaji wa biashara, umeratibiwa."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "sw",
+        "dir": "ltr",
+        "title": "Jinsi inavyofanya kazi — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "sw",
+        "dir": "ltr",
+        "title": "Weka nafasi ya onyesho — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Tafadhali kamilisha sehemu hii.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "ha",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ha",
+        "dir": "ltr",
+        "title": "UCXO - Kisa na kasuwanci, hadewa."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ha",
+        "dir": "ltr",
+        "title": "Yadda yake aiki - UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ha",
+        "dir": "ltr",
+        "title": "Littafin demo - UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Da fatan za a kammala wannan filin.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "am",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "am",
+        "dir": "ltr",
+        "title": "UCXO - የንግድ ሥራ አፈፃፀም ፣ የተቀናጀ።"
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "am",
+        "dir": "ltr",
+        "title": "እንዴት እንደሚሰራ - UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "am",
+        "dir": "ltr",
+        "title": "ማሳያ ያስይዙ — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "እባክዎ ይህንን መስክ ያጠናቅቁ።",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  }
+]

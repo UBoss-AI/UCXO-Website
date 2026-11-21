@@ -6,3 +6,4 @@ out/
 .git/
 .env*
 PRODUCT-TOUR-REVIEW.md
+.localization-tools/

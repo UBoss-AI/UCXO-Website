@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Salutare echipa UCXO,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Aș dori să aranjez o demonstrație de UCXO."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Ce aș dori să obțin:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Aș dori să discut despre asta în timpul demonstrației."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "multumesc,"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Solicitați o demonstrație UCXO"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Câmpurile marcate"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "sunt necesare."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "Datele dvs. de contact și ale companiei"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "Prenume"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "Nume de familie"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "E-mail de serviciu"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Compania"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Numele companiei"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Titlul postului"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "Rolul tău"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "Dimensiunea companiei"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Selectați dimensiunea echipei"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "Țara"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "Țara ta"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Ce ți-ar plăcea să obții?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "Opțional"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "Un flux de lucru de îmbunătățit, un obiectiv de atins sau o provocare de rezolvat..."
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "Lăsați acest gol"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "Vom folosi detaliile dvs. pentru a răspunde solicitării dvs. demo. Vă rugăm să evitați includerea informațiilor confidențiale."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Solicitați demonstrația mea"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Deschide aplicația de e-mail cu detaliile precompletate."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Executarea afacerii, coordonat."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Platformă"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Cum funcționează"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Cazuri de utilizare"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Supraveghere"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Înapoi sus"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. Toate drepturile rezervate."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "condus de oameni. Alimentat de AI. Responsabil prin proiectare."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO acasă"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "nav deschis"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Navigație principală"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Rezervați o demonstrație"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Conectați-vă"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Închide meniul"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "Deschide meniul"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / ILUSTRATIV"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "bold 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "FLUXUL DE LUCRU"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "ETAPE CONECTATE"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "PROPRIETATEA"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "OAMENI + AGENȚI DE MOTOR"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "REVISTA UMANĂ"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "NECESAR/ASTEPTARE"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "CONSERVAT UNDE NECESARĂ"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Definiți obiectivul"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Începeți cu rezultatul."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Precizați rezultatul și cine îl deține."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Coordonează planul de pregătire a producției"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "Obiectiv și context de afaceri"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Proprietatea organizațională"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Rezultatul dorit"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Examinați fluxul de lucru"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Faceți planul explicit."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Verificați pașii, dependențele și aprobările necesare."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Examinați planul de execuție propus"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Sarcini umane și agenți AI"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "Dependențe și transferuri"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Porți de aprobare necesare"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Aprobați și atribuiți"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Pune proprietatea în loc."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Aprobați planul și atribuiți fiecare sarcină proprietarului său."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Aprobați planul și atribuiți proprietari"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "Proprietari responsabili de sarcini"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Capacități de agent aprobat"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "Responsabilități umane de revizuire"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "Execută"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Țineți munca conectată."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine urmează planul și semnalează problemele pentru revizuire."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "Monitorizați sarcinile, rulările și transferurile"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "Execuție conștientă de dependență"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Agent monitorizat rulează"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Escalarea excepțiilor"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Examinați rezultatele"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Închideți bucla."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "Comparați rezultatul și dovezile sale cu scopul inițial."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Examinați rezultatul cu dovezile sale"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Dovezi și aprobări ale sarcinilor"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Istoricul execuției agentului"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "Revizuirea rezultatelor"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "Călătoria UCXO"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "SăgeatăDreapta"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "Săgeată stânga"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "Acasă"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "Sfârșit"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Începe din nou călătoria"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Următorul pas"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "FLUX DE LUCRU ILUSTRATIV"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "Conectat la obiectivul dvs. de afaceri"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "Partenerii noștri"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "Reluați siglele partenerilor"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "Întrerupeți siglele partenerilor"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO parteneri"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "Punctul tău de plecare."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "Vedeți imaginea de ansamblu."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Contextul companiei, domeniul de aplicare al departamentului și vizualizările spațiului de lucru."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Prezentare generală a spațiului de lucru"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "Contextul departamentului"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Module conectate"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview cu contextul companiei și al departamentului, filele Prezentare generală și Activitate și harta vizibilă a spațiului de lucru."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "Harta tabloului de bord continuă sub captura PDF. Această previzualizare păstrează ecranul vizibil exact; nu inventează porţiunea lipsă."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "Sarcinile tale."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "Deciziile tale."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Folosiți UDO pentru sarcini și UApprove pentru cererile de aprobare."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · Sarcinile mele"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "Atribuit mie / de mine"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · Deciziile umane"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO Sarcinile mele cu file de atribuire, filtre de stare a sarcinilor, căutare și starea inițială goală."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove cu Waiting on me, Solicitat de mine, Excepții și Filtre Hotărâte și starea inițială goală."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Munca de zi cu zi."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "Într-un singur loc."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "Formulare, înregistrări, fluxuri de lucru și instruire."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Formulare și înregistrări"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · Fluxul de lucru rulează"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "Învățare atribuită"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms care arată lista de verificare a pregătirii producției publicată, versiunea acesteia, câmpurile și fluxul de lucru legat."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords care arată POS controlat cu schimbarea liniei de ambalare lansat și revizuirea acestuia."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "Ecranul original UEngine Runs, păstrându-și eticheta exactă a interfeței de utilizare și starea Nicio rulare încă."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining care arată lecția de siguranță a liniei de ambalare atribuită, progresul și cerințele de evaluare."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Înființați afacerea."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Planificați munca."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Obiective, resurse, design flux de lucru și acces."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Obiective și planificare"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Oameni și echipamente"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Șabloane și acces"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner cu proiectul planului de pregătire a producției, pregătire 4/8, proprietar numit și aprobator și starea Inactivă."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "Misiune și obiective"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Misiune și obiective care arată misiunea operațiunilor fiabile, dovedite și filtrele obiectivelor."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "Planificator de lucru"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Planificator de lucru cu numărătoare de programare, elementul de lucru pentru pregătirea producției și calendarul săptămânii."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "Maestru HR"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "HR Master cu oameni, roluri, abilități, calendare de lucru și angajamente."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "Maestru de mașini"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Machine Master cu disponibilitate echipament, capacitate, program de lucru și rezervări."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "Maestru de Forme"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Formulare Master cu versiunea publicată, imuabilă a listei de verificare pentru pregătirea producției."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Maestru de delegație"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "Comandantul de delegare cu notificarea inițială de decizie necesară și înlocuirea aprobării programate."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "CONVERSAȚII CU MUNCĂ ÎN CONTEXT"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Păstrați conversațiile"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "aproape de lucrare."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Găsiți-vă conversațiile, coordonați-vă în canalele de echipă și mențineți discuțiile legate de munca pe care o privesc. Propunerile de sarcini examinate și trimise se conectează la UDO."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Inbox și mențiuni"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Canalele echipei"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Conversații legate de muncă"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Inbox"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Mesaje primite cu filtre de conversație și conversația necitită originală de planificare operațională."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Canale de echipă care arată planificarea operațiunilor și canalul de anunțuri la nivel de fabrică la nivel de companie."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Conversații de serviciu"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme Conversații de lucru cu starea inițială goală și explicația legăturilor de lucru-obiect."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "Prezentare generală a conversației"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview cu conversație necitită, mențiuni, sarcini și număr de propuneri netrimise."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "Execuția afacerii bazată pe inteligență artificială"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "Transformați SOP-urile în fluxuri de lucru. Atribuiți responsabilitatea. Finalizarea pistei."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "Afacerea ta funcționează. Tu rămâi în control."
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI este o execuție de afaceri bazată pe inteligență artificială. Transformați SOP-urile în fluxuri de lucru. Atribuiți responsabilitatea. Finalizarea pistei. Afacerea ta funcționează. Tu rămâi în control."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "Prezentare generală a spațiului dvs. de lucru"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. Punctul tău de plecare. Vedeți-vă compania, alegeți un departament și deschideți modulul de care aveți nevoie."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "Vizualizări și domeniul de aplicare al departamentului"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "Utilizați Prezentare generală pentru o vizualizare rapidă sau Activitate pentru a urmări actualizările. Comenzile de vizualizare oferă o hartă, carduri, tablă și listă."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. Sarcinile și aprobările dvs. UDO arată munca care ți-a fost atribuită."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "Misiuni, statut și căutare"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "Filtrați după stare, căutați o sarcină sau verificați munca pe care ați atribuit-o altcuiva."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · Coada ta de decizie"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Deschideți UApprove pentru a examina cererile care așteaptă decizia dvs. Aprobați, returnați sau respingeți lucrarea."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Formulare publicate"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Unde faci treaba. Completați formularele publicate în UForms și urmăriți-vă trimiterile."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · Probe și documente"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords stochează documente și dovezi, cu detaliile de revizuire și aprobare a acestora."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine arată rulările fluxului de lucru, progresul și excepțiile. Acest eșantion nu are încă rulări."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Învățare atribuită"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining reunește lecțiile atribuite, termenele limită și evaluările."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Configurați cum funcționează afacerea dvs. Începeți cu Misiunea și Obiectivele pentru a defini scopul și proprietarul acestuia."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner programează locurile de muncă cu oamenii și echipamentele de care au nevoie."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner definește fluxul de lucru. Testați-l, obțineți aprobarea și activați-l înainte de execuție."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master gestionează rolurile, abilitățile și disponibilitatea personalului."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master gestionează capacitatea, disponibilitatea și întreținerea echipamentelor."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master creează și publică șabloanele pe care echipa ta le completează UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Delegation Master definește cine poate prelua o sarcină sau aprobare și pentru cât timp."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers gestionează conturile de utilizator, rolurile și permisiunile de acces."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Explorați prezentarea generală a conversației, căsuța de e-mail, sarcinile partajate, canalele, persoanele și setările spațiului de lucru."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "Prezentare generală a conversației dvs"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme are propria sa prezentare generală a conversației. Acesta reunește mențiuni necitite, conversații necitite, sarcini deschise din conversații și propuneri netrimise, cu link-uri către lucrările relevante."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Selectați Mesaje primite pentru a găsi conversațiile din care faceți parte. Filtrează conversațiile necitite, mesajele directe, mențiunile și activitatea separată. Exemplul arată canalul echipei de planificare operațională și conversația sa necitită."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · Sarcini partajate"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "Selectați UDO pentru a vedea același magazin de activități folosit de UCXO. Sarcinile de conversație se leagă înapoi la sursa lor. O propunere de mesaj devine o sarcină numai după ce este revizuită și trimisă."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Selectați Canalele echipei pentru a vă vedea canalele, canalele deschise la care vă puteți alătura și canalele arhivate. Canalele private sunt vizibile numai pentru membri. Eșantionul separă planificarea operațiunilor de anunțurile la nivel de fabrică la nivel de companie."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Selectați Conversații de lucru pentru a menține o discuție legată de un obiectiv, plan, sarcină, formular, înregistrare sau element de lucru. Starea și versiunea sa provin în continuare din modulul propriu al obiectului."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Apeluri și întâlniri · Starea curentă"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "Apelurile și întâlnirile sunt vizibile în navigare, dar versiunea furnizată nu are niciun furnizor de apeluri. Acest ecran explică faptul că apelurile, programarea, înregistrarea și transcrierile nu sunt disponibile în prezent."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "Directorul de oameni"
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Setări spațiu de lucru"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Selectați setările spațiului de lucru pentru subiectele canalului, calitatea de membru, permisiunile de citire și postare și istoricul politicilor. Utilizatorul eșantion are acces numai pentru citire. Mesajele coordonează munca; nu o aprobă sau completează."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Ecran software original"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Vizualizați pe tot ecranul"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Inspectați ecranul original"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "Atingeți ecranul pentru a-l inspecta la dimensiune completă."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "Pagina PDF"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Aspect original, etichete, date și stări"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Nota de referinta:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Software original UCXO · Pagina PDF"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Potriviți la fereastră"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Dimensiunea reală"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "Închideți previzualizarea ecranului"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Prezentare generală și navigare."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "Sarcini și aprobări."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "Instrumente zilnice."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Configurarea afacerii."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "AbortError"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "Selectați Redare pentru a relua narațiunea."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO demonstrație de produs ghidată în patru părți"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "Narațiunea nu s-a putut încărca. Selectați Redați cu narațiune pentru a reîncerca."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "TURUL PRODUSULUI UCXO"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "INTRODUCERE"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Reluare cu narațiune"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "Reluați narațiunea"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "Narațiune mută"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Redă cu narațiune"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "SPAȚIUL TĂU DE LUCRU, CONECTAT"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "Patru secțiuni demonstrative de produse"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "Săgeată în jos"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "Săgeată în sus"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· Demo ghidat"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "Întrerupeți narațiunea"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "Potriviți ecranul"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Vedere focalizată"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Extindeți demonstrația ghidată"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Reluare turneu"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Joacă demonstrația ghidată"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Întrerupeți demonstrația ghidată"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "Redați această secțiune"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "Narațiune demonstrativă mută"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "Activați narațiunea demonstrativă"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "Progresul secțiunii demo"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "TURUL COMPLET"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "JUCAT DE NARAȚIUNE"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "NARAȚIUNEA ÎNTRERUPTĂ"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "NARAȚIUNEA OFF"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Demo ghidată UCXO extinsă"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Închide previzualizarea"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Joacă demo"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "Întrerupeți demonstrația"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Prezentare generală"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "Activitate"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Harta spațiului de lucru"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Carduri"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ Consiliu"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Lista"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "Departamentul"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Toate în domeniul meu⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ Compania pilot A (eșantion)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ Operațiuni"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "Mă bucur să te văd, Arjun (Operator). Fiecare modul pe care îl puteți deschide se află în jurul UCXO cu o singură cifră; fiecare card deschide exact ceea ce contează."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ Reîmprospătat ora 09:29"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Actualizează"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "Compania pilot A (eșantion)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "Departamentele dvs.: Operațiuni."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Unde se instalează și se desfășoară lucrările"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "Misiune și obiective"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "Misiune și obiective, planificator de lucru și Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "PREGĂTIREA DE PRODUCȚIE"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "Începeți cu un obiectiv acceptat: pregătiți planul de producție de săptămâna viitoare."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "OAMENI ȘI PROPRIETATE"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "Oamenii și proprietatea oferă context pentru munca angajată."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "PROIECTA DE FLUX DE LUCRU"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Leagă obiectivul, munca angajată și resursele la un flux de lucru cu versiuni."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "LISTA DE VERIFICARE A PREGĂTIȚII"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Capturați lista de verificare a pregătirii utilizând pasul formular / introducere."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "DENUMIT REVISTA UMANĂ"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "O persoană numită trebuie să aprobe revizuirea înainte de a putea fi activată."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "MUNCĂ ANGAJATĂ"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Angajați munca și resursele pe care planul le va coordona."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner flux de lucru tastat"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Acțiunea agentului"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AGENT AI · REZUMATUL CAPACITĂȚII"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "Rezumatul capacității rulează după trecerea condiției de degajare a liniei."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "Formular / intrare"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "LISTA DE VERIFICARE A PREGĂTIȚII UMANE"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "O persoană completează lista de verificare a pregătirii în UForms."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "Stare"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "CONTROL · LIMITAREA LINIEI?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "Da continuă cu acțiunea AI. Fără căi către o sarcină umană pentru rezolvare."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Sarcina umană"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "OM · REZOLVA Abaterea"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Rezolvați abaterea de degajare în UDO, apoi verificați din nou formularul, de până la trei ori."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "Integrarea"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "SISTEM · PROGRAMARE ERP"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Actualizați programul ERP după rezumatul capacității. O eroare de sincronizare urmează calea de notificare."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "Aprobare"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "UMAN · REVIZIE LANSAREA"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "Un lider de operațiuni numit aprobă lansarea în UApprove."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Înregistrează ieșirea"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "SISTEM · PLAN APROBAT"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "Planul de producție aprobat este reținut prin URecords."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "CONTROLUL"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Finalizați calea de flux de lucru configurată."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine execuție și recuperare umană în UDO"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "Persoana responsabilă primește și finalizează sarcina de recuperare atribuită în UDO."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "Rezumatul capacității poate rula numai atunci când condiția de degajare a liniei trece."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "Eliberarea așteaptă aprobarea numită; U-Engine nu poate lua această decizie."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Fără rute către UDO și înapoi la lista de verificare a pregătirii. Da continuă cu acțiunea AI."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "Integrarea actualizează programul ERP înainte de aprobarea lansării."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords și recuperare notificări"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "Șeful de operațiuni desemnat analizează dovezile și decide dacă aprobă eliberarea."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "SISTEM · IEȘIRE ÎNREGISTRARE"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Păstrați planul de producție aprobat și înregistrarea acestuia."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "REVIZIUNE ACTIVĂ APROBATE"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Numai o versiune testată, revizuită, aprobată și activată poate începe o rulare."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "SISTEM · SINCRONIZARE EŞECTĂ"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "O sincronizare ERP eșuată urmează ruta de notificare configurată."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Notificare"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "SISTEM · NOTIFICAȚI PLANIFICATORUL"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "Notificați planificatorul responsabil cu privire la eșecul de sincronizare ERP. UPingme conectează conversația."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "Calea de înregistrare aprobată și calea de recuperare a notificărilor ajung fiecare la sfârșit."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "CHAT · REAMINT · ESCALATE"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "Conversațiile, mementourile și escaladarea ajung aici la persoana responsabilă; aprobarea rămâne în UApprove."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "Definiți și planificați"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Un obiectiv. Un plan versionat."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Misiunea și obiectivele conectează munca și resursele angajate prin Work Planner și Engine Planner."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Începeți cu obiectivul: pregătiți planul de producție de săptămâna viitoare."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "Conectați oamenii și munca angajată prin HR Master și Work Planner."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms surprinde lista de verificare a pregătirii."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner leagă obiectivul și resursele de un flux de lucru cu versiuni."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Testați, revizuiți, activați"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Pași dactilografiați. O eliberare controlată."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Examinați pânza fluxului de lucru, testați-l și finalizați verificările de pregătire înainte de aprobarea și activarea umană."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "Fluxul de lucru începe cu o formă și o condiție de degajare a liniilor."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Dacă autorizarea eșuează, o sarcină umană rezolvă abaterea și verifică din nou formularul."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Dacă trece, acțiunea AI pregătește un rezumat al capacității, apoi o integrare actualizează programul."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "Testați, revizuiți, aprobați și activați revizuirea înainte ca U-Engine să înceapă o rulare."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "Executați și recuperați"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine aleargă. Oamenii rămân implicați."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "Fluxul de lucru aprobat urmează rutele configurate. UDO menține munca de recuperare cu persoana responsabilă."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine urmează revizuirea activă și rutele de stare ale acesteia."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "Rezumatul capacității rulează numai după ce trece linia liberă."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Oamenii primesc și îndeplinesc sarcinile de recuperare atribuite în UDO."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "Integrarea actualizează programul sau urmează traseul eșecului."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "Eliberarea așteaptă aprobarea umană numită în UApprove."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "Aprobați și înregistrați"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "Aprobare umană. O înregistrare conectată."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove păstrează decizia cu o persoană. URecords păstrează planul. UPingme conectează conversația."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "O integrare eșuată informează planificatorul responsabil. UPingme conectează conversația."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "Aprobarea eliberării rămâne la persoana numită în UApprove."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "Aprobatorul examinează dovezile și decide."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "După aprobare, URecords reține planul de producție și fluxul de lucru ajunge la End."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Executarea afacerii, coordonat."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "MISIUNE & OBIECTIVE"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "MASTER HR · PLANIFICATOR DE MUNCĂ"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · RECUPERARE UMANĂ"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "INTEGRARE · PROGRAMARE ERP"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "NOTIFICARE · PLANIFICATOR RESPONSABIL"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "DECIZIE UMANĂ ÎNREGISTRATĂ"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "REZULTAT LEGAT DE OBIECTIV"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "Se pregătește fluxul de lucru..."
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "NotAllowedError"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "Browserul dvs. a întrerupt narațiunea. Selectați Redați narațiunea pentru a începe."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "Narațiunea nu a putut începe. Selectați Redați narațiune pentru a reîncerca."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "Cum funcționează UCXO"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "INTRARE"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "BUTON"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "Narațiunea nu s-a putut încărca. Selectați Redați narațiune pentru a reîncerca."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "CUM FUNcționează UCXO"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "UN SINGUR OBIECTIV. O POVESTE CONECTATĂ."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "Pregătește săptămâna viitoare"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "Ascultă explicația"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Joacă narațiunea"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Sunet activat · Dezactivare"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Începe narațiunea..."
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Joacă explicația"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Întrerupeți explicația"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Reluați capitolul"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Activați sunetul"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Sunet dezactivat"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "Progresul capitolului"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "CAPITOLUL FILM"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "NARAȚIUNE · SUNET OPRIT"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "NARAȚIUNE · JUCAT"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "NARAȚIUNE · INDISPONIBILĂ"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "NARAȚIUNE · Atingeți PLAY"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "NARAȚIUNE · PAUZĂ"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "NARAȚIUNE · ÎNCĂRCARE"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Alegeți un capitol"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "Redați animație"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "uman"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "agent AI"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "Sistem"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "Control"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "Planificatorul începe"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "alergare de pregătire"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "Trigger"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "Lista de verificare a pregătirii"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "Degajarea liniei"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Rezumatul capacității"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Actualizați ERP sandbox"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Conducerea operațiunilor"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "aprobă eliberarea"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Producție aprobată"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "înregistrarea planului"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Rezolvați autorizarea"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Notificați planificatorul despre ERP"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "eșec de sincronizare"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "Da"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "Nu"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Verificați din nou (maxim 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "Ieșire nevalidă"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "Sincronizarea a eșuat"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "Aprobat"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "Respins/returnat"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner pânză pentru fluxul de lucru"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Pânză pentru fluxul de lucru"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "schiță v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "ilustrativ"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "Pânză"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "Pași ordonați"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Flux de lucru tastat"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "Măriți fluxul de lucru"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "Micșorați fluxul de lucru"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "Potriviți întregul flux de lucru pentru vizualizare"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "executarea"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "decizie · recuperare"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Da → Rezumatul capacității · Nu → Rezolvați abaterea degajării"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Verificați din nou lista de verificare a pregătirii (maximum 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "Sincronizarea a eșuat → Notificați planificatorul"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Flux de lucru de pregătire a producției cu ramuri de aprobare și recuperare"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Intră"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "Planul de pregătire a producției de săptămâna viitoare"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "Aprobare ilustrativă înregistrată"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "Este necesară aprobarea umană"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Rezervați o demonstrație — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Vedeți cum UCXO vă conectează obiectivele, oamenii și forța de muncă AI. Spune-ne despre afacerea ta și solicită o demonstrație personală."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "Rezervați o demonstrație."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "Pentru echipa ta."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Vedeți UCXO cu un flux de lucru din afacerea dvs."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "OBIECTIVUL TĂU"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "OAMENI + AI"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "REZULTAT"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "La ce să te aștepți"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "Începe cu obiectivele tale"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Spune-ne unde se blochează munca."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "Explorați posibilitățile"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "Parcurgeți instrumentele relevante pentru echipa dvs."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Găsește-ți următorul pas"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "Decideți dacă UCXO se potrivește nevoilor dvs."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "Preferi email-ul?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "DEMO PERSONALĂ"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "Detaliile dvs"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Povestește-ne puțin despre echipa ta."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Patru previzualizări ale paginii de pornire — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Înapoi la site"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "CARUSEL DE PAGINA DE INIȚIE · REVIZIA DESIGN LOCAL"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Un spațiu de lucru."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "Patru moduri de a merge mai departe."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Patru carduri de pagină de pornire propuse. Ecrane software reale, explicații clare și o privire mai atentă asupra fiecărei părți a UCXO."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Ecrane originale din PDF de design"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Previzualizări statice pentru revizuire"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Explorați cele patru previzualizări"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "Patru previzualizări ale paginii de pornire"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "PATRU PREVIZULERĂRI STATICE · GĂTIT PENTRU RECENZIA DVS"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "Software-ul conduce."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "Povestea e clar."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Alegeți orice selector de ecran pentru a inspecta modulul aferent. Deschideți un ecran la dimensiunea completă pentru a-l compara cu PDF-ul. Aceste previzualizări păstrează datele eșantionului original și stările goale sau nefinalizate."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Înapoi la prezentarea generală cu patru previzualizări"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Cum funcționează — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "Urmăriți un obiectiv de afaceri de la un flux de lucru propus până la aprobarea umană și un rezultat revizuit."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "DE LA DIRECȚIE LA LIVRARE"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Un singur obiectiv."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "Fiecare pas conectat."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "Urmați un plan ilustrativ de pregătire a producției."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "Oamenii păstrează deciziile care au nevoie de judecată umană."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "Executarea afacerii,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Aduceți-vă obiectivele, oamenii și forța de muncă AI într-un singur flux de lucru comun."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Explorează platforma"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "Conectați-vă la UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — Execuția afacerii, coordonată."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Transformați obiectivele de afaceri în acțiuni coordonate. Planificați fluxurile de lucru, conectați oamenii și agenții AI și mențineți execuția responsabilă."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Obiective în fluxurile de lucru"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "Împărțiți un obiectiv de afaceri în pași, dependențe și proprietari."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Planificați munca"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Definiți sarcini, condiții, integrări și căi de aprobare într-un flux de lucru cu versiuni."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Proiectați fluxul de lucru"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO misiuni"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "Oferă fiecărei sarcini o persoană responsabilă și un statut clar."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Atribuiți responsabilitatea"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "Pregătirea fluxului de lucru"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Testați o revizuire și finalizați verificările acesteia înainte de aprobare și activare."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Pregătiți-vă pentru execuție"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "AI PENTRU ORGANIZAȚIA DVS"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 — PLATFORMA"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Mai puțină muncă manuală."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "Mai mult timp pentru echipa ta."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "Aduceți agenți AI la"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "Creați și coordonați agenți AI pentru a automatiza sarcinile de zi cu zi în cadrul departamentelor."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "Vedeți un exemplu de flux de lucru"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "Mai puține transferuri manuale"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Oamenii și inteligența artificială lucrează împreună"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Proprietate clară"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "O DARE CLARĂ DE LA OBJECT LA REZULTAT"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — CUM FUNcționează"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "De la gol"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "la lucrarea terminată."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Urmați cele cinci etape ale unui flux de lucru."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "CONSTRUIT PENTRU A LUCRU IMPREUNA"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — CAPACITĂȚI PRINCIPALE"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Unelte din spate"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "fluxul de lucru."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Planificați, atribuiți, testați și rulați."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "AUTOMATIZAREA CU RESPONSABILITATE"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "Deciziile umane."
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "La momentele potrivite."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove direcționează deciziile către persoana responsabilă."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Dovezi înainte de aprobare"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Inspectați înregistrările justificative."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Vizibilitate în întreaga execuție"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "Vedeți istoricul rulărilor și excepțiile."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Ștergeți rolurile și permisiunile"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "Stabiliți rolurile și domeniul de aplicare al departamentului."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "SUPRAVEGHEREA EXECUTII"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "ILUSRATIV"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "Monitorizarea executiei fluxului de lucru"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "POARTA OMULUI"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "O decizie rămâne cu tine."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Examinați dovezile și decideți."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "Așteaptă aprobarea umană"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Se anexează dovezi justificative"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "Excepție detectată"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Adresat la examinatorul responsabil"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "Munca de monitorizare nu acordă aprobarea umană."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "FĂCUT PENTRU MODUL DE FUNCȚIONARE A AFACERILOR"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — CAZURI DE UTILIZARE"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Muncă adevărată."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "Conectat de la capăt la capăt."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Un strat de execuție partajat pentru proprietarii de afaceri,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "liderii operațiunilor și echipele pe care le conduc."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "OPERAȚII"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "Coordonarea operațională"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Aliniați sarcinile interfuncționale, proprietarii și dependențele în jurul unui obiectiv de afaceri comun."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Definiți planul"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Coordonează transferurile"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "MUNCĂ REPETABILĂ"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Raportare recurentă"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "Reutilizați agenții AI pentru a pregăti munca, apoi direcționați rezultatele și dovezile către persoanele care le revizuiesc."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Adunați intrări"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "Conduceți un agent"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "Revizuire umană"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "EXECUTARE GUVERNATA"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "Lucru bazat pe aprobare"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "Conectați dovezile sarcinilor, porțile de aprobare umane și gestionarea excepțiilor într-un singur flux de lucru vizibil."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "Strânge dovezi"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Solicitați aprobarea"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "Rezolvați excepțiile"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Cazuri de utilizare reprezentative. Exemplele de flux de lucru sunt ilustrative."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "CÂTEVA LUCRURI, LIMITE"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Construit pentru claritate."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "Ce este UCXO?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO ajută echipele să transforme procedurile în lucru atribuit, urmăribil cu agenți AI și aprobări umane."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Cum lucrează împreună Engine Planner și U-Engine?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner proiectează fluxul de lucru. U-Engine rulează versiunea testată, aprobată și activată."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Cine aprobă munca?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "Aprobatorul uman numit decide. Un agent AI nu poate acorda această aprobare."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Când poate rula un flux de lucru?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "După verificări de pregătire, aprobare umană și activare."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "OFERĂ OBIECTIVELE DVS"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Vezi UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Rezervați o demonstrație pentru echipa dvs. sau urmăriți exemplul fluxului de lucru."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Urmărește fluxul de lucru"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Vă rugăm să completați acest câmp."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Vă rugăm să introduceți o adresă de e-mail validă."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Vă rugăm să verificați această valoare."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Audio: engleză"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "Transcriere"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Pagina nu a fost găsită"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "Pagina pe care ați solicitat-o nu a putut fi găsită."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "Întoarce-te acasă"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Alegeți limba"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "Căutați limbi"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "Evadare"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "Limbi"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO cerere demonstrativă — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Nume: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "E-mail de serviciu: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Companie: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Titlul postului: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Dimensiunea companiei: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Țară: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "Capitolul {0}: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "PASUL {0}/{1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} din {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "POVESTE COMPLETĂ · {0} SECUNDE"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "Extindeți ecranul {0}"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "Inspectați ecranul original {0}"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} ecrane software"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} ecran software original"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "URMĂTOR · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} capitole demonstrative"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. Ecran software original UCXO cu o demonstrație ghidată cu cursorul."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Apeluri și întâlniri"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Căutați ID-uri, titluri..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "Compania pilot A (eșantion) · Operațiuni"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "ACASĂ"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Apeluri și întâlniri"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "Apelurile vocale și video, programarea întâlnirilor, înregistrarea și transcrierea nu fac parte din această versiune."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "CALLINGPROVIDER·NONECONFIGURAT"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Nu pot fi pornite apeluri sau întâlniri"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "aici"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Este necesară o decizie·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Nu există control de alăturare, înregistrare sau transcriere"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "pentru că nimic nu s-ar întâmpla de fapt.Întâlniri"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "nu poate fi programat sau stocat — nu există niciunul."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Să fie decis înainte ca apelurile să existe"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "Între timp"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Apeluri și întâlniri"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "Furnizorul de apeluri și unde sunt datele apelurilor"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "Conversații de lucru"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "prelucrate"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O activ, fiecare legat de obiectul fiind"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Este necesară o decizie·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "discutat."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "Consimțământul participantului înainte de orice"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Trimite mesaj unei persoane"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "înregistrare sau transcriere"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "Mesajele directe sunt create cu primul"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "mesaj."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "Reținere și acces pentru înregistrări"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "Acordați o acțiune"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "Propune o sarcină din mesaj; ajunge"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "și transcrieri(URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO numai după ce îl revizuiți și îl trimiteți."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Setări"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Operator"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "Dispozitive țintă, afișaje și cameră"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ Maestru de delegație"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "PilotCompany A(eșantion)·Operațiuni"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "Cine poate acționa pentru cine, pentru ce și pentru cât timp. Predarea sarcinilor și autoritatea de aprobare"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "substituirea sunt autorități separate, cu termene limitate."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Este necesară o decizie · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "Sensul comercial al delegării și dacă lanțurile sunt permise nu sunt decise. Conservator"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "se aplică valorile implicite: o delegație nu acordă niciodată mai mult decât deține delegatul (se verifică din nou la fiecare"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "utilizare), lanțurile sunt blocate, iar înlocuirea aprobării necesită un administrator independent."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "AIl"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "În așteptarea aprobării"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "Programat"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Activ"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "A expirat"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "Revocat"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "Respins"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Ambele tipuri 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Înlocuirea aprobării 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Predarea sarcinii 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Doar delegațiile care mă implică"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Căutați persoane, ID, motiv"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6 nov-3 dec"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "Mai devreme"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "Astăzi"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "mai târziu"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "CINE ACTIONĂ PENTRU CINE"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NoV16No23No30NoTATE"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "RohanDas"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "acţionează pentru VikramShah"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Operațiuni"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "PilotCompanyA(eșantion)·Operațiuni"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "Un plan leagă un obiectiv acceptat, munca angajată și resurse de un flux de lucru cu versiuni. Trebuie să treacă"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "pregătire, să fie aprobat de o persoană numită și să fie activat înainte ca orice rulare să poată începe."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "Ciornă"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Gata de revizuire"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "Revizuire"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "Q"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "Suspendat"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "Căutare ID, titlu sau obiectiv"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 plan"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "Planul de pregătire pentru producție de săptămâna viitoare"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "ObiectivOBJ-026·Pregătiți planul de producție al săptămânii următoare"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "Pregătire 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "VERSIUNE LIVE"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·draftv1·10nodes"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "Nu este activ"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "APROBATOR"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "PROPRIETAR"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "VikramShah"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Rezolvați pregătirea"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Forms Master"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Căutați ID-uri, titluri..."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Forms Master"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Definiții de formulare create la cererea departamentului. Versiunile publicate sunt imuabile; fiecare schimbare"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "devine o nouă versiune nefinalizată pe care o publică un evaluator independent."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "AII"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Publicat"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "pensionar"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Toate departamentele"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Căutați ID, nume sau înregistrare"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "Lista de verificare a pregătirii producției"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Lista de verificare a operatorului înainte de rularea ambalajului."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Vedeți"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "& OperațiuniProprietar Kabir SenProduce Lista de verificare a pregătirii"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "Legat la PLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8fields·imutable"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "FormsMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / HR Master"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "Oamenii ca resurse de planificare: rol, abilități, calendar de lucru și la ce se angajează. Autentificare"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Oameni și aptitudini"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "Ierarhie și personal"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "Tabla de disponibilitate"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "Import (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Oameni"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Matricea aptitudinilor"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "Îndemânare"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Stare"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Toate departamentele mele"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Orice abilitate"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Activ și inactiv"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Nume, rol sau abilitate"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Sunil Varma"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Tehnician de întreținere"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Operator de ambalare"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "Întreținere"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "electrice"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Ambalare"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "Calitate"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "M"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "T"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "W"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗Nimic comis"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Fără cont de autentificare"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "Conectare: Arjun Mehta"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "Maya Rao"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "Dl"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / Inbox"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "Fiecare conversație la care ești membru, sortată astfel încât ceea ce are nevoie de tine să fie pe primul loc."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markallread"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Trimite mesaj cuiva"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "Ali 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Necitit"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Mesaje directe"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "Mențiuni"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Căutați nume, subiecte și text pentru mesaje"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "NICITIT"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#ops-planning"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Canalul echipei"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "12 noiembrie 2026, 07:05"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha, vă rugăm să rezolvați conflictul WORK-021 înainte de 2026-11-13 a..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / Machine Master"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "Echipamentele pe care lucrează pot fi programate: unde este, ce poate face, cât pe oră, când este"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "deschis și ceea ce este deja rezervat. Numai programare — fără control al mașinii."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AIl3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "Disponibil"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "În afara serviciului"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q Nume, locație sau capacitate"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "Imprimanta de etichete 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "Linia de ambalare 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "PlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "PlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 de etichete/oră"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "unități/oră"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "Etichetarea"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "Etanșare"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O rezervat. Nicio perioadă de nefuncționare planificată"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 rezervat Jos 19 noiembrie 2026"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "Linia de ambalare 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "Compania pilot A(eșantion)· Operațiuni"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Fiecare obiectiv afirmă un rezultat, cum este dovedit succesul și cine îl deține – apoi trece prin"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "planificare, aprobare, execuție și un dosar guvernat."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Obiective"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "Misiune"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "MISIUNE·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Misiune și obiective"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Operațiuni de încredere, dovedite"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Asigurați fiecare angajament de producție la timp cu oamenii,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "echipamente și decizii care sunt planificate, aprobate și dovedite."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "Proprietar AshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "Oamenii aproba eliberarile"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Fiecare ieșire este imposibil de găsit"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "Planurile reflectă capacitatea reală"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "Misiune deschisă"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Toate 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "Se așteaptă revizuirea"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "Acceptat"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "Revizuit"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Căutați ID, titlu sau proprietar"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "Pregătește-te"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "în continuare"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "saptamana"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Directorul de persoane"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "și detaliile de acces nu sunt afișate aici."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Nume, titlu sau departament"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIl10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Inginerie"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Operațiuni 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "Planificarea"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "Cont"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "Oricare (10)"
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①Prezența nu este afișată: UPingme nu are un serviciu de prezență în timp real. Starea este starea contului UUsers."
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Arjun Mehta (tu)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Asha Kulkarni"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1 Mesaj"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "Administratorul companiei"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Cont activ"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "administrator"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "Cont activ"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Vikram Shah"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "Mesaj"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(aprobator)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Canalele echipei"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Canalele din care faceți parte, canalele deschise la care vă puteți alătura și canalele arhivate."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Canal nou"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "Canalele private sunt vizibile numai pentru membrii lor."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Numele canalului, textul mesajului topic"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "La nivel de companie"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "CANALELE DVS"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Planificarea săptămânală a producției pentru Uzina A"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5membri"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Ultimul mesaj 12 noiembrie 2026, 7:05 am"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "DESCHIDEȚI PENTRU CANALE"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## anunţuri-plante"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "Anunturi la nivel de companie pentru Uzina A. Numai proprietarul"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "postări."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "Proprietarul la nivel de companie2members Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "posturi de proprietar"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Previzualizare"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Alăturați-vă"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Deschideți canalele echipei care aparțin întregii companii sau aparțin unui departament al dvs.UPingme.Canalele private sunt listate"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "Oamenii numiți decid asupra unei revizuiri exacte, înghețate. Aprobare, returnare și respingere sunt decizii separate; an"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "atestarea este un pas separat după aprobare."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Așteaptă pe mine"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "D"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "Solicitat de mine"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "Excepții"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "Hotărât"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Toate în domeniul de aplicare"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "ID de căutare, titlu, solicitant"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Nimic nu te așteaptă"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "Solicitările apar aici atunci când sunteți aprobatorul numit al etapei deschise sau un înlocuitor activ."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "fiecare cardopensează exact ceea ce contează."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Harta spațiului de lucru"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品 Carduri"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "bord"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三 Lista"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Toate în domeniul meu"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "Reîmprospătat la ora 09:29"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C Reîmprospătare"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Unde se lucrează și se desfășoară"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Misiune și obiective"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / Sarcinile mele"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "Sarcinile mele"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "Tot ce vă așteaptă —— de la pașii fluxului de lucru, solicitări de formulare, aprobări, urmăriri și UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "propuneri — cu unde să acționeze și cu ce se schimbă completarea."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "Sarcinile mele este partea din UDO direcționată de utilizator. ale lui UDO"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·MyTasks"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "numele complet, proprietarul, utilizatorii și alte ecrane nu sunt"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "Decizia necesară·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "definit, deci nu se arată nimic altceva."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "Mi-a fost atribuit"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "Desemnat de mine"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "Deschide"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "În curs"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "Întors"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "Întârziat"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Datorită astăzi"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "Terminat"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "Allo"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Tip"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Căutați ID, titlu, sursă sau cesionar"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Toate tipurile"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Nu ți-a fost atribuit încă nimic"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "Sarcinile ajung aici de la rulări ale fluxului de lucru (formular și pași umani), aprobare"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "solicitările, urmăririle pe care cineva ți le atribuie și propunerile confirmate în"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Veți primi și o notificare."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Alerează"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Aleargă"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Fiecare execuție a unei versiuni de flux de lucru aprobate, publicate - pe cine așteaptă, ce a eșuat și ce"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "necesită reconciliere.Runs-urile își păstrează versiunea exactă chiar și după modificarea planului."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Definiții de rulare"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "AIl0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "Aşteptându-mă"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "în aşteptare"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "Alergarea"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "Anulat"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "Căutați ID-ul executării sau al planului"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Încă nu există curse"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Runsstart de la un plan activ în EnginePlanner."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Deschideți EnginePlanner"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Completați șabloanele Formulare Master publicate. Fiecare trimitere păstrează versiunea exactă a formularului pe care a fost făcută,"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "și vizionați, acceptă sau returnați pentru corecție."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Formulare disponibile"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "Contribuțiile mele"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Formulare publicate"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "Numai versiunea curentă publicată poate fi pornită; versiunile mai vechi rămân lizibile în trimiterile lor."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "Formulare de căutare"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Lista de verificare a pregătirii producției"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8 câmpuri"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6 necesare"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 masă"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1 dosar"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1 conditionat"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "DEPARTAMENTUL"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "FORMULARE PROPRIETAR"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "Kabir Sen"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "PRODUCERECORD"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "Lista de verificare a pregătirii"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021Pregătirea de producție pentru săptămâna viitoare"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "planul"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026Pregătiți producția săptămânii următoare"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Ce are nevoie de tine în conversațiile tale și munca despre care se referă."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Deschide inbox"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "Nimic din conversațiile tale nu te așteaptă."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "Mesajele coordonează munca; nu o aprobă, nu semnează sau completează niciodată. O sarcină există numai după a"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "propunerea este revizuită și transmisă."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1 Apeluri și întâlniri"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Necitite"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Deschide sarcini de la"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "Netrimis"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "Deschide exact"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "conversatii"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "propuneri"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "mesaj"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "Cu mesaje tine"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "Ti-a fost atribuit în"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "Ciorne numai tu poți"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "nu am citit"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "vezi"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "Am nevoie de tine"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "Mențiuni"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "Conversații recente"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ops-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "12 noiembrie 2026, ora 7:05"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Substantiv citire și fără deschidere de la"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "planificare"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "o conversatie."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / Sarcinile mele"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Aceleași sarcini, ID-uri, dovezi și autoritate ca"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO—onestore.Oopentaskscame"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "În UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Doar sarcini din conversații"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "din conversațiile tale; fiecare se leagă înapoi la sa"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "sursă conversație."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "Întârziat0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "Datorită azi"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "ID de căutare, titlu, sursă sau cesionar"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Toate tipurile"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "Compania pilot A(eșantion)·Operațiuni"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Înregistrări din rulări, formulare acceptate și introducere manuală și documente controlate cu reguli de eliberare-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "într-un singur magazin cu descendență sursă. Căutarea și exportul urmează domeniul dvs. de acces."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品Toate înregistrările"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Înregistrări operaționale"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "Documente controlate"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "B"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Reținere ilegală"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "Căutați ID, titlu sau tip"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "Orice statut"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Documente controlate"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "Conținutul lansat este înghețat. O modificare este o nouă revizuire cu propria sa aprobare; controlorul de documente o eliberează."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 Linie de ambalare"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "schimbarea"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Document eliberat"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "A lansat rev 1"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "ControlledSopOperations"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 revizuire"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Proprietarul Leela Menon"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "1 înregistrare afișată · înregistrările din afara accesului dvs. nu sunt contorizate"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "Aflați versiunea exactă care vi s-a atribuit. Citirea unei secțiuni înregistrează progresul; doar versiunea"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "recunoașterea sau trecerea evaluării îl completează."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "Învățarea mea"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "Sarcinile mele"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "op"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "Închis"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "AlI"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "Siguranța liniei de ambalare"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① Atribuit"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "În 2 zile · 15 noiembrie 2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · versiunea dvs"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "Începe lecția"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "Prezentare·Siguranță·Linii de ambalare"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "Atribuit de Leela Menon"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0 din 2 secțiuni citite"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Evaluare · trece100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Biblioteca de conținut"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "Subiect"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "Produs"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Căutați titlu, subiect, produs"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Toate subiectele"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Toate produsele"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "Statutul meu"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "Oricare"
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Identitățile platformei și accesul acestora: roluri, domeniul de aplicare al departamentului, sesiuni, delegații și revizuirea accesului."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "Personalul și disponibilitatea live în HR Master."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "Oameni"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Identități de serviciu"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "Veți vedea directorul companiei. Rolurile, domeniul de aplicare al departamentului și sesiunile sunt vizibile pentru companie"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "administratori."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Toate 10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Activ10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "Inactiv"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QCăutați nume, e-mail, ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Operațiuni de operator de ambalare"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "Roluri vizibile pentru administratori"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "13 noiembrie 2026, ora 9:28"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "Administratorul companiei Operațiuni"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "Roluri vizibile pentru administratori"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Conversații de serviciu"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Conversații legate de un singur obiectiv, plan, sarcină, formă, înregistrare sau muncă"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+Newworkconversation"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "articol. Starea și versiunea obiectului provin întotdeauna din modul propriu."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "AIlO"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Nume, subiect sau text mesaj"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Arhivat"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Nu există încă conversații de serviciu"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "O conversație de lucru este legată de un obiect pe care îl puteți deschide - un plan,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "obiectiv, sarcină, formă, înregistrare sau element de lucru — astfel încât discuția rămâne următoarea"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "la munca."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Începe unul"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Companie pilotA (eșantion)·Operațiuni"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "Locuri de muncă plasate în timp cu oamenii de la HR Master și echipamentele de la Machine Master."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Planificarea previzualizărilor nu se rezervă niciodată; doar un commit o face."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "Necesita programare"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "În curs"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "În așteptarea aprobării"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "Conflicte"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "Cronologia săptămânii"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "ID de căutare, titlu, locație"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Desfășurarea pregătirii producției — săptămâna 2026-11-16"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "Program"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021 · scadență pe 18 noiembrie 2026 · Ambalare/Sigilare"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "Săptămâna din 9 noiembrie 2026"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "Săptămâna aceasta"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 locuri de muncă săptămâna aceasta"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "JOB"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "LUN"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "MAR"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "MI"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9 noiembrie 2026"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "10 noiembrie 2026"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "11 noiembrie 2026"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Setări spațiu de lucru"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Workspacesettings/Channelsettings"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Setări de canal"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Subiect, membri, cine poate citi și cine poate posta — pentru canale și conversații de serviciu. Fiecare"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "modificarea este versionată și auditată."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "Canale"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Notificări"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "Acces"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "Retentie"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Membru – numai pentru citire"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# operațiuni-planificare"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##ops-planificare"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Numai citire"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Doar proprietarul (VikramShah) sau spațiul de lucru"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "administratorul poate modifica aceste setări."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Cine poate citi"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Deschis—oameni în domeniul de aplicare"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "poate găsi și alătura acestuia;"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "mesajele sunt afișate"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "numai pentru membri"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Cine poate posta"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Toți membrii"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Productie saptamanala"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "planificare pentru Uzina A"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "Membrii"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "Asha Kulkarni, Vikram"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Shah, Neha lyer, Maya"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Rao, Arjun Mehta"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "Istoricul politicilor"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / OBIECTIV DE AFACERI"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / PROIECTA FLUXULUI DE LUCRU"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / PROPRIETATE"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / EXECUTARE COORDONATĂ"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / REVIZUL REZULTATELOR"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "FORMA / INTRARE → CONDIȚIE"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "SARCINA UMANĂ → REVERIFICARE"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "ACȚIUNEA AGENT → INTEGRARE"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "TESTARE → REVIZUIRE → ACTIVARE"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "complet?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "program"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "abatere"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · LISTA DE VERIFICARE A PREGĂTIȚII"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · FLUX DE LUCRU VERSIONAT"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · REVIZIUNE ACTIVĂ"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · APROBATOR DENUMIT"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · AȘTEPTĂ DECIZIA"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegationMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Misiune&Obiective"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WorkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → SFÂRȘIT"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "carusel"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "diapozitiv"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Aduceți agenți AI în fiecare parte a organizației dvs."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Vezi UCXO în acțiune."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Pregătiți planul de producție de săptămâna viitoare."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers cu identitățile platformei, stările conturilor și contextul de acces al administratorului."
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Selectați Directorul Persoane pentru a găsi colegi cărora le puteți trimite mesaje, cu echipe și roluri de la UUsers. Este afișată starea contului activ; referința nu oferă prezență în timp real."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "conturile sunt gestionate separat în UUsers."
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "Poți trimite mesaje tuturor celor din compania ta, cu echipa și rolurile lor de la UUsers. Disponibilitatea resurselor umane"
+    }
+  }
+}

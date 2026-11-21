@@ -1,3 +1,5 @@
+> Localization update (21 November 2026): local review only. The current request explicitly withholds push/deployment. See [LOCALIZATION-REVIEW.md](LOCALIZATION-REVIEW.md) for reproduction, verification and incomplete review coverage. The release approval below belongs to the earlier English-only work.
+
 # Current localhost review
 
 Status: approved for production release by the user on 16 November 2026. Deploy to the linked Vercel project, verify production, then push all approved changes to GitHub main.

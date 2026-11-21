@@ -1,0 +1,4665 @@
+{
+  "status": "draft",
+  "entries": {
+    "m_853aebc21ffffc85": {
+      "source": "Hello UCXO team,",
+      "text": "Hallo UCXO-team,"
+    },
+    "m_1924cc9c44e94e16": {
+      "source": "I would like to arrange a demo of UCXO.",
+      "text": "Ik wil graag een demo regelen van UCXO."
+    },
+    "m_785e8fde4530ee4b": {
+      "source": "What I would like to achieve:",
+      "text": "Wat ik graag zou willen bereiken:"
+    },
+    "m_b56e9f9193eb3fb5": {
+      "source": "I would like to discuss this during the demo.",
+      "text": "Ik wil dit graag bespreken tijdens de demo."
+    },
+    "m_64c156068fc120e7": {
+      "source": "Thank you,",
+      "text": "Dank je,"
+    },
+    "m_5d6d93edc2982d4a": {
+      "source": "Request a UCXO demo",
+      "text": "Vraag een UCXO-demo aan"
+    },
+    "m_c2e799458c845fcf": {
+      "source": "Fields marked",
+      "text": "Velden gemarkeerd"
+    },
+    "m_4a694330d6c4f477": {
+      "source": "are required.",
+      "text": "zijn vereist."
+    },
+    "m_9788586dd086a5d4": {
+      "source": "Your contact and company details",
+      "text": "Uw contact- en bedrijfsgegevens"
+    },
+    "m_702ef921ed1d89bf": {
+      "source": "First name",
+      "text": "Voornaam"
+    },
+    "m_db74c940d447e877": {
+      "source": "Alex",
+      "text": "Alex"
+    },
+    "m_7b4888049459f04a": {
+      "source": "Last name",
+      "text": "Achternaam"
+    },
+    "m_02281b3b5dd57c46": {
+      "source": "Morgan",
+      "text": "Morgan"
+    },
+    "m_932f815786ae75ab": {
+      "source": "Work email",
+      "text": "Werk e-mail"
+    },
+    "m_de4743c879734dc3": {
+      "source": "Company",
+      "text": "Bedrijf"
+    },
+    "m_6dfada13d2f4b97e": {
+      "source": "Company name",
+      "text": "Bedrijfsnaam"
+    },
+    "m_86db80a8096b8d93": {
+      "source": "Job title",
+      "text": "Functietitel"
+    },
+    "m_09bdccc5fb698cfb": {
+      "source": "Your role",
+      "text": "Jouw rol"
+    },
+    "m_50deca5d2484e710": {
+      "source": "Company size",
+      "text": "Bedrijfsgrootte"
+    },
+    "m_b8ad4dd2d74e8cdf": {
+      "source": "Select team size",
+      "text": "Selecteer teamgrootte"
+    },
+    "m_701d021d08c54579": {
+      "source": "Country",
+      "text": "Land"
+    },
+    "m_18f2456a6d3ba820": {
+      "source": "Your country",
+      "text": "Jouw land"
+    },
+    "m_d06214265ee56a39": {
+      "source": "What would you like to achieve?",
+      "text": "Wat zou je graag willen bereiken?"
+    },
+    "m_59be71333c960fd0": {
+      "source": "Optional",
+      "text": "Optioneel"
+    },
+    "m_ecb3d512a82f8049": {
+      "source": "A workflow to improve, a goal to reach, or a challenge to solve…",
+      "text": "Een workflow om te verbeteren, een doel om te bereiken of een uitdaging om op te lossen..."
+    },
+    "m_d076cfad7715f92e": {
+      "source": "Leave this empty",
+      "text": "Laat dit leeg"
+    },
+    "m_f7866a04ed272c5c": {
+      "source": "We’ll use your details to respond to your demo request. Please avoid including confidential information.",
+      "text": "We gebruiken uw gegevens om te reageren op uw demo-aanvraag. Vermijd het opnemen van vertrouwelijke informatie."
+    },
+    "m_a9e049749b7fbde1": {
+      "source": "Request my demo",
+      "text": "Vraag mijn demo aan"
+    },
+    "m_116ab871a28b2c52": {
+      "source": "Opens your email app with your details prefilled.",
+      "text": "Opent uw e-mailapp met uw gegevens vooraf ingevuld."
+    },
+    "m_452c0b53308475a4": {
+      "source": "Business execution, coordinated.",
+      "text": "Bedrijfsuitvoering, gecoördineerd."
+    },
+    "m_c78ffe19571018fb": {
+      "source": "Platform",
+      "text": "Platform"
+    },
+    "m_9c870aa6e5e93270": {
+      "source": "How it works",
+      "text": "Hoe het werkt"
+    },
+    "m_ff27a991e8559d6a": {
+      "source": "Use cases",
+      "text": "Gebruiksgevallen"
+    },
+    "m_141fe8858d27fb6f": {
+      "source": "Oversight",
+      "text": "Toezicht"
+    },
+    "m_b05d95c62372213f": {
+      "source": "Back to top",
+      "text": "Terug naar boven"
+    },
+    "m_1669a518c1d020c9": {
+      "source": "UCXO. All rights reserved.",
+      "text": "UCXO. Alle rechten voorbehouden."
+    },
+    "m_bb5696bc424a7174": {
+      "source": "Human-led. AI-powered. Accountable by design.",
+      "text": "Door mensen geleid. AI-aangedreven. Verantwoordelijk door ontwerp."
+    },
+    "m_ecc6be18d6c8745b": {
+      "source": "UCXO home",
+      "text": "UCXO thuis"
+    },
+    "m_8bf9178bd7fe6895": {
+      "source": "UCXO",
+      "text": "UCXO"
+    },
+    "m_207ecf873e0d545e": {
+      "source": "nav open",
+      "text": "navigatie geopend"
+    },
+    "m_eb355944b92d1058": {
+      "source": "Main navigation",
+      "text": "Hoofdnavigatie"
+    },
+    "m_beae4de3a674ea95": {
+      "source": "Book a Demo",
+      "text": "Boek een demo"
+    },
+    "m_bfd402b2f6f38125": {
+      "source": "Sign in",
+      "text": "Log in"
+    },
+    "m_6ccd5c7856042d36": {
+      "source": "Close menu",
+      "text": "Menu sluiten"
+    },
+    "m_b40b3713b43dc702": {
+      "source": "Open menu",
+      "text": "Menu openen"
+    },
+    "m_13ec2943dc2777e4": {
+      "source": "UCXO / ILLUSTRATIVE",
+      "text": "UCXO / ILLUSTRATIEF"
+    },
+    "m_478f3bf96d5d3d42": {
+      "source": "bold 30px Arial",
+      "text": "vetgedrukt 30px Arial"
+    },
+    "m_d072aa117dab568b": {
+      "source": "WORKFLOW",
+      "text": "WORKFLOW"
+    },
+    "m_3b37210d257add23": {
+      "source": "CONNECTED STAGES",
+      "text": "VERBONDEN FASEN"
+    },
+    "m_4acc8a696c564acb": {
+      "source": "OWNERSHIP",
+      "text": "EIGENDOM"
+    },
+    "m_f3a5bea49ea806ef": {
+      "source": "PEOPLE + ENGINE AGENTS",
+      "text": "MENSEN + MOTORAGENTJES"
+    },
+    "m_464f1959a78496cc": {
+      "source": "HUMAN REVIEW",
+      "text": "MENSELIJKE BEOORDELING"
+    },
+    "m_38ff277310e7d254": {
+      "source": "REQUIRED / AWAITING",
+      "text": "VEREIST / IN WACHT"
+    },
+    "m_cc5ed2048d1e52e3": {
+      "source": "PRESERVED WHERE REQUIRED",
+      "text": "BEHOUDEN WAAR NODIG"
+    },
+    "m_f509660be551dff9": {
+      "source": "Define objective",
+      "text": "Definieer doelstelling"
+    },
+    "m_35720e28c251e275": {
+      "source": "Start with the outcome.",
+      "text": "Begin met de uitkomst."
+    },
+    "m_8bccd87ffa8defaa": {
+      "source": "State the outcome and who owns it.",
+      "text": "Vermeld de uitkomst en wie de eigenaar is."
+    },
+    "m_76eab09e8f55ab58": {
+      "source": "Coordinate the production readiness plan",
+      "text": "Coördineren van het productiegereedheidsplan"
+    },
+    "m_70e8e54096d29f6c": {
+      "source": "Objective & business context",
+      "text": "Doelstelling en zakelijke context"
+    },
+    "m_48d7802ffdbb288d": {
+      "source": "Organizational ownership",
+      "text": "Organisatorisch eigenaarschap"
+    },
+    "m_4f192d51f1fd7422": {
+      "source": "Desired outcome",
+      "text": "Gewenst resultaat"
+    },
+    "m_04a7a468f22d82fe": {
+      "source": "Review workflow",
+      "text": "Bekijk de werkstroom"
+    },
+    "m_608a630c71ada6e9": {
+      "source": "Make the plan explicit.",
+      "text": "Maak het plan expliciet."
+    },
+    "m_8aedbc1c5c61a8cf": {
+      "source": "Check the steps, dependencies, and required approvals.",
+      "text": "Controleer de stappen, afhankelijkheden en vereiste goedkeuringen."
+    },
+    "m_39095ef130b4752d": {
+      "source": "Review the proposed execution plan",
+      "text": "Beoordeel het voorgestelde uitvoeringsplan"
+    },
+    "m_f00a5304c4e8e4e1": {
+      "source": "Human tasks & AI agents",
+      "text": "Menselijke taken en AI-agenten"
+    },
+    "m_715686bb916037c0": {
+      "source": "Dependencies & handoffs",
+      "text": "Afhankelijkheden en overdrachten"
+    },
+    "m_f6d2bce5bd524a50": {
+      "source": "Required approval gates",
+      "text": "Vereiste goedkeuringspoorten"
+    },
+    "m_6a215ed36be2ee83": {
+      "source": "Approve & assign",
+      "text": "Goedkeuren en toewijzen"
+    },
+    "m_c4185a6988bc3030": {
+      "source": "Put ownership in place.",
+      "text": "Zet het eigendom op zijn plaats."
+    },
+    "m_361181a5f022807f": {
+      "source": "Approve the plan and assign each task to its owner.",
+      "text": "Keur het plan goed en wijs elke taak toe aan de eigenaar."
+    },
+    "m_634a3f97244984a1": {
+      "source": "Approve the plan and assign owners",
+      "text": "Keur het plan goed en wijs eigenaren toe"
+    },
+    "m_0ac9b874ffd81378": {
+      "source": "Accountable task owners",
+      "text": "Verantwoordelijke taakeigenaren"
+    },
+    "m_24f14aac3ee255e2": {
+      "source": "Approved agent capabilities",
+      "text": "Goedgekeurde agentmogelijkheden"
+    },
+    "m_b43e070335b3e60e": {
+      "source": "Human review responsibilities",
+      "text": "Verantwoordelijkheden voor menselijke beoordeling"
+    },
+    "m_e3a67d9540e9a204": {
+      "source": "Execute",
+      "text": "Uitvoeren"
+    },
+    "m_d165a69fead94507": {
+      "source": "Keep the work connected.",
+      "text": "Houd het werk verbonden."
+    },
+    "m_7cff706172a4e493": {
+      "source": "U-Engine follows the plan and flags problems for review.",
+      "text": "U-Engine volgt het plan en signaleert problemen ter beoordeling."
+    },
+    "m_fbb4eea113d23be0": {
+      "source": "Monitor tasks, Runs, and handoffs",
+      "text": "Bewaak taken, uitvoeringen en overdrachten"
+    },
+    "m_3b2dc321fbf1c318": {
+      "source": "Dependency-aware execution",
+      "text": "Afhankelijkheidsbewuste uitvoering"
+    },
+    "m_907f41a59a106de2": {
+      "source": "Monitored agent Runs",
+      "text": "Bewaakte agent wordt uitgevoerd"
+    },
+    "m_e38572b5a47a0b85": {
+      "source": "Exception escalation",
+      "text": "Uitzondering escalatie"
+    },
+    "m_c4a2bb75f402cbda": {
+      "source": "Review outcomes",
+      "text": "Beoordeel de resultaten"
+    },
+    "m_8a2fc585a267cd51": {
+      "source": "Close the loop.",
+      "text": "Sluit de lus."
+    },
+    "m_7f568ff18247470e": {
+      "source": "Compare the result and its evidence with the original goal.",
+      "text": "Vergelijk het resultaat en het bewijsmateriaal met het oorspronkelijke doel."
+    },
+    "m_1d8d7f18400f07c4": {
+      "source": "Review the outcome with its evidence",
+      "text": "Beoordeel de uitkomst met het bijbehorende bewijsmateriaal"
+    },
+    "m_03e69221fe892156": {
+      "source": "Task evidence & approvals",
+      "text": "Taakbewijs en goedkeuringen"
+    },
+    "m_76f2ff60bd637d21": {
+      "source": "Agent execution history",
+      "text": "Uitvoeringsgeschiedenis van agenten"
+    },
+    "m_f8bf1d2d4fd6a364": {
+      "source": "Outcome review",
+      "text": "Resultaatbeoordeling"
+    },
+    "m_9e7c140182bcef34": {
+      "source": "The UCXO journey",
+      "text": "De UCXO reis"
+    },
+    "m_8e2f7ffbbdb947d8": {
+      "source": "ArrowRight",
+      "text": "PijlRechts"
+    },
+    "m_48e61e2dd0a22398": {
+      "source": "ArrowLeft",
+      "text": "PijlLinks"
+    },
+    "m_3a78695388b38b5c": {
+      "source": "Home",
+      "text": "Thuis"
+    },
+    "m_f4db1e48476f6075": {
+      "source": "End",
+      "text": "Einde"
+    },
+    "m_5fcc4b3e66c3d453": {
+      "source": "Start the journey again",
+      "text": "Begin de reis opnieuw"
+    },
+    "m_298a9207a732a11d": {
+      "source": "Next step",
+      "text": "Volgende stap"
+    },
+    "m_a7f6de1806557f3f": {
+      "source": "ILLUSTRATIVE WORKFLOW",
+      "text": "ILLUSTRATIEVE WORKFLOW"
+    },
+    "m_39b3366051d3c8a3": {
+      "source": "Connected to your business objective",
+      "text": "Verbonden met uw bedrijfsdoelstelling"
+    },
+    "m_82109517f7caad5a": {
+      "source": "SPM",
+      "text": "SPM"
+    },
+    "m_605a7c90bec2a281": {
+      "source": "Tianum Lifecare",
+      "text": "Tianum Lifecare"
+    },
+    "m_7e9dc538a6483ac6": {
+      "source": "Our partners",
+      "text": "Onze partners"
+    },
+    "m_ec37f51e80d75344": {
+      "source": "Resume partner logos",
+      "text": "Hervat partnerlogo's"
+    },
+    "m_27a03d5704af4607": {
+      "source": "Pause partner logos",
+      "text": "Pauzeer partnerlogo's"
+    },
+    "m_1691b24968755415": {
+      "source": "UCXO partners",
+      "text": "UCXO-partners"
+    },
+    "m_656ac14f6bb30e0b": {
+      "source": "UDashview",
+      "text": "UDashview"
+    },
+    "m_2f95172af26f10ee": {
+      "source": "Your starting point.",
+      "text": "Jouw startpunt."
+    },
+    "m_5fe47fa89d9e13f5": {
+      "source": "See the big picture.",
+      "text": "Zie het grote geheel."
+    },
+    "m_9dec43995d706e0d": {
+      "source": "Company context, department scope, and workspace views.",
+      "text": "Bedrijfscontext, afdelingsbereik en werkruimteweergaven."
+    },
+    "m_46ba244c8ee97cf3": {
+      "source": "Workspace overview",
+      "text": "Overzicht werkruimte"
+    },
+    "m_6124888100ce0d00": {
+      "source": "Department context",
+      "text": "Afdelingscontext"
+    },
+    "m_44180f0ec415c073": {
+      "source": "Connected modules",
+      "text": "Verbonden modules"
+    },
+    "m_d94118f9eba27e96": {
+      "source": "UCXO UDashview with company and department context, Overview and Activity tabs, and the visible workspace map.",
+      "text": "UCXO UDashview met bedrijfs- en afdelingscontext, tabbladen Overzicht en Activiteit en de zichtbare werkruimtekaart."
+    },
+    "m_a96a1e8c6edcac01": {
+      "source": "The dashboard map continues below the PDF capture. This preview preserves the exact visible screen; it does not invent the missing portion.",
+      "text": "De dashboardkaart gaat verder onder de PDF-opname. Dit voorbeeld behoudt het exacte zichtbare scherm; het vindt niet het ontbrekende deel uit."
+    },
+    "m_8d2e5e4eaf0c04c0": {
+      "source": "U&Me",
+      "text": "U&Me"
+    },
+    "m_40e6248e759886c8": {
+      "source": "Your tasks.",
+      "text": "Jouw taken."
+    },
+    "m_55c17fac21eb9e1b": {
+      "source": "Your decisions.",
+      "text": "Jouw beslissingen."
+    },
+    "m_ccc5765c6fcd6794": {
+      "source": "Use UDO for assignments and UApprove for approval requests.",
+      "text": "Gebruik UDO voor opdrachten en UApprove voor goedkeuringsverzoeken."
+    },
+    "m_a677d3221eb28dbb": {
+      "source": "UDO · My Tasks",
+      "text": "UDO · Mijn taken"
+    },
+    "m_0443e0853b185a17": {
+      "source": "Assigned to me / by me",
+      "text": "Aan mij/door mij toegewezen"
+    },
+    "m_7ca79b0ec690038f": {
+      "source": "UApprove · Human decisions",
+      "text": "UApprove · Menselijke beslissingen"
+    },
+    "m_3c861e825679bce2": {
+      "source": "UDO My Tasks with assignment tabs, task status filters, search and the original empty state.",
+      "text": "UDO Mijn taken met toewijzingstabbladen, taakstatusfilters, zoeken en de oorspronkelijke lege status."
+    },
+    "m_dd1f5b743ea84e39": {
+      "source": "UApprove",
+      "text": "UApprove"
+    },
+    "m_08282d27da52e0bb": {
+      "source": "UApprove with Waiting on me, Requested by me, Exceptions and Decided filters, and the original empty state.",
+      "text": "UApprove met Wachten op mij, Door mij aangevraagd, Uitzonderingen en Besloten filters, en de oorspronkelijke lege status."
+    },
+    "m_ab414c09a0b25c60": {
+      "source": "USpace",
+      "text": "USpace"
+    },
+    "m_c3cc7e543b5f1855": {
+      "source": "Everyday work.",
+      "text": "Alledaags werk."
+    },
+    "m_1a3d0aebe1650c9e": {
+      "source": "In one place.",
+      "text": "Op één plek."
+    },
+    "m_361ba6c96199222b": {
+      "source": "Forms, records, workflow runs, and training.",
+      "text": "Formulieren, records, workflowruns en training."
+    },
+    "m_c04e26e440ed819e": {
+      "source": "Forms & records",
+      "text": "Formulieren en documenten"
+    },
+    "m_440104f0c2887840": {
+      "source": "U-Engine · Workflow runs",
+      "text": "U-Engine · Workflow wordt uitgevoerd"
+    },
+    "m_a006d28cf4c58a1d": {
+      "source": "Assigned learning",
+      "text": "Toegewezen leren"
+    },
+    "m_31b7ba902224a899": {
+      "source": "UForms",
+      "text": "UForms"
+    },
+    "m_ebfe084ff4facb4b": {
+      "source": "UForms showing the published Production readiness checklist, its version, fields and linked workflow.",
+      "text": "UForms toont de gepubliceerde checklist voor productiegereedheid, de versie, de velden en de gekoppelde workflow."
+    },
+    "m_6d0352aed1e0b4f4": {
+      "source": "URecords",
+      "text": "URecords"
+    },
+    "m_8b7db2b80251dbb4": {
+      "source": "URecords showing the released Packaging line changeover controlled SOP and its revision.",
+      "text": "URecords met de vrijgegeven door de verpakkingslijn omschakeling gecontroleerde SOP en de revisie ervan."
+    },
+    "m_87a85940e0721d7f": {
+      "source": "U-Engine",
+      "text": "U-Engine"
+    },
+    "m_934f8ea8c828f31c": {
+      "source": "The original UEngine Runs screen, preserving its exact UI label and No runs yet state.",
+      "text": "Het originele UEngine Runs-scherm, met behoud van het exacte UI-label en de status Nog niet uitgevoerd."
+    },
+    "m_d6d78555ca4a6f0d": {
+      "source": "UTraining",
+      "text": "UTraining"
+    },
+    "m_7452b9344a2ac841": {
+      "source": "UTraining showing the assigned Packaging line safety lesson, progress and assessment requirement.",
+      "text": "UTraining met de toegewezen veiligheidsles, voortgang en beoordelingsvereiste van de verpakkingslijn."
+    },
+    "m_4d39552b2d835d29": {
+      "source": "UMaster",
+      "text": "UMaster"
+    },
+    "m_aac7e68159cc4cda": {
+      "source": "Set up the business.",
+      "text": "Zet het bedrijf op."
+    },
+    "m_a2fcfc178f4083a3": {
+      "source": "Plan the work.",
+      "text": "Plan het werk."
+    },
+    "m_9548e5e690cba730": {
+      "source": "Objectives, resources, workflow design, and access.",
+      "text": "Doelstellingen, bronnen, workflowontwerp en toegang."
+    },
+    "m_dea2a98983c002d3": {
+      "source": "Objectives & planning",
+      "text": "Doelstellingen & planning"
+    },
+    "m_21fb2660414c1f4f": {
+      "source": "People & equipment",
+      "text": "Mensen & uitrusting"
+    },
+    "m_db2c366366b50754": {
+      "source": "Templates & access",
+      "text": "Sjablonen en toegang"
+    },
+    "m_a799cc3e6f0578ef": {
+      "source": "Engine Planner",
+      "text": "Engine Planner"
+    },
+    "m_9717101ae62ef63d": {
+      "source": "Engine Planner with the draft production readiness plan, readiness 4/8, named owner and approver, and Not active state.",
+      "text": "Engine Planner met het ontwerp van het productiegereedheidsplan, gereedheid 4/8, benoemde eigenaar en goedkeurder, en de status Niet actief."
+    },
+    "m_9bd1187533b74a11": {
+      "source": "Mission & Objectives",
+      "text": "Missie & Doelstellingen"
+    },
+    "m_53a4ef0eeef79fec": {
+      "source": "Mission and Objectives showing the Reliable, evidenced operations mission and objective filters.",
+      "text": "Missie en doelstellingen met de betrouwbare, bewezen operationele missie en objectieve filters."
+    },
+    "m_9c42f4036f611661": {
+      "source": "Work Planner",
+      "text": "Werkplanner"
+    },
+    "m_dbeabc9bb622c2d8": {
+      "source": "Work Planner with scheduling counts, the production readiness work item and the week timeline.",
+      "text": "Werkplanner met planningstellingen, het werkitem productiegereedheid en de weektijdlijn."
+    },
+    "m_f256861866e868ac": {
+      "source": "HR Master",
+      "text": "HR-meester"
+    },
+    "m_30131b34eab5255d": {
+      "source": "HR Master with people, roles, skills, working calendars and commitments.",
+      "text": "HR Master met mensen, rollen, vaardigheden, werkkalenders en verplichtingen."
+    },
+    "m_df180658f1995036": {
+      "source": "Machine Master",
+      "text": "Machinemeester"
+    },
+    "m_6e4e465a06c18bd7": {
+      "source": "Machine Master with equipment availability, capacity, working hours and reservations.",
+      "text": "Machine Master met beschikbaarheid van apparatuur, capaciteit, werktijden en reserveringen."
+    },
+    "m_afd6bb7a283b669a": {
+      "source": "Forms Master",
+      "text": "Formulieren Meester"
+    },
+    "m_638de4c76def9a1c": {
+      "source": "Forms Master with the published, immutable version of the Production readiness checklist.",
+      "text": "Formulieren Master met de gepubliceerde, onveranderlijke versie van de checklist voor productiegereedheid."
+    },
+    "m_045382574bccc67c": {
+      "source": "Delegation Master",
+      "text": "Delegatie Meester"
+    },
+    "m_6cafd7f216676bdf": {
+      "source": "Delegation Master with its original decision-needed notice and scheduled approval substitution.",
+      "text": "Delegatiemaster met de oorspronkelijke kennisgeving van de beslissing en de geplande goedkeuringsvervanging."
+    },
+    "m_cc5b245b962ee734": {
+      "source": "UPingme",
+      "text": "UPingme"
+    },
+    "m_a15eabe53dc8f568": {
+      "source": "CONVERSATIONS WITH WORK IN CONTEXT",
+      "text": "GESPREKKEN MET WERK IN CONTEXT"
+    },
+    "m_703135d4f195cbc4": {
+      "source": "Keep conversations",
+      "text": "Houd gesprekken"
+    },
+    "m_9b4a365bc9b4ef46": {
+      "source": "close to the work.",
+      "text": "dichtbij het werk."
+    },
+    "m_c1a8ae695b8d8a35": {
+      "source": "Find your conversations, coordinate in team channels, and keep discussions linked to the work they concern. Reviewed and submitted task proposals connect back to UDO.",
+      "text": "Vind uw gesprekken, coördineer ze in teamkanalen en houd discussies gekoppeld aan het werk waarop ze betrekking hebben. Beoordeelde en ingediende taakvoorstellen maken verbinding met UDO."
+    },
+    "m_6ac0204625e62f02": {
+      "source": "Inbox & mentions",
+      "text": "Inbox en vermeldingen"
+    },
+    "m_c17f4562a1f7a818": {
+      "source": "Team channels",
+      "text": "Teamkanalen"
+    },
+    "m_3f7fdddbd253fbfc": {
+      "source": "Work-linked conversations",
+      "text": "Werkgerelateerde gesprekken"
+    },
+    "m_94835ea2fcf775cd": {
+      "source": "Inbox",
+      "text": "Postvak IN"
+    },
+    "m_1a0db8aabb435781": {
+      "source": "UPingme Inbox with conversation filters and the original ops-planning unread conversation.",
+      "text": "UPingme Inbox met gespreksfilters en het originele ongelezen gesprek van de ops-planning."
+    },
+    "m_83c24e5d3e455965": {
+      "source": "UPingme Team channels showing ops-planning and the company-wide plant-announcements channel.",
+      "text": "UPingme Teamkanalen met de operationele planning en het bedrijfsbrede kanaal voor fabrieksaankondigingen."
+    },
+    "m_ab0282d26bdfa44b": {
+      "source": "Work conversations",
+      "text": "Werk gesprekken"
+    },
+    "m_a664d527de90558a": {
+      "source": "UPingme Work conversations with its original empty state and explanation of work-object links.",
+      "text": "UPingme Werkgesprekken met de oorspronkelijke lege status en uitleg van werk-objectkoppelingen."
+    },
+    "m_524734669538b2fe": {
+      "source": "Conversation overview",
+      "text": "Gesprek overzicht"
+    },
+    "m_7805d0fe3c01ef04": {
+      "source": "UPingme UDashview with unread conversation, mentions, tasks and unsubmitted proposal counts.",
+      "text": "UPingme UDashview met het aantal ongelezen gesprekken, vermeldingen, taken en niet-ingediende voorstellen."
+    },
+    "m_f5c10782eca24f1e": {
+      "source": "UCXO.AI",
+      "text": "UCXO.AI"
+    },
+    "m_3d08d45bad10c594": {
+      "source": "AI-powered business execution",
+      "text": "Bedrijfsuitvoering op basis van AI"
+    },
+    "m_e2093a8bacd9139d": {
+      "source": "Turn SOPs into workflows. Assign responsibility. Track completion.",
+      "text": "Zet SOP's om in workflows. Wijs verantwoordelijkheid toe. Volg voltooiing."
+    },
+    "m_b6ae66a92d9da6f5": {
+      "source": "Your business runs. You stay in control.",
+      "text": "Uw bedrijf draait. Jij behoudt de controle."
+    },
+    "m_32ddc5d11404fb73": {
+      "source": "UCXO.AI is AI-powered business execution. Turn SOPs into workflows. Assign responsibility. Track completion. Your business runs. You stay in control.",
+      "text": "UCXO.AI is AI-aangedreven bedrijfsuitvoering. Zet SOP's om in workflows. Wijs verantwoordelijkheid toe. Volg voltooiing. Uw bedrijf draait. Jij behoudt de controle."
+    },
+    "m_81e624a963d788fe": {
+      "source": "Your workspace overview",
+      "text": "Overzicht van uw werkruimte"
+    },
+    "m_f7d9663cb8f2bdfd": {
+      "source": "UDashview. Your starting point. See your company, choose a department, and open the module you need.",
+      "text": "UDashview. Jouw startpunt. Bekijk uw bedrijf, kies een afdeling en open de module die u nodig heeft."
+    },
+    "m_42ec4db5365d77bc": {
+      "source": "Views and department scope",
+      "text": "Weergaven en afdelingsbereik"
+    },
+    "m_9872f53816742190": {
+      "source": "Use Overview for a quick view, or Activity to follow updates. The view controls offer a map, cards, board, and list.",
+      "text": "Gebruik Overzicht voor een snel overzicht, of Activiteit om updates te volgen. De weergaveknoppen bieden een kaart, kaarten, bord en lijst."
+    },
+    "m_39059103cf7000a6": {
+      "source": "U&Me. Your tasks and approvals. UDO shows work assigned to you.",
+      "text": "U&Me. Jouw taken en goedkeuringen. UDO toont werk dat aan u is toegewezen."
+    },
+    "m_074dcaa123a8e257": {
+      "source": "Assignments, status and search",
+      "text": "Opdrachten, status en zoeken"
+    },
+    "m_70b412400b68a6d5": {
+      "source": "Filter by status, search for a task, or check work you assigned to someone else.",
+      "text": "Filter op status, zoek naar een taak of controleer werk dat je aan iemand anders hebt toegewezen."
+    },
+    "m_bde99ff5b3adfa7c": {
+      "source": "UApprove · Your decision queue",
+      "text": "UApprove · Uw beslissingswachtrij"
+    },
+    "m_b32cdbd45dc486a6": {
+      "source": "Open UApprove to review requests waiting for your decision. Approve, return, or reject the work.",
+      "text": "Open UApprove om verzoeken te beoordelen die op uw beslissing wachten. Het werk goedkeuren, retourneren of afwijzen."
+    },
+    "m_94d9d69d348eb6e2": {
+      "source": "UForms · Published forms",
+      "text": "UForms · Gepubliceerde formulieren"
+    },
+    "m_b58e60e663610a0d": {
+      "source": "USpace. Where you do the work. Fill published forms in UForms and track your submissions.",
+      "text": "USpace. Waar je het werk doet. Vul gepubliceerde formulieren in UForms in en volg uw inzendingen."
+    },
+    "m_cf5f1585bfb682c9": {
+      "source": "URecords · Evidence and documents",
+      "text": "URecords · Bewijsmateriaal en documenten"
+    },
+    "m_192afa8e52114980": {
+      "source": "URecords stores documents and evidence, with their revision and approval details.",
+      "text": "URecords slaat documenten en bewijsmateriaal op, met hun revisie- en goedkeuringsdetails."
+    },
+    "m_6a2514332154df32": {
+      "source": "U-Engine shows workflow runs, progress, and exceptions. This sample has no runs yet.",
+      "text": "U-Engine toont workflowruns, voortgang en uitzonderingen. Dit monster heeft nog geen runs."
+    },
+    "m_32835194901ca410": {
+      "source": "UTraining · Assigned learning",
+      "text": "UTraining · Toegewezen leren"
+    },
+    "m_c81c4c362358a4ca": {
+      "source": "UTraining brings together assigned lessons, due dates, and assessments.",
+      "text": "UTraining brengt toegewezen lessen, inleverdata en beoordelingen samen."
+    },
+    "m_9716058584d2e875": {
+      "source": "UMaster. Set up how your business works. Start with Mission and Objectives to define the goal and its owner.",
+      "text": "UMaster. Stel in hoe uw bedrijf werkt. Begin met Missie en Doelstellingen om het doel en de eigenaar ervan te definiëren."
+    },
+    "m_2dbfb98897c60187": {
+      "source": "Work Planner schedules jobs with the people and equipment they need.",
+      "text": "Work Planner plant taken met de mensen en apparatuur die ze nodig hebben."
+    },
+    "m_22f782c1fb4bee67": {
+      "source": "Engine Planner defines the workflow. Test it, get approval, and activate it before execution.",
+      "text": "Engine Planner definieert de werkstroom. Test het, zorg voor goedkeuring en activeer het voordat u het uitvoert."
+    },
+    "m_0b49698a58558f6c": {
+      "source": "HR Master manages roles, skills, and staff availability.",
+      "text": "HR Master beheert rollen, vaardigheden en beschikbaarheid van personeel."
+    },
+    "m_90a6597976c747d6": {
+      "source": "Machine Master manages equipment capacity, availability, and maintenance.",
+      "text": "Machine Master beheert de capaciteit, beschikbaarheid en onderhoud van apparatuur."
+    },
+    "m_fd5dc6d6e52fcaca": {
+      "source": "Forms Master creates and publishes the templates your team fills in UForms.",
+      "text": "Forms Master maakt en publiceert de sjablonen die uw team invult UForms."
+    },
+    "m_09e3587cb68a3c69": {
+      "source": "Delegation Master defines who can take over a task or approval, and for how long.",
+      "text": "Delegatiemaster bepaalt wie een taak of goedkeuring kan overnemen, en voor hoe lang."
+    },
+    "m_7cb7b1bd290b75be": {
+      "source": "UUsers manages user accounts, roles, and access permissions.",
+      "text": "UUsers beheert gebruikersaccounts, rollen en toegangsrechten."
+    },
+    "m_df47342c9168e615": {
+      "source": "Explore the conversation overview, inbox, shared tasks, channels, people, and workspace settings.",
+      "text": "Verken het gespreksoverzicht, de inbox, gedeelde taken, kanalen, mensen en werkruimte-instellingen."
+    },
+    "m_63d8ffbc8ed0aef7": {
+      "source": "Your conversation overview",
+      "text": "Uw gespreksoverzicht"
+    },
+    "m_d490fd6fcb8b2524": {
+      "source": "UPingme has its own conversation overview. It brings together unread mentions, unread conversations, open tasks from conversations, and unsubmitted proposals, with links back to the relevant work.",
+      "text": "UPingme heeft een eigen gespreksoverzicht. Het brengt ongelezen vermeldingen, ongelezen gesprekken, openstaande taken uit gesprekken en niet-ingediende voorstellen samen, met links naar het relevante werk."
+    },
+    "m_eab1443955952c78": {
+      "source": "Select Inbox to find conversations you belong to. Filters separate unread conversations, direct messages, mentions, and activity. The sample shows the ops-planning team channel and its unread conversation.",
+      "text": "Selecteer Inbox om gesprekken te vinden waartoe u behoort. Filtert afzonderlijke ongelezen gesprekken, directe berichten, vermeldingen en activiteiten. Het voorbeeld toont het teamkanaal voor ops-planning en het ongelezen gesprek ervan."
+    },
+    "m_a99a8edd0f2ce1f6": {
+      "source": "UDO · Shared tasks",
+      "text": "UDO · Gedeelde taken"
+    },
+    "m_d36dc680c501fc22": {
+      "source": "Select UDO to see the same task store used by UCXO. Conversation tasks link back to their source. A message proposal becomes a task only after it is reviewed and submitted.",
+      "text": "Selecteer UDO om hetzelfde takenarchief te zien dat door UCXO wordt gebruikt. Gesprekstaken linken terug naar hun bron. Een berichtvoorstel wordt pas een taak nadat het is beoordeeld en verzonden."
+    },
+    "m_8a2c62b49510e40b": {
+      "source": "Select Team channels to see your channels, open channels you can join, and archived channels. Private channels are visible only to members. The sample separates ops-planning from company-wide plant announcements.",
+      "text": "Selecteer Teamkanalen om uw kanalen te zien, open kanalen waaraan u kunt deelnemen en gearchiveerde kanalen. Privékanalen zijn alleen zichtbaar voor leden. In het voorbeeld wordt de operationele planning gescheiden van bedrijfsbrede fabrieksaankondigingen."
+    },
+    "m_1386ced0f979943d": {
+      "source": "Select Work conversations to keep a discussion bound to an objective, plan, task, form, record, or work item. Its status and version still come from the object’s own module.",
+      "text": "Selecteer Werkgesprekken om een discussie gebonden te houden aan een doelstelling, plan, taak, formulier, record of werkitem. De status en versie komen nog steeds uit de eigen module van het object."
+    },
+    "m_bde9e41bee8d1e6a": {
+      "source": "Calls & meetings · Current status",
+      "text": "Gesprekken en vergaderingen · Huidige status"
+    },
+    "m_177cbc5df53b0c0e": {
+      "source": "Calls and meetings is visible in the navigation, but the supplied build has no calling provider. This screen explains that calls, scheduling, recording, and transcripts are not currently available.",
+      "text": "Gesprekken en vergaderingen zijn zichtbaar in de navigatie, maar de meegeleverde build heeft geen belprovider. In dit scherm wordt uitgelegd dat oproepen, planning, opname en transcripties momenteel niet beschikbaar zijn."
+    },
+    "m_b8577c4e7e247241": {
+      "source": "People directory",
+      "text": "Adresboek personen"
+    },
+    "m_5ebc59145b59b496": {
+      "source": "Workspace settings",
+      "text": "Werkruimte-instellingen"
+    },
+    "m_79456d085a460f84": {
+      "source": "Select Workspace settings for channel topics, membership, reading and posting permissions, and policy history. The sample user has read-only access. Messages coordinate work; they do not approve or complete it.",
+      "text": "Selecteer Werkruimte-instellingen voor kanaalonderwerpen, lidmaatschap, lees- en postrechten en beleidsgeschiedenis. De voorbeeldgebruiker heeft alleen-lezen toegang. Berichten coördineren het werk; ze keuren het niet goed en voltooien het niet."
+    },
+    "m_27d31da684203b62": {
+      "source": "Original software screen",
+      "text": "Origineel softwarescherm"
+    },
+    "m_9be000728a739b90": {
+      "source": "View full screen",
+      "text": "Bekijk volledig scherm"
+    },
+    "m_ac92214ea9377847": {
+      "source": "Inspect original screen",
+      "text": "Inspecteer het originele scherm"
+    },
+    "m_a4b475dfb31195c2": {
+      "source": "Tap the screen to inspect it at full size.",
+      "text": "Tik op het scherm om het op volledige grootte te bekijken."
+    },
+    "m_5c7d8135a2eea4ae": {
+      "source": "PDF page",
+      "text": "PDF-pagina"
+    },
+    "m_24fe1e9035c0ca4d": {
+      "source": "Original layout, labels, data and states",
+      "text": "Originele lay-out, labels, gegevens en staten"
+    },
+    "m_922d9048cabb4d5b": {
+      "source": "Reference note:",
+      "text": "Referentie opmerking:"
+    },
+    "m_137da623ea40cb77": {
+      "source": "Original UCXO software · PDF page",
+      "text": "Originele UCXO software · PDF-pagina"
+    },
+    "m_7d7f02e18d4b392b": {
+      "source": "Fit to window",
+      "text": "Passend bij raam"
+    },
+    "m_74cdbe70e394d004": {
+      "source": "Actual size",
+      "text": "Ware grootte"
+    },
+    "m_9a0b4565836752a4": {
+      "source": "Close screen preview",
+      "text": "Schermvoorbeeld sluiten"
+    },
+    "m_47ac69255f8f5ec7": {
+      "source": "Overview and navigation.",
+      "text": "Overzicht en navigatie."
+    },
+    "m_07e185fdc4cfdf92": {
+      "source": "Tasks and approvals.",
+      "text": "Taken en goedkeuringen."
+    },
+    "m_7ed13006db2017b1": {
+      "source": "Daily tools.",
+      "text": "Dagelijks gereedschap."
+    },
+    "m_c2d961ee36273c04": {
+      "source": "Business setup.",
+      "text": "Bedrijfsopstelling."
+    },
+    "m_35217c2db25b53f2": {
+      "source": "AbortError",
+      "text": "AfbrekenFout"
+    },
+    "m_3e0df5be70d0c0ad": {
+      "source": "Select Play to resume the narration.",
+      "text": "Selecteer Afspelen om het verhaal te hervatten."
+    },
+    "m_a07efb001191a710": {
+      "source": "UCXO four-part guided product demo",
+      "text": "UCXO Vierdelige begeleide productdemo"
+    },
+    "m_6719faaee78011cf": {
+      "source": "Narration could not load. Select Play with narration to retry.",
+      "text": "Het verhaal kon niet worden geladen. Selecteer Spelen met gesproken tekst om het opnieuw te proberen."
+    },
+    "m_8b6787abc1dfbb24": {
+      "source": "THE UCXO PRODUCT TOUR",
+      "text": "DE UCXO PRODUCTOUR"
+    },
+    "m_348348036267fa04": {
+      "source": "INTRODUCTION",
+      "text": "INLEIDING"
+    },
+    "m_581676cb89d288f9": {
+      "source": "Replay with narration",
+      "text": "Herhaling met verhaal"
+    },
+    "m_5ce3c496494aa30d": {
+      "source": "Resume narration",
+      "text": "Hervat de vertelling"
+    },
+    "m_878553b131aff5f5": {
+      "source": "Mute narration",
+      "text": "Dempte vertelling"
+    },
+    "m_febe9198715e372f": {
+      "source": "Play with narration",
+      "text": "Afspelen met gesproken uitleg"
+    },
+    "m_206da8c7fc54b456": {
+      "source": "YOUR WORKSPACE, CONNECTED",
+      "text": "UW WERKRUIMTE, VERBONDEN"
+    },
+    "m_6c206e26d0570ad1": {
+      "source": "Four product demo sections",
+      "text": "Vier productdemosecties"
+    },
+    "m_9660fb862202c3be": {
+      "source": "ArrowDown",
+      "text": "PijlOmlaag"
+    },
+    "m_12204d1d8ab89f8a": {
+      "source": "ArrowUp",
+      "text": "Pijl-omhoog"
+    },
+    "m_885b3a1ddf7eb31d": {
+      "source": "· Guided demo",
+      "text": "· Begeleide demo"
+    },
+    "m_5166868b28f7efd6": {
+      "source": "Pause narration",
+      "text": "Pauzeer het verhaal"
+    },
+    "m_ba9d6fe6e20eb138": {
+      "source": "Fit screen",
+      "text": "Pas scherm aan"
+    },
+    "m_8c3328a2d233b346": {
+      "source": "Focus view",
+      "text": "Focusweergave"
+    },
+    "m_c11827e7dcee10e2": {
+      "source": "Expand guided demo",
+      "text": "Vouw de begeleide demo uit"
+    },
+    "m_31f5089da03b8347": {
+      "source": "Replay tour",
+      "text": "Speel de tour opnieuw af"
+    },
+    "m_818425a3a87b3a0a": {
+      "source": "Play guided demo",
+      "text": "Speel een begeleide demo"
+    },
+    "m_3eaafb991eec18a1": {
+      "source": "Pause guided demo",
+      "text": "Pauzeer de begeleide demo"
+    },
+    "m_fba290438883e532": {
+      "source": "Replay this section",
+      "text": "Speel dit gedeelte opnieuw af"
+    },
+    "m_f9c19ec5d20302a6": {
+      "source": "Mute demo narration",
+      "text": "Demp de demo-vertelling"
+    },
+    "m_26da92c9e8beb3af": {
+      "source": "Enable demo narration",
+      "text": "Schakel demo-vertelling in"
+    },
+    "m_9ff3f850963765de": {
+      "source": "Demo section progress",
+      "text": "Voortgang van de demosectie"
+    },
+    "m_8b12f71b06fb5a5d": {
+      "source": "TOUR COMPLETE",
+      "text": "TOUR VOLTOOID"
+    },
+    "m_25c8857475f4cae0": {
+      "source": "NARRATION PLAYING",
+      "text": "VERHAAL SPELEN"
+    },
+    "m_c96e02af8b525580": {
+      "source": "NARRATION PAUSED",
+      "text": "VERHAAL GESLOTEN"
+    },
+    "m_f2bb6b2b387cba43": {
+      "source": "NARRATION OFF",
+      "text": "VERTELLER UIT"
+    },
+    "m_eecca6608ecaf0a4": {
+      "source": "Expanded UCXO guided demo",
+      "text": "Uitgebreide UCXO begeleide demo"
+    },
+    "m_7d8ab368210c5ae8": {
+      "source": "Close preview",
+      "text": "Voorbeeld sluiten"
+    },
+    "m_7d265bb561d1b74a": {
+      "source": "Play demo",
+      "text": "Speel een demo"
+    },
+    "m_4114dd7e57d332df": {
+      "source": "Pause demo",
+      "text": "Demo onderbreken"
+    },
+    "m_d4b1ea5708dd5329": {
+      "source": "Overview",
+      "text": "Overzicht"
+    },
+    "m_38da1505ca837328": {
+      "source": "Activity",
+      "text": "Activiteit"
+    },
+    "m_4f5fdd40f7db8e7f": {
+      "source": "▦ Workspace map",
+      "text": "▦ Werkruimtekaart"
+    },
+    "m_5626310a7cdc0c63": {
+      "source": "▦ Cards",
+      "text": "▦ Kaarten"
+    },
+    "m_e9f5886bf5fec205": {
+      "source": "◇ Board",
+      "text": "◇ Bestuur"
+    },
+    "m_bc0e604a7f183405": {
+      "source": "☷ List",
+      "text": "☷ Lijst"
+    },
+    "m_5304ab98e5815a35": {
+      "source": "Department",
+      "text": "Afdeling"
+    },
+    "m_f6ad0685e107ef00": {
+      "source": "All in my scope⌄",
+      "text": "Alles binnen mijn bereik⌄"
+    },
+    "m_e4850a80a3d24c7a": {
+      "source": "♙ Pilot Company A (sample)",
+      "text": "♙ Pilot Company A (voorbeeld)"
+    },
+    "m_b70533dc23d8814b": {
+      "source": "♧ Operations",
+      "text": "♧ Operaties"
+    },
+    "m_eb5cc1267ef72352": {
+      "source": "Good to see you, Arjun (Operator). Every module you can open sits around UCXO with one figure; each card opens exactly what it counts.",
+      "text": "Goed je te zien, Arjun (operator). Elke module die je kunt openen zit rond UCXO met één figuur; elke kaart opent precies wat hij telt."
+    },
+    "m_c75030f43d810e59": {
+      "source": "◷ Refreshed 09:29 am",
+      "text": "◷ Vernieuwd 09:29 uur"
+    },
+    "m_6690611f5413a5e5": {
+      "source": "⟳ Refresh",
+      "text": "⟳ Vernieuwen"
+    },
+    "m_a3f21fb404e46904": {
+      "source": "UX",
+      "text": "UX"
+    },
+    "m_c3f9d0b1244c0166": {
+      "source": "Pilot Company A (sample)",
+      "text": "Pilot Company A (voorbeeld)"
+    },
+    "m_9bbaedb87e3e3bb0": {
+      "source": "Your departments: Operations.",
+      "text": "Jouw afdelingen: Operations."
+    },
+    "m_a22218ff3c0a49f0": {
+      "source": "Where work is set up and carried out",
+      "text": "Waar werkzaamheden worden opgezet en uitgevoerd"
+    },
+    "m_51d7c268bf5a7e81": {
+      "source": "Mission &amp; Objectives",
+      "text": "Missie & Doelstellingen"
+    },
+    "m_a0d60bdd60fcabc4": {
+      "source": "Mission & Objectives, Work Planner and Engine Planner",
+      "text": "Missie & Doelstellingen, Werkplanner en Engine Planner"
+    },
+    "m_5945a531d00afbaf": {
+      "source": "PRODUCTION READINESS",
+      "text": "PRODUCTIEGEREEDHEID"
+    },
+    "m_921c1775effd3d89": {
+      "source": "Start with an accepted objective: prepare next week’s production plan.",
+      "text": "Begin met een geaccepteerd doel: bereid het productieplan voor volgende week voor."
+    },
+    "m_ceacb3be06c4f594": {
+      "source": "PEOPLE AND OWNERSHIP",
+      "text": "MENSEN EN EIGENDOM"
+    },
+    "m_e66b706fedbf44d5": {
+      "source": "People and ownership provide context for committed work.",
+      "text": "Mensen en eigenaarschap bieden context voor betrokken werk."
+    },
+    "m_f6fe7b041723b192": {
+      "source": "DRAFT WORKFLOW",
+      "text": "ONTWERP WORKFLOW"
+    },
+    "m_ec1839c0e9cb2078": {
+      "source": "Bind the objective, committed work and resources to a versioned workflow.",
+      "text": "Bind het objectieve, toegewijde werk en de middelen aan een workflow met versiebeheer."
+    },
+    "m_7a2db48af9cf3ac3": {
+      "source": "READINESS CHECKLIST",
+      "text": "GEREEDHEID CHECKLIST"
+    },
+    "m_61e9d2259f4d40cb": {
+      "source": "Capture the readiness checklist using the form / input step.",
+      "text": "Leg de gereedheidscontrolelijst vast met behulp van de formulier-/invoerstap."
+    },
+    "m_c3c2517b1b0d6a69": {
+      "source": "NAMED HUMAN REVIEW",
+      "text": "GENOEMDE MENSELIJKE REVIEW"
+    },
+    "m_924fad59bb2c39ed": {
+      "source": "A named person must approve the revision before it can be activated.",
+      "text": "Een bij naam genoemde persoon moet de revisie goedkeuren voordat deze kan worden geactiveerd."
+    },
+    "m_6df68a3a5e59d363": {
+      "source": "COMMITTED WORK",
+      "text": "TOEGEWIJD WERK"
+    },
+    "m_e7d88e4aebe2e14b": {
+      "source": "Commit the work and resources that the plan will coordinate.",
+      "text": "Zet het werk en de middelen in die het plan zal coördineren."
+    },
+    "m_41235643b499915b": {
+      "source": "Engine Planner typed workflow",
+      "text": "Engine Planner getypte werkstroom"
+    },
+    "m_1f8af21522009cc6": {
+      "source": "Agent action",
+      "text": "Agentactie"
+    },
+    "m_de10aed3ab953061": {
+      "source": "AI AGENT · CAPACITY SUMMARY",
+      "text": "AI-AGENT · CAPACITEITSAMENVATTING"
+    },
+    "m_2c52a3c8ce25e0d4": {
+      "source": "The capacity summary runs after the line-clearance condition passes.",
+      "text": "Het capaciteitsoverzicht wordt uitgevoerd nadat de voorwaarde voor regelvrijgave is verstreken."
+    },
+    "m_f2d6e8a847a16c4e": {
+      "source": "Form / input",
+      "text": "Vorm / invoer"
+    },
+    "m_40f65850bf8f014d": {
+      "source": "HUMAN · READINESS CHECKLIST",
+      "text": "MENSELIJK · GEREEDHEID CHECKLIST"
+    },
+    "m_2df441cd6a892239": {
+      "source": "A person completes the readiness checklist in UForms.",
+      "text": "Een persoon vult de gereedheidscontrolelijst in UForms in."
+    },
+    "m_39b36d38d6eb03c8": {
+      "source": "Condition",
+      "text": "Conditie"
+    },
+    "m_84ec9b8ca204dc4d": {
+      "source": "CONTROL · LINE CLEARANCE?",
+      "text": "CONTROLE · LIJNVRIJHEID?"
+    },
+    "m_61b593a68c531330": {
+      "source": "Yes continues to the AI action. No routes to a human task for resolution.",
+      "text": "Ja gaat verder met de AI-actie. Geen routes naar een menselijke taak voor oplossing."
+    },
+    "m_87569f45f2eef5c6": {
+      "source": "Human task",
+      "text": "Menselijke taak"
+    },
+    "m_82d709314ff59271": {
+      "source": "HUMAN · RESOLVE DEVIATION",
+      "text": "MENSELIJK · AFWIJKING OPLOSSEN"
+    },
+    "m_27ce9fbe4eb70f24": {
+      "source": "Resolve the clearance deviation in UDO, then re-check the form, up to three times.",
+      "text": "Los de afwijking in de speling op in UDO en controleer vervolgens het formulier opnieuw, maximaal drie keer."
+    },
+    "m_9a42d40a3f319da5": {
+      "source": "Integration",
+      "text": "Integratie"
+    },
+    "m_6826e968c4624a6a": {
+      "source": "SYSTEM · ERP SCHEDULE",
+      "text": "SYSTEEM · ERP-SCHEMA"
+    },
+    "m_90d83412a0351925": {
+      "source": "Update the ERP schedule after the capacity summary. A sync failure follows the notification path.",
+      "text": "Update het ERP-schema na het capaciteitsoverzicht. Een synchronisatiefout volgt het meldingspad."
+    },
+    "m_147fb813a2515718": {
+      "source": "Approval",
+      "text": "Goedkeuring"
+    },
+    "m_37a28a961dd429b5": {
+      "source": "HUMAN · RELEASE REVIEW",
+      "text": "MENSELIJK · RELEASEBEOORDELING"
+    },
+    "m_49db44c83dc1a344": {
+      "source": "A named operations lead approves the release in UApprove.",
+      "text": "Een benoemde Operations Lead keurt de release goed in UApprove."
+    },
+    "m_2a70472e362eeea1": {
+      "source": "Record output",
+      "text": "Uitvoer opnemen"
+    },
+    "m_e723d9f48e69f187": {
+      "source": "SYSTEM · APPROVED PLAN",
+      "text": "SYSTEEM · GOEDGEKEURD PLAN"
+    },
+    "m_3dbc15db3026067f": {
+      "source": "The approved production plan is retained through URecords.",
+      "text": "Het goedgekeurde productieplan blijft behouden tot en met URecords."
+    },
+    "m_6fecf9081bd58fa5": {
+      "source": "CONTROL",
+      "text": "CONTROLE"
+    },
+    "m_22a85ade77f57a9f": {
+      "source": "Complete the configured workflow path.",
+      "text": "Voltooi het geconfigureerde werkstroompad."
+    },
+    "m_0ed53240e665fdb4": {
+      "source": "U-Engine execution and human recovery in UDO",
+      "text": "U-Engine executie en menselijk herstel in UDO"
+    },
+    "m_8b560f65a370e619": {
+      "source": "UDO",
+      "text": "UDO"
+    },
+    "m_eac84a149bcbf84b": {
+      "source": "The responsible person receives and completes the assigned recovery task in UDO.",
+      "text": "De verantwoordelijke persoon ontvangt en voltooit de toegewezen hersteltaak in UDO."
+    },
+    "m_7f945dff7fd09101": {
+      "source": "The capacity summary can run only when the line-clearance condition passes.",
+      "text": "Het capaciteitsoverzicht kan alleen worden uitgevoerd als aan de voorwaarde voor regelvrijgave is voldaan."
+    },
+    "m_d54c8b2303e736fe": {
+      "source": "Release waits for the named approver; U-Engine cannot make this decision.",
+      "text": "Vrijgave wacht op de genoemde goedkeurder; U-Engine kan deze beslissing niet nemen."
+    },
+    "m_86c6fae519ef8c86": {
+      "source": "No routes to UDO and back to the readiness checklist. Yes continues to the AI action.",
+      "text": "Geen routes naar UDO en terug naar de gereedheidschecklist. Ja gaat verder met de AI-actie."
+    },
+    "m_0a8862cb5e30bf5e": {
+      "source": "The integration updates the ERP schedule before release approval.",
+      "text": "De integratie werkt het ERP-schema bij voordat de release wordt goedgekeurd."
+    },
+    "m_91cd51abb9091d79": {
+      "source": "UApprove, URecords and notification recovery",
+      "text": "UApprove, URecords en meldingsherstel"
+    },
+    "m_352e8596caa6c9c3": {
+      "source": "The named operations lead reviews the evidence and decides whether to approve release.",
+      "text": "De genoemde operationele leider beoordeelt het bewijsmateriaal en besluit of de vrijgave wordt goedgekeurd."
+    },
+    "m_7ab84cfe10b8da0f": {
+      "source": "SYSTEM · RECORD OUTPUT",
+      "text": "SYSTEEM · OPNAME-UITVOER"
+    },
+    "m_242dd6c8068c476c": {
+      "source": "Retain the approved production plan and its supporting record.",
+      "text": "Bewaar het goedgekeurde productieplan en de ondersteunende documenten."
+    },
+    "m_1424711f9a7dcc4a": {
+      "source": "APPROVED ACTIVE REVISION",
+      "text": "GOEDGEKEURDE ACTIEVE REVISIE"
+    },
+    "m_60ec42a068eb46c8": {
+      "source": "Only a tested, reviewed, approved and activated revision can start a run.",
+      "text": "Alleen een geteste, beoordeelde, goedgekeurde en geactiveerde revisie kan een run starten."
+    },
+    "m_1da1293dafef9c70": {
+      "source": "SYSTEM · SYNC FAILED",
+      "text": "SYSTEEM · SYNC MISLUKT"
+    },
+    "m_50c90fa0ce43dc83": {
+      "source": "A failed ERP sync follows the configured notification route.",
+      "text": "Een mislukte ERP-synchronisatie volgt de geconfigureerde meldingsroute."
+    },
+    "m_7d31b83313991d4c": {
+      "source": "Notification",
+      "text": "Kennisgeving"
+    },
+    "m_6b8ef6967058ef3f": {
+      "source": "SYSTEM · NOTIFY PLANNER",
+      "text": "SYSTEEM · PLANNER INFORMEREN"
+    },
+    "m_1691f8664ba5e864": {
+      "source": "Notify the responsible planner of the ERP sync failure. UPingme connects the conversation.",
+      "text": "Breng de verantwoordelijke planner op de hoogte van de mislukte ERP-synchronisatie. UPingme verbindt het gesprek."
+    },
+    "m_56d4ca61c55de407": {
+      "source": "The approved record path and notification recovery path each reach End.",
+      "text": "Het goedgekeurde recordpad en het herstelpad voor meldingen bereiken elk End."
+    },
+    "m_d54c7143a3f3a35e": {
+      "source": "CHAT · REMIND · ESCALATE",
+      "text": "CHAT · HERINNEREN · ESCALEREN"
+    },
+    "m_5d97d78270b19c95": {
+      "source": "Conversations, reminders and escalations reach the responsible person here; approval remains in UApprove.",
+      "text": "Gesprekken, herinneringen en escalaties komen hier bij de verantwoordelijke terecht; goedkeuring blijft in UApprove."
+    },
+    "m_64ddb61edc46feaa": {
+      "source": "Define and plan",
+      "text": "Definiëren en plannen"
+    },
+    "m_febd070bf96a9a11": {
+      "source": "An objective. A versioned plan.",
+      "text": "Een doelstelling. Een versieplan."
+    },
+    "m_f85ffd08275f7d9d": {
+      "source": "Mission & Objectives connects committed work and resources through Work Planner and Engine Planner.",
+      "text": "Missie & Doelstellingen verbindt toegewijd werk en middelen via Work Planner en Engine Planner."
+    },
+    "m_b9ebfb9dbec7268d": {
+      "source": "Start with the objective: prepare next week’s production plan.",
+      "text": "Begin met het doel: het productieplan voor volgende week voorbereiden."
+    },
+    "m_3c40e5099370acca": {
+      "source": "Connect people and committed work through HR Master and Work Planner.",
+      "text": "Verbind mensen en betrokken werk via HR Master en Werkplanner."
+    },
+    "m_ac554cfe397f1849": {
+      "source": "UForms captures the readiness checklist.",
+      "text": "UForms legt de gereedheidscontrolelijst vast."
+    },
+    "m_b66f1742954d9aec": {
+      "source": "Engine Planner binds the objective and resources to a versioned workflow.",
+      "text": "Engine Planner bindt de doelstelling en bronnen aan een workflow met versiebeheer."
+    },
+    "m_3ab247d908948324": {
+      "source": "Test, review, activate",
+      "text": "Testen, beoordelen, activeren"
+    },
+    "m_23c703107b015d29": {
+      "source": "Typed steps. A controlled release.",
+      "text": "Getypte stappen. Een gecontroleerde afgifte."
+    },
+    "m_3a3aa1f5dc87c55c": {
+      "source": "Review the workflow canvas, test it, and complete readiness checks before human approval and activation.",
+      "text": "Bekijk het workflowcanvas, test het en voer de gereedheidscontroles uit voordat menselijke goedkeuring en activering plaatsvindt."
+    },
+    "m_a02c75f124ab0e2f": {
+      "source": "The workflow starts with a form and a line-clearance condition.",
+      "text": "De workflow begint met een formulier en een voorwaarde voor het vrijgeven van regels."
+    },
+    "m_96d176c7997e9706": {
+      "source": "If clearance fails, a human task resolves the deviation and re-checks the form.",
+      "text": "Als de goedkeuring mislukt, lost een menselijke taak de afwijking op en wordt het formulier opnieuw gecontroleerd."
+    },
+    "m_55b1401542a547c5": {
+      "source": "If it passes, the AI action prepares a capacity summary, then an integration updates the schedule.",
+      "text": "Als de AI-actie slaagt, wordt er een capaciteitsoverzicht opgesteld, waarna een integratie de planning bijwerkt."
+    },
+    "m_8db5460142f15697": {
+      "source": "Test, review, approve, and activate the revision before U-Engine starts a run.",
+      "text": "Test, beoordeel, keur goed en activeer de revisie voordat U-Engine een run start."
+    },
+    "m_506914bddcc7f847": {
+      "source": "Execute and recover",
+      "text": "Uitvoeren en herstellen"
+    },
+    "m_339a5320700e3d18": {
+      "source": "U-Engine runs. People stay involved.",
+      "text": "U-Engine loopt. Mensen blijven betrokken."
+    },
+    "m_63cc25a21f9dae71": {
+      "source": "The approved workflow follows its configured routes. UDO keeps recovery work with the responsible person.",
+      "text": "De goedgekeurde workflow volgt de geconfigureerde routes. UDO houdt herstelwerkzaamheden bij de verantwoordelijke persoon."
+    },
+    "m_bc08e1ba17336f2c": {
+      "source": "U-Engine follows the active revision and its condition routes.",
+      "text": "U-Engine volgt de actieve revisie en de bijbehorende conditieroutes."
+    },
+    "m_8282e7ada21540ca": {
+      "source": "The capacity summary runs only after line clearance passes.",
+      "text": "Het capaciteitsoverzicht wordt pas weergegeven nadat de lijnvrijgave is verstreken."
+    },
+    "m_a67577603c798c25": {
+      "source": "People receive and complete assigned recovery tasks in UDO.",
+      "text": "Mensen ontvangen en voltooien toegewezen hersteltaken in UDO."
+    },
+    "m_6916459c83109eb9": {
+      "source": "The integration updates the schedule, or follows its failure route.",
+      "text": "De integratie werkt de planning bij of volgt de foutroute."
+    },
+    "m_317506dabbf6807a": {
+      "source": "Release waits for the named human approver in UApprove.",
+      "text": "Vrijgave wacht op de genoemde menselijke goedkeurder in UApprove."
+    },
+    "m_91c0c0aa1e347ee8": {
+      "source": "Approve and record",
+      "text": "Goedkeuren en vastleggen"
+    },
+    "m_0678d77ba819b6ec": {
+      "source": "Human approval. A connected record.",
+      "text": "Menselijke goedkeuring. Een verbonden record."
+    },
+    "m_123c84c67db20da1": {
+      "source": "UApprove keeps the decision with a person. URecords retains the plan. UPingme connects the conversation.",
+      "text": "UApprove houdt de beslissing bij een persoon. URecords behoudt het plan. UPingme verbindt het gesprek."
+    },
+    "m_d6a1174dffd79214": {
+      "source": "A failed integration notifies the responsible planner. UPingme connects the conversation.",
+      "text": "Bij een mislukte integratie wordt de verantwoordelijke planner hiervan op de hoogte gesteld. UPingme verbindt het gesprek."
+    },
+    "m_26d4d1905d122ce7": {
+      "source": "The release approval remains with the named person in UApprove.",
+      "text": "De vrijgavegoedkeuring blijft bij de genoemde persoon in UApprove."
+    },
+    "m_f95ef1294e89582c": {
+      "source": "The approver reviews the evidence and decides.",
+      "text": "De goedkeurder beoordeelt het bewijsmateriaal en beslist."
+    },
+    "m_09192697c8c86c7f": {
+      "source": "After approval, URecords retains the production plan and the workflow reaches End.",
+      "text": "Na goedkeuring behoudt URecords het productieplan en bereikt de workflow Einde."
+    },
+    "m_343751e7cd8bd19e": {
+      "source": "UCXO. Business execution, coordinated.",
+      "text": "UCXO. Bedrijfsuitvoering, gecoördineerd."
+    },
+    "m_cd23c0055a7dc249": {
+      "source": "MISSION & OBJECTIVES",
+      "text": "MISSIE & DOELSTELLINGEN"
+    },
+    "m_16a89ae5a4eef05c": {
+      "source": "HR MASTER · WORK PLANNER",
+      "text": "HR-MASTER · WERKPLANNER"
+    },
+    "m_51d3d203594de7c8": {
+      "source": "UDO · HUMAN RECOVERY",
+      "text": "UDO · MENSELIJK HERSTEL"
+    },
+    "m_865e4b6974213a4e": {
+      "source": "INTEGRATION · ERP SCHEDULE",
+      "text": "INTEGRATIE · ERP-SCHEMA"
+    },
+    "m_06093c1bc26ecf59": {
+      "source": "NOTIFICATION · RESPONSIBLE PLANNER",
+      "text": "MELDING · VERANTWOORDELIJKE PLANNER"
+    },
+    "m_6709405384bfc5d1": {
+      "source": "HUMAN DECISION RECORDED",
+      "text": "MENSELIJKE BESLISSING OPGENOMEN"
+    },
+    "m_1c0f44f5618be4b3": {
+      "source": "OUTCOME LINKED TO OBJECTIVE",
+      "text": "RESULTAAT GEKOPPELD AAN DOELSTELLING"
+    },
+    "m_ad7431b3ae7ba753": {
+      "source": "Preparing the workflow…",
+      "text": "De werkstroom voorbereiden…"
+    },
+    "m_d9f05fb162a0c239": {
+      "source": "NotAllowedError",
+      "text": "NotAllowedFout"
+    },
+    "m_9257f72a46e550c4": {
+      "source": "Your browser paused the narration. Select Play narration to start.",
+      "text": "Uw browser heeft het verhaal onderbroken. Selecteer Vertelling afspelen om te starten."
+    },
+    "m_f2a0d34e4b84c3f4": {
+      "source": "Narration could not start. Select Play narration to retry.",
+      "text": "Het verhaal kon niet beginnen. Selecteer Verhaal afspelen om het opnieuw te proberen."
+    },
+    "m_a91bcd0c9d00127f": {
+      "source": "How UCXO works",
+      "text": "Hoe UCXO werkt"
+    },
+    "m_f4262548cb993257": {
+      "source": "INPUT",
+      "text": "INGANG"
+    },
+    "m_9e9f23ca031cab55": {
+      "source": "BUTTON",
+      "text": "KNOP"
+    },
+    "m_bdf8b09faddd943b": {
+      "source": "Narration could not load. Select Play narration to retry.",
+      "text": "Het verhaal kon niet worden geladen. Selecteer Verhaal afspelen om het opnieuw te proberen."
+    },
+    "m_fb581de1e4c84d53": {
+      "source": "HOW UCXO WORKS",
+      "text": "HOE UCXO WERKT"
+    },
+    "m_e0191e680c6e66ea": {
+      "source": "ONE OBJECTIVE. ONE CONNECTED STORY.",
+      "text": "ÉÉN DOEL. ÉÉN VERBONDEN VERHAAL."
+    },
+    "m_f6a5228afacbbb29": {
+      "source": "Prepare next week’s",
+      "text": "Bereid volgende week voor"
+    },
+    "m_6b97dac9cafeb150": {
+      "source": "Listen to explanation",
+      "text": "Luister naar uitleg"
+    },
+    "m_a76fd6899331217c": {
+      "source": "Play narration",
+      "text": "Speel vertelling"
+    },
+    "m_d82d8dd28a5fb2ba": {
+      "source": "Sound on · Mute",
+      "text": "Geluid aan · Dempen"
+    },
+    "m_4f3d9a274f8af8c1": {
+      "source": "Starting narration…",
+      "text": "Vertelling starten..."
+    },
+    "m_b2b2c9a4802d880c": {
+      "source": "Play explanation",
+      "text": "Speel uitleg"
+    },
+    "m_ee41da5f7a20e3b5": {
+      "source": "Pause explanation",
+      "text": "Pauzeer uitleg"
+    },
+    "m_3b83f63761b486da": {
+      "source": "Replay chapter",
+      "text": "Hoofdstuk opnieuw afspelen"
+    },
+    "m_b47fa176bc080ea6": {
+      "source": "Enable sound",
+      "text": "Schakel geluid in"
+    },
+    "m_44f2a0524e275238": {
+      "source": "Mute sound",
+      "text": "Geluid dempen"
+    },
+    "m_24d47712e23f679d": {
+      "source": "Chapter progress",
+      "text": "Hoofdstuk vooruitgang"
+    },
+    "m_8e769630ee8fcc12": {
+      "source": "CHAPTER FILM",
+      "text": "HOOFDSTUK FILM"
+    },
+    "m_ffb1a32bdfa0bd36": {
+      "source": "NARRATION · SOUND OFF",
+      "text": "VERHAAL · GELUID UIT"
+    },
+    "m_a6c0640aaf97e81a": {
+      "source": "NARRATION · PLAYING",
+      "text": "VERHAAL · SPELEN"
+    },
+    "m_62eba689e54bd77a": {
+      "source": "NARRATION · UNAVAILABLE",
+      "text": "VERHAAL · NIET BESCHIKBAAR"
+    },
+    "m_4cd392119488432d": {
+      "source": "NARRATION · TAP PLAY",
+      "text": "VERHAAL · Tik op SPELEN"
+    },
+    "m_050be48420f1a4e4": {
+      "source": "NARRATION · PAUSED",
+      "text": "VERHAAL · GEPAUZED"
+    },
+    "m_713e8799d97eaf00": {
+      "source": "NARRATION · LOADING",
+      "text": "VERHAAL · LADEN"
+    },
+    "m_d1813638fb4dbfa8": {
+      "source": "Choose a chapter",
+      "text": "Kies een hoofdstuk"
+    },
+    "m_76bced7d616aad89": {
+      "source": "Play animation",
+      "text": "Animatie afspelen"
+    },
+    "m_9ffa865f2bc6e850": {
+      "source": "Human",
+      "text": "Menselijk"
+    },
+    "m_92c7d7f84c3ecbd9": {
+      "source": "AI agent",
+      "text": "AI-agent"
+    },
+    "m_6725e7bbcd28f3a8": {
+      "source": "System",
+      "text": "Systeem"
+    },
+    "m_32d7e82082479b8c": {
+      "source": "Control",
+      "text": "Controle"
+    },
+    "m_3ff9699884fc3a27": {
+      "source": "Planner starts",
+      "text": "Planner begint"
+    },
+    "m_0be7afc329dd1b94": {
+      "source": "readiness run",
+      "text": "gereedheidsloop"
+    },
+    "m_8b9c643731c94119": {
+      "source": "Trigger",
+      "text": "Trigger"
+    },
+    "m_13d029ae44551b3e": {
+      "source": "Readiness checklist",
+      "text": "Controlelijst gereedheid"
+    },
+    "m_b116a6e7359c2188": {
+      "source": "Line clearance",
+      "text": "Lijnspeling"
+    },
+    "m_7ef33da1190fa494": {
+      "source": "Capacity summary",
+      "text": "Capaciteitsoverzicht"
+    },
+    "m_76c17184271bfc98": {
+      "source": "Update sandbox ERP",
+      "text": "Sandbox-ERP bijwerken"
+    },
+    "m_83b2543ae23133b8": {
+      "source": "Operations lead",
+      "text": "Operationele leiding"
+    },
+    "m_65eeeb27318cea3c": {
+      "source": "approves release",
+      "text": "keurt de vrijgave goed"
+    },
+    "m_1951756d737081a4": {
+      "source": "Approved production",
+      "text": "Goedgekeurde productie"
+    },
+    "m_f5cff79b9e78c559": {
+      "source": "plan record",
+      "text": "plan opnemen"
+    },
+    "m_6211ea1634af981e": {
+      "source": "Resolve clearance",
+      "text": "Opruiming oplossen"
+    },
+    "m_c78ea97156736de0": {
+      "source": "Notify planner of ERP",
+      "text": "Planner van ERP op de hoogte stellen"
+    },
+    "m_7d5733fdb28af870": {
+      "source": "sync failure",
+      "text": "synchronisatie mislukt"
+    },
+    "m_85a39ab345d672ff": {
+      "source": "Yes",
+      "text": "Ja"
+    },
+    "m_1ea442a134b2a184": {
+      "source": "No",
+      "text": "Nee"
+    },
+    "m_0eb9d8c5026932ab": {
+      "source": "Re-check (max 3)",
+      "text": "Opnieuw controleren (max. 3)"
+    },
+    "m_3f7bbf047330d86f": {
+      "source": "Invalid output",
+      "text": "Ongeldige uitvoer"
+    },
+    "m_abf3e80b5b4ceb36": {
+      "source": "Sync failed",
+      "text": "Synchronisatie mislukt"
+    },
+    "m_87b42e40c2a290e0": {
+      "source": "Approved",
+      "text": "Goedgekeurd"
+    },
+    "m_b066f332607f3984": {
+      "source": "Rejected / returned",
+      "text": "Afgewezen/teruggestuurd"
+    },
+    "m_d0c48cf58d5a16f1": {
+      "source": "UCXO Engine Planner workflow canvas",
+      "text": "UCXO Engine Planner werkstroomcanvas"
+    },
+    "m_75b08a9f83878e6d": {
+      "source": "Workflow canvas",
+      "text": "Workflow-canvas"
+    },
+    "m_eb836ffb508d346d": {
+      "source": "WF-008",
+      "text": "WF-008"
+    },
+    "m_86f39f6b73501a9a": {
+      "source": "draft v1",
+      "text": "ontwerp v1"
+    },
+    "m_61245a3b741fb29e": {
+      "source": "Illustrative",
+      "text": "Illustratief"
+    },
+    "m_3824a9f4dafe92c6": {
+      "source": "Canvas",
+      "text": "Doek"
+    },
+    "m_74501c674de996eb": {
+      "source": "Ordered steps",
+      "text": "Stappen besteld"
+    },
+    "m_987b8dea6d849c77": {
+      "source": "Typed workflow",
+      "text": "Getypte werkstroom"
+    },
+    "m_a7680c2b9f6b3b44": {
+      "source": "Zoom in workflow",
+      "text": "Zoom in op de werkstroom"
+    },
+    "m_932b477434896740": {
+      "source": "Zoom out workflow",
+      "text": "Werkstroom uitzoomen"
+    },
+    "m_c1d6cd3409ce9ab2": {
+      "source": "Fit whole workflow to view",
+      "text": "Pas de hele workflow aan om te bekijken"
+    },
+    "m_a402c4336ebfd782": {
+      "source": "execution",
+      "text": "uitvoering"
+    },
+    "m_25fd93101e6ea7c2": {
+      "source": "decision · recovery",
+      "text": "beslissing · herstel"
+    },
+    "m_3ed1da24cd383a08": {
+      "source": "Yes → Capacity summary · No → Resolve clearance deviation",
+      "text": "Ja → Capaciteitsoverzicht · Nee → Spelingafwijking oplossen"
+    },
+    "m_b616679494fd8076": {
+      "source": "Re-check readiness checklist (max 3)",
+      "text": "Controleer de gereedheidscontrolelijst opnieuw (max. 3)"
+    },
+    "m_00a02a1604f3ed60": {
+      "source": "Sync failed → Notify planner",
+      "text": "Synchronisatie mislukt → Planner op de hoogte stellen"
+    },
+    "m_3f63bacd67f28586": {
+      "source": "Production readiness workflow with approval and recovery branches",
+      "text": "Workflow voor productiegereedheid met goedkeurings- en hersteltakken"
+    },
+    "m_dc8659db6d416dc3": {
+      "source": "Enter",
+      "text": "Kom binnen"
+    },
+    "m_c0acfbe8f536d5fb": {
+      "source": "Next week’s production readiness plan",
+      "text": "Het productiegereedheidsplan van volgende week"
+    },
+    "m_62c859f056e3a5b0": {
+      "source": "Illustrative approval recorded",
+      "text": "Illustratieve goedkeuring vastgelegd"
+    },
+    "m_de0f0706e464208a": {
+      "source": "Human approval required",
+      "text": "Menselijke goedkeuring vereist"
+    },
+    "m_37db056e20ab430d": {
+      "source": "Book a demo — UCXO",
+      "text": "Boek een demo — UCXO"
+    },
+    "m_b4d5ede4598395da": {
+      "source": "See how UCXO connects your objectives, people, and AI workforce. Tell us about your business and request a personal demo.",
+      "text": "Ontdek hoe UCXO uw doelstellingen, mensen en AI-personeel met elkaar verbindt. Vertel ons over uw bedrijf en vraag een persoonlijke demo aan."
+    },
+    "m_407cbdc2576afb65": {
+      "source": "Book a demo.",
+      "text": "Boek een demo."
+    },
+    "m_b7748ce0e452a02b": {
+      "source": "For your team.",
+      "text": "Voor jouw team."
+    },
+    "m_d7211459705d0e23": {
+      "source": "See UCXO with a workflow from your business.",
+      "text": "Zie UCXO met een workflow van uw bedrijf."
+    },
+    "m_00f5511b19a431ec": {
+      "source": "YOUR OBJECTIVE",
+      "text": "UW DOEL"
+    },
+    "m_cbeb1b9a1d23423f": {
+      "source": "PEOPLE + AI",
+      "text": "MENSEN + AI"
+    },
+    "m_bbb4fa4eb2ae202a": {
+      "source": "OUTCOME",
+      "text": "UITKOMST"
+    },
+    "m_7ef84dcd839c5fcf": {
+      "source": "What to expect",
+      "text": "Wat te verwachten"
+    },
+    "m_ca5d2d80c668b61f": {
+      "source": "Start with your goals",
+      "text": "Begin met je doelen"
+    },
+    "m_ece537b021c9b27d": {
+      "source": "Tell us where work gets stuck.",
+      "text": "Vertel ons waar het werk vastloopt."
+    },
+    "m_17104dae90ea566f": {
+      "source": "Explore the possibilities",
+      "text": "Ontdek de mogelijkheden"
+    },
+    "m_efb4ce1b84085790": {
+      "source": "Walk through the tools relevant to your team.",
+      "text": "Bekijk de tools die relevant zijn voor uw team."
+    },
+    "m_017a004a77b843b4": {
+      "source": "Find your next step",
+      "text": "Vind jouw volgende stap"
+    },
+    "m_005d0f4eeb499abc": {
+      "source": "Decide whether UCXO fits your needs.",
+      "text": "Bepaal of UCXO aan uw behoeften voldoet."
+    },
+    "m_4fb6a8bf9508c227": {
+      "source": "Prefer email?",
+      "text": "Liever e-mail?"
+    },
+    "m_4654a8b856c3d84a": {
+      "source": "info@ubossai.com",
+      "text": "info@ubossai.com"
+    },
+    "m_d7b726f9014133a7": {
+      "source": "PERSONAL DEMO",
+      "text": "PERSOONLIJKE DEMO"
+    },
+    "m_c0bcd4c0f8e70784": {
+      "source": "Your details",
+      "text": "Uw gegevens"
+    },
+    "m_5898868a7aa77e77": {
+      "source": "Tell us a little about your team.",
+      "text": "Vertel ons iets over uw team."
+    },
+    "m_8a72fed48eb0e10a": {
+      "source": "Four homepage previews — UCXO",
+      "text": "Vier previews van de startpagina — UCXO"
+    },
+    "m_de2134e0e83777dc": {
+      "source": "Back to the website",
+      "text": "Terug naar de website"
+    },
+    "m_701fce1dd957784e": {
+      "source": "HOMEPAGE CAROUSEL · LOCAL DESIGN REVIEW",
+      "text": "HOMEPAGE CARROUSEL · LOKALE ONTWERPBEOORDELING"
+    },
+    "m_4c16508ec4a07e54": {
+      "source": "One workspace.",
+      "text": "Eén werkruimte."
+    },
+    "m_27c34a81aff1e3e4": {
+      "source": "Four ways to move forward.",
+      "text": "Vier manieren om vooruit te komen."
+    },
+    "m_51153c1666edd0cf": {
+      "source": "Four proposed homepage cards. Real software screens, clear explanations, and a closer look at each part of UCXO.",
+      "text": "Vier voorgestelde homepagekaarten. Echte softwareschermen, duidelijke uitleg en een nadere blik op elk onderdeel van UCXO."
+    },
+    "m_3feadc3a85e895f8": {
+      "source": "Original screens from your design PDF",
+      "text": "Originele schermen uit uw ontwerp-PDF"
+    },
+    "m_1beb1dd08f899d47": {
+      "source": "Static previews for review",
+      "text": "Statische voorbeelden ter beoordeling"
+    },
+    "m_5c95b128ccfa4d54": {
+      "source": "Explore the four previews",
+      "text": "Ontdek de vier previews"
+    },
+    "m_5571682bff21eaa2": {
+      "source": "Four homepage previews",
+      "text": "Vier previews van de startpagina"
+    },
+    "m_f8308328d564e5e9": {
+      "source": "FOUR STATIC PREVIEWS · READY FOR YOUR REVIEW",
+      "text": "VIER STATISCHE PREVIEWS · KLAAR VOOR UW REVIEW"
+    },
+    "m_52e6fc0d4ff14657": {
+      "source": "The software leads.",
+      "text": "De software is leidend."
+    },
+    "m_25ae328c986980a7": {
+      "source": "The story makes it clear.",
+      "text": "Het verhaal maakt het duidelijk."
+    },
+    "m_e684637474c72b9e": {
+      "source": "Choose any screen selector to inspect the related module. Open a screen at full size to compare it with the PDF. These previews retain the original sample data and empty or draft states.",
+      "text": "Kies een schermselector om de gerelateerde module te inspecteren. Open een scherm op volledige grootte om het te vergelijken met de PDF. Deze voorbeelden behouden de oorspronkelijke voorbeeldgegevens en lege of conceptstatussen."
+    },
+    "m_e16321c802cc5b0b": {
+      "source": "Back to the four-preview overview",
+      "text": "Terug naar het overzicht met vier previews"
+    },
+    "m_981df12b6af0cb6d": {
+      "source": "How it works — UCXO",
+      "text": "Hoe het werkt — UCXO"
+    },
+    "m_31ee7c1024c6a2f3": {
+      "source": "Follow one business objective from a proposed workflow to human approval and a reviewed outcome.",
+      "text": "Volg één bedrijfsdoelstelling, van een voorgestelde workflow tot menselijke goedkeuring en een beoordeeld resultaat."
+    },
+    "m_a8df6d937c29b2c0": {
+      "source": "FROM DIRECTION TO DELIVERY",
+      "text": "VAN RICHTING TOT LEVERING"
+    },
+    "m_01394f8f105bc905": {
+      "source": "One objective.",
+      "text": "Eén doelstelling."
+    },
+    "m_0ba85a0026d5e58e": {
+      "source": "Every step connected.",
+      "text": "Elke stap verbonden."
+    },
+    "m_894d5e77e91de3fe": {
+      "source": "Follow an illustrative production readiness plan.",
+      "text": "Volg een illustratief productiegereedheidsplan."
+    },
+    "m_efede56cac3220f0": {
+      "source": "People retain the decisions that need human judgment.",
+      "text": "Mensen behouden de beslissingen die menselijk oordeel vereisen."
+    },
+    "m_2d976d07fe674cb7": {
+      "source": "Business execution,",
+      "text": "Bedrijfsuitvoering,"
+    },
+    "m_81ab275217579919": {
+      "source": "Bring your objectives, people, and AI workforce into one shared workflow.",
+      "text": "Breng uw doelstellingen, mensen en AI-personeel samen in één gedeelde workflow."
+    },
+    "m_0a187a75c740a1a0": {
+      "source": "Explore the platform",
+      "text": "Verken het platform"
+    },
+    "m_05a4ddee9b6902a3": {
+      "source": "Sign in to UCXO",
+      "text": "Log in op UCXO"
+    },
+    "m_2c001e5d18904ab9": {
+      "source": "UCXO — Business execution, coordinated.",
+      "text": "UCXO — Bedrijfsuitvoering, gecoördineerd."
+    },
+    "m_b50617fccc181190": {
+      "source": "Turn business objectives into coordinated action. Plan workflows, connect people and AI agents, and keep execution accountable.",
+      "text": "Zet bedrijfsdoelstellingen om in gecoördineerde actie. Plan workflows, verbind mensen en AI-agenten en houd de uitvoering verantwoordelijk."
+    },
+    "m_235027af5c440aca": {
+      "source": "Objectives into workflows",
+      "text": "Doelstellingen in workflows"
+    },
+    "m_e8d95344453cd74f": {
+      "source": "Break a business goal into steps, dependencies, and owners.",
+      "text": "Verdeel een bedrijfsdoel in stappen, afhankelijkheden en eigenaren."
+    },
+    "m_93c59f1918d177c6": {
+      "source": "Plan the work",
+      "text": "Plan het werk"
+    },
+    "m_e1ee66c4bdf33f84": {
+      "source": "Define tasks, conditions, integrations, and approval paths in a versioned workflow.",
+      "text": "Definieer taken, voorwaarden, integraties en goedkeuringspaden in een workflow met versiebeheer."
+    },
+    "m_72b3470b3391adb3": {
+      "source": "Design the workflow",
+      "text": "Ontwerp de werkstroom"
+    },
+    "m_eb13da2bb54c7b42": {
+      "source": "UDO assignments",
+      "text": "UDO opdrachten"
+    },
+    "m_5a8517a250b772c0": {
+      "source": "Give each task a responsible person and a clear status.",
+      "text": "Geef elke taak een verantwoordelijke persoon en een duidelijke status."
+    },
+    "m_ee567e59a762fdf8": {
+      "source": "Assign responsibility",
+      "text": "Wijs verantwoordelijkheid toe"
+    },
+    "m_98792ffeed0f158d": {
+      "source": "Workflow readiness",
+      "text": "Klaar voor de workflow"
+    },
+    "m_5424fb93e6a618ca": {
+      "source": "Test a revision and complete its checks before approval and activation.",
+      "text": "Test een revisie en voltooi de controles voordat deze wordt goedgekeurd en geactiveerd."
+    },
+    "m_bc5698804b4d712f": {
+      "source": "Prepare for execution",
+      "text": "Bereid je voor op executie"
+    },
+    "m_1a0014aee61fe97d": {
+      "source": "AI ACROSS YOUR ORGANISATION",
+      "text": "AI IN UW ORGANISATIE"
+    },
+    "m_6c42aedc1c5994b8": {
+      "source": "01 — THE PLATFORM",
+      "text": "01 — HET PLATFORM"
+    },
+    "m_e1a21e74712e4e98": {
+      "source": "Less manual work.",
+      "text": "Minder handmatig werk."
+    },
+    "m_bb22ab6a2b587d5a": {
+      "source": "More time for your team.",
+      "text": "Meer tijd voor uw team."
+    },
+    "m_2ce9ef29a8909e85": {
+      "source": "Bring AI agents to",
+      "text": "Breng AI-agenten naar"
+    },
+    "m_41d6b1743e549b9f": {
+      "source": "Create and coordinate AI agents to automate everyday tasks across departments.",
+      "text": "Creëer en coördineer AI-agenten om dagelijkse taken op verschillende afdelingen te automatiseren."
+    },
+    "m_35da71a01acae8cb": {
+      "source": "See a workflow example",
+      "text": "Bekijk een workflowvoorbeeld"
+    },
+    "m_736ad36f33ca5ee7": {
+      "source": "Fewer manual handoffs",
+      "text": "Minder handmatige overdrachten"
+    },
+    "m_839adb9129fd958b": {
+      "source": "People and AI working together",
+      "text": "Mensen en AI werken samen"
+    },
+    "m_7f7beb24c2625b12": {
+      "source": "Clear ownership",
+      "text": "Duidelijk eigendom"
+    },
+    "m_aca6c34c2cb84b63": {
+      "source": "A CLEAR PATH FROM GOAL TO OUTCOME",
+      "text": "EEN DUIDELIJK PAD VAN DOEL NAAR UITKOMST"
+    },
+    "m_87309bcf80500668": {
+      "source": "02 — HOW IT WORKS",
+      "text": "02 — HOE HET WERKT"
+    },
+    "m_84fccb7151850eef": {
+      "source": "From goal",
+      "text": "Van doel"
+    },
+    "m_58f820bb7a287413": {
+      "source": "to completed work.",
+      "text": "naar voltooid werk."
+    },
+    "m_71082fdfe98c1edf": {
+      "source": "Follow the five stages of a workflow.",
+      "text": "Volg de vijf fasen van een workflow."
+    },
+    "m_d77c25ee6fca04bf": {
+      "source": "BUILT TO WORK TOGETHER",
+      "text": "GEBOUWD OM SAMEN TE WERKEN"
+    },
+    "m_021225d15ab87de9": {
+      "source": "03 — CORE CAPABILITIES",
+      "text": "03 — KERNMOGELIJKHEDEN"
+    },
+    "m_6ae787e13164c51c": {
+      "source": "Tools behind",
+      "text": "Gereedschap achter"
+    },
+    "m_8625d2ab0213ad9b": {
+      "source": "the workflow.",
+      "text": "de werkstroom."
+    },
+    "m_3d438ff2da5a842a": {
+      "source": "Plan, assign, test, and run.",
+      "text": "Plannen, toewijzen, testen en uitvoeren."
+    },
+    "m_489e9e46fa4f8dd5": {
+      "source": "AUTOMATION WITH ACCOUNTABILITY",
+      "text": "AUTOMATISERING MET VERANTWOORDELIJKHEID"
+    },
+    "m_3933efb4627d4787": {
+      "source": "Human decisions.",
+      "text": "Menselijke beslissingen."
+    },
+    "m_2e0f13390f91ef35": {
+      "source": "At the right moments.",
+      "text": "Op de juiste momenten."
+    },
+    "m_53f661f4874a0f8d": {
+      "source": "UApprove routes decisions to the responsible person.",
+      "text": "UApprove routeert beslissingen naar de verantwoordelijke persoon."
+    },
+    "m_8e51e4d333711cbc": {
+      "source": "Evidence before approval",
+      "text": "Bewijs vóór goedkeuring"
+    },
+    "m_17eb301aad6bfd78": {
+      "source": "Inspect the supporting records.",
+      "text": "Inspecteer de ondersteunende documenten."
+    },
+    "m_6bcbcd9e82784fbe": {
+      "source": "Visibility across execution",
+      "text": "Zichtbaarheid tijdens de uitvoering"
+    },
+    "m_42f63a631ca2e89f": {
+      "source": "See run history and exceptions.",
+      "text": "Bekijk de uitvoeringsgeschiedenis en uitzonderingen."
+    },
+    "m_ba97dafbf068f2f5": {
+      "source": "Clear roles and permissions",
+      "text": "Duidelijke rollen en machtigingen"
+    },
+    "m_553aa8d28b2c26fe": {
+      "source": "Set roles and department scope.",
+      "text": "Stel rollen en afdelingsbereik in."
+    },
+    "m_715ba49853d7591e": {
+      "source": "EXECUTION OVERSIGHT",
+      "text": "TOEZICHT OP UITVOERING"
+    },
+    "m_9dbf7c497268e8cf": {
+      "source": "ILLUSTRATIVE",
+      "text": "ILLUSTRATIEF"
+    },
+    "m_6f9048dd18d63f21": {
+      "source": "Monitoring workflow execution",
+      "text": "Bewaken van de uitvoering van de workflow"
+    },
+    "m_83632deb19d87165": {
+      "source": "HUMAN APPROVAL GATE",
+      "text": "MENSELIJKE GOEDKEURINGSPOORT"
+    },
+    "m_6a32edaa9e63657f": {
+      "source": "A decision stays with you.",
+      "text": "Een beslissing blijft bij je."
+    },
+    "m_52ffa2d63e57dc83": {
+      "source": "Review the evidence and decide.",
+      "text": "Bekijk het bewijsmateriaal en beslis."
+    },
+    "m_d7d77c59e5734265": {
+      "source": "Awaiting human approval",
+      "text": "In afwachting van menselijke goedkeuring"
+    },
+    "m_43eced9cc3fef289": {
+      "source": "Supporting evidence attached",
+      "text": "Ondersteunend bewijsmateriaal bijgevoegd"
+    },
+    "m_045320359988ce3a": {
+      "source": "Exception detected",
+      "text": "Uitzondering gedetecteerd"
+    },
+    "m_84f999cafc7b910f": {
+      "source": "Escalated to the responsible reviewer",
+      "text": "Geëscaleerd naar de verantwoordelijke reviewer"
+    },
+    "m_27792a6a9f5b3a5f": {
+      "source": "Monitoring work does not grant human approval.",
+      "text": "Controlewerkzaamheden geven geen menselijke goedkeuring."
+    },
+    "m_a966f8de9d9dd3cd": {
+      "source": "MADE FOR THE WAY BUSINESSES WORK",
+      "text": "GEMAAKT VOOR DE MANIER VAN WERKEN"
+    },
+    "m_21179ea6281aec72": {
+      "source": "04 — USE CASES",
+      "text": "04 — GEBRUIKSGEVALLEN"
+    },
+    "m_2ef6cccab0371fe8": {
+      "source": "Real work.",
+      "text": "Echt werk."
+    },
+    "m_b41d7ac635056205": {
+      "source": "Connected from end to end.",
+      "text": "Verbonden van begin tot eind."
+    },
+    "m_c4fe464a77a9d10a": {
+      "source": "A shared execution layer for business owners,",
+      "text": "Een gedeelde uitvoeringslaag voor bedrijfseigenaren,"
+    },
+    "m_2fd14ebe28d8be51": {
+      "source": "operations leaders, and the teams they lead.",
+      "text": "Operationele leiders en de teams die zij leiden."
+    },
+    "m_8de6e8d6c611c87d": {
+      "source": "OPERATIONS",
+      "text": "WERKINGEN"
+    },
+    "m_90d33c7d75956921": {
+      "source": "Operational coordination",
+      "text": "Operationele coördinatie"
+    },
+    "m_9d4f20e490a6fe68": {
+      "source": "Align cross-functional tasks, owners, and dependencies around a shared business objective.",
+      "text": "Breng multifunctionele taken, eigenaren en afhankelijkheden op één lijn rond een gedeeld bedrijfsdoel."
+    },
+    "m_c6c129b7c051a3bd": {
+      "source": "Define the plan",
+      "text": "Definieer de planning"
+    },
+    "m_658b5bcf91fd26a9": {
+      "source": "Coordinate handoffs",
+      "text": "Coördineren van overdrachten"
+    },
+    "m_edee7825078e880f": {
+      "source": "REPEATABLE WORK",
+      "text": "HERHAALBAAR WERK"
+    },
+    "m_0f331a1dbf876ad6": {
+      "source": "Recurring reporting",
+      "text": "Terugkerende rapportage"
+    },
+    "m_811911e24bf603be": {
+      "source": "Reuse AI agents to prepare work, then route outputs and evidence to the people who review them.",
+      "text": "Hergebruik AI-agenten om werk voor te bereiden en stuur resultaten en bewijsmateriaal vervolgens door naar de mensen die ze beoordelen."
+    },
+    "m_50f666425a7dfb1e": {
+      "source": "Gather inputs",
+      "text": "Verzamel input"
+    },
+    "m_b70463103eefaa65": {
+      "source": "Run an agent",
+      "text": "Voer een agent uit"
+    },
+    "m_c1f43b8fad7537eb": {
+      "source": "Human review",
+      "text": "Menselijke beoordeling"
+    },
+    "m_097d05ba50e9dbd2": {
+      "source": "GOVERNED EXECUTION",
+      "text": "GEREGISTREERDE UITVOERING"
+    },
+    "m_0b6bf81efb266d2a": {
+      "source": "Approval-driven work",
+      "text": "Goedkeuringsgedreven werken"
+    },
+    "m_1de421de793f98cd": {
+      "source": "Connect task evidence, human approval gates, and exception handling in one visible workflow.",
+      "text": "Verbind taakbewijs, menselijke goedkeuringspoorten en afhandeling van uitzonderingen in één zichtbare workflow."
+    },
+    "m_7f806256df653bfd": {
+      "source": "Collect evidence",
+      "text": "Verzamel bewijsmateriaal"
+    },
+    "m_e013d99a98ac54d0": {
+      "source": "Request approval",
+      "text": "Vraag goedkeuring aan"
+    },
+    "m_cf6b7d779de2bbc6": {
+      "source": "Resolve exceptions",
+      "text": "Uitzonderingen oplossen"
+    },
+    "m_a765c45d72e7f0f7": {
+      "source": "Representative use cases. Workflow examples are illustrative.",
+      "text": "Representatieve gebruiksscenario's. Voorbeelden van workflows zijn illustratief."
+    },
+    "m_50f70da2db0cd6a1": {
+      "source": "A FEW THINGS, MADE CLEAR",
+      "text": "EEN PAAR DINGEN, DUIDELIJK GEMAAKT"
+    },
+    "m_2d9252a6b00649ed": {
+      "source": "Built for clarity.",
+      "text": "Gebouwd voor duidelijkheid."
+    },
+    "m_190ecff64515f70c": {
+      "source": "What is UCXO?",
+      "text": "Wat is UCXO?"
+    },
+    "m_f38bb5996dcad6b0": {
+      "source": "UCXO helps teams turn procedures into assigned, trackable work with AI agents and human approvals.",
+      "text": "UCXO helpt teams procedures om te zetten in toegewezen, traceerbaar werk met AI-agenten en menselijke goedkeuringen."
+    },
+    "m_811adcd46bb39840": {
+      "source": "How do Engine Planner and U-Engine work together?",
+      "text": "Hoe werken Engine Planner en U-Engine samen?"
+    },
+    "m_ba04ee9f3eda2cb8": {
+      "source": "Engine Planner designs the workflow. U-Engine runs the tested, approved, and activated revision.",
+      "text": "Engine Planner ontwerpt de workflow. U-Engine voert de geteste, goedgekeurde en geactiveerde revisie uit."
+    },
+    "m_1773c7583e744efd": {
+      "source": "Who approves work?",
+      "text": "Wie keurt werk goed?"
+    },
+    "m_5373d272ba481330": {
+      "source": "The named human approver decides. An AI agent cannot grant that approval.",
+      "text": "De genoemde menselijke goedkeurder beslist. Een AI-agent kan die goedkeuring niet verlenen."
+    },
+    "m_ef2899bfe4733eae": {
+      "source": "When can a workflow run?",
+      "text": "Wanneer kan een workflow worden uitgevoerd?"
+    },
+    "m_eb3a13d4c14e1fc7": {
+      "source": "After readiness checks, human approval, and activation.",
+      "text": "Na gereedheidscontroles, menselijke goedkeuring en activering."
+    },
+    "m_cfcc298cc3bc21a5": {
+      "source": "GIVE YOUR OBJECTIVES A WAY FORWARD",
+      "text": "GEEF UW DOELSTELLINGEN EEN WEG VOORUIT"
+    },
+    "m_39b86e0926ef173c": {
+      "source": "See UCXO",
+      "text": "Zie UCXO"
+    },
+    "m_cb8b28f735037717": {
+      "source": "Book a demo for your team, or watch the workflow example.",
+      "text": "Boek een demo voor uw team, of bekijk het workflowvoorbeeld."
+    },
+    "m_ca2a48c2e1832155": {
+      "source": "Watch the workflow",
+      "text": "Bekijk de werkstroom"
+    },
+    "m_aabc5d17a50291db": {
+      "source": "Please complete this field.",
+      "text": "Vul dit veld in."
+    },
+    "m_958e4ccf2953d747": {
+      "source": "Please enter a valid email address.",
+      "text": "Voer een geldig e-mailadres in."
+    },
+    "m_5d9522efc336a15e": {
+      "source": "Please check this value.",
+      "text": "Controleer deze waarde."
+    },
+    "m_46926eec3ee5eec8": {
+      "source": "Audio: English",
+      "text": "Audio: Engels"
+    },
+    "m_721164f0dc7096a8": {
+      "source": "Transcript",
+      "text": "Afschrift"
+    },
+    "m_a469ab4ca4e55bf5": {
+      "source": "Page not found",
+      "text": "Pagina niet gevonden"
+    },
+    "m_53499f49a29cecc8": {
+      "source": "The page you requested could not be found.",
+      "text": "De door u opgevraagde pagina kon niet worden gevonden."
+    },
+    "m_bbcc935e4263ac40": {
+      "source": "Return home",
+      "text": "Keer terug naar huis"
+    },
+    "m_bba5b40bdd28c66e": {
+      "source": "Choose language",
+      "text": "Kies taal"
+    },
+    "m_98cdcf4f2415ed0e": {
+      "source": "Search languages",
+      "text": "Zoek talen"
+    },
+    "m_037c968467aa3fd7": {
+      "source": "Escape",
+      "text": "Ontsnappen"
+    },
+    "m_318655cea4bd2096": {
+      "source": "Languages",
+      "text": "Talen"
+    },
+    "m_c374de6126b7dc3a": {
+      "source": "UCXO demo request — {company}",
+      "text": "UCXO demo-aanvraag — {company}"
+    },
+    "m_dc6f10e7c1dab2be": {
+      "source": "Name: {value}",
+      "text": "Naam: {value}"
+    },
+    "m_4234159ef2c2168b": {
+      "source": "Work email: {value}",
+      "text": "Werk-e-mailadres: {value}"
+    },
+    "m_24069b239ec761dd": {
+      "source": "Company: {value}",
+      "text": "Bedrijf: {value}"
+    },
+    "m_f29a272dd0d5f01e": {
+      "source": "Job title: {value}",
+      "text": "Functietitel: {value}"
+    },
+    "m_658298dfc335b8da": {
+      "source": "Company size: {value}",
+      "text": "Bedrijfsgrootte: {value}"
+    },
+    "m_e18f82013aa2c887": {
+      "source": "Country: {value}",
+      "text": "Land: {value}"
+    },
+    "m_d6ab07eb21a6afcd": {
+      "source": "Chapter {0}: {1}",
+      "text": "Hoofdstuk {0}: {1}"
+    },
+    "m_e4904a21fba42d61": {
+      "source": "STEP {0} / {1}",
+      "text": "STAP {0} / {1}"
+    },
+    "m_0d4aaedf68df5a8e": {
+      "source": "{0} of {1}: {2}",
+      "text": "{0} van {1}: {2}"
+    },
+    "m_b043c272d386dbaa": {
+      "source": "THE COMPLETE STORY · {0} SECONDS",
+      "text": "HET COMPLETE VERHAAL · {0} SECONDEN"
+    },
+    "m_b921f42bc02c6856": {
+      "source": "Expand {0} screen",
+      "text": "Vouw het scherm {0} uit"
+    },
+    "m_ce94d61303687ba5": {
+      "source": "Inspect original {0} screen",
+      "text": "Inspecteer het originele {0}-scherm"
+    },
+    "m_3e463d8419481b8e": {
+      "source": "{0} software screens",
+      "text": "{0} softwareschermen"
+    },
+    "m_3b3244a91171e0f3": {
+      "source": "{0} original software screen",
+      "text": "{0} origineel softwarescherm"
+    },
+    "m_4a4ab68449d9d0ba": {
+      "source": "NEXT · {0}",
+      "text": "VOLGENDE · {0}"
+    },
+    "m_366481ec76892620": {
+      "source": "{0} demo chapters",
+      "text": "{0} demohoofdstukken"
+    },
+    "m_2f9278880a6895d7": {
+      "source": "{0}. Original UCXO software screen with a guided cursor demonstration.",
+      "text": "{0}. Origineel UCXO softwarescherm met een begeleide cursordemonstratie."
+    },
+    "m_6cf8883ab36a2703": {
+      "source": "UPingme / Calls & meetings",
+      "text": "UPingme / Oproepen en vergaderingen"
+    },
+    "m_0a5e800b8c899ee7": {
+      "source": "Search IDs, titles...",
+      "text": "Zoek ID's, titels..."
+    },
+    "m_c8f48a68649d1cae": {
+      "source": "AM",
+      "text": "AM"
+    },
+    "m_a351eec47f0af838": {
+      "source": "Pilot Company A (sample) · Operations",
+      "text": "Pilot Company A (voorbeeld) · Operaties"
+    },
+    "m_36e65c39f83b8df9": {
+      "source": "HOME",
+      "text": "THUIS"
+    },
+    "m_55590a3975bb4e96": {
+      "source": "Calls & meetings",
+      "text": "Oproepen en vergaderingen"
+    },
+    "m_20256c4530ad3e6b": {
+      "source": "Voice and video calls, meeting scheduling, recording and transcripts are not part of this build.",
+      "text": "Spraak- en videogesprekken, vergaderplanning, opnames en transcripties maken geen deel uit van deze build."
+    },
+    "m_e9eb5b5f46b8ddf0": {
+      "source": "U&ME",
+      "text": "U&Me"
+    },
+    "m_160ae3842daf1405": {
+      "source": "CALLINGPROVIDER·NONECONFIGURED",
+      "text": "BELLENDE PROVIDER·NIETGECONFIGUREERD"
+    },
+    "m_f9b2a819fce940c1": {
+      "source": "UAvatar",
+      "text": "UAvatar"
+    },
+    "m_dfd01a6283444011": {
+      "source": "No calls or meetings can be started",
+      "text": "Er kunnen geen gesprekken of vergaderingen worden gestart"
+    },
+    "m_f29bc501c32a5bee": {
+      "source": "D02",
+      "text": "D02"
+    },
+    "m_fcec91509759ad99": {
+      "source": "here",
+      "text": "hier"
+    },
+    "m_00e8c6b00dc95039": {
+      "source": "Decision needed·D09·D13",
+      "text": "Beslissing nodig·D09·D13"
+    },
+    "m_00297900f1d049f2": {
+      "source": "USPACE",
+      "text": "USpace"
+    },
+    "m_6b12c0eb5aee382c": {
+      "source": "There is no Join, Record or Transcribe control",
+      "text": "Er is geen controle over deelnemen, opnemen of transcriberen"
+    },
+    "m_4a3eafcc0ea7d3b9": {
+      "source": "because nothingwould actuallyhappen.Meetings",
+      "text": "omdat er eigenlijk niets zou gebeuren. Vergaderingen"
+    },
+    "m_aea081039e017fee": {
+      "source": "cannot be scheduled or stored—none exist.",
+      "text": "kunnen niet worden gepland of opgeslagen; ze bestaan niet."
+    },
+    "m_6a5c34601864b806": {
+      "source": "Tobe decided before callsexist",
+      "text": "Om te beslissen voordat je belt"
+    },
+    "m_22da70ec10d5c581": {
+      "source": "Meanwhile",
+      "text": "Ondertussen"
+    },
+    "m_aa0341e46405c747": {
+      "source": "Calls &meetings",
+      "text": "Oproepen en vergaderingen"
+    },
+    "m_d41180453672ca95": {
+      "source": "D09",
+      "text": "D09"
+    },
+    "m_165676acb370f64e": {
+      "source": "Calling provider and where call data is",
+      "text": "Bellende provider en waar de gespreksgegevens zich bevinden"
+    },
+    "m_fa6e2e0347af4935": {
+      "source": "Workconversations",
+      "text": "Werkgesprekken"
+    },
+    "m_3186ef85555cc774": {
+      "source": "UMASTERS",
+      "text": "UMaster"
+    },
+    "m_58190ffabf981aa3": {
+      "source": "processed",
+      "text": "verwerkt"
+    },
+    "m_d4e96570856902e1": {
+      "source": "O active, each bound to the object being",
+      "text": "O actief, elk gebonden aan het objectwezen"
+    },
+    "m_2c5d7547dc21c6c7": {
+      "source": "Decision needed·D09",
+      "text": "Beslissing nodig·D09"
+    },
+    "m_50280dca6e2590f1": {
+      "source": "discussed.",
+      "text": "besproken."
+    },
+    "m_19a1b4b34a4e0e7e": {
+      "source": "Participant consent before any",
+      "text": "Voorafgaande toestemming van de deelnemer"
+    },
+    "m_848dc8cf1aa3278b": {
+      "source": "Message a person",
+      "text": "Stuur een persoon een bericht"
+    },
+    "m_4bb85f81f158af94": {
+      "source": "recording or transcript",
+      "text": "opname of transcriptie"
+    },
+    "m_ac24d457fcbd7ff0": {
+      "source": "Directmessages arecreated withthe first",
+      "text": "Met de eerste worden directe berichten gemaakt"
+    },
+    "m_c17c02e81c901ffe": {
+      "source": "message.",
+      "text": "bericht."
+    },
+    "m_f7b71dea77b1786c": {
+      "source": "Retention and access for recordings",
+      "text": "Bewaring en toegang voor opnames"
+    },
+    "m_c83db93de338f831": {
+      "source": "Agree an action",
+      "text": "Akkoord gaan met een actie"
+    },
+    "m_614521ff772d1de4": {
+      "source": "Propose a task from the message; it reaches",
+      "text": "Een taak uit het bericht voorstellen; het bereikt"
+    },
+    "m_a3b4304e156f89ae": {
+      "source": "and transcripts(URecords)",
+      "text": "en transcripties(URecords)"
+    },
+    "m_0e6ea45b41509fb6": {
+      "source": "UDO only after you review and submit it.",
+      "text": "UDO alleen nadat u het heeft beoordeeld en ingediend."
+    },
+    "m_74a883a037bc227f": {
+      "source": "Settings",
+      "text": "Instellingen"
+    },
+    "m_7b0b1ea5bf0e684f": {
+      "source": "Arjun Mehta",
+      "text": "Arjun Mehta"
+    },
+    "m_291101a07fe980e9": {
+      "source": "Operator",
+      "text": "Exploitant"
+    },
+    "m_8063cf6e4a7a339c": {
+      "source": "Targetdevices,displays and room",
+      "text": "Doelapparaten, displays en ruimte"
+    },
+    "m_adce636e468ab606": {
+      "source": "UCXO.ai",
+      "text": "UCXO.ai"
+    },
+    "m_2058215541c8169d": {
+      "source": "UCXO/ Delegation Master",
+      "text": "UCXO/ Delegatiemeester"
+    },
+    "m_858a6d20a4df4b5b": {
+      "source": "PilotCompany A(sample)·Operations",
+      "text": "PilotCompany A(voorbeeld)·Operations"
+    },
+    "m_def797f942a05686": {
+      "source": "Who may act for whom, on what, and for how long. Task handover and approval-authority",
+      "text": "Wie mag voor wie optreden, waarvoor en voor hoe lang. Taakoverdracht en goedkeuringsbevoegdheid"
+    },
+    "m_7e93da02ceee5074": {
+      "source": "substitutionareseparate,time-bound authorities.",
+      "text": "vervanging zijn afzonderlijke, tijdgebonden autoriteiten."
+    },
+    "m_14963a6ad9813a40": {
+      "source": "UEngine",
+      "text": "UEngine"
+    },
+    "m_ead0ff936093cc85": {
+      "source": "Decision needed · D04",
+      "text": "Beslissing nodig · D04"
+    },
+    "m_f84fcac464875f19": {
+      "source": "The business meaning of delegation and whether chains are allowed are not decided.Conservative",
+      "text": "De zakelijke betekenis van delegatie en of ketens zijn toegestaan, staat niet vast. Conservatief"
+    },
+    "m_a0714d5bdf9adcb0": {
+      "source": "defaults apply: a delegation never grants more than the delegator holds (checked again on every",
+      "text": "standaardwaarden zijn van toepassing: een delegatie verleent nooit meer dan de delegator bezit (opnieuw gecontroleerd bij elke"
+    },
+    "m_d48b703f9c5c29f1": {
+      "source": "use), chains are blocked, and approval substitution needs an independent administrator.",
+      "text": "gebruik), ketens zijn geblokkeerd en goedkeuringsvervanging heeft een onafhankelijke beheerder nodig."
+    },
+    "m_d4b5e2ca61b96a97": {
+      "source": "AIl",
+      "text": "AIl"
+    },
+    "m_bb33a7f41817b38d": {
+      "source": "Pending approval",
+      "text": "In afwachting van goedkeuring"
+    },
+    "m_4724f344c1c0e4a1": {
+      "source": "Scheduled",
+      "text": "Gepland"
+    },
+    "m_92340695899bd2d8": {
+      "source": "Active",
+      "text": "Actief"
+    },
+    "m_424a2551d356754c": {
+      "source": "Expired",
+      "text": "Verlopen"
+    },
+    "m_f6f738d043929f59": {
+      "source": "Revoked",
+      "text": "Ingetrokken"
+    },
+    "m_aea4a04a80426ed8": {
+      "source": "Rejected",
+      "text": "Afgewezen"
+    },
+    "m_e8c93e166aa7be3d": {
+      "source": "Both kinds 1",
+      "text": "Beide soorten 1"
+    },
+    "m_96caaa4bcad18fc8": {
+      "source": "Approval substitution 1",
+      "text": "Goedkeuring vervanging 1"
+    },
+    "m_96e9376c8f35e03a": {
+      "source": "Task handover 0",
+      "text": "Taakoverdracht 0"
+    },
+    "m_aaaa41092cb60d93": {
+      "source": "Onlydelegationsinvolvingme",
+      "text": "Alleen delegaties waarbij ik betrokken ben"
+    },
+    "m_eba412e323bdb5df": {
+      "source": "Q Search people, ID, reason",
+      "text": "Q Zoek mensen, ID, reden"
+    },
+    "m_cffe4e926e1d64cd": {
+      "source": "6 Nov-3Dec",
+      "text": "6 nov-3dec"
+    },
+    "m_e10ae99074011888": {
+      "source": "Earlier",
+      "text": "Eerder"
+    },
+    "m_2b065c7c9ce466e5": {
+      "source": "Today",
+      "text": "Vandaag"
+    },
+    "m_73b6e48a1b552d11": {
+      "source": "Later",
+      "text": "Later"
+    },
+    "m_f727adc9d8af6663": {
+      "source": "D04",
+      "text": "D04"
+    },
+    "m_42bdbbe6e436d21a": {
+      "source": "WHOACTSFORWHOM",
+      "text": "WIE HANDELT VOOR WIE"
+    },
+    "m_01babc37e3b53a3a": {
+      "source": "9NoV16No23No30NoTATE",
+      "text": "9NeeV16Nee23Nee30NeeTAAT"
+    },
+    "m_ac0ea0a5b7823640": {
+      "source": "RohanDas",
+      "text": "RohanDas"
+    },
+    "m_4414cdcb7cc80ae5": {
+      "source": "RD",
+      "text": "RD"
+    },
+    "m_f5bb21a92cd855c6": {
+      "source": "actsforVikramShah",
+      "text": "treedt op voor VikramShah"
+    },
+    "m_c23ebdbe51b2b7ab": {
+      "source": "DLG-001",
+      "text": "DLG-001"
+    },
+    "m_358cc201f87d9dc9": {
+      "source": "Operations",
+      "text": "Operaties"
+    },
+    "m_789c58d43b3c16e1": {
+      "source": "UCXO/ Engine Planner",
+      "text": "UCXO/ Engine Planner"
+    },
+    "m_29718e47cc3a287a": {
+      "source": "PilotCompanyA(sample)·Operations",
+      "text": "PilotCompanyA(voorbeeld)·Operations"
+    },
+    "m_2a931a230eb2c281": {
+      "source": "A plan binds an accepted objective, committed work and resources to a versioned workflow. It must pass",
+      "text": "Een plan bindt een geaccepteerde doelstelling, toegewijd werk en middelen aan een geversieerde workflow. Het moet voorbijgaan"
+    },
+    "m_bc411a9e9bceceb1": {
+      "source": "readiness,be approved bya namedperson andbeactivatedbefore anyruncanstart.",
+      "text": "gereed zijn, goedgekeurd worden door een met name genoemde persoon en geactiveerd worden voordat een run kan starten."
+    },
+    "m_ebf12ef47cf575b3": {
+      "source": "Draft",
+      "text": "Diepgang"
+    },
+    "m_e74767dc0855ce6c": {
+      "source": "Readyforreview",
+      "text": "Klaar voor beoordeling"
+    },
+    "m_3d600b06ddfd4fb0": {
+      "source": "Inreview",
+      "text": "Beoordeling"
+    },
+    "m_4ae81572f06e1b88": {
+      "source": "Q",
+      "text": "Q"
+    },
+    "m_e392a3891c070abe": {
+      "source": "Suspended",
+      "text": "Opgeschort"
+    },
+    "m_c7a64a48c95398db": {
+      "source": "Search ID, title or objectiv",
+      "text": "Zoek-ID, titel of doelstelling"
+    },
+    "m_22468da5be0a514a": {
+      "source": "1 plan",
+      "text": "1 plan"
+    },
+    "m_008dbe8ae3501240": {
+      "source": "PLAN-021",
+      "text": "PLAN-021"
+    },
+    "m_3bfc269594ef6492": {
+      "source": "v1",
+      "text": "v1"
+    },
+    "m_752aeed21834c141": {
+      "source": "Nextweek'sproductionreadinessplan",
+      "text": "Het productiegereedheidsplan van volgende week"
+    },
+    "m_891889672a7e18ee": {
+      "source": "ObjectiveOBJ-026·Preparenextweek'sproductionplan",
+      "text": "DoelOBJ-026·Het productieplan van volgende week voorbereiden"
+    },
+    "m_8d81752d9c24d45d": {
+      "source": "Readiness 4/8",
+      "text": "Bereidheid 4/8"
+    },
+    "m_ba7cfb6071991ab2": {
+      "source": "LIVE VERSION",
+      "text": "LIVE-VERSIE"
+    },
+    "m_bc255baed81f10b7": {
+      "source": "WF-008·draftv1·10nodes",
+      "text": "WF-008·draftv1·10nodes"
+    },
+    "m_4505af92e2834d73": {
+      "source": "Not active",
+      "text": "Niet actief"
+    },
+    "m_072b9dea5010ac3f": {
+      "source": "APPROVER",
+      "text": "GOEDKEUREN"
+    },
+    "m_0559aadba9e29b9a": {
+      "source": "OWNER",
+      "text": "EIGENAAR"
+    },
+    "m_f6ddebfba254f9e4": {
+      "source": "VikramShah",
+      "text": "VikramShah"
+    },
+    "m_83658c838dce6fd2": {
+      "source": "Resolve readiness",
+      "text": "Bereidheid oplossen"
+    },
+    "m_f08ea7758ef00972": {
+      "source": "UCXO / Forms Master",
+      "text": "UCXO / Formulierenmeester"
+    },
+    "m_d28fa312fe6a2aaf": {
+      "source": "Search IDs, titles..",
+      "text": "Zoek ID's, titels..."
+    },
+    "m_08b154cddc3832e9": {
+      "source": "UCXO/ Forms Master",
+      "text": "UCXO/ Formuliermeester"
+    },
+    "m_72d4f1c8273d67d3": {
+      "source": "Form definitions created on departmental demand. Published versions are immutable; every change",
+      "text": "Formulierdefinities gemaakt op vraag van de afdeling. Gepubliceerde versies zijn onveranderlijk; elke verandering"
+    },
+    "m_2d4424aa35fad6ce": {
+      "source": "becomes a new draft version that an independent reviewer publishes.",
+      "text": "wordt een nieuwe conceptversie die een onafhankelijke recensent publiceert."
+    },
+    "m_89a3ec1b5208f13d": {
+      "source": "AII",
+      "text": "Al"
+    },
+    "m_2ef42ec21d9300dd": {
+      "source": "Published",
+      "text": "Gepubliceerd"
+    },
+    "m_a9f71bc2404c9193": {
+      "source": "Retired",
+      "text": "Gepensioneerd"
+    },
+    "m_625ff126402642a8": {
+      "source": "All departments",
+      "text": "Alle afdelingen"
+    },
+    "m_9876f09c5cf11988": {
+      "source": "Q Search ID, name or recorc",
+      "text": "Q Zoek ID, naam of record"
+    },
+    "m_cc65c859bfd3084f": {
+      "source": "Productionreadiness checklist",
+      "text": "Controlelijst voor productiegereedheid"
+    },
+    "m_a433852a27cba622": {
+      "source": "FORM-001",
+      "text": "FORM-001"
+    },
+    "m_13a5bc92b48105d0": {
+      "source": "Operatorchecklistbeforeapackagingrun.",
+      "text": "Controlelijst voor de operator vóór een verpakkingsrun."
+    },
+    "m_dcc839a4015c4b7d": {
+      "source": "View",
+      "text": "Bekijk"
+    },
+    "m_9ced30727521dd35": {
+      "source": "& OperationsOwner Kabir SenProduces Readiness checklist",
+      "text": "& OperationsEigenaar Kabir Senproduceert een gereedheidschecklist"
+    },
+    "m_7f8b71b1b9334264": {
+      "source": "Bound toPLAN-021",
+      "text": "Gebonden aanPLAN-021"
+    },
+    "m_2a9745100112b2a4": {
+      "source": "Live v1 8fields·immutable",
+      "text": "Live v1 8velden onveranderlijk"
+    },
+    "m_b990fcc51c5e4816": {
+      "source": "FormsMaster",
+      "text": "FormulierenMaster"
+    },
+    "m_04ace396529124fc": {
+      "source": "UCXO / HR Master",
+      "text": "UCXO / HR-meester"
+    },
+    "m_5763fb91c0ae2128": {
+      "source": "People as planning resources: role, skills, working calendar and what they are committed to. Login",
+      "text": "Mensen als planningsmiddelen: rol, vaardigheden, werkkalender en waar ze zich voor inzetten. Inloggen"
+    },
+    "m_7b7d5c40c86a0eb8": {
+      "source": "People & skills",
+      "text": "Mensen & vaardigheden"
+    },
+    "m_59969fdd14d2edd9": {
+      "source": "Hierarchy & staffing",
+      "text": "Hiërarchie en personeelsbezetting"
+    },
+    "m_ee4b8c54d86fa2a2": {
+      "source": "Availability board",
+      "text": "Beschikbaarheidsbord"
+    },
+    "m_9cb4b1e2161169e8": {
+      "source": "Import (CSV)",
+      "text": "Importeren (CSV)"
+    },
+    "m_b63b9741c7423c6a": {
+      "source": "&People",
+      "text": "&Mensen"
+    },
+    "m_850d021cf42386bb": {
+      "source": "品 Skill matrix",
+      "text": "品 Vaardighedenmatrix"
+    },
+    "m_6df1bb18a59ab97d": {
+      "source": "Skill",
+      "text": "Vaardigheid"
+    },
+    "m_920e413c7d411b61": {
+      "source": "Status",
+      "text": "Status"
+    },
+    "m_0eb83d4e3ccf4336": {
+      "source": "All my departments",
+      "text": "Al mijn afdelingen"
+    },
+    "m_76074941a0ef91d4": {
+      "source": "Any skill",
+      "text": "Elke vaardigheid"
+    },
+    "m_3aec9a7aef57fcf1": {
+      "source": "Active and inactive",
+      "text": "Actief en inactief"
+    },
+    "m_6e3fe21eb36e46f1": {
+      "source": "Name, role or skill",
+      "text": "Naam, rol of vaardigheid"
+    },
+    "m_c30be76e0ad43892": {
+      "source": "Sunil Varma",
+      "text": "Sunil Varma"
+    },
+    "m_a4cd8b4d9855cd16": {
+      "source": "SV",
+      "text": "SV"
+    },
+    "m_228121b02f3ccdb8": {
+      "source": "Maintenancetechnician",
+      "text": "Onderhoudstechnicus"
+    },
+    "m_a3ddf0b4ea82caa2": {
+      "source": "Packaging operator",
+      "text": "Verpakkingsoperator"
+    },
+    "m_17ccfa5b681e3e7b": {
+      "source": "Maintenance",
+      "text": "Onderhoud"
+    },
+    "m_a2eefbcb6bbec8b4": {
+      "source": "Electrical",
+      "text": "Elektrisch"
+    },
+    "m_0d62bb01df4edd95": {
+      "source": "Packaging",
+      "text": "Verpakking"
+    },
+    "m_1b2c08a8733d7ff1": {
+      "source": "Quality",
+      "text": "Kwaliteit"
+    },
+    "m_08f271887ce94707": {
+      "source": "M",
+      "text": "M"
+    },
+    "m_e632b7095b0bf32c": {
+      "source": "T",
+      "text": "T"
+    },
+    "m_fcb5f40df9be6bae": {
+      "source": "W",
+      "text": "W"
+    },
+    "m_fb2895e628ebbda5": {
+      "source": "苗Nothing committed",
+      "text": "苗Niets vastgelegd"
+    },
+    "m_781d1bc920f58b6b": {
+      "source": "No login account",
+      "text": "Geen inlogaccount"
+    },
+    "m_92240f76a7f03593": {
+      "source": "Login: Arjun Mehta",
+      "text": "Inloggen: Arjun Mehta"
+    },
+    "m_098a381d15d9d2e6": {
+      "source": "Maya Rao",
+      "text": "Maya Rao"
+    },
+    "m_2f98da7420cfb4e1": {
+      "source": "MR",
+      "text": "Dhr"
+    },
+    "m_d23d6ba7f3603896": {
+      "source": "UPingme /",
+      "text": "UPingme /"
+    },
+    "m_9fc46a32e83dd2c4": {
+      "source": "UPingme / Inbox",
+      "text": "UPingme / Postvak IN"
+    },
+    "m_2501813b9f2e40c4": {
+      "source": "Every conversation you are a member of, sorted so that what needs you comes first.",
+      "text": "Elk gesprek waaraan u deelneemt, wordt zo gesorteerd dat wat u nodig heeft op de eerste plaats komt."
+    },
+    "m_bc70c8a0065a900d": {
+      "source": "Markallread",
+      "text": "Markeer gelezen"
+    },
+    "m_81dc366573a6a84d": {
+      "source": "Messagesomeone",
+      "text": "Stuur iemand een bericht"
+    },
+    "m_3a2b54e6f22de845": {
+      "source": "AlI 1",
+      "text": "AlI 1"
+    },
+    "m_1b9f384c1436f607": {
+      "source": "Unread",
+      "text": "Ongelezen"
+    },
+    "m_95e6670592f19771": {
+      "source": "Direct messages",
+      "text": "Directe berichten"
+    },
+    "m_6f32e692ede03567": {
+      "source": "Mentions",
+      "text": "Vermeldingen"
+    },
+    "m_5825180a196e1230": {
+      "source": "Search names,topics and message text",
+      "text": "Zoek namen, onderwerpen en berichttekst"
+    },
+    "m_357b991d45b553ef": {
+      "source": "UNREAD",
+      "text": "ONGELEZEN"
+    },
+    "m_95f41a9477c6d635": {
+      "source": "#ops-planning",
+      "text": "#ops-planning"
+    },
+    "m_d43f2ba8440cef45": {
+      "source": "Team channel",
+      "text": "Teamkanaal"
+    },
+    "m_cb69a0ff45a13d1f": {
+      "source": "12Nov2026,7:05 am",
+      "text": "12nov2026, 7:05 uur"
+    },
+    "m_6a323d25089d050a": {
+      "source": "VikramShah:@Neha please resolve theWORK-021conflict before2026-11-13 a...",
+      "text": "VikramShah:@Neha, los alstublieft het WORK-021-conflict op vóór 13-11-2026 a..."
+    },
+    "m_47f34dbfc93b6883": {
+      "source": "UCXO / Machine Master",
+      "text": "UCXO / Machinemeester"
+    },
+    "m_36480e9fd5997c1e": {
+      "source": "Equipment that work can be scheduled on: where it is, what it can do, how much per hour, when it is",
+      "text": "Apparatuur die werkt, kan worden ingepland: waar staat het, wat kan het, hoeveel per uur, wanneer staat het"
+    },
+    "m_c8220c9572cee89d": {
+      "source": "open, and what is already reserved. Scheduling only — no machine control.",
+      "text": "open is, en wat al gereserveerd is. Alleen planning – geen machinebesturing."
+    },
+    "m_d9f304129ab624c0": {
+      "source": "AIl3",
+      "text": "AI3"
+    },
+    "m_e674447337e83c13": {
+      "source": "Available",
+      "text": "Beschikbaar"
+    },
+    "m_891647ace20eaab8": {
+      "source": "Outofservice",
+      "text": "Buiten dienst"
+    },
+    "m_70481fd56b9992c5": {
+      "source": "Q Name, location or capabil",
+      "text": "Q Naam, locatie of capaciteit"
+    },
+    "m_79364def16df54c6": {
+      "source": "Label printer 05",
+      "text": "Labelprinter 05"
+    },
+    "m_09d590223da622d5": {
+      "source": "Packaging line 03",
+      "text": "Verpakkingslijn 03"
+    },
+    "m_7a0902903e3a0d34": {
+      "source": "PlantA·Bay2·MACH-005",
+      "text": "PlantA·Bay2·MACH-005"
+    },
+    "m_14fd3a1dc55c77a5": {
+      "source": "PlantA·Bay3·MACH-003",
+      "text": "PlantA·Bay3·MACH-003"
+    },
+    "m_7ffc77ae5b9fe0c2": {
+      "source": "900 labels/hour",
+      "text": "900 etiketten/uur"
+    },
+    "m_a644fbeb34b04311": {
+      "source": "units/hour",
+      "text": "eenheden/uur"
+    },
+    "m_8cf138b9383fddb5": {
+      "source": "Labelling",
+      "text": "Etikettering"
+    },
+    "m_4253ab5a548b493f": {
+      "source": "Sealing",
+      "text": "Afdichting"
+    },
+    "m_f67ab10ad4e4c531": {
+      "source": "F",
+      "text": "F"
+    },
+    "m_8de0b3c47f112c59": {
+      "source": "S",
+      "text": "S"
+    },
+    "m_f644c15748cb8106": {
+      "source": "O reservedNo downtime planned",
+      "text": "O gereserveerdGeen downtime gepland"
+    },
+    "m_f0b88f81e1ed343d": {
+      "source": "0 reserved Down 19 Nov 2026",
+      "text": "0 gereserveerd tot 19 november 2026"
+    },
+    "m_fc374dc1bd87f126": {
+      "source": "Packaging line 02",
+      "text": "Verpakkingslijn 02"
+    },
+    "m_06baeb7b1a60a1f4": {
+      "source": "PlantA·Bay2·MACH-002",
+      "text": "PlantA·Bay2·MACH-002"
+    },
+    "m_eb572628161ebe0e": {
+      "source": "UCXO /",
+      "text": "UCXO /"
+    },
+    "m_49c9ff803fc61bb6": {
+      "source": "Pilot Company A(sample)· Operations",
+      "text": "Pilot Company A (voorbeeld) · Operaties"
+    },
+    "m_a0d316310dcd871b": {
+      "source": "Every objective states an outcome, how success is proven, and who owns it — then travels through",
+      "text": "Elke doelstelling vermeldt een uitkomst, hoe succes wordt bewezen en wie de eigenaar is – en reist er vervolgens doorheen"
+    },
+    "m_21da37f74a3dfffa": {
+      "source": "planning,approval,executionandagovernedrecord.",
+      "text": "planning,goedkeuring,uitvoeringenbeheersrecord."
+    },
+    "m_eba92953899468e3": {
+      "source": "Objectives",
+      "text": "Doelstellingen"
+    },
+    "m_e6b85bfbf55020aa": {
+      "source": "Mission",
+      "text": "Missie"
+    },
+    "m_8fcbe0112220fd57": {
+      "source": "MISSION·MIS-001",
+      "text": "MISSIE·MIS-001"
+    },
+    "m_382384fcfa2dd418": {
+      "source": "Mission &Objectives",
+      "text": "Missie en doelstellingen"
+    },
+    "m_7faaeee0da845c2f": {
+      "source": "Reliable, evidenced operations",
+      "text": "Betrouwbare, bewezen operaties"
+    },
+    "m_8ef7d390be9ceec7": {
+      "source": "Deliver every production commitment on time with people,",
+      "text": "Lever elke productieverplichting op tijd met mensen,"
+    },
+    "m_79e6072607592eff": {
+      "source": "equipment and decisions that are planned,approved and evidenced.",
+      "text": "apparatuur en beslissingen die gepland, goedgekeurd en bewezen zijn."
+    },
+    "m_7cd3a7014cf070cf": {
+      "source": "OwnerAshaKulkarni",
+      "text": "EigenaarAshaKulkarni"
+    },
+    "m_7422d46392a26a53": {
+      "source": "Humans approvereleases",
+      "text": "Mensen keuren releases goed"
+    },
+    "m_1b3031863a5b6c1b": {
+      "source": "Everyoutput istraceable",
+      "text": "Elke output is traceerbaar"
+    },
+    "m_4ee5714482f772d1": {
+      "source": "Plans reflect real capacity",
+      "text": "Plannen weerspiegelen de werkelijke capaciteit"
+    },
+    "m_b92aa0c325915132": {
+      "source": "Open mission",
+      "text": "Open missie"
+    },
+    "m_f59152557b48caaa": {
+      "source": "All 1",
+      "text": "Alle 1"
+    },
+    "m_4848885e3fc43f6c": {
+      "source": "Awaiting review",
+      "text": "In afwachting van beoordeling"
+    },
+    "m_a00fb0c50741f81b": {
+      "source": "Accepted",
+      "text": "Geaccepteerd"
+    },
+    "m_a95671b6583aa676": {
+      "source": "Revised",
+      "text": "Herzien"
+    },
+    "m_657cfe3497079fba": {
+      "source": "Search ID, title or owner",
+      "text": "Zoek-ID, titel of eigenaar"
+    },
+    "m_ee820467e916f34a": {
+      "source": "Prepare",
+      "text": "Bereid je voor"
+    },
+    "m_c6c1c9a9c8543f1e": {
+      "source": "next",
+      "text": "volgende"
+    },
+    "m_96318b361e9f70c8": {
+      "source": "week's",
+      "text": "week"
+    },
+    "m_ef8fba830d9e519a": {
+      "source": "UPingme / People directory",
+      "text": "UPingme / Personenlijst"
+    },
+    "m_da33a5bc150acc17": {
+      "source": "Everyone in your company you can message, with their team and roles from UUsers. HR availability",
+      "text": "Iedereen in uw bedrijf kunt u een bericht sturen, met hun team en rollen van UUsers. HR-beschikbaarheid"
+    },
+    "m_d05c38eced677ff1": {
+      "source": "and access details arenot shownhere.",
+      "text": "en toegangsgegevens worden hier niet weergegeven."
+    },
+    "m_b119e322f785babb": {
+      "source": "Name,title or department",
+      "text": "Naam, titel of afdeling"
+    },
+    "m_4794704bc8dd514f": {
+      "source": "AIl10",
+      "text": "AIl10"
+    },
+    "m_729bb48d0f86a9e2": {
+      "source": "Engineering",
+      "text": "Techniek"
+    },
+    "m_23a7e8035be86570": {
+      "source": "Operations 4",
+      "text": "Operaties 4"
+    },
+    "m_21cc305095786cd3": {
+      "source": "Planning",
+      "text": "Plannen"
+    },
+    "m_7e1b0d5641f2640c": {
+      "source": "Account",
+      "text": "Rekening"
+    },
+    "m_dbe4d46976ec78a8": {
+      "source": "Any (10)",
+      "text": "Elke (10)"
+    },
+    "m_8aa097c50aa07dc4": {
+      "source": "Arjun Mehta (you)",
+      "text": "Arjun Mehta (jij)"
+    },
+    "m_177de399e7aff65a": {
+      "source": "Asha Kulkarni",
+      "text": "Asha Kulkarni"
+    },
+    "m_3c4e58eff203b042": {
+      "source": "AK",
+      "text": "AK"
+    },
+    "m_135ed23731090d9f": {
+      "source": "1Message",
+      "text": "1Bericht"
+    },
+    "m_87080a8dc9318e18": {
+      "source": "Company administrator",
+      "text": "Bedrijfsbeheerder"
+    },
+    "m_cbc330e16fde25d3": {
+      "source": "Active account",
+      "text": "Actief account"
+    },
+    "m_4194d1706ed1f408": {
+      "source": "administrator",
+      "text": "beheerder"
+    },
+    "m_94a3f5af5ff9f9ba": {
+      "source": "Activeaccount",
+      "text": "Actief account"
+    },
+    "m_7947851c88f6f5d6": {
+      "source": "Vikram Shah",
+      "text": "Vikram Sjah"
+    },
+    "m_2f77668a9dfbf8d5": {
+      "source": "Message",
+      "text": "Bericht"
+    },
+    "m_8db1a2e199a24646": {
+      "source": "VS",
+      "text": "VS"
+    },
+    "m_56ecdd4054155952": {
+      "source": "(approver)",
+      "text": "(goedkeurder)"
+    },
+    "m_d5db01df3fcbb6dc": {
+      "source": "UPingme / Team channels",
+      "text": "UPingme / Teamkanalen"
+    },
+    "m_95d60918ba6cc431": {
+      "source": "Channels you belong to, open channels you can join, and archived channels.",
+      "text": "Kanalen waartoe u behoort, open kanalen waaraan u kunt deelnemen en gearchiveerde kanalen."
+    },
+    "m_77210b6396681403": {
+      "source": "十 New channel",
+      "text": "十 Nieuw kanaal"
+    },
+    "m_a79ae02718e7ac9d": {
+      "source": "Privatechannelsarevisibleonlytotheirmembers.",
+      "text": "Privékanalen zijn alleen zichtbaar voor hun leden."
+    },
+    "m_161379800cb51e7a": {
+      "source": "Channel name,topicormessagetext",
+      "text": "Kanaalnaam, onderwerp of berichttekst"
+    },
+    "m_e4010f5d6032bdcc": {
+      "source": "Company-wide",
+      "text": "Bedrijfsbreed"
+    },
+    "m_ba2b0a57a937bc46": {
+      "source": "YOUR CHANNELS",
+      "text": "UW KANALEN"
+    },
+    "m_a5397d9e8eee51e6": {
+      "source": "Weekly production planning for Plant A",
+      "text": "Wekelijkse productieplanning voor fabriek A"
+    },
+    "m_4f9449deb30e7e17": {
+      "source": "&OpenOperations5members",
+      "text": "&OpenOperations5leden"
+    },
+    "m_2fc3edf1f073ea67": {
+      "source": "Last message 12 Nov 2026,7:05 am",
+      "text": "Laatste bericht 12 november 2026, 7:05 uur"
+    },
+    "m_9dc4cfcff07bbc45": {
+      "source": "OPENCHANNELSYOUCANJOIN",
+      "text": "OPENKANALENJE KUNT DEELNEMEN"
+    },
+    "m_156965ae3ad3f822": {
+      "source": "## plant-announcements",
+      "text": "## fabrieksaankondigingen"
+    },
+    "m_8fd5a2a3c2135cfc": {
+      "source": "Company-wide notices for Plant A. Only the owner",
+      "text": "Bedrijfsbrede mededelingen voor fabriek A. Alleen de eigenaar"
+    },
+    "m_4bbae022116ed270": {
+      "source": "posts.",
+      "text": "berichten."
+    },
+    "m_7dfff094a7e10e66": {
+      "source": "Company-wide2membersowner Asha Kulkarni",
+      "text": "Bedrijfsbrede 2 leden-eigenaar Asha Kulkarni"
+    },
+    "m_61fd345a57765f93": {
+      "source": "ownerposts",
+      "text": "berichten van eigenaren"
+    },
+    "m_324b134f57c70c72": {
+      "source": "Preview",
+      "text": "Voorbeeld"
+    },
+    "m_fd30fe681b4b2d9e": {
+      "source": "Join",
+      "text": "Doe mee"
+    },
+    "m_2248401f06c7a5bc": {
+      "source": "Openteamchannelsthatarecompany-wideorbelongtoadepartmentinyourUPingmescope.Privatechannelsarelisted",
+      "text": "Open teamkanalen die bedrijfsbreed zijn of behoren tot een afdeling binnen uwUPingmebereik. Privékanalen worden vermeld"
+    },
+    "m_37ccb3259b56792e": {
+      "source": "UCXO/ UApprove",
+      "text": "UCXO/ UApprove"
+    },
+    "m_6187b34b7a7c0d3e": {
+      "source": "UCXO / UApprove",
+      "text": "UCXO / UApprove"
+    },
+    "m_1e4e5f99f614eef3": {
+      "source": "Named people decide on an exact, frozen revision. Approve, Return and Reject are separate decisions; an",
+      "text": "Genoemde personen beslissen over een exacte, bevroren herziening. Goedkeuren, retourneren en afwijzen zijn afzonderlijke besluiten; een"
+    },
+    "m_4aaee9ffff6d5e2e": {
+      "source": "attestationisaseparatestepafter approval.",
+      "text": "attest is een aparte stap na goedkeuring."
+    },
+    "m_db45222997ce4f95": {
+      "source": "Waiting onme",
+      "text": "Wachten op mij"
+    },
+    "m_3f39d5c348e5b79d": {
+      "source": "D",
+      "text": "D"
+    },
+    "m_d81441854905a1ab": {
+      "source": "Requested by me",
+      "text": "Door mij aangevraagd"
+    },
+    "m_a0c002f91bf98dba": {
+      "source": "Exceptions",
+      "text": "Uitzonderingen"
+    },
+    "m_30ba702eee51c2a5": {
+      "source": "Decided",
+      "text": "Besloten"
+    },
+    "m_18997bae2e76104f": {
+      "source": "All in scope",
+      "text": "Alles binnen de reikwijdte"
+    },
+    "m_f5f31374c91f9bf1": {
+      "source": "SearchID,title,requester",
+      "text": "ZoekID, titel, aanvrager"
+    },
+    "m_915729debf543ece": {
+      "source": "Nothing waiting on you",
+      "text": "Er wacht niets op je"
+    },
+    "m_626366dfe29f2713": {
+      "source": "Requests appear here when you are the named approver of the open stage or an active substitute.",
+      "text": "Verzoeken verschijnen hier als u de benoemde goedkeurder van het open podium of een actieve vervanger bent."
+    },
+    "m_753951aca1603863": {
+      "source": "UCXO / UDashview",
+      "text": "UCXO / UDashview"
+    },
+    "m_5c6e40f5fd828865": {
+      "source": "eachcardopensexactlywhatitcounts.",
+      "text": "elke kaart opent precies wat het telt."
+    },
+    "m_30ec101106ef8dc1": {
+      "source": "Workspace map",
+      "text": "Werkruimte kaart"
+    },
+    "m_fe9187ea20093209": {
+      "source": "品Cards",
+      "text": "品Kaarten"
+    },
+    "m_4816cbfd74aa8297": {
+      "source": "Board",
+      "text": "Bord"
+    },
+    "m_d73c9b645e6d67ff": {
+      "source": "三 List",
+      "text": "三Lijst"
+    },
+    "m_7efb749993befe39": {
+      "source": "All in my scope",
+      "text": "Alles binnen mijn bereik"
+    },
+    "m_fc04abdf8d7ad52d": {
+      "source": "Refreshed 09:29 am",
+      "text": "Vernieuwd 09:29 uur"
+    },
+    "m_3392246ac448dfe5": {
+      "source": "C Refresh",
+      "text": "C Vernieuwen"
+    },
+    "m_6e7502f738c34fca": {
+      "source": "Whereworkissetup andcarriedout",
+      "text": "Waar het werk wordt opgezet en uitgevoerd"
+    },
+    "m_d8edc947cbf05925": {
+      "source": "Mission&Objectives",
+      "text": "Missie en doelstellingen"
+    },
+    "m_1c1e3ca67262113b": {
+      "source": "UCXO / UDO",
+      "text": "UCXO / UDO"
+    },
+    "m_34a6ee5a04faeb25": {
+      "source": "UCXO / UDO / My Tasks",
+      "text": "UCXO / UDO / Mijn taken"
+    },
+    "m_faf87355035004de": {
+      "source": "My Tasks",
+      "text": "Mijn taken"
+    },
+    "m_c23a5529e5efda57": {
+      "source": "Everything waiting on you —— from workflow steps, form requests, approvals, follow-ups and UPingme",
+      "text": "Alles wacht op u —— van workflowstappen, formulieraanvragen, goedkeuringen, vervolgacties en UPingme"
+    },
+    "m_8c6a0033bd666e14": {
+      "source": "proposals — with where to act and what completing it changes.",
+      "text": "voorstellen – met waar te handelen en wat er verandert als het voltooid wordt."
+    },
+    "m_cd182655412fe931": {
+      "source": "My Tasks is the part of UDO the user directed. UDO's",
+      "text": "Mijn taken is het deel van UDO dat door de gebruiker wordt aangestuurd. UDO's"
+    },
+    "m_fc416f9e5971e083": {
+      "source": "UDO·MyTasks",
+      "text": "UDO·Mijn Taken"
+    },
+    "m_c0c6092d45a702aa": {
+      "source": "full name, owner, users and other screens are not",
+      "text": "volledige naam, eigenaar, gebruikers en andere schermen niet"
+    },
+    "m_73356d305269793c": {
+      "source": "Decision needed·D02",
+      "text": "Beslissing nodig·D02"
+    },
+    "m_ba2ee45d3a4f2724": {
+      "source": "defined, so nothing else is shown.",
+      "text": "gedefinieerd, dus er wordt niets anders getoond."
+    },
+    "m_82adb506e0a78ebb": {
+      "source": "Assigned to me",
+      "text": "Aan mij toegewezen"
+    },
+    "m_6cd4e449a57c7ee5": {
+      "source": "Assigned by me",
+      "text": "Door mij toegewezen"
+    },
+    "m_ed077f3d8125d60d": {
+      "source": "Open",
+      "text": "Openen"
+    },
+    "m_fb2ccd98eca74a79": {
+      "source": "Inprogress",
+      "text": "Vooruitgang"
+    },
+    "m_3610231fdcabed6d": {
+      "source": "Returned",
+      "text": "Teruggekeerd"
+    },
+    "m_d660945bc2991320": {
+      "source": "Overdue",
+      "text": "Te laat"
+    },
+    "m_19e82138c35ffb6f": {
+      "source": "Due today",
+      "text": "Vandaag verschuldigd"
+    },
+    "m_22a970d2e5b1cc23": {
+      "source": "Completed",
+      "text": "Voltooid"
+    },
+    "m_e7c511395cb2ee43": {
+      "source": "AlIlo",
+      "text": "AlIlo"
+    },
+    "m_baaddf70fb5d432b": {
+      "source": "Type",
+      "text": "Typ"
+    },
+    "m_167fcf68ee9add5b": {
+      "source": "Q Search ID, title, source or assignee",
+      "text": "Q Zoek ID, titel, bron of rechthebbende"
+    },
+    "m_cfaff02b04655d72": {
+      "source": "Alltypes",
+      "text": "Alle typen"
+    },
+    "m_4f008d9a876c5d2b": {
+      "source": "Nothing is assigned to you yet",
+      "text": "Er is nog niets aan u toegewezen"
+    },
+    "m_a3718fedcac71f80": {
+      "source": "Tasks arrive here from workflow runs (form and human steps), approval",
+      "text": "Taken komen hier binnen vanuit workflowruns (formulier en menselijke stappen), goedkeuring"
+    },
+    "m_98be6028ae22ab70": {
+      "source": "requests, follow-ups someone assigns you and proposals confirmed in",
+      "text": "verzoeken, vervolgacties die iemand u toewijst en voorstellen die worden bevestigd"
+    },
+    "m_fba98b02660a676a": {
+      "source": "UPingme. You will also get a notification.",
+      "text": "UPingme. Je krijgt ook een melding."
+    },
+    "m_547b2f9e5bd87746": {
+      "source": "UCXO / UEngine",
+      "text": "UCXO / UEngine"
+    },
+    "m_271170120155b7ad": {
+      "source": "UCXO/UEngine/Runs",
+      "text": "UCXO/UEngine/Rijdt"
+    },
+    "m_848f54e89660cea4": {
+      "source": "Runs",
+      "text": "Loopt"
+    },
+    "m_5ab4c7da4e136aed": {
+      "source": "Every execution of an approved, published workflow version — who it is waiting on, what failed and what",
+      "text": "Elke uitvoering van een goedgekeurde, gepubliceerde workflowversie – op wie er wordt gewacht, wat is mislukt en wat"
+    },
+    "m_6551c966c5391952": {
+      "source": "needs reconciliation.Runs keep their exact version even after the plan changes.",
+      "text": "moet worden afgestemd. Runs behouden hun exacte versie, zelfs nadat het plan is gewijzigd."
+    },
+    "m_3f541d1c911e8d3d": {
+      "source": "Runtime definitions",
+      "text": "Runtime-definities"
+    },
+    "m_a5bd56f2f84bca84": {
+      "source": "AIl0",
+      "text": "AIl0"
+    },
+    "m_f4c01c9b13c23b36": {
+      "source": "Waiting on me",
+      "text": "Wachten op mij"
+    },
+    "m_6e293a8c009e0011": {
+      "source": "Waiting",
+      "text": "Wachten"
+    },
+    "m_f4ccae29e1bb0c20": {
+      "source": "Running",
+      "text": "Rennen"
+    },
+    "m_d353a99eb4556847": {
+      "source": "Cancelled",
+      "text": "Geannuleerd"
+    },
+    "m_cbcba3021280e1b2": {
+      "source": "Search run or plan ID",
+      "text": "Zoekrun of plan-ID"
+    },
+    "m_306b45db20163464": {
+      "source": "No runs yet",
+      "text": "Nog geen runs"
+    },
+    "m_1ebc9d69ff577cb6": {
+      "source": "Runsstart from an active plan in EnginePlanner.",
+      "text": "Runsstart vanuit een actief plan in EnginePlanner."
+    },
+    "m_15ed7a8416b86067": {
+      "source": "Open EnginePlanner",
+      "text": "Open MotorPlanner"
+    },
+    "m_488d30b78821af39": {
+      "source": "UCXO/",
+      "text": "UCXO/"
+    },
+    "m_37aa456f47d53c13": {
+      "source": "UCXO / UForms",
+      "text": "UCXO / UForms"
+    },
+    "m_5514c3bf76ce7567": {
+      "source": "Fill published Forms Master templates. Every submission keeps the exact form version it was made on,",
+      "text": "Vul gepubliceerde Forms Master-sjablonen in. Elke inzending behoudt de exacte formulierversie waarop deze is gemaakt,"
+    },
+    "m_4afeb7c98d042536": {
+      "source": "andarevieweracceptsitorreturnsitforcorrection.",
+      "text": "en een kijker accepteert of retourneert het voor correctie."
+    },
+    "m_5c06cb69b8a018d5": {
+      "source": "Availableforms",
+      "text": "Beschikbare formulieren"
+    },
+    "m_39412a6a335f7377": {
+      "source": "My submissions",
+      "text": "Mijn inzendingen"
+    },
+    "m_cbc97d86ce9c7586": {
+      "source": "Published forms",
+      "text": "Gepubliceerde formulieren"
+    },
+    "m_320ef5fd241edf03": {
+      "source": "Onlythecurrentpublished version canbestarted;olderversionsstayreadable on theirsubmissions.",
+      "text": "Alleen de huidige gepubliceerde versie kan worden gestart; oudere versies blijven leesbaar bij hun inzendingen."
+    },
+    "m_7737ede8f2d61cc9": {
+      "source": "Search forms",
+      "text": "Zoek formulieren"
+    },
+    "m_2f92fb3ed13cdb33": {
+      "source": "Productionreadinesschecklist",
+      "text": "Controlelijst productiegereedheid"
+    },
+    "m_cd47bd9c46758b39": {
+      "source": "8fields",
+      "text": "8velden"
+    },
+    "m_695f00a74fc610df": {
+      "source": "* 6 required",
+      "text": "* 6 vereist"
+    },
+    "m_a22fb301bc81f64c": {
+      "source": "品 1 table",
+      "text": "品 1 tafel"
+    },
+    "m_7a816ddfd3603dbb": {
+      "source": "1file",
+      "text": "1bestand"
+    },
+    "m_b98f30ba0047ae81": {
+      "source": "1conditional",
+      "text": "1voorwaardelijk"
+    },
+    "m_18ca79d5c8dbdc8a": {
+      "source": "DEPARTMENT",
+      "text": "AFDELING"
+    },
+    "m_9a6173b23279f70e": {
+      "source": "FORM OWNER",
+      "text": "FORMULIER EIGENAAR"
+    },
+    "m_9262c46943940bbe": {
+      "source": "Kabir Sen",
+      "text": "Kabir Sen"
+    },
+    "m_6c345650f486be5d": {
+      "source": "PRODUCESRECORD",
+      "text": "PRODUCEER RECORD"
+    },
+    "m_9696eb98c35a1579": {
+      "source": "Readinesschecklist",
+      "text": "Gereedheidchecklist"
+    },
+    "m_a9def8642f3cd58a": {
+      "source": "PLAN-021Nextweek'sproductionreadiness",
+      "text": "PLAN-021Productiegereedheid voor volgende week"
+    },
+    "m_64879f7d6b960a01": {
+      "source": "plan",
+      "text": "plannen"
+    },
+    "m_4825f0eb9d69ee37": {
+      "source": "OBJ-026Preparenextweek'sproduction",
+      "text": "OBJ-026Bereid de productie van volgende week voor"
+    },
+    "m_c0945a6b43d17b00": {
+      "source": "UPingme / UDashview",
+      "text": "UPingme / UDashview"
+    },
+    "m_d118f54954385cf7": {
+      "source": "What in your conversations needs you, and the work they are about.",
+      "text": "Wat heeft jou nodig in je gesprekken, en het werk waar ze over gaan."
+    },
+    "m_0f7bb6eb0fc4917c": {
+      "source": "Open inbox",
+      "text": "Postvak IN openen"
+    },
+    "m_c1655ea9394702b8": {
+      "source": "Nothing in your conversations is waiting on you.",
+      "text": "Niets in uw gesprekken wacht op u."
+    },
+    "m_70995385c4109b21": {
+      "source": "Messages coordinate work; they never approve, sign or complete it. A task exists only after a",
+      "text": "Berichten coördineren het werk; ze keuren, ondertekenen of voltooien het nooit. Een taak bestaat pas na a"
+    },
+    "m_df7fb273f8046546": {
+      "source": "proposal is reviewed and submitted.",
+      "text": "voorstel wordt beoordeeld en ingediend."
+    },
+    "m_fd75d21c31a68465": {
+      "source": "1Calls &meetings",
+      "text": "1Oproepen en vergaderingen"
+    },
+    "m_fa36f3afe9590473": {
+      "source": "Unreadmentions",
+      "text": "Ongelezen vermeldingen"
+    },
+    "m_64497b21cf74799c": {
+      "source": "Open tasks from",
+      "text": "Open taken van"
+    },
+    "m_6c97be96d52625df": {
+      "source": "Unsubmitted",
+      "text": "Niet ingediend"
+    },
+    "m_ec8310b17d23d6a4": {
+      "source": "Open at the exact",
+      "text": "Open op de exacte"
+    },
+    "m_5c0dc939187d4ae4": {
+      "source": "conversations",
+      "text": "gesprekken"
+    },
+    "m_c0cbf0fbcaf64c0b": {
+      "source": "proposals",
+      "text": "voorstellen"
+    },
+    "m_ab530a13e4591498": {
+      "source": "message",
+      "text": "bericht"
+    },
+    "m_af5fcfffc7764e64": {
+      "source": "With messages you",
+      "text": "Met berichten jij"
+    },
+    "m_84032cdccc2dfa66": {
+      "source": "Assigned to you in",
+      "text": "Aan jou toegewezen"
+    },
+    "m_24e79971c35f77a7": {
+      "source": "Drafts only you can",
+      "text": "Alleen jij kunt concepten maken"
+    },
+    "m_b693d373330bf3ce": {
+      "source": "have not read",
+      "text": "heb niet gelezen"
+    },
+    "m_aa9e9b5c907d50fe": {
+      "source": "see",
+      "text": "zie"
+    },
+    "m_93a5663af7747404": {
+      "source": "Needsyou",
+      "text": "Heeft jou nodig"
+    },
+    "m_59aa08228026562b": {
+      "source": "Allmentions",
+      "text": "Vermeldingen"
+    },
+    "m_529ef4c48988f2fb": {
+      "source": "Recent conversations",
+      "text": "Recente gesprekken"
+    },
+    "m_6b999de4f229a3b5": {
+      "source": "#ops-",
+      "text": "#ops-"
+    },
+    "m_c7d2952518e45c8b": {
+      "source": "12 Nov 2026, 7:05 am",
+      "text": "12 november 2026, 7:05 uur"
+    },
+    "m_98609107b2c7329d": {
+      "source": "Nounreadmentionandnoopentaskfrom",
+      "text": "Zelfstandig naamwoordleesvermeldingengeenopentaakuit"
+    },
+    "m_423614833cbdcee4": {
+      "source": "planning",
+      "text": "plannen"
+    },
+    "m_78a93801d977d097": {
+      "source": "aconversation.",
+      "text": "een gesprek."
+    },
+    "m_148bf6901f046ffc": {
+      "source": "UPingme / UDO",
+      "text": "UPingme / UDO"
+    },
+    "m_afd488cd64dc5880": {
+      "source": "UPingme / UDO / My Tasks",
+      "text": "UPingme / UDO / Mijn taken"
+    },
+    "m_6f6c36a78c6d066d": {
+      "source": "The same tasks, IDs, evidence and authority as",
+      "text": "Dezelfde taken, ID's, bewijsmateriaal en autoriteit als"
+    },
+    "m_fd48f392559b37f5": {
+      "source": "UDOinUCxO—onestore.Oopentaskscame",
+      "text": "UDOinUCxO: één winkel.Oopentaskskwam"
+    },
+    "m_cb21d4f65270b3cd": {
+      "source": "In UPingme",
+      "text": "In UPingme"
+    },
+    "m_9e2bc3501a5c0cb4": {
+      "source": "Only tasks from conversations",
+      "text": "Alleen taken uit gesprekken"
+    },
+    "m_709f45e68434495a": {
+      "source": "from your conversations; each links back to its",
+      "text": "uit uw gesprekken; elk linkt terug naar zijn"
+    },
+    "m_0d236ac2b9f685bd": {
+      "source": "sourceconversation.",
+      "text": "brongesprek."
+    },
+    "m_08133fa4235a1b48": {
+      "source": "Overdue0",
+      "text": "Achterstallig0"
+    },
+    "m_3fe242318490692b": {
+      "source": "Due todayo",
+      "text": "Vandaag verschuldigd"
+    },
+    "m_2f69b24a607b2059": {
+      "source": "SearchID, title, source or assignee",
+      "text": "ZoekID, titel, bron of rechtverkrijgende"
+    },
+    "m_f10988e79e8d9a49": {
+      "source": "All types",
+      "text": "Alle soorten"
+    },
+    "m_a60793acdde02655": {
+      "source": "Pilot Company A(sample)·Operations",
+      "text": "Pilot Company A (voorbeeld) · Operaties"
+    },
+    "m_83d8f33b8ec560cc": {
+      "source": "UCXO / URecords",
+      "text": "UCXO / URecords"
+    },
+    "m_9061cd92694b74d1": {
+      "source": "Records from runs, accepted forms and manual entry, and controlled documents with release rules-",
+      "text": "Records van runs, geaccepteerde formulieren en handmatige invoer, en gecontroleerde documenten met vrijgaveregels-"
+    },
+    "m_bc20c7d17b7d0e25": {
+      "source": "in one store with source lineage. Search and export follow your access scope.",
+      "text": "in één winkel met bronlijn. Zoek en exporteer uw toegangsbereik."
+    },
+    "m_9b7f79a180f5b785": {
+      "source": "品All records",
+      "text": "品Alle records"
+    },
+    "m_c364743520aee5f6": {
+      "source": "Operational recordso",
+      "text": "Operationele recordso"
+    },
+    "m_e937459bb3385f38": {
+      "source": "Controlled documents",
+      "text": "Gecontroleerde documenten"
+    },
+    "m_df7e70e5021544f4": {
+      "source": "B",
+      "text": "B"
+    },
+    "m_611bf251723cd621": {
+      "source": "Onlegal hold",
+      "text": "Onlegale wacht"
+    },
+    "m_56d4ce7a3c37213a": {
+      "source": "Search ID, title or type",
+      "text": "Zoek-ID, titel of type"
+    },
+    "m_ac78229d6b822ce5": {
+      "source": "Any status",
+      "text": "Elke status"
+    },
+    "m_171aaded34216127": {
+      "source": "Controlleddocuments",
+      "text": "Gecontroleerdedocumenten"
+    },
+    "m_e4d2a9a4a01e94fc": {
+      "source": "Released content is frozen.A change is a new revision with its own approval;the document controller releases it.",
+      "text": "Vrijgegeven inhoud wordt bevroren. Een wijziging is een nieuwe revisie met eigen goedkeuring; de documentbeheerder geeft deze vrij."
+    },
+    "m_e887c42e55c1bc78": {
+      "source": "SOP-PKG-004 Packaging line",
+      "text": "SOP-PKG-004 Verpakkingslijn"
+    },
+    "m_b3de2c617abdbbef": {
+      "source": "changeover",
+      "text": "omschakeling"
+    },
+    "m_e89bccc6fe22251b": {
+      "source": "Released document",
+      "text": "Vrijgegeven document"
+    },
+    "m_8488b3508e2a7294": {
+      "source": "Released rev 1",
+      "text": "Rev 1 uitgebracht"
+    },
+    "m_ae926f5a685c8e82": {
+      "source": "REC-020",
+      "text": "REC-020"
+    },
+    "m_aaf4836a213d2f72": {
+      "source": "ControlledSopOperations",
+      "text": "Gecontroleerde SopOperations"
+    },
+    "m_acabae51f20d03f1": {
+      "source": "1 revision",
+      "text": "1 herziening"
+    },
+    "m_de9b1cc26338a0eb": {
+      "source": "Owner Leela Menon",
+      "text": "Eigenaar Leela Menon"
+    },
+    "m_190c260e2e6888b4": {
+      "source": "1 record shown·records outside your access are not counted",
+      "text": "Er wordt 1 record getoond. Records buiten uw toegang worden niet meegeteld"
+    },
+    "m_8819ede3d4f7a6a5": {
+      "source": "UCXO/ UTraining",
+      "text": "UCXO/ UTraining"
+    },
+    "m_5c842a294eeb07e4": {
+      "source": "Learn the exact version assigned to you. Reading a section records progress; only the version's",
+      "text": "Ontdek de exacte versie die aan u is toegewezen. Het lezen van een sectie registreert de voortgang; alleen de versie"
+    },
+    "m_d1d9e7f251ae89a7": {
+      "source": "acknowledgement or apassing assessment completes it.",
+      "text": "een erkenning of een voldoende beoordeling maakt het compleet."
+    },
+    "m_c60fdfd4dca90d4d": {
+      "source": "My learning",
+      "text": "Mijn leerproces"
+    },
+    "m_3a57df89c2b2751c": {
+      "source": "My assignments",
+      "text": "Mijn opdrachten"
+    },
+    "m_037aeaeaf4bbf26d": {
+      "source": "op",
+      "text": "op"
+    },
+    "m_c21ead0614e7e1b7": {
+      "source": "Closed",
+      "text": "Gesloten"
+    },
+    "m_42ce031ef2554962": {
+      "source": "AlI",
+      "text": "AlI"
+    },
+    "m_b56a5874e4d99f12": {
+      "source": "Packaging line safety",
+      "text": "Veiligheid van de verpakkingslijn"
+    },
+    "m_16b5c22edd8828fb": {
+      "source": "① Assigned",
+      "text": "① Toegewezen"
+    },
+    "m_dab9c75c494e593c": {
+      "source": "Duein2days·15Nov2026",
+      "text": "Gepland binnen 2 dagen · 15 november 2026"
+    },
+    "m_16680c2771bb2c64": {
+      "source": "ASN-002",
+      "text": "ASN-002"
+    },
+    "m_caf0fac117c61883": {
+      "source": "v1 · your version",
+      "text": "v1 · jouw versie"
+    },
+    "m_ec8d357438c17bd5": {
+      "source": "Start lesson",
+      "text": "Les starten"
+    },
+    "m_2186b85dd48b50ae": {
+      "source": "Presentation·Safety·Packaginglines",
+      "text": "Presentatie·Veiligheid·Verpakkingslijnen"
+    },
+    "m_d09ea84d3c962cd2": {
+      "source": "Assigned by Leela Menon",
+      "text": "Toegewezen door Leela Menon"
+    },
+    "m_483837185816da8c": {
+      "source": "0of2sectionsread",
+      "text": "0van2sectiesgelezen"
+    },
+    "m_bd097140760dfd4c": {
+      "source": "Assessment·pass100%",
+      "text": "Beoordeling·geslaagd100%"
+    },
+    "m_2a1b4db179fb589b": {
+      "source": "Content library",
+      "text": "Inhoudsbibliotheek"
+    },
+    "m_7e61847d61d65d9e": {
+      "source": "Topic",
+      "text": "Onderwerp"
+    },
+    "m_fb9ef894175c3274": {
+      "source": "Product",
+      "text": "Product"
+    },
+    "m_0a08267871e91448": {
+      "source": "Search title, topic, produc",
+      "text": "Zoek titel, onderwerp, product"
+    },
+    "m_29366ff59789ad75": {
+      "source": "All topics",
+      "text": "Alle onderwerpen"
+    },
+    "m_718622df41f1b644": {
+      "source": "All products",
+      "text": "Alle producten"
+    },
+    "m_60ee6f6cc18d3058": {
+      "source": "My status",
+      "text": "Mijn status"
+    },
+    "m_2b505597daa736f1": {
+      "source": "Any",
+      "text": "Elke"
+    },
+    "m_2c84c733db934f82": {
+      "source": "Platform identities and their access: roles, department scope, sessions, delegations and access review.",
+      "text": "Platformidentiteiten en hun toegang: rollen, afdelingsbereik, sessies, delegaties en toegangsbeoordeling."
+    },
+    "m_5f6194cc3d7d5d96": {
+      "source": "Staffing and availability live in HR Master.",
+      "text": "Personeel en beschikbaarheid live in HR Master."
+    },
+    "m_7db20897053bb278": {
+      "source": "People",
+      "text": "Mensen"
+    },
+    "m_d4c947d56d006bc8": {
+      "source": "Service identities",
+      "text": "Service-identiteiten"
+    },
+    "m_d53af922797e6c16": {
+      "source": "You see the company directory.Roles, department scope and sessions are visible to company",
+      "text": "U ziet de bedrijfslijst. Rollen, afdelingsbereik en sessies zijn zichtbaar voor het bedrijf"
+    },
+    "m_925b6bb56e171ace": {
+      "source": "administrators.",
+      "text": "beheerders."
+    },
+    "m_f8dbb39db245d08d": {
+      "source": "All10",
+      "text": "Alle10"
+    },
+    "m_1618026fd7ed15ba": {
+      "source": "Active10",
+      "text": "Actief10"
+    },
+    "m_ac7c949f1211b781": {
+      "source": "Inactive",
+      "text": "Inactief"
+    },
+    "m_84ee16b5ef19e9ed": {
+      "source": "QSearch name, email, ID",
+      "text": "QZoek naam, e-mailadres, ID"
+    },
+    "m_564990dc20a3c641": {
+      "source": "USR-010",
+      "text": "USR-010"
+    },
+    "m_267172d269efe01f": {
+      "source": "arjun.operator@pilot-a.example",
+      "text": "arjun.operator@pilot-a.example"
+    },
+    "m_645810f6cdaeffc1": {
+      "source": "Packaging operator Operations",
+      "text": "Verpakkingsoperator Operaties"
+    },
+    "m_f2a1314a159aa70a": {
+      "source": "Rolesvisibletoadministrators",
+      "text": "Rollenzichtbaarvoorbeheerders"
+    },
+    "m_0a27bfeac8db90b6": {
+      "source": "13 Nov 2026, 9:28 am",
+      "text": "13 november 2026, 9:28 uur"
+    },
+    "m_c9dc9e3c496f5bd2": {
+      "source": "USR-001",
+      "text": "USR-001"
+    },
+    "m_13e122ab79d794ab": {
+      "source": "asha.admin@pilot-a.example",
+      "text": "asha.admin@pilot-a.example"
+    },
+    "m_549684461e069e47": {
+      "source": "Company administratorOperations",
+      "text": "BedrijfsbeheerderOperations"
+    },
+    "m_517dd65e8af6ad3c": {
+      "source": "Rolesvisible to administrators",
+      "text": "Rollenzichtbaar voor beheerders"
+    },
+    "m_ba8b0e6c9927b0df": {
+      "source": "UPingme / Work conversations",
+      "text": "UPingme / Werkgesprekken"
+    },
+    "m_495e36741468f8ef": {
+      "source": "Conversations bound to one objective, plan, task, form, record or work",
+      "text": "Gesprekken gebonden aan één doelstelling, plan, taak, formulier, vastlegging of werk"
+    },
+    "m_90ddb7bc6034227b": {
+      "source": "+Newworkconversation",
+      "text": "+Nieuwwerkgesprek"
+    },
+    "m_a63e04e348699a55": {
+      "source": "item. The object's status and version always come from its own module.",
+      "text": "artikel. De status en versie van het object komen altijd uit een eigen module."
+    },
+    "m_192abacef7f891ea": {
+      "source": "AIlO",
+      "text": "AlO"
+    },
+    "m_c2cd10e5a4477db5": {
+      "source": "Name,topic or message text",
+      "text": "Naam, onderwerp of berichttekst"
+    },
+    "m_bdb86505f8062d15": {
+      "source": "Archived",
+      "text": "Gearchiveerd"
+    },
+    "m_9a2aa93984da05a8": {
+      "source": "No work conversations yet",
+      "text": "Nog geen werkgesprekken"
+    },
+    "m_10d5e1bf7f6742e6": {
+      "source": "A work conversation is bound to one object you can open — a plan,",
+      "text": "Een werkgesprek is gebonden aan één object dat u kunt openen: een plan,"
+    },
+    "m_1b07c806457af1f6": {
+      "source": "objective, task, form, record or work item —so the discussion stays next",
+      "text": "doelstelling, taak, formulier, record of werkitem, zodat de discussie verder gaat"
+    },
+    "m_fa0a6d0d8bb1996d": {
+      "source": "to the work.",
+      "text": "naar het werk."
+    },
+    "m_512056a99fa3310f": {
+      "source": "Start one",
+      "text": "Begin er een"
+    },
+    "m_cc6ba49ff9483624": {
+      "source": "UCXO/WorkPlanner",
+      "text": "UCXO/WerkPlanner"
+    },
+    "m_2b9b6a1ed9cbdf68": {
+      "source": "Pilot CompanyA (sample)·Operations",
+      "text": "Pilot CompanyA (voorbeeld) · Operaties"
+    },
+    "m_42658ccfaee67295": {
+      "source": "Jobs placed in time with the people from HR Master and equipment from Machine Master.",
+      "text": "Vacatures zijn op tijd geplaatst bij de mensen van HR Master en apparatuur van Machine Master."
+    },
+    "m_52e36e39a3114bcc": {
+      "source": "Scheduling previews never reserve; only a commit does.",
+      "text": "Het plannen van previews is nooit gereserveerd; alleen een commit doet dat."
+    },
+    "m_4871ce1a9c85f2bd": {
+      "source": "Needs scheduling",
+      "text": "Heeft planning nodig"
+    },
+    "m_c1f88e9d6c4145cf": {
+      "source": "In progress",
+      "text": "In uitvoering"
+    },
+    "m_ae25c9b1d366d159": {
+      "source": "Awaiting approval",
+      "text": "In afwachting van goedkeuring"
+    },
+    "m_9f5ea35dc7f91d40": {
+      "source": "Conflicts",
+      "text": "Conflicten"
+    },
+    "m_41c052baf2a16308": {
+      "source": "Week timeline",
+      "text": "Week-tijdlijn"
+    },
+    "m_6740cc076206dd7b": {
+      "source": "SearchID,title,location",
+      "text": "ZoekID, titel, locatie"
+    },
+    "m_492da9259a532f4e": {
+      "source": "Productionreadinessrun—weekof2026-11-16",
+      "text": "Productiegereedheidsrun – week van 16-11-2026"
+    },
+    "m_f4830a1dae298044": {
+      "source": "Schedule",
+      "text": "Schema"
+    },
+    "m_94594f390034ac10": {
+      "source": "WORK-021·due 18 Nov 2026·Packaging/Sealing",
+      "text": "WORK-021 · verwacht op 18 november 2026 · Verpakking/verzegeling"
+    },
+    "m_f47a74e5ef5170df": {
+      "source": "Weekof 9 Nov2026",
+      "text": "Week van 9 nov2026"
+    },
+    "m_8c4eef5ab2532515": {
+      "source": "This week",
+      "text": "Deze week"
+    },
+    "m_f5b9ffd17010b222": {
+      "source": "0 jobs this week",
+      "text": "0 vacatures deze week"
+    },
+    "m_c7b2783655439902": {
+      "source": "JOB",
+      "text": "BAAN"
+    },
+    "m_2b76b5a38ce556db": {
+      "source": "MON",
+      "text": "MAAND"
+    },
+    "m_be0898683160c494": {
+      "source": "TUE",
+      "text": "DI"
+    },
+    "m_10ccb2e1c6fd204b": {
+      "source": "WED",
+      "text": "WO"
+    },
+    "m_48b371ba2b55544a": {
+      "source": "9 Nov2026",
+      "text": "9 november 2026"
+    },
+    "m_bb29514cb4c8253b": {
+      "source": "10Nov2026",
+      "text": "10 november 2026"
+    },
+    "m_41e5a46208a9787e": {
+      "source": "11Nov2026",
+      "text": "11 november 2026"
+    },
+    "m_cada10a1ea325a59": {
+      "source": "UPingme / Workspace settings",
+      "text": "UPingme / Werkruimte-instellingen"
+    },
+    "m_dbeaba72a4b4177d": {
+      "source": "UPingme/Workspacesettings/Channelsettings",
+      "text": "UPingme/Werkruimte-instellingen/Kanaalinstellingen"
+    },
+    "m_afc219f2a1e7b328": {
+      "source": "Channel settings",
+      "text": "Kanaalinstellingen"
+    },
+    "m_9b54513eb3146b2c": {
+      "source": "Topic, members, who can read and who can post — for channels and work conversations. Every",
+      "text": "Onderwerp, leden, wie kan lezen en wie kan posten - voor kanalen en werkgesprekken. Elke"
+    },
+    "m_4d27f8213a4e0ef9": {
+      "source": "change is versioned and audited.",
+      "text": "wijziging wordt versiebeheerd en gecontroleerd."
+    },
+    "m_4c8906cf76f5740a": {
+      "source": "Channels",
+      "text": "Kanalen"
+    },
+    "m_788011833a5a0f22": {
+      "source": "Notifications",
+      "text": "Meldingen"
+    },
+    "m_ec5ba0abb717da87": {
+      "source": "Access",
+      "text": "Toegang"
+    },
+    "m_3b1f58d94eacf04f": {
+      "source": "Retention",
+      "text": "Retentie"
+    },
+    "m_8289ed7778ed3153": {
+      "source": "Member—read only",
+      "text": "Lid: alleen-lezen"
+    },
+    "m_6a8b8c9585a7b5f7": {
+      "source": "# ops-planning",
+      "text": "# ops-planning"
+    },
+    "m_6696745af704c8f1": {
+      "source": "CH-001",
+      "text": "CH-001"
+    },
+    "m_22d976f6e03853e1": {
+      "source": "##ops-planning",
+      "text": "##ops-planning"
+    },
+    "m_8ac767353080eae7": {
+      "source": "Read only",
+      "text": "Alleen lezen"
+    },
+    "m_eed17f4e5de426fc": {
+      "source": "Only the owner (VikramShah) ora workspace",
+      "text": "Alleen de eigenaar (VikramShah) heeft een werkruimte"
+    },
+    "m_3aef2b9f3055040c": {
+      "source": "administrator can change these settings.",
+      "text": "beheerder kan deze instellingen wijzigen."
+    },
+    "m_451ae794e11344a1": {
+      "source": "Who can read",
+      "text": "Wie kan lezen"
+    },
+    "m_62362e62eb7350f9": {
+      "source": "Open—peoplein scope",
+      "text": "Open – mensen binnen bereik"
+    },
+    "m_3098726108eb42ce": {
+      "source": "can find and join it;",
+      "text": "kan het vinden en eraan deelnemen;"
+    },
+    "m_20313ee27e7e4464": {
+      "source": "messages areshownto",
+      "text": "berichten worden getoond"
+    },
+    "m_ee5c79b2ae51cc77": {
+      "source": "members only",
+      "text": "alleen leden"
+    },
+    "m_cabffe47d720b210": {
+      "source": "Who can post",
+      "text": "Wie kan posten"
+    },
+    "m_3d6fe3e703f62a7a": {
+      "source": "All members",
+      "text": "Alle leden"
+    },
+    "m_90f94797d54b7e33": {
+      "source": "Weekly production",
+      "text": "Wekelijkse productie"
+    },
+    "m_758b628125758b78": {
+      "source": "planning for Plant A",
+      "text": "plannen voor fabriek A"
+    },
+    "m_1044a4c056d0d685": {
+      "source": "Members",
+      "text": "Leden"
+    },
+    "m_039f16076d874857": {
+      "source": "Asha Kulkarni, Vikram",
+      "text": "Asha Kulkarni, Vikram"
+    },
+    "m_7eb980c783ab6de4": {
+      "source": "Shah, Neha lyer, Maya",
+      "text": "Sjah, Neha Lyer, Maya"
+    },
+    "m_904e6b5f5be54c3e": {
+      "source": "Rao, Arjun Mehta",
+      "text": "Rao, Arjun Mehta"
+    },
+    "m_ee8ca7174f27349d": {
+      "source": "Policy history",
+      "text": "Beleidsgeschiedenis"
+    },
+    "m_0b7fce10558f1d40": {
+      "source": "01 / BUSINESS OBJECTIVE",
+      "text": "01 / BEDRIJFSDOELSTELLING"
+    },
+    "m_a8bacb584d32ecbd": {
+      "source": "02 / DRAFT WORKFLOW",
+      "text": "02 / ONTWERPWORKFLOW"
+    },
+    "m_21327d84c5b2443e": {
+      "source": "03 / OWNERSHIP",
+      "text": "03 / EIGENDOM"
+    },
+    "m_40ac4244e50fd3b4": {
+      "source": "04 / COORDINATED EXECUTION",
+      "text": "04 / GECOÖRDINEERDE UITVOERING"
+    },
+    "m_6d15584669042fa8": {
+      "source": "05 / OUTCOME REVIEW",
+      "text": "05 / UITKOMSTENBEOORDELING"
+    },
+    "m_661927000b67ea5f": {
+      "source": "FORM / INPUT → CONDITION",
+      "text": "VORM / INPUT → VOORWAARDE"
+    },
+    "m_f3030c96ea92559b": {
+      "source": "HUMAN TASK → RE-CHECK",
+      "text": "MENSELIJKE TAAK → OPNIEUW CONTROLEREN"
+    },
+    "m_fe9427cadbd929fd": {
+      "source": "AGENT ACTION → INTEGRATION",
+      "text": "AGENTACTIE → INTEGRATIE"
+    },
+    "m_b766c64f87483525": {
+      "source": "TEST → REVIEW → ACTIVATE",
+      "text": "TEST → REVIEW → ACTIVEREN"
+    },
+    "m_7f3bd0bf90fa3b9c": {
+      "source": "(FORM-001)",
+      "text": "(FORM-001)"
+    },
+    "m_64f7e0dfec3456b0": {
+      "source": "complete?",
+      "text": "compleet?"
+    },
+    "m_0d868107194c1ef4": {
+      "source": "(AG-001)",
+      "text": "(AG-001)"
+    },
+    "m_5f72005e81c4ecbd": {
+      "source": "schedule",
+      "text": "schema"
+    },
+    "m_1cb7558d1341f5ca": {
+      "source": "deviation",
+      "text": "afwijking"
+    },
+    "m_c52c02cf4b747447": {
+      "source": "UFORMS · READINESS CHECKLIST",
+      "text": "UForms · GEREEDHEID CHECKLIST"
+    },
+    "m_d6c2263e32a59e42": {
+      "source": "ENGINE PLANNER · VERSIONED WORKFLOW",
+      "text": "Engine Planner · VERSIE VAN WORKFLOW"
+    },
+    "m_3b35e630654c3b63": {
+      "source": "U-ENGINE · ACTIVE REVISION",
+      "text": "U-Engine · ACTIEVE REVISIE"
+    },
+    "m_6363aa4b33ad0c0f": {
+      "source": "UAPPROVE · NAMED APPROVER",
+      "text": "UApprove · BENOEMD GOEDKEURER"
+    },
+    "m_389e0c79a18569d3": {
+      "source": "UAPPROVE · AWAITING DECISION",
+      "text": "UApprove · IN AFWACHTING VAN BESLUIT"
+    },
+    "m_68aeab3ee07602c8": {
+      "source": "UCxO/UMasters/DelegationMaster",
+      "text": "UCXO/UMasters/DelegatieMaster"
+    },
+    "m_703b4d06dc1014d5": {
+      "source": "UCxO/Mission&Objectives",
+      "text": "UCXO/Missie en doelstellingen"
+    },
+    "m_9b8f5dd46a97a658": {
+      "source": "UPINGME·ARJUNMEHTA",
+      "text": "UPingme·ARJUNMEHTA"
+    },
+    "m_4b58d965b833c67c": {
+      "source": "UCxo/WorkPlanner",
+      "text": "UCXO/WerkPlanner"
+    },
+    "m_f7b500b9122500ac": {
+      "source": "URECORDS → END",
+      "text": "URecords → EINDE"
+    },
+    "m_7565e4480e567f25": {
+      "source": "carousel",
+      "text": "carrousel"
+    },
+    "m_b8a7e24e95497806": {
+      "source": "slide",
+      "text": "dia"
+    },
+    "m_54ac16d143a4e42f": {
+      "source": "Bring AI agents to every part of your organisation.",
+      "text": "Breng AI-agenten naar elk onderdeel van uw organisatie."
+    },
+    "m_7737afb12aa70992": {
+      "source": "See UCXO in action.",
+      "text": "Zie UCXO in actie."
+    },
+    "m_f148ca6e74f8b907": {
+      "source": "Prepare next week’s production plan.",
+      "text": "Bereid het productieplan voor volgende week voor."
+    },
+    "m_aa9ea8cf0921e0e8": {
+      "source": "UUsers",
+      "text": "UUsers"
+    },
+    "m_0514559c94e1d713": {
+      "source": "UUsers with platform identities, account states and administrator access context.",
+      "text": "UUsers met platformidentiteiten, accountstatussen en beheerderstoegangscontext."
+    },
+    "m_3e3b809863c1745c": {
+      "source": "Select People directory to find colleagues you can message, with teams and roles from UUsers. Active account status is shown; the reference does not provide real-time presence.",
+      "text": "Selecteer de personenlijst om collega's te vinden aan wie u een bericht kunt sturen, met teams en rollen uit UUsers. Actieve accountstatus wordt getoond; de referentie biedt geen realtime aanwezigheid."
+    },
+    "m_2a999a817a97dfad": {
+      "source": "accountsaremanagedseparatelyinUusers.",
+      "text": "rekeningenwordenafzonderlijkbeheerdinUUsers."
+    },
+    "m_2e7c694cdcf0c666": {
+      "source": "①Presence is not shown: UPingme has no real-time presence service.Status is the UUsers account state.",
+      "text": "①Aanwezigheid wordt niet weergegeven: UPingme heeft geen realtime aanwezigheidsservice. Status is de UUsers-accountstatus."
+    },
+    "m_60d797ccdf617593": {
+      "source": "UCXO / UUsers",
+      "text": "UCXO / UUsers"
+    }
+  }
+}

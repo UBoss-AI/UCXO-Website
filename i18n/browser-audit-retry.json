@@ -1,0 +1,78 @@
+[
+  {
+    "locale": "ko",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "ko",
+        "dir": "ltr",
+        "title": "UCXO — 사업 실행, 조정."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "ko",
+        "dir": "ltr",
+        "title": "작동 방식 — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "ko",
+        "dir": "ltr",
+        "title": "데모 예약 — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "이 필드를 작성해 주세요.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  },
+  {
+    "locale": "id",
+    "routes": [
+      {
+        "route": "/",
+        "status": 200,
+        "lang": "id",
+        "dir": "ltr",
+        "title": "UCXO — Eksekusi bisnis, terkoordinasi."
+      },
+      {
+        "route": "/how-it-works/",
+        "status": 200,
+        "lang": "id",
+        "dir": "ltr",
+        "title": "Cara kerjanya — UCXO"
+      },
+      {
+        "route": "/book-a-demo/",
+        "status": 200,
+        "lang": "id",
+        "dir": "ltr",
+        "title": "Pesan demo — UCXO"
+      }
+    ],
+    "tourSteps": 17,
+    "workflowChapters": 4,
+    "journeySteps": 5,
+    "errors": [],
+    "leaks": [],
+    "mobileOverflow": false,
+    "validation": "Silakan lengkapi bidang ini.",
+    "notFound": {
+      "status": 404,
+      "initialLanguage": true,
+      "initialDirection": true
+    }
+  }
+]
